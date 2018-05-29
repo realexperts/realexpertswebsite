@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Das ist eine Test
+title: Das ist ein Test
 date: '2018-05-28T21:49:06+02:00'
 description: Eine kurze Beschreibung
 tags:
