@@ -15,26 +15,22 @@ class TagRoute extends React.Component {
     const tag = this.props.pathContext.tag
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `${totalCount} post${
-      totalCount === 1 ? '' : 's'
-    } tagged with “${tag}”`
+    const tagHeader = `${totalCount} Beitr${
+      totalCount === 1 ? 'ag' : 'äge'
+    } in Kategorie “${tag}”`
 
     return (
       <section className="section">
         <Helmet title={`${tag} | ${title}`} />
-        <div className="container content">
-          <div className="columns">
-            <div
-              className="column is-10 is-offset-1"
-              style={{ marginBottom: '6rem' }}
-            >
-              <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
-              <ul className="taglist">{postLinks}</ul>
-              <p>
-                <Link to="/tags/">Browse all tags</Link>
-              </p>
-            </div>
-          </div>
+        <div className="container"
+             style={{ marginBottom: '6rem' }}>
+          <h1 className="title is-size-3 has-text-weight-bold is-bold-light">
+            {tagHeader}
+          </h1>
+          <ul className="taglist">{postLinks}</ul>
+          <p style={{ marginTop: "1.5rem" }}>
+            <Link to="/tags/">Alle Kategorien</Link>
+          </p>
         </div>
       </section>
     )

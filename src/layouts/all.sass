@@ -1,14 +1,84 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-$kaldi-red: #FD461E
-$kaldi-red-invert: #fff
+$realexperts-main: #0f3f93
+$realexperts-main-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: $realexperts-main
+$primary-invert: $realexperts-main-invert
+$footer-background-color: transparent
 
-.navbar .navbar-item img
-  width: auto;
+$gap: 32px
+$tablet: 769px
+$desktop: 960px + (2 * $gap)
+$widescreen: 960px + (2 * $gap)
+$fullhd: 960px + (2 * $gap)
+
+$navbar-height: 6rem
+
+.real-experts
+  .section
+    padding: 2rem 1rem
+  .navbar
+    min-height: $navbar-height
+    background: $realexperts-main
+    color: white
+    a
+      color: white
+      &:hover, &:focus
+        color: #eee
+    .navbar-menu a.is-active
+      background-color: lighten($realexperts-main, 10%)
+      color: white
+    .navbar-item
+      img
+        width: auto
+        height: $navbar-height - 1rem
+        max-height: none
+        margin-bottom: 0
+    .navbar-brand .navbar-item
+      &:hover, &:focus
+        background-color: transparent
+    .navbar-burger
+      height: $navbar-height
+      &:hover
+        background-color: transparent
+        span
+          background-color: #bbb
+      span
+        height: 3px
+        width: 24px
+        left: auto
+        right: 1rem
+      span:nth-child(1)
+        top: calc(50% - 9px)
+      span:nth-child(2)
+        top: calc(50% - 1px)
+      span:nth-child(3)
+        top: calc(50% + 7px)
+  .footer
+    border-top: 1px solid #eee
+
+@media screen and (max-width: 1023px)
+  .real-experts
+    .navbar
+      .navbar-menu
+        transform-origin: center
+        transition-duration: 0.5s
+        transition-property: max-height
+        transition-timing-function: ease-out
+        padding: 0
+        background-color: $realexperts-main
+        .navbar-end
+          padding-top: 1rem
+          padding-bottom: 1rem
+        &.not-active
+          display: block
+          max-height: 0
+          overflow: hidden
+        &.is-active
+          max-height: 500px
+
 
 .content .taglist
   list-style: none
