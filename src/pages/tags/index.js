@@ -7,24 +7,24 @@ const TagsPage = ({
   data: { allMarkdownRemark: { group }, site: { siteMetadata: { title } } },
 }) => (
   <section className="section">
-    <Helmet title={`Tags | ${title}`} />
-    <div className="container content">
-      <div className="columns">
-        <div
-          className="column is-10 is-offset-1"
-          style={{ marginBottom: '6rem' }}
-        >
-          <h1 className="title is-size-2 is-bold-light">Tags</h1>
-          <ul className="taglist">
-            {group.map(tag => (
-              <li key={tag.fieldValue}>
-                <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                  {tag.fieldValue} ({tag.totalCount})
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </div>
+    <Helmet title={`Kategorien | ${title}`} />
+    <div className="container content"
+         style={{ marginBottom: '6rem' }}>
+      <h1 className="title is-size-3 has-text-weight-bold is-bold-light">
+        Kategorien
+      </h1>
+      <div className="tags">
+        {group.map(tag => (
+          <Link
+            key={tag.fieldValue}
+            to={`/tags/${kebabCase(tag.fieldValue)}/`}
+            style={{ margin: "0 0.5rem 0.5rem 0" }}>
+            <div className="tags has-addons">
+              <span className="tag is-medium is-light">{tag.fieldValue}</span>
+              <span className="tag is-medium is-primary">{tag.totalCount}</span>
+            </div>
+          </Link>
+        ))}
       </div>
     </div>
   </section>

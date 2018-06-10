@@ -11,20 +11,21 @@ export default class IndexPage extends React.Component {
       <section className="section">
         <div className="container">
           <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+            <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Aktuellste Beiträge</h1>
           </div>
           {posts
             .map(({ node: post }) => (
               <div
                 className="content"
-                style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
+                style={{ padding: '1rem 0' }}
                 key={post.id}
               >
-                <p>
+                <h3 style={{ marginBottom: 0 }}>
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                  <span> &bull; </span>
+                </h3>
+                <p>
                   <small>{post.frontmatter.date}</small>
                 </p>
                 <p>
@@ -32,7 +33,7 @@ export default class IndexPage extends React.Component {
                   <br />
                   <br />
                   <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
+                    Mehr →
                   </Link>
                 </p>
               </div>
@@ -67,7 +68,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "D. MMMM YYYY", locale: "de")
           }
         }
       }
