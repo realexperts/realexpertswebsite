@@ -1,12 +1,16 @@
 ---
-templateKey: 'about-page'
-title: REAL EXPERTS
+templateKey: about-page
+title: DIGITAL ORGANIZATIONAL PERFORMANCE
 ---
-## DIGITAL ORGANIZATIONAL PERFORMANCE
+<center> **REAL EXPERTS** sind die Spezialisten für digitale Vernetzung und Zusammenarbeit in Unternehmen. <br> Mit unseren Lösungen steigern Sie die Leistungsfähigkeit und Wettbewerbsfähigkeit Ihres Unternehmens nachhaltig. </center>
 
-REAL EXPERTS sind die Spezialisten für digitale Vernetzung und Zusammenarbeit in Unternehmen. Mit unseren Lösungen steigern Sie die Leistungsfähigkeit und Wettbewerbsfähigkeit Ihres Unternehmens nachhaltig.
+<br>
 
+<br>
+
+<center> ## DIE ZUKUNFT DER UNTERNEHMEN IST DIGITAL </center>
+<br>
 <iframe src="https://player.vimeo.com/video/230571210?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### DIE ZUKUNFT DER UNTERNEHMEN IST DIGITAL
-Lorem Ipsum …
+<br>
+<br>
