@@ -7,7 +7,9 @@ description: >-
   das erste Meetup der Gruppe “Digital Business Innovation” zum Thema “Digitaler
   Arbeitsplatz”, organisiert von der Real Experts Network GmbH, statt. 
 tags:
-  - meetup digital_workplace
+  - Meetup
+  - Digital Workplace
+  - Digitaler Arbeitplatz
 ---
 ![Meetup Digitaler Arbeitsplatz](/img/photo_2018-05-24_20-00-16.jpg)
 
