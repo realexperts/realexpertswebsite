@@ -8,7 +8,7 @@ import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="REAL EXPERTS NETWORK GmbH" />
+    <Helmet title="Home | REAL EXPERTS NETWORK GmbH" />
     <Navbar />
     <div>{children()}</div>
     <Footer />
