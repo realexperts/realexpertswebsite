@@ -11,7 +11,7 @@ export default class IndexPage extends React.Component {
       <section className="section">
         <div className="container">
           <div className="content">
-            <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Aktuellste Beiträge</h1>
+            <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Blog von Real Experts</h1>
           </div>
           {posts
             .map(({ node: post }) => (
@@ -33,7 +33,7 @@ export default class IndexPage extends React.Component {
                   <br />
                   <br />
                   <Link className="button is-small" to={post.fields.slug}>
-                    Mehr →
+                    Zum Beitrag →
                   </Link>
                 </p>
               </div>
