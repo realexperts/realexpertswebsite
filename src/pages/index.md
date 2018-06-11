@@ -1,5 +1,6 @@
 ---
 templateKey: 'about-page'
+path: /
 title: REAL EXPERTS
 ---
 ## DIGITAL ORGANIZATIONAL PERFORMANCE
