@@ -4,9 +4,19 @@ title: ' DIGITAL ORGANIZATIONAL PERFORMANCE'
 ---
 <br>
 <br>
-<center> **REAL EXPERTS sind die Spezialisten für digitale Vernetzung und Zusammenarbeit in Unternehmen. Mit unseren Lösungen steigern Sie die Leistungsfähigkeit und Wettbewerbsfähigkeit Ihres Unternehmens nachhaltig.** </center>
+<center> **REAL EXPERTS sind die Spezialisten für digitale Vernetzung und Zusammenarbeit in Unternehmen. Mit unseren Lösungen steigern Sie die Leistungsfähigkeit und Wettbewerbsfähigkeit Ihres Unternehmens nachhaltig. **</center>
 
 <br>
+<br>
+
+\| sdasd |  asdasda|
+
+\|--|--|
+
+\| asdasd | asdasd |
+
+<br>
+
 <br>
 
 ## DIE ZUKUNFT DER UNTERNEHMEN IST DIGITAL
@@ -25,7 +35,7 @@ title: ' DIGITAL ORGANIZATIONAL PERFORMANCE'
 
 ## Beratung
 
-Individuelle Beratung und persönliche Betreuung von der ersten Idee und Umsetzung aller Anforderungen bis zur erfolgreichen Einführung.|
+Individuelle Beratung und persönliche Betreuung von der ersten Idee und Umsetzung aller Anforderungen bis zur erfolgreichen Einführung.
 
 <br>
 
