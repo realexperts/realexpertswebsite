@@ -10,9 +10,7 @@ title: ' DIGITAL ORGANIZATIONAL PERFORMANCE'
 
 
 <iframe src="https://player.vimeo.com/video/230571210?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
-# 
+ 
 
 ## Über REAL EXPERTS
 
@@ -24,12 +22,10 @@ title: ' DIGITAL ORGANIZATIONAL PERFORMANCE'
 
 
 
-## Ihr Ansprechpartner
+### Ihr Ansprechpartner
 
 **Christoph Rauhut**
 
 Tel: +49 (0) 152 339 89 149
 
 Mail: rauhut@realexperts.de
-
-![Christoph Rauhut](/img/christoph_rauhut.jpg)
