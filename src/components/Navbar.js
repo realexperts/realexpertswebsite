@@ -39,11 +39,11 @@ class Navbar extends React.Component {
               <Link className="navbar-item"
                     activeClassName="is-active"
                     onClick={this.toggleClass}
-                    to="/blog"> Blog </Link>
+                    to="/"> Start </Link>
               <Link className="navbar-item"
                     activeClassName="is-active"
                     onClick={this.toggleClass}
-                    to="/tags"> Kategorien </Link>
+                    to="/blog"> Blog </Link>
             </div>
           </div>
         </div>
