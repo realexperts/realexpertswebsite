@@ -2,11 +2,16 @@
 templateKey: blog-post
 title: Dr. Jenny Meyer - Partner von Real Experts
 date: '2018-06-11T19:53:56+02:00'
-description: 'Dr. Jenny Meyer ist Partner im Real Expert Netzwerk. '
+description: >-
+  Dr. Jenny Meyer ist Digital Workplace Consultant und Partner im Real Expert
+  Netzwerk. Jenny Meyer hat sich auf die Beratung und die Einführung von Digital
+  Workplace Lösungen und Digitalstrategien in Unternehmen spezialisiert.
 tags:
   - partner
   - netzwerk
 ---
+![](/img/fullsizeoutput_1db1.jpeg)
+
 **Hallo Jenny, wer bist du und worin bist du eine richtige Expertin?**
 
 **Jenny:** "Hallo Christoph, ich bin Digital Workplace Consultant und unterstütze Unternehmen bei der Einführung des Digital Workplace, damit sie ihre Mitarbeiter besser miteinander vernetzen, Wissensaustausch ermöglichen, Kommunikation verbessern und digitale Tools effizient nutzen. Und genau in diesem Thema bin ich auch eine richtige Expertin. Seit 12 Jahren beschäftige ich mich mit den Auswirkungen der Digitalisierung auf Unternehmen und ihre Mitarbeiter. Damit wie sich Arbeitsprozesse, die Kommunikation innerhalb eines Unternehmens und die Zusammenarbeit zwischen Mitarbeitern, Führungskräften und Partnern durch den Einsatz von digitalen Technologien verändern. Und vor allem auch damit, wie man den Arbeitsalltag durch den gezielten Einsatz von digitalen Technologien für Mitarbeiter und Führungskräfte vereinfachen und verbessern kann.
@@ -18,6 +23,7 @@ Das Ganze mache ich seit knapp 3 Jahren auch komplett remote, d.h. ich lebe und 
 **Jenny:** "Grundsätzlich kann ich den kompletten Prozess der Einführung eines digitalen Arbeitsplatzes (oder eines neuen Social Intranets, einer Wissensmanagementlösung oder Kollaborationsplattform) unterstützen. Also angefangen von der Strategieentwicklung über die Konzeption bis hin zur Umsetzungsbegleitung und den entsprechenden Change Management Maßnahmen, um das Ganze erfolgreich an die Mitarbeiter zu bringen.
 
 Aber meine Schwerpunkte liegen in den Bereichen 
+
 * Ist-Analyse
 * Anwendungsfall-Identifikation und
 * Prozessanpassung.
