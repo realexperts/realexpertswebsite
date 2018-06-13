@@ -37,3 +37,7 @@ Zu meinen Stärken zählt, dass ich die Herausforderungen des Unternehmens auf d
 **Warum bist du Teil des Real Experts Netzwerkes?**
 
 **Jenny:** "Real Experts ist für mich ein Netzwerk von zuverlässigen, guten und verfügbaren Experten zu verschiedenen Bereichen des Umsetzungsprozesses eines Digital Workplace Projekts, auf die ich bei entsprechenden Kundenanfragen zugreifen kann. Jeder Einzelne ist ein ausgewiesener Experte in seinem Themenfeld und somit kann ich mich darauf verlassen, dass die Arbeits- und Projektergebnisse den hohen Standards entsprechen, die für mich und meine Kunden Pflicht sind. Darüber hinaus ergeben sich durch Real Experts auch spannende Projekte für mich, da jeder Netzwerkpartner einen anderen Zugang zum Markt und potenziellen Kunden hat. Und nicht zuletzt schätze ich den fachlichen Austausch untereinander und die Möglichkeit Sparringspartner für Ideen zu haben. Das fehlt einem als Freiberufler sonst manchmal leider schon."
+
+**Video: Dr. Jenny Meyer im Gespräch - Partner im Real Experts Netzwerk**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fduqN0pKXgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
