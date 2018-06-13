@@ -10,7 +10,7 @@ tags:
   - partner
   - netzwerk
 ---
-![](/img/fullsizeoutput_1db1.jpeg)
+![null](/img/jenny_meyer_real-experts.png)
 
 **Hallo Jenny, wer bist du und worin bist du eine richtige Expertin?**
 
