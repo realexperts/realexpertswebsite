@@ -1,0 +1,105 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "relation", collection: "authors", searchFields: ["title", "position", "company"], valueField: "title"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Related Posts", name: "relatedPosts", widget: "list", fields: [{name: "post", label: "Post", widget: "relation", collection: "blog", searchFields: [name, title], valueField: title}]}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/impressum/index.md"
+        label: "Impressum"
+        name: "imprint"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "simple-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/datenschutz/index.md"
+        label: "Datenschutzerklärung"
+        name: "dataPrivacy"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "simple-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/products/index.md"
+        label: "Products Page"
+        name: "products"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+          - {label: Full_image, name: full_image, widget: image}
+          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+      - file: "src/pages/index.md"
+        label: "Frontpage"
+        name: "frontpage"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "front-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Claim", name: "claim", widget: "object", fields: [{label: "Heading", name: "heading", widget: "string"}, {label: "Teaser text", name: "teaser", widget: "text"}, {label: "Link to", name: "linkto", widget: "relation", collection: "pages", searchFields: [name, path, title], valueField: "path"}]}
+          - {label: "Thesis", name: "thesis", widget: list, fields: [{label: "Headline", name: "headline", widget: "string"}, {label: "Highlight", name: "highlighted", widget: "boolean"}, {label: "Body", name: "body", widget: "markdown"}]}
+          - {label: "Featured video", name: "video", widget: string}
+          - {label: "Top Posts", name: "relatedPosts", widget: "list", fields: [{name: "post", label: "Post", widget: "relation", collection: "blog", searchFields: [name, title], valueField: title}]}
+  - name: "authors"
+    label: "Authors"
+    editor:
+      preview: false
+    folder: "src/pages/authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "simple-page"}
+      - {label: "Content type", name: "contentType", widget: "hidden", default: "author"}
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Company", name: "company", widget: "string"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "Twitter handle", name: "twitterHandle", widget: "string"}
+      - {label: "Profile Image", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "markdown"}
+  - name: "settings"
+    label: "Settings"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "general"
+        label: "Settings"
+        file: "src/settings/general.json"
+        description: "General Site Settings"
+        fields:
+          - {label: "Global title", name: "site_title", widget: "string"}
+          - label: "Global"
+            name: "global"
+            widget: "object"
+            fields:
+              - {label: "Title of the website", name: "title", widget: "string"}
+              - {label: "URL of the website (https://example.com)", name: "url", widget: "string"}
+          - label: "Posts"
+            name: "posts"
+            widget: "object"
+            fields:
+              - {label: "Number of posts on frontpage", name: "frontLimit", widget: "number"}
+              - {label: "Default Author", name: "defaultAuthor", widget: "relation", collection: "authors", searchFields: ["title", "position", "company"], valueField: "title"}

@@ -1,0 +1,11 @@
+{
+  "id": "general-settings",
+  "general": {
+    "title": "Real Experts",
+    "url": "https://realexperts.de"
+  },
+  "posts": {
+    "frontLimit": "3",
+    "defaultAuthor": "Christoph Rauhut"
+  }
+}
