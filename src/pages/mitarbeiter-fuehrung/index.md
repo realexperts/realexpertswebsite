@@ -1,4 +1,4 @@
 ---
 templateKey: simple-page
-title: Mitarbeiter & Führung
+title: Mitarbeiter & Fuehrung
 ---
