@@ -172,7 +172,13 @@ collections:
             fields:
               - {label: "Number of posts on frontpage", name: "frontLimit", widget: "number"}
               - {label: "Default Author", name: "defaultAuthor", widget: "relation", collection: "authors", searchFields: ["title", "position", "company"], valueField: "title"}
-      - name: "menu"
+  - name: "menu"
+    label: "Menu"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "menuSettings"
         label: "Menu"
         file: "src/settings/menu.json"
         description: "Menu settings"
