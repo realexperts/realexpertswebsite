@@ -1,23 +1,5 @@
 {
-  "id": "menu-settings",
-  "mainMenu": [
-    {
-      "title": "Organisation & Innovation",
-      "link": ""
-    },
-    {
-      "title": "Mitarbeiter & Führung",
-      "link": ""
-    },
-    {
-      "title": "Digitalisierung & Arbeitsplatz",
-      "link": ""
-    },
-    {
-      "title": "@Real Experts",
-      "link": ""
-    }
-  ],
+  "id": "footer-menu-settings",
   "footerMenu": [
     {
       "menuTitle": "Organisation & Innovation",
