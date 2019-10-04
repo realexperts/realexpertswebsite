@@ -26,7 +26,7 @@ thesis:
 video: 'https://youtu.be/ScMzIvxBSi4'
 successStories:
   - customerName: IPROconsult
-    image: /img/realexperts-bildsprache-v1-art-01.png
+    image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
     post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
   - customerName: IPROconsult
     image: /img/realexperts-bildsprache-v1-art-01.png
@@ -61,8 +61,6 @@ statements:
 relatedPosts:
   - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-  - post: >-
-      Kampf der Giganten - Microsoft Office 365 und Google G Suite im
-      Vergleich
+  - post: Kampf der Giganten - Microsoft Office 365 und Google G Suite im Vergleich
 ---
 
