@@ -6,12 +6,14 @@ description: >-
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
   tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
   vero eos et accusam et justo duo dolores et ea rebum.v 
-featuredPost: Jörg Adolphs - Partner im Real Experts Netzwerk
+featuredPost: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
 categories:
   - category: Kategorie 2
 relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: Wissensmanagement und Zusammenarbeit bei Real Experts
-  - post: Real Experts - Der Beginn einer Reise
+  - post: Digitale Heimat mit einem Social Intranet von COYO
+  - post: >-
+      Kampf der Giganten - Microsoft Office 365 und Google G Suite im
+      Vergleich  
+  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
 ---
 
