@@ -6,7 +6,10 @@ claim:
   heading: Zusammenarbeit und Wirksamkeit in Unternehmen neu gestalten
   linkto: /blog
   teaser: >-
-    Wir ermöglichen jedem Unternehmen sein größtmögliches Potential zu entfalten. Wir wollen befähigen, motivieren und nachhaltige Lösungen schaffen. Unsere Mitarbeiter leben, was wir für unsere Kunden erreichen wollen. 
+    Wir ermöglichen jedem Unternehmen sein größtmögliches Potential zu
+    entfalten. Wir wollen befähigen, motivieren und nachhaltige Lösungen
+    schaffen. Unsere Mitarbeiter leben, was wir für unsere Kunden erreichen
+    wollen. 
 thesis:
   - body: >-
       Für unsere Kunden entwickeln wir Strategien und Lösungen für eine neue
@@ -31,3 +34,4 @@ relatedPosts:
   - post: Ein Jahr Social Intranet bei der IPROconsult GmbH
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
 ---
+
