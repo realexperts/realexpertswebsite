@@ -22,12 +22,9 @@ thesis:
       irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Was es bringt
-    highlighted: true
+    highlighted: false
 video: 'https://youtu.be/ScMzIvxBSi4'
 successStories:
-  - customerName: IPROconsult
-    image: /img/vorlage_logos3-1-1024x259.jpg
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
   - customerName: IPROconsult
     image: /img/vorlage_logos3-1-1024x259.jpg
     post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
@@ -49,17 +46,7 @@ statements:
       eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
-  - author: Christin Löffler - IPROconsult GmbH
-    body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
   - post: COYO - Das Social Intranet von E.ON
-  - post: Tipps für eine erfolgreiche Intranet-Einführung
-  - post: >-
-      Digitale Kommunikation und Zusammenarbeit im Social Intranet - Meetup
-      Dresden
 ---
 
