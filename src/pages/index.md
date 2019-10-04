@@ -17,7 +17,7 @@ thesis:
       Unternehmen. Wir begleiten bei der Konzeption und Umsetzung. Unser Ziel
       ist ein nachhaltiger Wandel und die Befähigung jedes Kunden.
     headline: Was wir machen
-    highlighted: false
+    highlighted: true
   - body: >-
       Real Experts erschafft eine nie dagewesene Form einer freien,
       selbstorganisierten und leistungsfähigen  Art und Weise der 
@@ -28,10 +28,6 @@ thesis:
     headline: Wie wir arbeiten
     highlighted: false
 video: 'https://youtu.be/Kiha0b5F-Yg'
-relatedPosts:
-  - post: Wie Sie Entscheidungen treffen
-  - post: Ein Jahr Social Intranet bei der IPROconsult GmbH
-  - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
-  - post: Der Weg zur Vision
+relatedPosts: []
 ---
 
