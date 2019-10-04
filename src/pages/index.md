@@ -17,7 +17,7 @@ thesis:
       Unternehmen. Wir begleiten bei der Konzeption und Umsetzung. Unser Ziel
       ist ein nachhaltiger Wandel und die Befähigung jedes Kunden.
     headline: Was wir machen
-    highlighted: true
+    highlighted: false
   - body: >-
       Real Experts erschafft eine nie dagewesene Form einer freien,
       selbstorganisierten und leistungsfähigen  Art und Weise der 
