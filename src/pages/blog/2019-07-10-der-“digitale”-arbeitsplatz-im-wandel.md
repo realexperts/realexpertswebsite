@@ -12,10 +12,7 @@ category: Software Auswahl
 tags:
   - Digital Workplace
 relatedPosts:
-  - post: Digitale Kommunikation und Zusammenarbeit im Social Intranet
-  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
-  - post: Tipps für eine erfolgreiche Intranet-Einführung
-  - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
+  - post: Digitale Heimat mit einem Social Intranet von COYO
 ---
 Die interne digitale Transformation soll weiter vorangetrieben werden. Das Projekt **“Aufbau Digital** **Workplace”** der Unternehmensführung ist ambitioniert: Es soll eine begeisternde und intuitive Arbeitsplatzumgebung geschaffen werden, in der Mitarbeiter vom Potential und der Wirksamkeit digitaler Technologien profitieren. Die Etablierung eines Digital Workplace ist damit längst keine Vision mehr, sondern wird nun vielmehr eine sich durch alle Unternehmensbereiche erstreckende Mission. Soweit, so gut! Aber wie sieht eigentlich der zukünftige moderne digitale Arbeitsplatz für Mitarbeiter aus? Und überhaupt - wie unterscheidet dieser sich zur gegenwärtigen “digitalen” Arbeitsplatzumgebung? 
 
