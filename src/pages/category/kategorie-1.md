@@ -16,13 +16,13 @@ thesis:
       irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Ihre Herausforderung
-    highlighted: false
+    highlighted: true
   - body: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Was es bringt
-    highlighted: false
+    highlighted: true
 video: 'https://youtu.be/ScMzIvxBSi4'
 successStories:
   - customerName: IPROconsult
@@ -61,6 +61,6 @@ statements:
 relatedPosts:
   - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-  - post: Kampf der Giganten - Microsoft Office 365 und Google G Suite im Vergleich
+  - post: Social Intranet mit Linchpin für Confluence
 ---
 
