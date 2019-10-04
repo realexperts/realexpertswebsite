@@ -7,7 +7,8 @@ description: >-
   tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
   vero eos et accusam et justo duo dolores et ea rebum.
 featuredPost: Der Weg zur Vision
-categories: []
+categories:
+  - category: Intranet
 relatedPosts:
   - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
   - post: Wissensmanagement und Zusammenarbeit bei Real Experts
