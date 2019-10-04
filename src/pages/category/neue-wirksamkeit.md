@@ -22,7 +22,7 @@ thesis:
       irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Was es bringt
-    highlighted: true
+    highlighted: false
 video: 'https://youtu.be/ScMzIvxBSi4'
 successStories:
   - customerName: IPROconsult
