@@ -22,20 +22,11 @@ thesis:
       irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Was es bringt
-    highlighted: true
+    highlighted: false
 video: 'https://youtu.be/ScMzIvxBSi4'
 successStories:
   - customerName: IPROconsult
     image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
-  - customerName: IPROconsult
-    image: /img/realexperts-bildsprache-v1-art-01.png
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
-  - customerName: IPROconsult
-    image: /img/realexperts-bildsprache-v1-art-01.png
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
-  - customerName: IPROconsult
-    image: /img/realexperts-bildsprache-v1-art-01.png
     post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
 infoBox:
   body: >-
@@ -55,12 +46,7 @@ statements:
       eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
-  - author: Christin Löffler - IPROconsult GmbH
-    body: At vero eos et accusam et justo duo dolores et ea rebum.
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
   - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
-  - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-  - post: Social Intranet mit Linchpin für Confluence
 ---
 
