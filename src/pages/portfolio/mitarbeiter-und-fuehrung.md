@@ -11,6 +11,7 @@ categories:
   - category: Organisationsentwicklung
   - category: Mitarbeiter und Führung
   - category: Neue Wirksamkeit
+  - category: Augenhöhe
 relatedPosts:
   - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
   - post: Wissensmanagement und Zusammenarbeit bei Real Experts
