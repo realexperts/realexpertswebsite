@@ -59,7 +59,7 @@ statements:
     body: At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
   - post: >-
       Kampf der Giganten - Microsoft Office 365 und Google G Suite im
