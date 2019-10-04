@@ -8,7 +8,8 @@ description: >-
   vero eos et accusam et justo duo dolores et ea rebum.v 
 featuredPost: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
 categories:
-  - category: Kategorie 2
+  - category: Digital Workplace
+  - category: Intranet
 relatedPosts:
   - post: Digitale Heimat mit einem Social Intranet von COYO
   - post: >-
