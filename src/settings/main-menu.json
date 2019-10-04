@@ -2,10 +2,6 @@
   "id": "main-menu-settings",
   "mainMenu": [
     {
-      "title": "Organisation & Innovation",
-      "url": "/portfolio/organisation-und-innovation"
-    },
-    {
       "title": "Mitarbeiter & Führung",
       "url": "/portfolio/mitarbeiter-und-fuehrung"
     },
@@ -15,7 +11,7 @@
     },
     {
       "title": "@Real Experts",
-      "url": "/blog"
+      "url": "/portfolio/über-real-experts/"
     }
   ]
 }
