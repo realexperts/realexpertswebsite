@@ -28,6 +28,10 @@ thesis:
     headline: Wie wir arbeiten
     highlighted: false
 video: 'https://youtu.be/Kiha0b5F-Yg'
-relatedPosts: []
+relatedPosts:
+  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+  - post: Der Weg zur Vision
+  - post: Social Intranet mit Linchpin für Confluence
+  - post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
 ---
 
