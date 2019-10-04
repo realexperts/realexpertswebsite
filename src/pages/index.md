@@ -29,9 +29,9 @@ thesis:
     highlighted: false
 video: 'https://youtu.be/Kiha0b5F-Yg'
 relatedPosts:
-  - post: 'Der “digitale” Arbeitsplatz im Wandel '
   - post: Wie Sie Entscheidungen treffen
   - post: Ein Jahr Social Intranet bei der IPROconsult GmbH
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
+  - post: Der Weg zur Vision
 ---
 
