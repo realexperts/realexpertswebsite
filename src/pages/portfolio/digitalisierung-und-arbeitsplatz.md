@@ -7,7 +7,8 @@ description: >-
   tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
   vero eos et accusam et justo duo dolores et ea rebum.v 
 featuredPost: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-categories: []
+categories:
+  - category: Digital Workplace
 relatedPosts:
   - post: Digitale Heimat mit einem Social Intranet von COYO
   - post: >-
