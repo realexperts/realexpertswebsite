@@ -8,7 +8,9 @@ description: >-
   vero eos et accusam et justo duo dolores et ea rebum.
 featuredPost: Der Weg zur Vision
 categories:
-  - category: Intranet
+  - category: Organisationsentwicklung
+  - category: Mitarbeiter und Führung
+  - category: Neue Wirksamkeit
 relatedPosts:
   - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
   - post: Wissensmanagement und Zusammenarbeit bei Real Experts
