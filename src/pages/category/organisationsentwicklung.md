@@ -47,6 +47,6 @@ statements:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: Kampf der Giganten - Microsoft Office 365 und Google G Suite im Vergleich
+  - post: Social Intranet mit Linchpin für Confluence
 ---
 
