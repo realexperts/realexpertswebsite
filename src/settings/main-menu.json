@@ -2,16 +2,20 @@
   "id": "main-menu-settings",
   "mainMenu": [
     {
-      "title": "Mitarbeiter & Führung",
-      "url": "/portfolio/mitarbeiter-und-fuehrung"
-    },
-    {
       "title": "Digitalisierung & Arbeitsplatz",
       "url": "/portfolio/digitalisierung-und-arbeitsplatz"
     },
     {
-      "title": "@Real Experts",
+      "title": "Mitarbeiter & Führung",
+      "url": "/portfolio/mitarbeiter-und-fuehrung"
+    },
+    {
+      "title": "Über Real Experts",
       "url": "/portfolio/über-real-experts/"
+    },
+    {
+      "title": "Blog",
+      "url": "/blog"
     }
   ]
 }
