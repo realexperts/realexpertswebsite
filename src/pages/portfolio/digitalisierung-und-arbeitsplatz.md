@@ -9,6 +9,8 @@ description: >-
 featuredPost: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
 categories:
   - category: Digital Workplace
+  - category: Intranet
+  - category: Software Auswahl
 relatedPosts:
   - post: Digitale Heimat mit einem Social Intranet von COYO
   - post: >-
