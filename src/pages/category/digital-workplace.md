@@ -1,14 +1,13 @@
 ---
 templateKey: category-page
 title: Digital Workplace
-contentTitle: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et 
+contentTitle: 'Mission Digital Workplace: Worum handelt es sich dabei?'
 headerImage: /img/real-experts-header-kategorie.png
-description: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-  vero eos et accusam et justo duo dolores et ea rebum.
+description: >
+  Wir greifen die unternehmerischen Hintergründe zur Entwicklung des digitalen
+  Arbeitsplatzes auf und verbinden diese mit technischen Lösungsansätzen und
+  Praxisbeispielen, bei denen stets auch der Mitarbeiter im Fokus der
+  Betrachtung steht.
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
