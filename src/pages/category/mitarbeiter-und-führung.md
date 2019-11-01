@@ -1,14 +1,12 @@
 ---
 templateKey: category-page
 title: Mitarbeiter und Führung
-contentTitle: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et 
+contentTitle: 'Was brauchst Du, um zu machen was Du willst?'
 headerImage: /img/real-experts-header-kategorie.png
-description: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-  vero eos et accusam et justo duo dolores et ea rebum.
+description: >
+  Welche Rolle spielen Selbstverwirklichung und Unternehmensverbundenheit für
+  den Mitarbeiter und sein Entfaltungpotenzial? Und wie kann seitens des
+  Unternehmens und des Führungspersonals ein Rahmen dafür geschaffen werden? 
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
