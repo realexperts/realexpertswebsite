@@ -1,14 +1,13 @@
 ---
 templateKey: category-page
 title: Neue Wirksamkeit
-contentTitle: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et 
+contentTitle: New Work Hype - was steckt dahinter?
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-  vero eos et accusam et justo duo dolores et ea rebum.
+  Wir erklären, wie im Angesicht von Digitalisierung und New Work
+  Veränderungsprozesse in Unternehmen wirksam gestaltet werden können und
+  welchen nachhaltigen Vorteil Sie als Führungskraft für Ihr Unternehmen daraus
+  ziehen.
 thumbnail: /img/new-work-geht-nicht-gibt-es-nicht.png
 thesis:
   - body: >-
