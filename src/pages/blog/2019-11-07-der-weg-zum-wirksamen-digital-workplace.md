@@ -21,8 +21,7 @@ relatedPosts:
       Dresden
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
 ---
-In unserer **\#DigitalWorkplace **Blogreihe ging es bisher darum, das Phänomen digitaler Arbeitsplatz genauer zu beleuchten. Es konnten verschiedene Erkenntnisse über die eigentlichen Ziele eines Digital Workplace gewonnen werden. Nun stellt sich für Unternehmen die Frage der Umsetzbarkeit. Eine Frage, mit der uns unsere Kunden in Einführungsprojekten immer wieder konfrontieren, lautet: **“Welche Phasen durchläuft man üblicherweise bis zu zur Etablierung eines wirksamen Digital Workplace?”
-**
+In unserer **\#DigitalWorkplace** Blogreihe ging es bisher darum, das Phänomen digitaler Arbeitsplatz genauer zu beleuchten. Es konnten verschiedene Erkenntnisse über die eigentlichen Ziele eines Digital Workplace gewonnen werden. Nun stellt sich für Unternehmen die Frage der Umsetzbarkeit. Eine Frage, mit der uns unsere Kunden in Einführungsprojekten immer wieder konfrontieren, lautet: _“Welche Phasen durchläuft man üblicherweise bis zu zur Etablierung eines wirksamen Digital Workplace?”_
 
 Diese Frage ist knifflig. Das liegt auch daran, dass die Antwort für die Unternehmen nicht immer zufriedenstellend ist. Ein Projektvorhaben digitaler Arbeitsplatz hat kein abgeschlossenes Ende, sondern entwickelt sich mit neuen Anforderungen und Bedarfen der Mitarbeiter stetig weiter. Das bedeutet aber nicht, dass das Vorhaben keinen Mehrwert bietet. Vielmehr handelt es sich ähnlich wie in einem Produktentwicklungsprozess um einen iterativen Prozess. 
 
