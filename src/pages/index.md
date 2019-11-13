@@ -29,9 +29,9 @@ thesis:
     highlighted: false
 video: 'https://youtu.be/Kiha0b5F-Yg'
 relatedPosts:
-  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
-  - post: Der Weg zur Vision
-  - post: Social Intranet mit Linchpin für Confluence
-  - post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
+  - post: Ein Jahr Social Intranet bei der IPROconsult GmbH
+  - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
+  - post: Der Weg zum wirksamen Digital Workplace
+  - post: Experimente wagen
 ---
 
