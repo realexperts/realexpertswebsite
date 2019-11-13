@@ -29,11 +29,11 @@ Es entsteht ein Produkt, welches sich durch weitere Anforderungen der Konsumente
 
 ### Die 6 zentralen Phasen in einem Digital Workplace Vorhaben
 
-**1 Reflexion & Vision **
+**1 Reflexion & Vision**
 
 Verschaffen Sie sich einen Überblick über die Anforderungen Ihrer Mitarbeiter an einen digitalen Arbeitsplatz. Ziel ist es, eine Arbeitsplatzumgebung zu schaffen, die den Ansprüchen der Mitarbeiter gerecht wird. Hierbei steht deshalb die Reflexion im Vordergrund. Prüfen Sie, welche Geschäftsprozesse existieren, welche sinnvoll sind und welche ggf. im Sinne der Mitarbeiter ersetzt werden müssen. Wichtig ist: Geschäftsprozesse, die analog nicht funktionieren, werden digital nicht zwangsläufig besser. Die Reflexion hilft Ihnen dabei eine unternehmensweite Vision für den digitalen Arbeitsplatz der Mitarbeiter zu entwickeln. 
 
-**2 Präzisierung der Anforderungen **
+**2 Präzisierung der Anforderungen**
 
 Der Fokus liegt darauf, die Mitarbeiter aktiv einzubinden sowie Anforderungen und Leistungsmerkmale eines digitalen Arbeitsplatzes zu definieren. Es ist wichtig die Rollen und Funktionen der Mitarbeiter zu verstehen, um beispielsweise Technologien am Arbeitsplatz der Mitarbeiter zu etablieren. Durch die Einbeziehung der Mitarbeiter können Sie das Nutzungsverhalten eingrenzen und mögliche Hürden identifizieren. Dadurch wird auch ersichtlich, wo genau Handlungsbedarf besteht. Die Vision kriegt dadurch ein klares Anforderungsprofil. 
 
