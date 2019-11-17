@@ -12,7 +12,7 @@ description: >-
   schreiben und somit meinen Beitrag zur Challenge zu leisten. Denn mittlerweile
   fühle ich mich #SELBERgroß.
 tags:
-  - REAL EXPERTS
+  - Real Experts
 relatedPosts:
   - post: Real Experts - Der Beginn einer Reise
   - post: Das Why und die Vision von Real Experts - Podcast
