@@ -1,14 +1,14 @@
 ---
 templateKey: category-page
 title: Intranet
-contentTitle: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et 
+contentTitle: 'Stichwort digitaler Wandel: Wozu dient ein Intranet?'
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-  vero eos et accusam et justo duo dolores et ea rebum.
+  Hier steht die effektive Verknüpfung von Kommunikation, Information und
+  Zusammenarbeit im Unternehmen im Mittelpunkt. Anhand erfahrungsbasierter Tipps
+  und Hintergrundwissen klären wir worauf es, sowohl aus technischer als auch
+  aus zwischenmenschlicher Sicht, bei der erfolgreichen Implementierung einer
+  Intranetlösung in Ihrem Unternehmen ankommt.
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
