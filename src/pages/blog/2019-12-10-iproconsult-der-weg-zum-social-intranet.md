@@ -37,7 +37,7 @@ Im nächsten Schritt spielte die Einbindung der Mitarbeiter eine große Rolle. E
 * online verfügbarer Speiseplan
 
 
-Anschließend ermittelten und bewerteten wir, wie verschiedene Systeme den entstandenen Ansprüchen am effizientesten gerecht wurden. Unser Ergebnis war die auf Confluence basierende Technologie** Linchpin**.
+Anschließend ermittelten und bewerteten wir, wie verschiedene Systeme den entstandenen Ansprüchen am effizientesten gerecht wurden. Unser Ergebnis war die auf Confluence basierende Technologie **Linchpin**.
 
 Das System wurde eingeführt, indem der Geschäftsführer sich zur Wahl und Notwendigkeit des Intranets via Video positioniert und die Mitarbeiter zur aktiven Nutzung aufgerufen hat. Gleichzeitig wurden den Mitarbeitern Erklärvideos zur einfacheren Handhabung einzelner Funktionen bereitgestellt und es gab individuelle Onlineschulungen. 
 
