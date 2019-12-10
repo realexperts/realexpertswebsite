@@ -29,9 +29,9 @@ thesis:
     highlighted: false
 video: 'https://youtu.be/Kiha0b5F-Yg'
 relatedPosts:
-  - post: Ein Jahr Social Intranet bei der IPROconsult GmbH
-  - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
   - post: Der Weg zum wirksamen Digital Workplace
   - post: Experimente wagen
+  - post: 'Neue Wege gehen und #SELBERgroß sein'
+  - post: 'IPROconsult: Der Weg zum Social Intranet'
 ---
 
