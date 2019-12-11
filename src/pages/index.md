@@ -1,15 +1,16 @@
 ---
 templateKey: front-page
 title: Start
-headerImage: /img/real-experts-header-home.png
 claim:
   heading: Zusammenarbeit und Wirksamkeit in Unternehmen neu gestalten
   linkto: /blog
   teaser: >-
-    Wir ermöglichen jedem Unternehmen sein größtmögliches Potential zu
-    entfalten. Wir wollen befähigen, motivieren und nachhaltige Lösungen
-    schaffen. Unsere Mitarbeiter leben, was wir für unsere Kunden erreichen
-    wollen. 
+    Real Experts ermöglicht jedem Unternehmen sein größtmögliches Potential zu
+    entfalten. 
+
+    Wir wollen befähigen, motivieren und nachhaltige Lösungen schaffen. 
+
+    Unsere Mitarbeiter leben, was wir für unsere Kunden erreichen wollen. 
 thesis:
   - body: >-
       Für unsere Kunden entwickeln wir Strategien und Lösungen für eine neue
@@ -17,7 +18,7 @@ thesis:
       Unternehmen. Wir begleiten bei der Konzeption und Umsetzung. Unser Ziel
       ist ein nachhaltiger Wandel und die Befähigung jedes Kunden.
     headline: Was wir machen
-    highlighted: false
+    highlighted: true
   - body: >-
       Real Experts erschafft eine nie dagewesene Form einer freien,
       selbstorganisierten und leistungsfähigen  Art und Weise der 
@@ -26,8 +27,8 @@ thesis:
       haben die richtigen Experten für die Herausforderungen in Ihrem
       Unternehmen.
     headline: Wie wir arbeiten
-    highlighted: false
-video: 'https://youtu.be/Kiha0b5F-Yg'
+    highlighted: true
+video: 'https://youtu.be/TEug6bf_s2g'
 relatedPosts:
   - post: Der Weg zum wirksamen Digital Workplace
   - post: Experimente wagen
