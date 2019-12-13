@@ -4,6 +4,7 @@
   "version": "1.1.4",
   "author": "Austin Green",
   "dependencies": {
+    "@babel/polyfill": "^7.7.0",
     "bulma": "^0.7.5",
     "gatsby": "^2.9.1",
     "gatsby-background-image": "^0.8.2",
@@ -24,7 +25,7 @@
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.12",
     "intersection-observer": "^0.7.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms": "^2.9.1",
     "node-sass": "^4.12.0",
@@ -44,7 +45,7 @@
     "typeface-changa": "^0.0.61",
     "typeface-open-sans": "^0.0.54",
     "typography": "^0.16.19",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.3"
   },
   "keywords": [
     "gatsby"
