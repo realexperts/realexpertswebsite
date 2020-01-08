@@ -17,6 +17,7 @@ module.exports = {
     'SettingsJson.fields.link': 'MarkdownRemark',
   },
   plugins: [
+    `gatsby-plugin-polyfill-io`,
     'gatsby-plugin-sitemap',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
