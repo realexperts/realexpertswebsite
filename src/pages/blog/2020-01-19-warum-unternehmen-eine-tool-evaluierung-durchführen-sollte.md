@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Warum Unternehmen eine Tool-Evaluierung durchführen sollte
+title: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
 date: '2020-01-19T17:18:18+01:00'
 author: Oliver Reithage
 image: /img/tool-evaluierung-part-1.png
@@ -25,7 +25,7 @@ Ein Thema, welches dabei seitens der Projektbeauftragten oft nicht ausreichend p
 
 Nun ja, wo fangen wir an? Sicher ist schon mal, dass dieser Zustand für beide Seiten nicht zufriedenstellend ist. Unternehmen investieren eine nicht unerhebliche Summe in die Anschaffung neuer Technologien, welche im Nachgang nicht den erhofften Effekt bringen. Mitarbeiter hingegen sind mit einer Vielzahl von Technologien konfrontiert, deren Nutzung anscheinend für die meisten Mitarbeiter obsolet erscheint. Woran liegt das? Als populäre Ursachen für eine Form der “Nicht-Nutzung” gelten meist:  
 
-### Warum digitale Technologien von Mitarbeitern nicht genutzt werden:
+### Warum digitale Technologien von Mitarbeitern nicht genutzt werden?
 
 * keine ausreichende Adressierung über den Nutzen/Mehrwert 
 * bereits existente Technologie für die vorgesehene Prozesstätigkeit 
@@ -35,7 +35,7 @@ Nun ja, wo fangen wir an? Sicher ist schon mal, dass dieser Zustand für beide S
 
 Natürlich ist das Thema “Nutzerakzeptanz von Technologien” weitaus  komplexer als hier dargestellt. Die Wissenschaft hat eine Vielzahl an Publikationen & Erklärungsmodellen hervorgebracht, in denen Einflussfaktoren für eine Nutzung oder Nicht-Nutzung digitaler Technologien beschrieben sind. Diesen werden wir uns gezielt in einer gesonderten Auseinandersetzung widmen. Dennoch: Anhand der genannten Problemstellungen lässt sich recht plausibel erklären, wie man durch eine fundierte Tool-Evaluierung vielen dieser Probleme sprichwörtlich den Wind aus den Segeln nehmen kann. 
 
-### Wie eine fundierte Tool-Evaluierung abhilfe schaffen kann:
+### Wie eine fundierte Tool-Evaluierung Abhilfe schaffen kann?
 
 * Nutzen/Mehrwert einer Technologie wird durch die Einbindung ausgewählter Personas (repräsentative aus ausgewählten Unternehmensgruppen und Fachabteilungen) für einzelne Zielgruppen geprüft und sichergestellt 
 * “Pain Points” der aktuellen Prozesstätigkeit mit der existenten Technologie werden identifiziert. Die Gründe für eine Ablösung der Technologie und die Vermeidung von Parallel-Systemen kann als alternativlos dargelegt und kommuniziert werden
@@ -45,6 +45,6 @@ Natürlich ist das Thema “Nutzerakzeptanz von Technologien” weitaus  komplex
 
 ### Fazit: Evaluierung schützt vor Irrwegen im Tool-Dschungel
 
-Der Markt für Softwaretechnologien ist groß. Vielleicht ist ein Dschungel auch die treffendere Beschreibung. Alles sieht irgendwie ähnlich aus, ist aber am Ende doch nicht das Gleiche. Im Falle von Softwarelösungen bedeutet das Vielfalt an Funktionen und Leistungen. Die Gefahr für Unternehmen ist daher umso größer, ihren Mitarbeitern eine Technologie bereitzustellen, die an den Bedürfnissen dieser vorbei geht. Die Durchführung einer fundierten Tool-Evaluierung ist ohne Wenn und Aber der richtige Schritt um im Tool-Dschungel den richtigen Pfad einzuschlagen. 
+Der Markt für Softwaretechnologien ist groß. Alles sieht irgendwie ähnlich aus, ist aber am Ende doch nicht das Gleiche. Im Falle von Softwarelösungen bedeutet das Vielfalt an Funktionen und Leistungen. Die Gefahr für Unternehmen ist daher umso größer, ihren Mitarbeitern eine Technologie bereitzustellen, die an den Bedürfnissen dieser vorbei geht. Die Durchführung einer fundierten Tool-Evaluierung ist ohne Wenn und Aber der richtige Schritt um im Tool-Dschungel den richtigen Pfad einzuschlagen. 
 
 Wie eine fundierte und systematische Tool-Evaluierung aussieht, erfahrt ihr in unserem nächsten Blogbeitrag #Leitfaden für die Auswahl digitaler Tools in Unternehmen.
