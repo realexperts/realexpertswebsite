@@ -47,4 +47,4 @@ Natürlich ist das Thema “Nutzerakzeptanz von Technologien” weitaus  komplex
 
 Der Markt für Softwaretechnologien ist groß. Alles sieht irgendwie ähnlich aus, ist aber am Ende doch nicht das Gleiche. Im Falle von Softwarelösungen bedeutet das Vielfalt an Funktionen und Leistungen. Die Gefahr für Unternehmen ist daher umso größer, ihren Mitarbeitern eine Technologie bereitzustellen, die an den Bedürfnissen dieser vorbei geht. Die Durchführung einer fundierten Tool-Evaluierung ist ohne Wenn und Aber der richtige Schritt um im Tool-Dschungel den richtigen Pfad einzuschlagen. 
 
-Wie eine fundierte und systematische Tool-Evaluierung aussieht, erfahrt ihr in unserem nächsten Blogbeitrag #Leitfaden für die Auswahl digitaler Tools in Unternehmen.
+Wie eine fundierte und systematische Tool-Evaluierung aussieht, erfahrt ihr in unserem nächsten Blogbeitrag [Leitfaden für die Auswahl digitaler Tools in Unternehmen](https://www.realexperts.de/blog/2020-01-19-leitfaden-f%C3%BCr-die-auswahl-digitaler-tools-in-unternehmen/).
