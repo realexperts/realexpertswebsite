@@ -31,8 +31,8 @@ thesis:
 video: 'https://youtu.be/-YneU6yfowY'
 relatedPosts:
   - post: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
-  - post: Der Weg zum wirksamen Digital Workplace
   - post: 'Der “digitale” Arbeitsplatz im Wandel '
-  - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
+  - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
+  - post: 'Neue Wege gehen und #SELBERgroß sein'
 ---
 
