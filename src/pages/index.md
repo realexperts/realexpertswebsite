@@ -28,11 +28,11 @@ thesis:
       Unternehmen.
     headline: Wie wir arbeiten
     highlighted: true
-video: 'https://youtu.be/TEug6bf_s2g'
+video: 'https://youtu.be/-YneU6yfowY'
 relatedPosts:
+  - post: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
   - post: Der Weg zum wirksamen Digital Workplace
-  - post: Experimente wagen
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
-  - post: 'IPROconsult: Der Weg zum Social Intranet'
+  - post: 'Der “digitale” Arbeitsplatz im Wandel '
+  - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
 ---
 
