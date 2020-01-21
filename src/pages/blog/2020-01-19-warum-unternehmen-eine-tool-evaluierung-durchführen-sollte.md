@@ -13,7 +13,7 @@ description: >-
   Mitarbeiter sollen schließlich vom Potential und der Wirksamkeit digitaler
   Technologien profitieren. 
 tags:
-  - Digital Workplace
+  - Tool Evaluierung
 relatedPosts:
   - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
