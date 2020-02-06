@@ -22,7 +22,7 @@ thesis:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Was es bringt
     highlighted: false
-video: 'https://youtu.be/ScMzIvxBSi4'
+video: 'https://www.youtube.com/watch?v=eKCVfAgD0Uw'
 successStories:
   - customerName: IPROconsult
     image: /img/vorlage_logos3-1-1024x259.jpg
