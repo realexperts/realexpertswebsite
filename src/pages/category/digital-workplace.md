@@ -48,10 +48,7 @@ statements:
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
-  - post: Tipps für eine erfolgreiche Intranet-Einführung
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
   - post: 'Der “digitale” Arbeitsplatz im Wandel '
-  - post: Social Intranet mit Linchpin für Confluence
 ---
 
