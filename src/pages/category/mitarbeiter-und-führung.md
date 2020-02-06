@@ -21,7 +21,7 @@ thesis:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Was es bringt
     highlighted: false
-video: 'https://youtu.be/gLoDsa-1QY4'
+video: 'https://www.youtube.com/watch?v=gLoDsa-1QY4'
 successStories:
   - customerName: IPROconsult
     image: /img/vorlage_logos3-1-1024x259.jpg
@@ -45,6 +45,7 @@ statements:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
+  - post: Ein Unternehmen hat keine Mitarbeiter
 ---
 
