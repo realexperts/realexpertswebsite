@@ -23,7 +23,7 @@ thesis:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Was es bringt
     highlighted: false
-video: 'https://youtu.be/ScMzIvxBSi4'
+video: 'https://www.youtube.com/watch?v=ECmyssqhJns'
 successStories:
   - customerName: IPROconsult
     image: /img/vorlage_logos3-1-1024x259.jpg
@@ -47,6 +47,11 @@ statements:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
+  - post: Social Intranet mit Linchpin für Confluence
+  - post: Tipps für eine erfolgreiche Intranet-Einführung
+  - post: >-
+      Digitale Kommunikation und Zusammenarbeit im Social Intranet - Meetup
+      Dresden
 ---
 
