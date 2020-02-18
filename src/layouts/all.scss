@@ -1331,6 +1331,7 @@ a.more {
 }
 
 @import "./responsive";
+@import "./ie";
 
 // Helper Classes
 .full-width-image-container {
@@ -1358,3 +1359,4 @@ a.more {
 @import "../../node_modules/bulma/sass/layout/section.sass";
 
 //@import "~bulma";
+
