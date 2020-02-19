@@ -1,20 +1,49 @@
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
 
   header {
+
     position: static;
 
-    figure.image-top {
-      position: static;
-      opacity: 1;
+    .navbar-wrapper {
 
-      img {
-        width: 80%;
+      &.navbar-scrolled,
+      &.navbar-at-top {
+
+        background-color: #0e3e93;
+        height: 100px;
+
+        nav .navigation-bar-logo {
+
+          figure.image-top {
+            position: static;
+            opacity: 1;
+
+            img {
+              width: 80%;
+            }
+          }
+
+          figure.image-top-scrolling {
+            opacity: 0;
+          }
+
+        }
+
       }
-    }
 
-    figure.image-top-scrolling {
-      opacity: 0;
     }
 
   }
+
+  main .blog .top-posts .post.top, 
+  main .blog-post .related-posts .related-posts-wrapper
+  main section .page-content .posts, 
+  main section .page-content .posts .top-posts .post,
+  main section .page-content .featured-blog-post-wrapper,
+  main section .page-content .statements-wrapper .statements-content .statement,
+  .contact-form-footer .section {
+    width: 100%;
+  }
+
+
 }
