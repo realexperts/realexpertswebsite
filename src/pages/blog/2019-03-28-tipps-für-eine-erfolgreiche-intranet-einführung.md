@@ -9,8 +9,9 @@ description: >-
   Intranets ist gefallen. Die Zeiten, in denen zentrale
   Unternehmensinformationen nicht auffindbar sind oder unternehmenskritische
   Informationen übe
+category: Intranet
 tags:
-  - Digital Workplace
+  - Intranet
 relatedPosts:
   - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
   - post: 'Ein Intranet verbindet - “Linchpin” stellt sich vor '
