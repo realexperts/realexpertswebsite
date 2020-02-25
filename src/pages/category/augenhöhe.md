@@ -45,6 +45,8 @@ statements:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Auf dem Weg zum AUGENHÖHEwegbegleiter
+  - post: Experimente wagen
+  - post: 'Führen und führen lassen auf Augenhöhe '
 ---
 
