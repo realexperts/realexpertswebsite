@@ -7,7 +7,7 @@ description: >-
   Jedes Unternehmen hat unterschiedliche Bedürfnisse auf welche eingegangen
   werden muss. Wir helfen Ihnen dabei zu identifizieren, was es genau braucht um
   Ihren Changeprozess optimal umzusetzen.
-thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+thumbnail: /img/header-organisationsentwicklung.png
 thesis:
   - body: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
