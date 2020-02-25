@@ -46,6 +46,8 @@ statements:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: Social Intranet mit Linchpin für Confluence
+  - post: 'Was bedeutet es gut zusammenzuarbeiten? '
+  - post: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
+  - post: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
 ---
 
