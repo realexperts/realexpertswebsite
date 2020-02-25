@@ -9,12 +9,13 @@ description: >-
   Zukunft vorherzusagen, ist wie das Fahren auf einer Landstraße ohne Licht und
   mit Blick aus der Heckscheibe. Der beste Weg, um die Zukunft vorherzusagen,
   besteht darin, sie zu schaffen.
+category: Augenhöhe
 tags:
   - Augenhöhe
 relatedPosts:
   - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: Das Why und die Vision von Real Experts - Podcast
+  - post: Experimente wagen
+  - post: 'Führen und führen lassen auf Augenhöhe '
 ---
 > “Über die Zukunft wissen wir nur, dass sie anders sein wird. Der Versuch, die Zukunft vorherzusagen, ist wie das Fahren auf einer Landstraße ohne Licht und mit Blick aus der Heckscheibe. Der beste Weg, um die Zukunft vorherzusagen, besteht darin, sie zu schaffen.” Peter Drucker
 
@@ -34,6 +35,4 @@ Was brauchst du, damit du tun kannst, was du willst? Eine Frage, die mir nach di
 
 ### AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
 
-`youtube: https://www.youtube.com/watch?v=j0S-uY-AV6A` 
-
-Foto: Sarah Jürgel
+`youtube: https://www.youtube.com/watch?v=j0S-uY-AV6A`
