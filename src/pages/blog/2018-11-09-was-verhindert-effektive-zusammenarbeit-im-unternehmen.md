@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Was verhindert effektive Zusammenarbeit im Unternehmen?
 date: '2018-05-07T11:36:11+02:00'
 author: Peggy Kopkow
-image: /img/was-verhindert-effektive-zusammenarbeit-in-unternehmen.png
+image: /img/header-mitarbeiter-und-führung.png
 description: >-
   Teamziele werden nicht erreicht. Es gibt deutliche Kommunikationsmängel.
   Aufgaben werden doppelt erledigt und dafür bleiben andere liegen. Jeder
@@ -11,12 +11,13 @@ description: >-
   Widerstand gegen Veränderungen ist erheblich. Kennen Sie das? Gerade
   Führungskräfte sind oft betroffen. Denn es gibt einige Gründe, welche
   effektive Zusammenarbeit verhindern.
+category: Mitarbeiter und Führung
 tags:
-  - Effektive Zusammenarbeit
+  - Mitarbeiter und Führung
 relatedPosts:
-  - post: 'Entdecke das Potential, den Kern von New Work'
-  - post: Das Dilemma des New Work Hype
-  - post: Wissensmanagement und Zusammenarbeit bei Real Experts
+  - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
+  - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
+  - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
 ---
 Teamziele werden nicht erreicht. Es gibt deutliche Kommunikationsmängel. Aufgaben werden doppelt erledigt und dafür bleiben andere liegen. Jeder arbeitet für sich und es entsteht zunehmend immer mehr Silodenken. Der Widerstand gegen Veränderungen ist erheblich. Kennen Sie das? Gerade Führungskräfte sind oft betroffen. Denn es gibt einige Gründe, welche effektive Zusammenarbeit verhindern.
 
