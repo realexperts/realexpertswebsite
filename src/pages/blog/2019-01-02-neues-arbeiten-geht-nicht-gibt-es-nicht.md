@@ -12,6 +12,7 @@ description: >-
   Zusammenarbeit und des Miteinanders in Unternehmen sprechen. Eine wirksame
   Veränderung ist aus Sicht der Mitarbeiter und Führungskräfte häufig eine
   unlösbare Herausforderung.
+category: Neue Wirksamkeit
 tags:
   - Neue Wirksamkeit
 relatedPosts:
