@@ -11,6 +11,7 @@ description: >-
   Projekt läuft genau so, wie es geplant wurde. Ein gut überlegter Sprint und
   nichts geht schief.  Aber wir wissen es alle. So läuft das nicht. Nicht mehr.
   Organisationen sind komplexer geworden, weil wir in einer anderen Zeit leben.
+category: Augenhöhe
 tags:
   - Augenhöhe
 relatedPosts:
