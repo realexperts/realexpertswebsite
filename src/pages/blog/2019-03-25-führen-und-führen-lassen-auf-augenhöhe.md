@@ -13,9 +13,9 @@ category: Augenhöhe
 tags:
   - Augenhöhe
 relatedPosts:
-  - post: 'Neues Arbeiten - Geht nicht, gibt es nicht.'
   - post: Auf dem Weg zum AUGENHÖHEwegbegleiter
   - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
+  - post: Experimente wagen
 ---
 Haben Sie sich schon einmal über Ihr Führungsverständnis Gedanken gemacht. Also was Sie unter Führen verstehen? Was bedeutet für Sie Führung und was nicht? 
 
