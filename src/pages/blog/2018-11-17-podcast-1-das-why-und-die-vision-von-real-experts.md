@@ -11,6 +11,7 @@ description: >-
   leistungsfähigen Netzwerkes aus selbstbestimmten und eigenmotivierten
   Mitarbeitern, die Unternehmen dabei helfen ihr größtmögliches Potential zu
   entfalten.
+category: Real Experts
 tags:
   - Real Experts
 relatedPosts:
