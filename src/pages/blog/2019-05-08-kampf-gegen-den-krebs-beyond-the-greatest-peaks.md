@@ -7,8 +7,9 @@ image: /img/vortrag-philipp-markgraf.png
 description: >-
   Philipp Markgraf startete am 27.03.2019 zu seiner 1-jährigen Radreise nach
   Indien, welche unter dem Motto “BEYOND THE GREATEST PEAKS” steht. 
+category: Engagement
 tags:
-  - Partner
+  - Engagement
 relatedPosts:
   - post: Andres Kühn - Partner im Real Experts Netzwerk
   - post: Dr. Jenny Meyer - Partnerin im Real Experts Network
