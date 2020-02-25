@@ -16,7 +16,7 @@ category: Software Auswahl
 tags:
   - Tool Evaluierung
 relatedPosts:
-  - post: Digitale Heimat mit einem Social Intranet von COYO
+  - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
 ---
 Steht die Notwendigkeit einer technologischen Veränderung im Raum, verengt sich der damit verbundene Projektauftrag häufig auf die Suche nach einer geeigneten Technologie. Das erklärte Ziel liegt in der Regel darin, bisher analoge oder schlecht digitalisierte Prozesse durch den Einsatz moderner Informations- und Kommunikationstechnologien (IKTs) effizienter zu gestalten. Mitarbeiter sollen schließlich vom Potential und der Wirksamkeit digitaler Technologien profitieren.
 
