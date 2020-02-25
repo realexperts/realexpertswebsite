@@ -7,6 +7,7 @@ image: /img/der-weg-zur-vision.png
 description: >-
   Vielleicht kennen Sie das. Das Gefühl zu haben: “So wie es jetzt läuft, läuft
   es nicht gut. Das geht besser. Es muss einen anderen Weg geben.”
+category: Real Experts
 tags:
   - Real Experts
 relatedPosts:
@@ -37,5 +38,3 @@ Und wie geht es nun weiter? Wir wollen wachsen. Wir wollen ein großes Netzwerk,
 Eine Vision ist ein großes Bild. Sie ist etwas, was antreibt, motiviert und große Leistung bringen lässt, wenn man an sie glaubt. Deshalb ist es von enormer Relevanz, dass alle Beteiligten in einem Projekt an das gleiche glauben. Denn nur wer wirklich intrinsisch motiviert ist, wird dem Unternehmen auf Dauer einen nachhaltigen Beitrag leisten können - egal ob nun Führungskraft, Mitarbeiter oder Berater.
 
 Und eigentlich möchte ich jetzt hier keinen Punkt machen. Denn es geht weiter. Eine Vision ist nichts Festes, nichts was für immer und ewig in Stein gemeißelt bleibt. Wir Real Experts von heute und morgen werden die Vision weiter gestalten und wir vertrauen darauf, dass es etwas Gutes wird und sinnstiftend bleibt.
-
-Foto: Sarah Jürgel
