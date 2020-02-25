@@ -9,6 +9,7 @@ description: >
   Bei unserem Meetup in Hamburg, welches am 17.04.2019 in Zusammenarbeit mit
   Coyo stattfand, hielt Pia Sondermann, Intranet Consultant der E.ON, einen
   spannenden Vortrag über die 
+category: Partner und Netzwerk
 tags:
   - Partner
 relatedPosts:
