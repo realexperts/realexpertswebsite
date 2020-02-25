@@ -12,10 +12,8 @@ categories:
   - category: Intranet
   - category: Software Auswahl
 relatedPosts:
-  - post: Digitale Heimat mit einem Social Intranet von COYO
-  - post: >-
-      Kampf der Giganten - Microsoft Office 365 und Google G Suite im
-      Vergleich  
-  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+  - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
+  - post: Tipps für eine erfolgreiche Intranet-Einführung
+  - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
 ---
 
