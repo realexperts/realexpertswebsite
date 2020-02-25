@@ -9,6 +9,7 @@ description: >
   Haben Sie sich schon einmal über Ihr Führungsverständnis Gedanken gemacht.
   Also was Sie unter Führen verstehen? Was bedeutet für Sie Führung und was
   nicht? 
+category: Augenhöhe
 tags:
   - Augenhöhe
 relatedPosts:
