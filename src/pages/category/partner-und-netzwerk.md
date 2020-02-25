@@ -2,13 +2,13 @@
 templateKey: category-page
 title: Partner und Netzwerk
 contentTitle: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et 
+  Über 30 Netzwerkpartner arbeiten gemeinsam mit uns und für unsere Kunden und
+  Projekte.
 headerImage: /img/real-experts-header-kategorie.png
-description: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-  vero eos et accusam et justo duo dolores et ea rebum.
+description: >
+  Für unsere Kunden wollen wir einen optimalen Projektablauf garantieren, um die
+  gewünschten Ziele effizient umzusetzen. Um dies zu ermöglichen unterstützt uns
+  unser Expertennetzwerk bei der Entwicklung eines passgenauen Lösungsansatzes.
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
