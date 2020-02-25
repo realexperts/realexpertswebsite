@@ -3,17 +3,20 @@ templateKey: blog-post
 title: 'Was brauchst Du, um das zu machen, was Du willst?'
 date: '2018-12-19T19:18:37+01:00'
 author: Peggy Kopkow
-image: /img/was-brauchst-du-um-das-zu-machen-was-du-willst.png
+image: /img/header-mitarbeiter-und-führung.png
 description: >-
   Hat Sie das schon mal jemand gefragt? Oder hat Sie das gar schon mal Ihr
   Vorgesetzter gefragt? Nein? Wissen Sie denn selbst was Sie brauchen, um so
   arbeiten zu können, wie Sie wollen? So richtig gut?
+category: Mitarbeiter und Führung
 tags:
-  - Mitarbeiter
+  - Mitarbeiter und Führung
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
-  - post: Das Why und die Vision von Real Experts - Podcast
+  - post: >-
+      Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
+      Ergebnisse erreichen
+  - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
 ---
 Hat Sie das schon mal jemand gefragt? Oder hat Sie das gar schon mal Ihr Vorgesetzter gefragt? Nein? Wissen Sie denn selbst was Sie brauchen, um so arbeiten zu können, wie Sie wollen? So richtig gut?
 
@@ -33,5 +36,3 @@ Meiner Meinung nach lautet deshalb eine der wichtigsten Fragen gegenüber Mitarb
 6. Wertschätzung verbindet. Seinen Mitarbeitern diese Frage zu stellen ist wertschätzend und bindet den Mitarbeiter an Sie und ihr Unternehmen.
 
 Also fragen Sie doch einfach mal morgen einen Ihrer Mitarbeiter, was er den braucht, um das zu machen, was er will. Sie werden erstaunt sein, wie seine Antwort ausfällt. Und was diese einfache Frage bewirken kann. Mit Ihnen, Ihrem Mitarbeiter und dem Unternehmen.
-
-Foto: Sarah Jürgel
