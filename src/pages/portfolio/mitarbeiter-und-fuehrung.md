@@ -11,10 +11,9 @@ categories:
   - category: Organisationsentwicklung
   - category: Mitarbeiter und Führung
   - category: Neue Wirksamkeit
-  - category: Augenhöhe
 relatedPosts:
-  - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
-  - post: Wissensmanagement und Zusammenarbeit bei Real Experts
-  - post: Marco Meirich - Partner im Real Experts Netzwerk
+  - post: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
+  - post: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
+  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
 ---
 
