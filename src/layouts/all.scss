@@ -231,7 +231,7 @@ header {
         justify-content: flex-end;
         align-items: stretch;
         margin-left: auto;
-        margin-right: 0;
+        margin-right: 10px;
 
         .navigation-bar-item {
           align-items: center;
@@ -335,7 +335,7 @@ main {
 
     display: flex;
     flex-direction: column;
-    margin: 0 0 40px;
+    margin: 0 0 65px;
 
     .hero {
 
@@ -431,6 +431,9 @@ main {
 
         .featured-video {
           width: 800px;
+          -webkit-box-shadow: 0px 0px 31px 0px rgba(0,0,0,0.47);
+          -moz-box-shadow: 0px 0px 31px 0px rgba(0,0,0,0.47);
+          box-shadow: 0px 0px 31px 0px rgba(0,0,0,0.47);
 
           iframe {
             height: 100% !important;
@@ -472,6 +475,8 @@ main {
         padding: 65px 0;
         background: $secondary;
         overflow: hidden;
+        margin-left: -160px;
+        margin-right: -160px;
 
         .category-info-box {
           display: flex;
@@ -504,6 +509,8 @@ main {
         padding: 65px 0;
         background: $blue-light;
         overflow: hidden;
+        margin-left: -160px;
+        margin-right: -160px;
 
         .statements-content {
           width: 100%;
@@ -730,6 +737,7 @@ main {
 
           h4 {
             font-size: 38px;
+            line-height: 2.4rem;
             margin-bottom: 20px;
           }
 
@@ -925,6 +933,8 @@ main {
       .button-round-blue {
         margin: 30px 0;
         display: inline-block;
+        font-family: "Open Sans", sans-serif;
+        text-transform: uppercase;
       }
 
     }
@@ -1133,48 +1143,62 @@ a.more {
 
 .contact-form-footer {
 
-  background: white url("../img/realexperts-bg-links.png") top left no-repeat;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
+  max-width: 1920px;
   width: 100%;
 
-  .section {
+  .contact-form-footer-content {
+
+    background: white url("../img/realexperts-bg-links.png") top left no-repeat;
     display: flex;
+    justify-content: center;
     flex-direction: column;
-    margin: 65px 0;
-    padding: 0;
-    max-width: 1280px;
-    align-self: center;
+    margin-left: -160px;
+    margin-right: -160px;
 
-    .contact-content {
-      display: flex;
+    .section {
+        display: flex;
+        flex-direction: column;
+        margin: 65px 0;
+        padding: 0;
+        max-width: 1280px;
+        align-self: center;
 
-      .contact-information {
-        flex: 1;
-        padding: 0 50px 0 0;
+        .contact-content {
+          display: flex;
 
-        .contact-social-media-container {
-          text-align: center;
+          .contact-information {
+            flex: 1;
+            padding: 0 50px 0 0;
 
-          .contact-social-media-link {
-            margin: 30px 15px 0 15px;
-            display: inline-block;
+            .contact-social-media-container {
+              text-align: center;
+
+              .contact-social-media-link {
+                margin: 30px 15px 0 15px;
+                display: inline-block;
+              }
+
+            }
+
           }
 
+          .contact-form-wrapper {
+            flex: 2;
+            width: 100%;
+            padding-right: 50px;
+
+            .button-round-blue {
+              font-family: "Open Sans", sans-serif;
+              text-transform: uppercase;
+            }
+
+          }
         }
-
       }
 
-      .contact-form-wrapper {
-        flex: 2;
-        width: 100%;
-        padding-right: 50px;
-
-      }
-    }
   }
+
+  
 }
 
 .contact-form {
@@ -1226,14 +1250,15 @@ a.more {
 }
 
 .footer-links {
-  max-width: 1600px;
+  max-width: 1280px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   width: 100%;
 
   section {
     display: flex;
     flex-direction: column;
-    margin: 80px 160px 40px;
-
+    
     .footer-links-content {
       display: flex;
       margin-bottom: 50px;
@@ -1269,12 +1294,17 @@ a.more {
     .footer-links-logo-esf-smartphone {
       display: none;
     }
+    
+    .footer-links-logo-esf img {
+      width: 700px;
+      height: auto;
+    }
   }
 }
 
 .footer {
 
-  padding: 2rem 0;
+  padding: 2rem 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1316,9 +1346,10 @@ a.more {
       ul {
         list-style-type: none;
         display: flex;
+        margin-right: 10px;
 
         li {
-          margin: 0 0 0 40px;
+          margin: 0 0 0 38px;
 
           a {
             color: $primary;

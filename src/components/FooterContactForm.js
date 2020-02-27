@@ -27,39 +27,41 @@ const FooterContactForm = () => {
 
   return (
     <div className="contact-form-footer">
-      <section className="section">
-        <div className="contact-content">
-          <div className="contact-information">
-            <h3 className="contact-title">{title}</h3>
-            <div className="contact-content">
-              <p>{footerContent}</p>
+      <div className="contact-form-footer-content">
+        <section className="section">
+          <div className="contact-content">
+            <div className="contact-information">
+              <h3 className="contact-title">{title}</h3>
+              <div className="contact-content">
+                <p>{footerContent}</p>
+              </div>
+              <div className="contact-social-media-container">
+                <a href={facebook} className="contact-social-media-link">
+                  <img src={facebookIcon} alt="Facebook"/>
+                </a>
+                <a href={instagram} className="contact-social-media-link">
+                  <img src={instagramIcon} alt="Instagramm"/>
+                </a>
+                <a href={linkedin} className="contact-social-media-link">
+                  <img src={linkedinIcon} alt="Linkedin"/>
+                </a>
+                <a href={twitter} className="contact-social-media-link">
+                  <img src={twitterIcon} alt="Twitter"/>
+                </a>
+                <a href={xing} className="contact-social-media-link">
+                  <img src={xingIcon} alt="Xing"/>
+                </a>
+                <a href={youtube} className="contact-social-media-link">
+                  <img src={youtubeIcon} alt="Youtube"/>
+                </a>
+              </div>
             </div>
-            <div className="contact-social-media-container">
-              <a href={facebook} className="contact-social-media-link">
-                <img src={facebookIcon} alt="Facebook"/>
-              </a>
-              <a href={instagram} className="contact-social-media-link">
-                <img src={instagramIcon} alt="Instagramm"/>
-              </a>
-              <a href={linkedin} className="contact-social-media-link">
-                <img src={linkedinIcon} alt="Linkedin"/>
-              </a>
-              <a href={twitter} className="contact-social-media-link">
-                <img src={twitterIcon} alt="Twitter"/>
-              </a>
-              <a href={xing} className="contact-social-media-link">
-                <img src={xingIcon} alt="Xing"/>
-              </a>
-              <a href={youtube} className="contact-social-media-link">
-                <img src={youtubeIcon} alt="Youtube"/>
-              </a>
+            <div className="contact-form-wrapper">
+              <ContactForm/>
             </div>
           </div>
-          <div className="contact-form-wrapper">
-            <ContactForm/>
-          </div>
+        </section>
         </div>
-      </section>
     </div>
   );
 };

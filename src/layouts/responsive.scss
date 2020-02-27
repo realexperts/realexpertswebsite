@@ -427,12 +427,13 @@
         .navigation-bar-menu {
           z-index: 1;
           position: absolute;
-          width: 0;
+          width: 100%;
           overflow: hidden;
           background-color: #dfe5f0;
+          left: 0;
           top: 100px;
-          left: 100%;
-          right: 0;
+          opacity: 0;
+          height: 0;
           margin: 0 0;
           display: flex;
           flex-direction: column;
@@ -441,8 +442,9 @@
           transition: all 0.4s;
 
           &.is-active {
-            left: 0;
-            width: 100%;
+            transition: all 0.4s;
+            opacity: 1;
+            height: 190px
           }
 
           .navigation-bar-item {
@@ -595,6 +597,10 @@
               margin-bottom: 40px;
               margin-right: 4%;
               display: inline-block;
+
+              &:nth-child(n) {
+                margin-right: 4%;
+              }
 
               &:nth-child(2n) {
                 margin-right: 0;
@@ -991,40 +997,48 @@
 
   .contact-form-footer {
 
-    .section {
-      display: block;
-      margin: 20px 30px;
+    .contact-form-footer-content {
 
-      .contact-content {
+      margin-left: 0;
+      margin-right: 0;
+
+      .section {
         display: block;
+        margin: 20px 30px;
 
-        .contact-information {
-          padding: 0;
+        .contact-content {
+          display: block;
 
-          h3 {
-            text-align: center;
-          }
+          .contact-information {
+            padding: 0;
 
-          .contact-content {
-            text-align: center;
-          }
+            h3 {
+              text-align: center;
+            }
 
-          .contact-social-media-container {
+            .contact-content {
+              text-align: center;
+            }
 
-            .contact-social-media-link {
-              display: inline-block;
+            .contact-social-media-container {
+
+              .contact-social-media-link {
+                display: inline-block;
+              }
             }
           }
-        }
 
-        .contact-form-wrapper {
-          padding-right: 0;
-          margin-top: 30px;
+          .contact-form-wrapper {
+            padding-right: 0;
+            margin-top: 30px;
 
 
+          }
         }
       }
+
     }
+    
   }
 
   .contact-form {
@@ -1147,12 +1161,13 @@
         .navigation-bar-menu {
           z-index: 1;
           position: absolute;
-          width: 0;
+          width: 100%;
           overflow: hidden;
           background-color: #dfe5f0;
+          left: 0;
           top: 100px;
-          left: 100%;
-          right: 0;
+          opacity: 0;
+          height: 0;
           margin: 0 0;
           display: flex;
           flex-direction: column;
@@ -1161,8 +1176,9 @@
           transition: all 0.4s;
 
           &.is-active {
-            left: 0;
-            width: 100%;
+            transition: all 0.4s;
+            opacity: 1;
+            height: 190px
           }
 
           .navigation-bar-item {
@@ -1214,8 +1230,8 @@
 
       .hero {
         height: auto;
-        margin-left: -20px;
-        margin-right: -20px;
+        margin-left: 0;
+        margin-right: 0;
 
         .gatsby-image-wrapper {
 
@@ -1603,47 +1619,53 @@
 
   .contact-form-footer {
 
-    .section {
-      display: block;
-      margin: 20px 30px;
+    .contact-form-footer-content {
+      margin-left: 0;
+      margin-right: 0;
 
-      .contact-content {
+
+      .section {
         display: block;
+        margin: 20px 30px;
 
-        .contact-information {
-          padding: 0;
+        .contact-content {
+          display: block;
 
-          h3 {
-            text-align: center;
-          }
+          .contact-information {
+            padding: 0;
 
-          .contact-content {
-            text-align: center;
-          }
+            h3 {
+              text-align: center;
+            }
 
-          .contact-social-media-container {
+            .contact-content {
+              text-align: center;
+            }
 
-            .contact-social-media-link {
-              display: inline-block;
+            .contact-social-media-container {
+
+              .contact-social-media-link {
+                display: inline-block;
+              }
             }
           }
-        }
 
-        .contact-form-wrapper {
-          padding-right: 0;
-          margin-top: 30px;
+          .contact-form-wrapper {
+            padding-right: 0;
+            margin-top: 30px;
 
-          .contact-form {
-            width: 100%;
+            .contact-form {
+              width: 100%;
 
-            .contact-form-wrapper {
-              .contact-form-name,
-              .contact-form-email {
-                width: 100%;
-              }
+              .contact-form-wrapper {
+                .contact-form-name,
+                .contact-form-email {
+                  width: 100%;
+                }
 
-              .contact-form-email {
-                margin-top: 30px;
+                .contact-form-email {
+                  margin-top: 30px;
+                }
               }
             }
           }
@@ -1674,6 +1696,10 @@
 
       .footer-links-logo-esf-smartphone {
         display: block;
+        img {
+          width: 480px;
+          height: auto;
+        }
       }
 
       .footer-links-logo-esf {
