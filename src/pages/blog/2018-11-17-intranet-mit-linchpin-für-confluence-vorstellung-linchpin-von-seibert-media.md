@@ -11,6 +11,7 @@ description: >-
   abdecken. Im  Videointerview zeigt Adil Nasri von Seibert/Media aus Wiesbaden
   wie das mit Linchpin-Erweiterungen auf Basis von Atlassian Confluence ein
   interaktives Intranet realisiert werden kann.
+category: Intranet
 tags:
   - Technologien
 relatedPosts:
