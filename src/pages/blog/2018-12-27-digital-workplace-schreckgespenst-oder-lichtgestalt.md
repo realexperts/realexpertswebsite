@@ -10,6 +10,7 @@ description: >-
   Science-Fiction klingt, ist längst Realität und stellt nur einen Bruchteil
   populärer Buzzwörter dar, die mit einem digitalen Arbeitsplatz oder auch
   Digital Workplace in Verbindung gebracht werden.
+category: Digital Workplace
 tags:
   - Digital Workplace
 relatedPosts:
