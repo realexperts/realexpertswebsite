@@ -3,12 +3,7 @@
   "footerMenu": [
     {
       "title": "Kontakt",
-      "url": "/kontakt",
-      "link": ""
-    },
-    {
-      "title": "Jobs",
-      "url": "/jobs"
+      "url": "/kontakt"
     },
     {
       "title": "Impressum",
