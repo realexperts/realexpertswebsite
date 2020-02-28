@@ -13,8 +13,9 @@ description: >-
   immer wieder gestellt wird, lautet: “Wie können wir sicherstellen, dass wir
   mit Abschluss einer Tool-Evaluierung auch die passende Technologie ausgewählt
   haben?”  
+category: Software Auswahl
 tags:
-  - Tool Evaluierung
+  - Software Auswahl
 relatedPosts:
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
   - post: Der Weg zum wirksamen Digital Workplace
