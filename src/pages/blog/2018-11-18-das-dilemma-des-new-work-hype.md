@@ -10,6 +10,7 @@ description: >-
   werden Begriffe wie New Work, Selbstorganisation, Agilität und Digitalisierung
   in Medien und auf Konferenz verwendet. Doch wie sollen Geschäftsführer,
   Führungskräfte und Mitarbeiter da noch durchsehen und wissen, wie man anfängt?
+category: Neue Wirksamkeit
 tags:
   - Neue Wirksamkeit
 relatedPosts:
