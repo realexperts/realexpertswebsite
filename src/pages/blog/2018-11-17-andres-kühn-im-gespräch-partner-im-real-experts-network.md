@@ -13,6 +13,7 @@ description: >-
   Glaubenssystemen und Komfortzonen liegen. Individuelle Selbstverwirklichung
   ist für Andres Herzenssache – damit das Wirklichkeit wird, was tief in jedem
   Menschen angelegt ist. 
+category: Partner und Netzwerk
 tags:
   - Partner
 relatedPosts:
