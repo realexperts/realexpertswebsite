@@ -10,6 +10,7 @@ description: >-
   spricht Sie über Ihre persönliche WHY Entscheidung für Real Experts und
   darüber, wie durch Werte wie Respekt, Loyalität und Vertrauen Synergien für
   eine sinnstiftende Zusammenarbeit freigesetzt werden können. 
+category: Team
 tags:
   - Mitarbeiter
 relatedPosts:
