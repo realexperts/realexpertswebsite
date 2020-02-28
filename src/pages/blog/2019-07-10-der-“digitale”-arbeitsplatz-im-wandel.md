@@ -8,7 +8,7 @@ description: >-
   Die interne digitale Transformation soll weiter vorangetrieben werden. Das
   Projekt “Aufbau Digital Workplace” der Unternehmensführung ist ambitioniert:
   Es soll eine begeisternde und intuitive Arbeitsplatzumgebung geschaffen werden
-category: Software Auswahl
+category: Digital Workplace
 tags:
   - Digital Workplace
 relatedPosts:
