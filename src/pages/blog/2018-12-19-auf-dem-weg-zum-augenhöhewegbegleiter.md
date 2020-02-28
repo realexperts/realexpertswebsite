@@ -9,6 +9,7 @@ description: >-
   Zukunft vorherzusagen, ist wie das Fahren auf einer Landstraße ohne Licht und
   mit Blick aus der Heckscheibe. Der beste Weg, um die Zukunft vorherzusagen,
   besteht darin, sie zu schaffen.
+category: Augenhöhe
 tags:
   - Augenhöhe
 relatedPosts:
