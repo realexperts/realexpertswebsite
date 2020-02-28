@@ -11,6 +11,7 @@ description: >-
   Aber dann wurde mir bewusst wie passend der Moment gerade ist, darüber zu
   schreiben und somit meinen Beitrag zur Challenge zu leisten. Denn mittlerweile
   fühle ich mich #SELBERgroß.
+category: Real Experts
 tags:
   - Real Experts
 relatedPosts:
