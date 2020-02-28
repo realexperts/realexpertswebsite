@@ -8,6 +8,7 @@ description: >-
   Hat Sie das schon mal jemand gefragt? Oder hat Sie das gar schon mal Ihr
   Vorgesetzter gefragt? Nein? Wissen Sie denn selbst was Sie brauchen, um so
   arbeiten zu können, wie Sie wollen? So richtig gut?
+category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter
 relatedPosts:
