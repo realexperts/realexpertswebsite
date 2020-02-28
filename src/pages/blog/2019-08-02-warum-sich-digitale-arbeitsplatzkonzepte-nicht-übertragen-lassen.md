@@ -14,6 +14,7 @@ description: >-
   eines Digital Workplace. Die Einführung ausgereifter digitaler Technologien
   wird nur von Erfolg geprägt sein, wenn die Mitarbeiter ausreichend über ein
   digitales Zielbild informiert werden. 
+category: Digital Workplace
 tags:
   - Digital Workplace
 relatedPosts:
