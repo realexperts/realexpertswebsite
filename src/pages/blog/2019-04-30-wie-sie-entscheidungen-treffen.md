@@ -10,6 +10,7 @@ description: >-
   der Hand, die Ihnen beim Entscheiden helfen oder treffen Sie Ihre
   Entscheidungen eher aus dem Bauch heraus? Wie stehen Sie oder ihr Unternehmen
   zu Fehlentscheidungen? Werden diese kommuniziert? 
+category: Augenhöhe
 tags:
   - Augenhöhe
 relatedPosts:
