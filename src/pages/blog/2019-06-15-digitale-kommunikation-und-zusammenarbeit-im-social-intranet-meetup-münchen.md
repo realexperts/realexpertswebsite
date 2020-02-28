@@ -7,6 +7,7 @@ image: /img/meetup-olli-münchrn-neu.png
 description: >-
   Den Auftakt unseres Meetups in München machte Olli mit einem Impulsvortrag
   über Digitale 
+category: Intranet
 tags:
   - Digital Workplace
 relatedPosts:
