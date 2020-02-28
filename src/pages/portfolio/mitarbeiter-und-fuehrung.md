@@ -3,9 +3,10 @@ templateKey: portfolio-page
 title: Mitarbeiter und Führung
 headerImage: /img/real-experts-header-portfolio.png
 description: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy irmod
-  tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-  vero eos et accusam et justo duo dolores et ea rebum.
+  Eine Veränderung wird durch die Mitarbeiter und Führungskräfte eines
+  Unternehmens gestaltet. Gemeinsam mit Ihnen schaffen wir den Raum und
+  begleiten, um eine Veränderung erfolgreich zu gestalten. Wir sind Coach und
+  Sparringspartner für Ihre Organisation. 
 featuredPost: Der Weg zur Vision
 categories:
   - category: Organisationsentwicklung
