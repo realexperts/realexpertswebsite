@@ -7,6 +7,7 @@ image: /img/vortrag-philipp-markgraf.png
 description: >-
   Philipp Markgraf startete am 27.03.2019 zu seiner 1-jährigen Radreise nach
   Indien, welche unter dem Motto “BEYOND THE GREATEST PEAKS” steht. 
+category: Real Experts
 tags:
   - Partner
 relatedPosts:
