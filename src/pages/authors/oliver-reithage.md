@@ -6,7 +6,7 @@ position: Consulting
 company: Real Experts Network GmbH
 email: reithage@realexperts.de
 twitterHandle: realxperts
-image: /img/oliver-reithage.jpg
+image: /img/Oliver Reithage.jpg
 description: Consulting & Solutions
 ---
 
