@@ -12,6 +12,7 @@ description: >-
   gefordert von Innen durch die Mitarbeiter. Doch was genau bedeutet eine neue
   Art der Zusammenarbeit und der Wirksamkeit in Unternehmen? Darauf haben viele
   keine Antwort.
+category: Neue Wirksamkeit
 tags:
   - Neue Wirksamkeit
 relatedPosts:
