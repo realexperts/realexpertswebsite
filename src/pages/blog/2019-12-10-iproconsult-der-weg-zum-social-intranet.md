@@ -10,6 +10,7 @@ description: >-
   arbeiten hier ca. 350 Mitarbeiter. Die IPROconsult war unter anderem
   Hauptplaner der Frauenkirche und ist mit Spezialisierung auf Generalplanung
   national und international aktiv.
+category: Intranet
 tags:
   - Kunden
 relatedPosts:
