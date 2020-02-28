@@ -14,7 +14,7 @@ thesis:
       irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     headline: Digitalstrategie
-    highlighted: 'false'
+    highlighted: false
 video: 'https://www.youtube.com/watch?v=eKCVfAgD0Uw'
 infoBox:
   body: >-
