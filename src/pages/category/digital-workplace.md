@@ -1,7 +1,7 @@
 ---
 templateKey: category-page
 title: Digital Workplace
-contentTitle: Worum geht es?
+contentTitle: Der Digital Workplace als Arbeitsplatz der Zukunft
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
   Wir greifen die technologischen und kulturellen Hintergründe zur Ausgestaltung
