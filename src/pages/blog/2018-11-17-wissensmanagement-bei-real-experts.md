@@ -11,6 +11,7 @@ description: >-
   wäre er wahrscheinlich für träumerisch und unrealistisch gehalten wurden. Im
   jetzigen Zeitalter sind Homeoffice, Arbeitszeitflexibilität und “ich kann das
   machen, was mir Spaß macht und was ich richtig gut kann” keine Utopien mehr.
+category: Organisationsentwicklung
 tags:
   - Effektive Zusammenarbeit
 relatedPosts:
