@@ -1,27 +1,30 @@
 ---
 templateKey: category-page
 title: Intranet
-contentTitle: 'Stichwort digitaler Wandel: Wozu dient ein Intranet?'
+contentTitle: Das Intranet als zentraler Baustein des Digital Workplace
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
-  Hier steht die effektive Verknüpfung von Kommunikation, Information und
-  Zusammenarbeit im Unternehmen im Mittelpunkt. Anhand erfahrungsbasierter Tipps
-  und Hintergrundwissen klären wir worauf es, sowohl aus technischer als auch
-  aus zwischenmenschlicher Sicht, bei der erfolgreichen Implementierung einer
-  Intranetlösung in Ihrem Unternehmen ankommt.
+  Erfahren Sie mehr über das effektive Zusammenspiel von Kommunikation,
+  Information und Zusammenarbeit im Intranet. Anhand von Erfahrungsberichten
+  klären wir auf, worauf es sowohl aus technologischer als auch aus kultureller
+  Sicht bei der erfolgreichen Implementierung einer Intranetlösung in
+  Unternehmen ankommt.
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      Der Arbeitsplatz der Mitarbeiter ist längst nicht mehr nur das klassische
+      Unternehmensbüro. Es geht also nicht mehr darum Mitarbeiter vor Ort
+      abzuholen und über relevante Neuigkeiten im Unternehmen zu informieren,
+      sondern darum eine dauerhafte Konnektivität zu relevanten digitalen
+      Systemen im Unternehmen sicherzustellen.
     headline: Ihre Herausforderung
     highlighted: false
   - body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    headline: Was es bringt
+      Ein leistungsfähiges Intranet ist nicht mehr nur als klassisches
+      Informationsmedium für Mitarbeiter zu verstehen, sondern kann richtig
+      eingesetzt, als zentrales Werkzeug für die wirksame Vernetzung von
+      Kommunikation, Information und Zusammenarbeit am Arbeitsplatz dienen.
+    headline: Ihr Nutzen
     highlighted: false
 video: 'https://www.youtube.com/watch?v=ECmyssqhJns'
 successStories:
@@ -30,14 +33,12 @@ successStories:
     post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
 infoBox:
   body: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-    clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-    amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam voluptua.
-  headline: UNSER ANSATZ
+    Für die Etablierung eines leistungsfähigen Intranets als zentraler Baustein
+    Ihres Digital Workplace bedarf es einer auf verschiedene Zielgruppen
+    ausgerichtete Intranet-Plattform. Personalisierung ist der Schlüssel dafür,
+    dass Mitarbeiter ein Intranet als zentralen Knotenpunkt für Ihren
+    persönlichen Digital Workplace nutzen.
+  headline: Unser Ansatz
   image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
 statements:
   - author: Christoph Rauhut
