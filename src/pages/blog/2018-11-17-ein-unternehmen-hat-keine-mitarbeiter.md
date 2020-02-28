@@ -11,6 +11,7 @@ description: >
   Mitarbeiter gegenüber dem Unternehmen gesprochen. Dabei soll heute die
   zentrale Frage sein: Was hat ein Unternehmen gegenüber seinen Mitarbeitern für
   Aufgaben und worin liegt seine Verantwortung?
+category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter
 relatedPosts:
