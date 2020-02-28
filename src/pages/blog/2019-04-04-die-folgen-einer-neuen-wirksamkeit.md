@@ -7,6 +7,7 @@ image: /img/die-folgen-der-neuen-wirksamkeit-2-.png
 description: >-
   Veränderung passiert ständig und in allen Bereichen des Unternehmens. Egal ob
   sie wollen oder nicht.
+category: Neue Wirksamkeit
 tags:
   - Neue Wirksamkeit
 relatedPosts:
