@@ -11,6 +11,7 @@ description: >-
   ein Social Intranet für 500 Mitarbeiter eingeführt. Christin Löffler, Leiterin
   der Unternehmenskommunikation, über die Beweggründe, Umsetzung und dem
   Potential eines Social Intranets.
+category: Intranet
 tags:
   - Kunden
 relatedPosts:
