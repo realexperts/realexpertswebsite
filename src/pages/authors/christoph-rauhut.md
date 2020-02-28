@@ -6,7 +6,7 @@ position: Geschäftsführer
 company: Real Experts Network GmbH
 email: rauhut@realexperts.de
 twitterHandle: '@hut1315'
-image: /img/authors/crauhut.jpg
+image: /img/der-beginn-einer-reise.png
 description: >-
   Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Cras
   sagittis. In turpis. Fusce fermentum.
