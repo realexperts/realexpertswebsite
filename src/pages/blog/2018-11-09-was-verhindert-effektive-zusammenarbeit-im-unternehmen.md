@@ -11,6 +11,7 @@ description: >-
   Widerstand gegen Veränderungen ist erheblich. Kennen Sie das? Gerade
   Führungskräfte sind oft betroffen. Denn es gibt einige Gründe, welche
   effektive Zusammenarbeit verhindern.
+category: Mitarbeiter und Führung
 tags:
   - Effektive Zusammenarbeit
 relatedPosts:
