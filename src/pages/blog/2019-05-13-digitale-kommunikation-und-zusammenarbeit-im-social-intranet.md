@@ -10,6 +10,7 @@ description: >-
   und stellt dafür zunächst in Frage, warum diese Thematik heutzutage so wichtig
   ist und wie relevant auch die jeweiligen persönlichen Vorstellungen der
   Mitarbeiter dazu sind.
+category: Intranet
 tags:
   - Digital Workplace
 relatedPosts:
