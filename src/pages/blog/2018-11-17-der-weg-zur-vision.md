@@ -7,6 +7,7 @@ image: /img/der-weg-zur-vision.png
 description: >-
   Vielleicht kennen Sie das. Das Gefühl zu haben: “So wie es jetzt läuft, läuft
   es nicht gut. Das geht besser. Es muss einen anderen Weg geben.”
+category: Organisationsentwicklung
 tags:
   - Real Experts
 relatedPosts:
