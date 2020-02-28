@@ -11,6 +11,7 @@ description: >-
   und spannenden  neuen Zielen sein. Jeder Mitarbeiter, Kunde und Partner wird
   Teil dieser Reise und gestaltet diese auf individuelle und eigene Art und
   Weise mit. 
+category: Real Experts
 tags:
   - Real Experts
 relatedPosts:
