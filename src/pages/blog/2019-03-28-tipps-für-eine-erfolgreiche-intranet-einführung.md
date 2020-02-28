@@ -9,6 +9,7 @@ description: >-
   Intranets ist gefallen. Die Zeiten, in denen zentrale
   Unternehmensinformationen nicht auffindbar sind oder unternehmenskritische
   Informationen übe
+category: Intranet
 tags:
   - Digital Workplace
 relatedPosts:
