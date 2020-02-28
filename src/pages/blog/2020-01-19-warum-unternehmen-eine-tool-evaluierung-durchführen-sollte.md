@@ -12,8 +12,9 @@ description: >-
   Informations- und Kommunikationstechnologien (IKTs) effizienter zu gestalten.
   Mitarbeiter sollen schließlich vom Potential und der Wirksamkeit digitaler
   Technologien profitieren. 
+category: Software Auswahl
 tags:
-  - Tool Evaluierung
+  - Software Auswahl
 relatedPosts:
   - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
