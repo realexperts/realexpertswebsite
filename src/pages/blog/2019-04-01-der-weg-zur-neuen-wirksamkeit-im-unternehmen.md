@@ -8,6 +8,7 @@ description: >-
   Eine wirkliche Veränderung im Unternehmen,  welche insbesondere die Menschen
   und deren Persönlichkeiten betrifft, ist keine triviale Aufgabe. Gerade wenn
   es Dinge gibt, die bisher keiner kannte oder je so gemacht wurden
+category: Neue Wirksamkeit
 tags:
   - Neue Wirksamkeit
 relatedPosts:
