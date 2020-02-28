@@ -1,373 +1,51 @@
 @import "~bulma/sass/utilities/initial-variables";
 @import "./variables";
 
-// Tablet
-//
-//@media screen and (min-width: 769px) and (max-width: 1200px) {
-//
-//  .post-block {
-//    max-width: 100%;
-//    display: flex;
-//    flex-direction: row;
-//    padding: 0;
-//    border-top: none;
-//    overflow: hidden;
-//    margin: 0 0 30px 0;
-//
-//    &:last-child {
-//      margin: 0 0 0 0;
-//    }
-//
-//    .image-type-normal,
-//    .image-type-top {
-//      flex: 2;
-//      height: auto;
-//      margin: 0 0;
-//    }
-//
-//    .post-content {
-//      flex: 3;
-//      display: flex;
-//      flex-direction: column;
-//      padding-left: 25px;
-//      margin-top: 10px;
-//
-//      .taglist {
-//        margin: -5px 0 0 -10px;
-//      }
-//
-//      a {
-//        h4 {
-//          margin-top: -7px;
-//        }
-//      }
-//
-//    }
-//  }
-//
-//  .content {
-//    align-items: stretch;
-//  }
-//
-//  header {
-//
-//    nav {
-//
-//      height: 60px;
-//
-//      .navigation-bar-logo {
-//        figure {
-//          padding: 20px 20px;
-//          margin: 0 0;
-//        }
-//      }
-//
-//      .navigation-bar-burger {
-//        width: 80px;
-//        height: 80px;
-//        display: block;
-//      }
-//
-//      .navigation-bar-menu {
-//        z-index: 1;
-//        position: absolute;
-//        width: 0;
-//        overflow: hidden;
-//        background-color: #dfe5f0;
-//        top: 60px;
-//        left: 100%;
-//        right: 0;
-//        margin: 0 0;
-//        padding: 15px 0;
-//        display: flex;
-//        flex-direction: column;
-//        align-items: center;
-//        transition: all 0.4s;
-//
-//        &.is-active {
-//          left: 0;
-//          width: 100%;
-//        }
-//
-//        .navigation-bar-item {
-//          margin-top: 10px;
-//          margin-bottom: 10px;
-//          text-align: center;
-//          padding: 10px;
-//          color: $primary;
-//
-//          &.is-active {
-//            color: #7D98C6;
-//          }
-//        }
-//      }
-//    }
-//
-//  }
-//
-//  main {
-//
-//    .blog {
-//
-//      padding-top: 40px;
-//
-//      .top-posts {
-//
-//        flex-direction: column;
-//
-//        .post.featured {
-//          flex-direction: column;
-//          margin-bottom: 30px;
-//
-//          .image-type-featured {
-//            width: 100%;
-//          }
-//
-//          .post-content {
-//            margin-left: 0;
-//            width: 100%;
-//            border-bottom: none;
-//          }
-//        }
-//
-//        .post.top {
-//          @extend .post-block;
-//        }
-//      }
-//
-//      .all-posts {
-//
-//        flex-direction: column;
-//        margin-top: 30px;
-//
-//        .post.normal {
-//          @extend .post-block
-//        }
-//      }
-//
-//    }
-//
-//    section,
-//    .section {
-//      margin: 30px;
-//
-//      .hero {
-//
-//        margin-left: -40px;
-//        margin-right: -40px;
-//
-//        .claim {
-//          width: 60%;
-//          padding-top: 80px;
-//        }
-//      }
-//
-//      .page-content {
-//
-//        .thesis-wrapper {
-//          flex-direction: column;
-//        }
-//
-//        .thesis {
-//          padding-top: 20px;
-//          padding-bottom: 20px;
-//        }
-//
-//        .top-posts {
-//
-//          flex-direction: column;
-//
-//          .post.top {
-//            max-width: 100%;
-//            float: left;
-//            display: block;
-//
-//            .image-type-top {
-//              width: 37%;
-//              float: left;
-//              height: auto;
-//            }
-//
-//            .post-content {
-//              display: flex;
-//              flex-direction: column;
-//              padding-left: 25px;
-//
-//              .taglist {
-//                margin: 0;
-//              }
-//
-//              .post-content-excerpt {
-//                padding-bottom: 40px;
-//              }
-//
-//            }
-//          }
-//        }
-//
-//        .featured-video-wrapper {
-//          margin-left: -40px;
-//          margin-right: -40px;
-//          padding: 40px 0;
-//
-//          .featured-video {
-//            width: 90%;
-//            margin-left: auto;
-//            margin-right: auto;
-//          }
-//        }
-//      }
-//    }
-//
-//    .blog-post {
-//
-//      padding-top: 60px;
-//      flex-direction: column;
-//
-//      &.has-related-posts {
-//        margin-bottom: 470px;
-//      }
-//
-//      .image-type-featured {
-//        margin-bottom: 30px;
-//        height: auto;
-//      }
-//
-//      .content {
-//        width: 100%;
-//        margin-left: 0;
-//        margin-right: 0;
-//      }
-//
-//      .blog-post-author {
-//        width: 100%;
-//        float: left;
-//
-//        .gatsby-image-outer-wrapper {
-//          width: 100px;
-//          margin-right: 2%;
-//          float: left;
-//          margin-bottom: 30px;
-//        }
-//
-//        .wrapper-for-tablet {
-//          float: left;
-//          margin-left: 20px;
-//
-//          .blog-author-info {
-//
-//            .title {
-//              margin-top: 0;
-//            }
-//
-//            .release-date {
-//              margin-bottom: 30px;
-//            }
-//          }
-//        }
-//      }
-//
-//      .post-social {
-//        flex-direction: row;
-//        width: auto;
-//        padding-bottom: 20px;
-//        margin-top: 60px;
-//
-//        .SocialMediaShareButton {
-//          margin-right: 10px;
-//        }
-//
-//        border-bottom: $grey solid 1px;
-//      }
-//
-//      .post-category {
-//        margin-left: 0;
-//        margin-top: -110px;
-//        border: none;
-//      }
-//
-//      .overview-link {
-//        margin-left: 0;
-//        margin-top: 80px;
-//        margin-bottom: 30px;
-//      }
-//
-//      .related-posts {
-//
-//        //bottom: auto;
-//
-//        .related-posts-wrapper {
-//
-//          padding: 0 30px;
-//
-//          .related-posts-wrapper-inner {
-//            margin: 0 0;
-//
-//            .related-posts-list-wrapper {
-//
-//              .related-posts-list {
-//                .post.related {
-//                  width: 35%;
-//
-//                  &:first-child {
-//                    padding-left: 0;
-//                    border-left: none;
-//                  }
-//
-//                  &:nth-child(3) {
-//                    border-right: none;
-//                    padding-right: 0;
-//                  }
-//                }
-//              }
-//            }
-//          }
-//        }
-//      }
-//    }
-//  }
-//
-//  .contact-form-footer {
-//
-//    .section {
-//      display: block;
-//      margin: 30px;
-//    }
-//  }
-//
-//  .footer-links {
-//
-//    section {
-//      display: block;
-//      margin: 30px;
-//
-//      .footer-links-content {
-//        display: block;
-//
-//        .footer-links-menu-column {
-//          display: inline-block;
-//          width: 50%;
-//          margin-bottom: 30px;
-//
-//          .footer-links-menu-title {
-//            height: auto;
-//          }
-//        }
-//      }
-//    }
-//  }
-//
-//  .footer {
-//
-//    width: 100%;
-//    padding: 30px;
-//
-//    .footer-container {
-//      width: 100%;
-//      padding: 0 0;
-//    }
-//  }
-//}
+@media screen and (min-width: 769px) and (max-width: 1200px) {
+
+  header {
+    
+    max-width: 1200px;
+    
+    .navbar-wrapper.navbar-scrolled,
+    .navbar-wrapper.navbar-at-top {
+
+     nav {
+      .navigation-bar-menu {
+        margin-left: 250px;
+      }
+
+      .navigation-bar-logo {
+        margin-left: 20px;
+      }
+    }
+
+  }
+
+}
+
+  main {
+        padding: 0 20px;
+  }
+
+  .contact-form-footer {
+        padding: 0 20px;
+
+    .contact-form-footer-content {
+      margin-left: 0;
+      margin-right: 0;
+
+      .section {
+        padding: 0 20px;
+      }
+    } 
+  }
+
+  .footer-links {
+    padding: 0 20px;
+  }
+
+}
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
 
@@ -496,8 +174,8 @@
 
       .hero {
         height: auto;
-        margin-left: -20px;
-        margin-right: -20px;
+        margin-left: 0;
+        margin-right: 0;
 
         .gatsby-image-wrapper {
 
@@ -1145,12 +823,14 @@
             &.image-top-scrolling {
               display: block;
               opacity: 1;
+              max-width: 70%;
             }
           }
 
         }
 
         .navigation-bar-burger {
+          max-width: 20%;
           width: 80px;
           height: 80px;
           display: block;
@@ -1178,7 +858,7 @@
           &.is-active {
             transition: all 0.4s;
             opacity: 1;
-            height: 190px
+            height: 140px
           }
 
           .navigation-bar-item {
@@ -1187,6 +867,8 @@
             padding: 10px;
             color: $primary;
             top: 0;
+            font-size: 15px;
+            line-height: 12px;
 
             &.is-active {
               color: $secondary;
