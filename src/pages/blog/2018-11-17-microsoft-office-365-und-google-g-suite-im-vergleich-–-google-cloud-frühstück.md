@@ -12,6 +12,7 @@ description: >-
   insbesondere einzelne Funktionen sowie Vor- und Nachteile bei der Nutzung von
   Google G Suite. Achtung Spoiler: G Suite ist ein innovativer Herausforderer
   für den bis Dato vorherrschenden Platzhirsch Office 365.    
+category: Software Auswahl
 tags:
   - Technologien
 relatedPosts:
