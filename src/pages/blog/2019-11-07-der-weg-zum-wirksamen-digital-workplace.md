@@ -12,6 +12,7 @@ description: >-
   Frage, mit der uns unsere Kunden in Einführungsprojekten immer wieder
   konfrontieren, lautet: “Welche Phasen durchläuft man üblicherweise bis zu zur
   Etablierung eines wirksamen Digital Workplace?” 
+category: Digital Workplace
 tags:
   - Digital Workplace
 relatedPosts:
