@@ -773,6 +773,10 @@ main {
 
   .blog-post {
 
+    &.has-related-posts{
+        margin: 0 0;
+    }
+
     h1 {
       font-size: 40px;
 
@@ -873,6 +877,8 @@ main {
           background-color: #879fc9;
         }
       }
+
+
     }
 
     .post-category {
@@ -947,6 +953,8 @@ main {
       align-items: center;
       padding: 40px 0;
       background-color: #FFF;
+      margin-left: -160px;
+      margin-right: -160px;
       -webkit-box-shadow: 0 -12px 26px 0 rgba(102, 102, 102, 0.2);
       -moz-box-shadow: 0 -12px 26px 0 rgba(102, 102, 102, 0.2);
       box-shadow: 0 -12px 26px 0 rgba(102, 102, 102, 0.2);
@@ -1199,7 +1207,7 @@ a.more {
 
   }
 
-  
+
 }
 
 .contact-form {
@@ -1259,7 +1267,7 @@ a.more {
   section {
     display: flex;
     flex-direction: column;
-    
+
     .footer-links-content {
       display: flex;
       margin-bottom: 50px;
@@ -1295,7 +1303,7 @@ a.more {
     .footer-links-logo-esf-smartphone {
       display: none;
     }
-    
+
     .footer-links-logo-esf img {
       width: 700px;
       height: auto;

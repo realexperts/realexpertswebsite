@@ -23,7 +23,7 @@ const TemplateWrapper = ({children, noHeader}) => {
       <main>
         {children}
       </main>
-      {path !== '/kontakt' &&
+      {path.indexOf("kontakt") === -1 &&
         <FooterContactForm/>
       }
       <FooterLinks/>

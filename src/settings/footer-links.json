@@ -1,14 +1,4 @@
 {
   "id": "footer-links-settings",
-  "footerLinks": [
-    {
-      "title": "Unternehmen",
-      "links": [
-        {
-          "title": "Über uns",
-          "url": "/"
-        }
-      ]
-    }
-  ]
+  "footerLinks": []
 }

@@ -11,17 +11,22 @@ const FooterLink = ({title, link}) => {
 };
 
 const FooterLinkSection = ({data}) => {
-  const links = data.links.map((item, key) => {
-    return (
-      <FooterLink title={item.title} link={item.url} key={key}/>
-    )}
-  );
+  if (data.links) {
+    const links = data.links.map((item, key) => {
+      return (
+        <FooterLink title={item.title} link={item.url} key={key}/>
+      )}
+    );
 
-  return (
-    <ul>
-      {links}
-    </ul>
-  );
+    return (
+      <ul>
+        {links}
+      </ul>
+    );
+  } else {
+    return null
+  }
+
 };
 
 const FooterLinks = () => {
@@ -32,19 +37,26 @@ const FooterLinks = () => {
     desktopImage
   } = useFooterLinks();
 
-  const linkSections = settings.footerLinks.map((item, key) => (
-    <div className="footer-links-menu-column" key={key}>
-      <span className="footer-links-menu-title">{item.title}</span>
-      <FooterLinkSection data={item}/>
-    </div>
-  ));
+  var linkSections;
+  if (settings && settings.footerLinks) {
+    linkSections = settings.footerLinks.map((item, key) => (
+      <div className="footer-links-menu-column" key={key}>
+        <span className="footer-links-menu-title">{item.title}</span>
+        <FooterLinkSection data={item}/>
+      </div>
+    ));
+  }
+
 
   return (
     <div className="footer-links">
       <section>
+        {
+          linkSections != null &&
         <div className="footer-links-content">
           {linkSections}
         </div>
+        }
         <div>
           <a href="http://www.strukturfonds.sachsen.de/europaeischer-sozialfonds-esf.html" className="footer-links-logo-esf-smartphone">
             <img src={mobileImage.childImageSharp.fluid.src} alt="Logo ESF Sachsen mobil" />

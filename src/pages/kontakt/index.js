@@ -49,14 +49,6 @@ class ContactPage extends React.Component {
             latitude,
             longitude,
           },
-          socialMedia: {
-            facebook,
-            instagram,
-            linkedin,
-            twitter,
-            xing,
-            youtube
-          }
         },
       },
     } = this.props.data;
@@ -81,26 +73,6 @@ class ContactPage extends React.Component {
                     {fax}<br/>
                     E-Mail: <a href={`mailto:${email}`}>{email}</a>
                   </p>
-                  <div className="contact-social-media-container">
-                    <a href={facebook} className="contact-social-media-link">
-                      <img src={facebookIcon} alt="Facebook"/>
-                    </a>
-                    <a href={instagram} className="contact-social-media-link">
-                      <img src={instagramIcon} alt="Instagramm"/>
-                    </a>
-                    <a href={linkedin} className="contact-social-media-link">
-                      <img src={linkedinIcon} alt="Linkedin"/>
-                    </a>
-                    <a href={twitter} className="contact-social-media-link">
-                      <img src={twitterIcon} alt="Twitter"/>
-                    </a>
-                    <a href={xing} className="contact-social-media-link">
-                      <img src={xingIcon} alt="Xing"/>
-                    </a>
-                    <a href={youtube} className="contact-social-media-link">
-                      <img src={youtubeIcon} alt="Youtube"/>
-                    </a>
-                  </div>
                 </div>
                 <div className="contact-form-block">
                   <ContactForm/>
@@ -164,14 +136,6 @@ export const contactPageQuery = graphql`
           latitude
           longitude
         }
-        socialMedia {
-            facebook
-            instagram
-            linkedin
-            twitter
-            xing
-            youtube
-        }  
       }
     }
   }

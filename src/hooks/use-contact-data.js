@@ -12,15 +12,6 @@ export const useContactData = () => {
           }
           contactInfo {
             title
-            footerContent
-            socialMedia {
-              facebook
-              instagram
-              linkedin
-              twitter
-              xing
-              youtube
-            }
           }
         }
       }

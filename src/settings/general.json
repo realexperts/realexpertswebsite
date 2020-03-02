@@ -19,16 +19,7 @@
     "location": {
       "latitude": 51.052266,
       "longitude": 13.7214423
-    },
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "linkedin": "",
-      "twitter": "",
-      "xing": "",
-      "youtube": ""
-    },
-    "footerContent": ""
+    }
   },
   "posts": {
     "frontLimit": "3",
