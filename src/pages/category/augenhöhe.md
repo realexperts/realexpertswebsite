@@ -1,6 +1,6 @@
 ---
 templateKey: category-page
-title: Augenhöhe
+title: Augenhöhe (entfällt)
 contentTitle: Auf dem Weg zum AUGENHÖHEwegbegleiter
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
