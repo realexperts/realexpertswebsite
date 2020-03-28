@@ -12,7 +12,7 @@ claim:
 thesis:
   - body: >-
       Für unsere Kunden entwickeln wir Strategien und Lösungen für eine neue
-      Form der Zusammenarbeit, Kommunikation und des Miteinanders im
+      Form des digitalen Arbeitens, der Kommunikation und des Miteinanders im
       Unternehmen. Wir begleiten bei der Konzeption und Umsetzung. Unser Ziel
       ist ein nachhaltiger Wandel und die Befähigung jeder Organisation.
     headline: Was wir machen
@@ -21,8 +21,9 @@ thesis:
       Real Experts erschafft eine nie dagewesene Form einer freien,
       selbstorganisierten und leistungsfähigen Art und Weise der Zusammenarbeit
       in einem skalierbaren Netzwerk. Nur dadurch können individuelle und
-      nachhaltige Lösungen für den Kunden entstehen. Wir haben genau die
-      Expertisen für die Aufgaben und Herausforderungen in Ihrem Unternehmen.
+      nachhaltige Lösungen für unsere Kunden entstehen. Wir haben genau die
+      Experten und Fähigkeiten für die Aufgaben und Herausforderungen in Ihrem
+      Unternehmen.
     headline: Wie wir arbeiten
     highlighted: true
 video: 'https://youtu.be/-YneU6yfowY'
