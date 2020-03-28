@@ -3,9 +3,10 @@ templateKey: portfolio-page
 title: Digitalisierung und Arbeitsplatz
 headerImage: /img/real-experts-header-portfolio.png
 description: >-
-  Wir stellen uns zusammen mit Ihnen den technologischen, kulturellen und
-  organisatorischen Herausforderungen, welche die Einführung eines digitalen
-  Arbeitsplatzes mit sich bringt.
+  Die Digitalisierung verändert unsere Arbeitswelt in einer nie dagewesenen Art
+  und Weise. Jedes Unternehmen und alle Mitarbeiter werden von den neuen
+  Möglichkeiten profitieren. Mach Sie sich gemeinsam mit uns auf den Weg die
+  Potentiale der digitalen Arbeitswelt zu entdecken. 
 featuredPost: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
 categories:
   - category: Digital Workplace
