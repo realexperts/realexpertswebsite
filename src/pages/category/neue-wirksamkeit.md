@@ -1,26 +1,29 @@
 ---
 templateKey: category-page
 title: Neue Wirksamkeit
-contentTitle: New Work Hype - was steckt dahinter?
+contentTitle: Der Weg zu einer neuen Wirksamkeit im Unternehmen
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
-  Wir erklären, wie im Angesicht von Digitalisierung und New Work
-  Veränderungsprozesse in Unternehmen wirksam gestaltet werden können und
-  welchen nachhaltigen Vorteil Sie als Führungskraft für Ihr Unternehmen daraus
-  ziehen.
+  Die Potentiale einer neuen Form des Arbeitens in Unternehmen sind riesig. Die
+  Methoden und Technologien sind bereits alle vorhanden. Ein "Geht nicht" wird
+  es so nicht mehr geben. Entdecken Sie diese Möglichkeiten für Ihre Unternehmen
+  und entfalten Sie somit die Potentiale aller Mitarbeiter.
 thumbnail: /img/new-work-geht-nicht-gibt-es-nicht.png
 thesis:
   - body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      Das Dilemma des neuen Arbeitens - alles ist machbar aber nichts
+      funktioniert. Unternehmen probieren neue Dinge aber eine nachhaltige
+      Veränderung bleibt aus. Viele wissen nicht wie es beginnt und wie alle
+      Mitarbeiter im Unternehmen auf den Weg der Veränderung mitgehen können.
     headline: Ihre Herausforderung
     highlighted: false
   - body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      irmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    headline: Was es bringt
+      Jedes Unternehmen mit einer klaren Überzeugen, einer bewussten
+      Selbstverantwortung kann den eigenen Weg der Veränderung gestalten und
+      gehen. Durch unsere Impulse und Begleitung schaffen Sie den  Raum für
+      diese Veränderung. Sie werden erkennen und eigenverantwortlich ins Tun
+      kommen.
+    headline: Ihr Nutzen
     highlighted: false
 video: 'https://youtu.be/ScMzIvxBSi4'
 successStories:
