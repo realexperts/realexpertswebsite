@@ -1179,6 +1179,10 @@ a.more {
             flex: 1;
             padding: 0 50px 0 0;
 
+            .contact-content-text {
+              color: $primary;
+            }
+
             .contact-social-media-container {
               text-align: center;
 

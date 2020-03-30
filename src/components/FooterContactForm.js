@@ -6,7 +6,8 @@ const FooterContactForm = () => {
 
   const {
     contactInfo: {
-      title
+      title,
+      content
     },
   } = useContactData();
 
@@ -17,6 +18,9 @@ const FooterContactForm = () => {
           <div className="contact-content">
             <div className="contact-information">
               <h3 className="contact-title">{title}</h3>
+              <div className="contact-content-text">
+                {content}
+              </div>
             </div>
             <div className="contact-form-wrapper">
               <ContactForm/>

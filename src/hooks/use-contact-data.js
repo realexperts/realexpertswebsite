@@ -12,6 +12,7 @@ export const useContactData = () => {
           }
           contactInfo {
             title
+            content
           }
         }
       }
