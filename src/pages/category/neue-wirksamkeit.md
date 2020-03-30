@@ -6,7 +6,7 @@ headerImage: /img/real-experts-header-kategorie.png
 description: >-
   Die Potentiale einer neuen Form des Arbeitens in Unternehmen sind riesig. Die
   Methoden und Technologien sind bereits alle vorhanden. Ein "Geht nicht" wird
-  es so nicht mehr geben. Entdecken Sie diese Möglichkeiten für Ihre Unternehmen
+  es so nicht mehr geben. Entdecken Sie diese Möglichkeiten für Ihr Unternehmen
   und entfalten Sie somit die Potentiale aller Mitarbeiter.
 thumbnail: /img/new-work-geht-nicht-gibt-es-nicht.png
 thesis:
@@ -21,7 +21,7 @@ thesis:
       Jedes Unternehmen mit einer klaren Überzeugen, einer bewussten
       Selbstverantwortung kann den eigenen Weg der Veränderung gestalten und
       gehen. Durch unsere Impulse und Begleitung schaffen Sie den  Raum für
-      diese Veränderung. Sie werden erkennen und eigenverantwortlich ins Tun
+      diese Veränderung. Sie werden erkennen und eigenverantwortlich ins Handel
       kommen.
     headline: Ihr Nutzen
     highlighted: false
