@@ -110,24 +110,30 @@ export const CategoryPageTemplate = ({data}) => {
                                              />
                             </div>
                         </div>
+
+                        { successStories.length > 0 &&
                         <div className="success-stories-wrapper">
                           <h2>Erfolgsgeschichten</h2>
                           <div className="success-stories">
                             {successStories}
                           </div>
                         </div>
+                        }
                     </div>
+
                     <div className="category-info-box-wrapper">
-                        <div className="category-info-box">
-                            <div className="info-box-content">
-                              <h2>{data.frontmatter.infoBox.headline}</h2>
-                              <p>{data.frontmatter.infoBox.body}</p>
-                            </div>
-                            <div className="info-box-image">
-                                <Img fluid={data.fields.infoBoxImage.childImageSharp.fluid}/>
-                            </div>
+                      <div className="category-info-box">
+                        <div className="info-box-content">
+                          <h2>{data.frontmatter.infoBox.headline}</h2>
+                          <p>{data.frontmatter.infoBox.body}</p>
                         </div>
+                        <div className="info-box-image">
+                          <Img fluid={data.fields.infoBoxImage.childImageSharp.fluid}/>
+                        </div>
+                      </div>
                     </div>
+
+                  { statements.length > 0 &&
                     <div className="statements-wrapper">
                         <div className="statements-content">
                             <CarouselProvider
@@ -147,6 +153,8 @@ export const CategoryPageTemplate = ({data}) => {
                             </CarouselProvider>
                         </div>
                     </div>
+                  }
+
                     <div className="posts">
                         <h2>Top Beiträge</h2>
                         <div className="top-posts">
