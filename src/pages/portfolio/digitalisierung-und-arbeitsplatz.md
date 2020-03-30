@@ -9,7 +9,7 @@ description: >-
   Potentiale der digitalen Arbeitswelt zu entdecken. 
 featuredPost: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
 categories:
-  - category: Digital Workplace
+  - category: Digitaler Arbeitsplatz
   - category: Intranet
   - category: Software Auswahl
 relatedPosts:
