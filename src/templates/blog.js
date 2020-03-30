@@ -98,6 +98,7 @@ BlogIndexPage.propTypes = {
           fields: PropTypes.shape({
             slug: PropTypes.string,
             image: PropTypes.object,
+            category: PropTypes.object,
           }),
         })),
       }),
@@ -131,6 +132,14 @@ export const pageQuery = graphql`
           }
           fields {
             slug
+            category {
+              fields {
+                  slug
+              }
+              frontmatter {
+                  title
+              }
+            }
             image {
               id
               childImageSharp {
@@ -155,6 +164,14 @@ export const pageQuery = graphql`
           id
           fields {
             slug
+            category {
+                fields {
+                    slug
+                }
+                frontmatter {
+                    title
+                }
+            }
             image {
               childImageSharp {
                 fluid(maxWidth: 630) {
