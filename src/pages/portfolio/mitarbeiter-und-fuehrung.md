@@ -9,8 +9,8 @@ description: >-
   sind Wegbegleiter und Coach für Ihre Organisation. 
 featuredPost: Der Weg zur Vision
 categories:
-  - category: Organisationsentwicklung
   - category: Mitarbeiter und Führung
+  - category: Organisationsentwicklung
   - category: Neue Wirksamkeit
 relatedPosts:
   - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
