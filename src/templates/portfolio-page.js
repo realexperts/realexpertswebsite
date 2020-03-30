@@ -24,11 +24,11 @@ export const PortfolioPageTemplate = ({data}) => {
       <BlogPostTeaser key={post.id} type='top' post={post}/>
     ));
   }
-
+  
   return (
     <Layout>
       <section className='category'>
-        <Helmet title={data.name} link={[
+        <Helmet title={`${data.frontmatter.title}`} link={[
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
         ]}/>
         <div className="hero">
