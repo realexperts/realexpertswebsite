@@ -6,8 +6,9 @@ headerImage: /img/real-experts-header-kategorie.png
 description: >
   Jedes Unternehmen sollte ein klares und starkes Wofür haben, mit dem sich alle
   Mitarbeiter verbinden können. Nur so kann das gemeinsame Feuer brennen und nur
-  so lassen sich die vorhandenen Potentiale voll entfalten. Das schafft Erfolg
-  für das Unternehmen und für jeden einzelnen Mitarbeiter. 
+  so lassen sich die vorhandenen Potentiale voll entfalten. 
+
+  Das schafft Erfolg für das Unternehmen und für jeden einzelnen Mitarbeiter. 
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
