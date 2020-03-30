@@ -6,7 +6,7 @@ headerImage: /img/real-experts-header-kategorie.png
 description: >-
   Jede Organisation hat die Fähigkeiten und Menschen um eine positive
   Entwicklung gelingen zu lassen. Es ist alles schon da. Entdecken Sie diese
-  Fähigkeiten und bringen Sie das was in den Mitarbeitern steckt zu Tage. Die
+  Fähigkeiten und bringen Sie das was in den Mitarbeitern zum Vorscheinen. Die
   Veränderung entwickelt sich von Innen heraus. So werden Lösungen für die
   brennenden Fragen in Ihrer Organisation gefunden. 
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
@@ -14,14 +14,14 @@ thesis:
   - body: >-
       Viele Mitarbeiter und Führungskräfte spüren sehr genau wann sich eine
       Organisation weiterentwickeln sollte. Häufig werden diese Erwartungen und
-      Wünsche nicht offen gelegt und aktiv wahrgenommen. Es fehlt ein klar
-      formuliertes Wofür und das Ziel einer Entwicklung.
+      Wünsche nicht offen gelegt und aktiv wahrgenommen. Es fehlt die
+      Initiative, der Mut und das große Ziel einer Entwicklung.
     headline: Ihre Herausforderung
     highlighted: false
   - body: >-
       Mit den richtigen Rahmenbedingungen und Formaten lässt sich die
-      Entwicklung einer Organisation starten und erkennen was am meisten
-      gebraucht wird. Mit Mut und engagierten First-Followern beginnt die
+      Entwicklung einer Organisation starten und erkennen was am dringendsten
+      gebraucht wird. Mit Mut und engagierten Mitarbeitern beginnt die
       Veränderung im Kleinen und findet somit Einzug ins gesamte Unternehmen. So
       gelingt die Entwicklung jeder Organisation.
     headline: Ihr Nutzen
