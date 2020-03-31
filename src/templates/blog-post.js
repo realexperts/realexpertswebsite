@@ -8,6 +8,7 @@ import SocialButtons from '../components/SocialButtons';
 import SEO from '../components/SEO';
 import arrowLeft from '../img/icons/arrow-left.svg';
 import Layout from '../components/layout';
+import Helmet from 'react-helmet';
 
 export const BlogPostTemplate = ({
   content,
@@ -21,7 +22,8 @@ export const BlogPostTemplate = ({
   author,
   relatedPosts,
   socialConfig,
-  category
+  category,
+  settings
 }) => {
   const PostContent = contentComponent || Content;
   const relatedPostsContent = !relatedPosts ? null : relatedPosts.map(post => (
@@ -31,6 +33,7 @@ export const BlogPostTemplate = ({
   return (
     <Layout noHeader={true}>
       <section className={'blog-post ' + (relatedPosts !== null ? 'has-related-posts' : '')}>
+        <Helmet title={`${title} | ${settings.global.title}`} />
         <div className="page-content">
           <div className="content-block-wrapper">
             <div className="content-block">
@@ -218,6 +221,7 @@ class BlogPost extends React.Component {
                           },
                         }}
                         category={category}
+                        settings={this.props.data.settings}
                         />
     );
   }

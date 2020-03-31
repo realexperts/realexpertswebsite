@@ -10,7 +10,7 @@ import favicon from '../img/favicon.ico';
 import BackgroundImage from 'gatsby-background-image';
 import FeaturedBlogPost from '../components/FeaturedBlogPost';
 
-export const PortfolioPageTemplate = ({data}) => {
+export const PortfolioPageTemplate = ({data, settings}) => {
   let categories = [];
   if(data.fields.categories){
     categories = data.fields.categories.map((category, index) => (
@@ -28,7 +28,7 @@ export const PortfolioPageTemplate = ({data}) => {
   return (
     <Layout>
       <section className='category'>
-        <Helmet title={`${data.frontmatter.title}`} link={[
+        <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
         ]}/>
         <div className="hero">
@@ -74,9 +74,12 @@ PortfolioPageTemplate.propTypes = {
 };
 
 const PortfolioPage = ({data}) => {
-  const {markdownRemark: post} = data;
+  const {
+    settings,
+    markdownRemark: post
+  } = data;
   return (
-    <PortfolioPageTemplate contentComponent={HTMLContent} data={post}/>
+    <PortfolioPageTemplate contentComponent={HTMLContent} data={post} settings={settings}/>
   );
 };
 
