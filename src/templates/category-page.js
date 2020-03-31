@@ -120,7 +120,7 @@ export const CategoryPageTemplate = ({data, settings}) => {
                         </div>
                         }
                     </div>
-
+                    {data.frontmatter.infoBox.headline != null && data.frontmatter.infoBox.headline.length > 0 &&
                     <div className="category-info-box-wrapper">
                       <div className="category-info-box">
                         <div className="info-box-content">
@@ -132,7 +132,7 @@ export const CategoryPageTemplate = ({data, settings}) => {
                         </div>
                       </div>
                     </div>
-
+                    }
                   { statements.length > 0 &&
                     <div className="statements-wrapper">
                         <div className="statements-content">
