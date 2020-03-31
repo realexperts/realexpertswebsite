@@ -10,6 +10,7 @@ categories:
   - category: Partner und Netzwerk
   - category: Real Experts als Arbeitgeber
   - category: Engagement
+  - category: Augenhöhe
 relatedPosts:
   - post: Andres Kühn - Partner im Real Experts Netzwerk
 ---

@@ -51,7 +51,8 @@ statements:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
   - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
+  - post: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
 ---
 

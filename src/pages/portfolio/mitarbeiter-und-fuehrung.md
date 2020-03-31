@@ -13,8 +13,8 @@ categories:
   - category: Organisationsentwicklung
   - category: Neue Wirksamkeit
 relatedPosts:
-  - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
-  - post: Wissensmanagement und Zusammenarbeit bei Real Experts
-  - post: Marco Meirich - Partner im Real Experts Netzwerk
+  - post: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
+  - post: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
+  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
 ---
 

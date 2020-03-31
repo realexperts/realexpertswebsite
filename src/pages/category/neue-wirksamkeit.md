@@ -26,10 +26,7 @@ thesis:
     headline: Ihr Nutzen
     highlighted: false
 video: 'https://youtu.be/ScMzIvxBSi4'
-successStories:
-  - customerName: IPROconsult
-    image: /img/vorlage_logos3-1-1024x259.jpg
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
+successStories: []
 infoBox:
   body: >-
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -49,6 +46,9 @@ statements:
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
     image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
-  - post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
+  - post: 'Neues Arbeiten - Geht nicht, gibt es nicht.'
+  - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
+  - post: Die Folgen einer neuen Wirksamkeit
+  - post: 'Entdecke das Potential, den Kern von New Work'
 ---
 

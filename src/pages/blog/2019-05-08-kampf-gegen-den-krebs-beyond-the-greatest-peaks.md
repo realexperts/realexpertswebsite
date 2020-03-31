@@ -9,7 +9,7 @@ description: >-
   Indien, welche unter dem Motto “BEYOND THE GREATEST PEAKS” steht. 
 category: Real Experts
 tags:
-  - Partner
+  - Engagement
 relatedPosts:
   - post: Andres Kühn - Partner im Real Experts Netzwerk
   - post: Dr. Jenny Meyer - Partnerin im Real Experts Network

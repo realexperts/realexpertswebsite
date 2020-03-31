@@ -10,9 +10,9 @@ description: >-
   Ich weiß, beim Intranet im Jahr 2019 von einem Trendthema zu sprechen, ist
   natürlich eine wirklich gewagte These zum Start. Deshalb aufgepasst: Next
   Generation “Front-Door-Intranet”. Dazu gleich mehr! 
-category: Digital Workplace
+category: Intranet
 tags:
-  - Digital Workplace
+  - Intranet
 relatedPosts:
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
   - post: Digitale Heimat mit einem Social Intranet von COYO

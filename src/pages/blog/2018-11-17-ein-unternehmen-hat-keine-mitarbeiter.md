@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Ein Unternehmen hat keine Mitarbeiter
 date: '2018-09-05T14:31:41+02:00'
 author: Peggy Kopkow
-image: /img/ein-unternehmen-hat-keine-mitarbeiter-2.png
+image: /img/header-mitarbeiter-und-führung.png
 description: >
   ...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von
   einem seelenlosen, ausschließlich profitorientierten Unternehmen, das nur von
@@ -13,11 +13,11 @@ description: >
   Aufgaben und worin liegt seine Verantwortung?
 category: Mitarbeiter und Führung
 tags:
-  - Mitarbeiter
+  - Mitarbeiter und Führung
 relatedPosts:
-  - post: Das Why und die Vision von Real Experts - Podcast
-  - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
-  - post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
+  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
 ---
 ...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von einem seelenlosen, ausschließlich profitorientierten Unternehmen, das nur von der Führungsetage rumdelegiert wird. Immerzu wird von der Verantwortung der Mitarbeiter gegenüber dem Unternehmen gesprochen. Dabei soll heute die zentrale Frage sein: Was hat ein Unternehmen gegenüber seinen Mitarbeitern für Aufgaben und worin liegt seine Verantwortung?
 
@@ -36,5 +36,3 @@ Und wenn man als Führungskraft an seine Mitarbeiter glaubt, dann kann man sie a
 ## Welches Unternehmen macht das denn bitte?
 
 Genau das Unternehmen, das Werte wie Loyalität, Vertrauen, Wertschätzung und Achtsamkeit nach innen zu den Mitarbeitern sowie nach außen zu den Kunden lebt. So wird ein Unternehmen immer nur die Mitarbeiter anziehen und halten können, die es sich verdient. Und genauso steht es mit den Kunden. Denn dieser kauft nicht nur die Beratungsleistung, sondern auch den Geist des Unternehmens. Und dieser wird zum größten Teil von den Mitarbeitern gebildet. Förderung, Verantwortung gegenüber den Mitarbeitern, Mitarbeiterbindung, aber auch Erfolg und Gewinn hängen stark miteinander zusammen. Denn Ihnen als Führungskraft kann nichts Besseres passieren, als wenn Ihre Mitarbeiter Ihr Unternehmen mitgestalten wollen.
-
-Foto: Sarah Jürgel

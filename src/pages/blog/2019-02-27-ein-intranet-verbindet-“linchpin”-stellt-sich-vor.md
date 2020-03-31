@@ -12,7 +12,7 @@ description: >
   können. Ein Grund mehr sich genauer mit der Technologie auseinanderzusetzen.
 category: Intranet
 tags:
-  - Digital Workplace
+  - Intranet
 relatedPosts:
   - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
   - post: Social Intranet mit Linchpin für Confluence
