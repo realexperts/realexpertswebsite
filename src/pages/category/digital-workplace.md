@@ -1,25 +1,29 @@
 ---
 templateKey: category-page
-title: Digital Workplace
-contentTitle: Der Digital Workplace als Arbeitsplatz der Zukunft
+title: Digitaler Arbeitsplatz
+contentTitle: Ein moderner Arbeitsplatz für eine erfolgreiche Zukunft
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
-  Wir greifen die technologischen und kulturellen Hintergründe zur Ausgestaltung
-  eines digitalen Arbeitsplatzes auf und zeigen anhand von Praxiserfahrungen
-  dar, wie Unternehmen und Mitarbeiter vom Potential und der Wirksamkeit
-  digitaler Technologien profitieren.
+  Die Wirksamkeit moderner und digitaler Technologien ist enorm. So gestalten
+  Sie den digitalen Arbeitsplatz der Zukunft und machen Ihre Mitarbeiter und Ihr
+  Unternehmen erfolgreich. Kommunikation, Zusammenarbeit und Geschäftsprozesse
+  profitieren von den neuen digitalen Werkzeugen. Entdecken Sie die
+  Möglichkeiten, die in Ihrem Unternehmen stecken. 
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
-      Moderne Arbeitsplatzkonzepte fokussieren sich auf eine Neu- und
-      Weiterentwicklung von Arbeits- und Organisationsformen. Diese werden
-      zunehmend durch Technologien angetrieben und unterstützt.
+      Herkömmliche Arbeitsumgebungen und Arbeitsweisen werden den heutigen
+      Anforderungen an Flexibilität und Schnelligkeit nicht mehr gerecht.
+      Mitarbeiter und der Markt erwarten neue Konzepte und Fähigkeiten. Die
+      Einführung und Veränderung stellt Unternehmen vor große Herausforderungen.
     headline: IHRE HERAUSFORDERUNG
     highlighted: false
   - body: >-
-      Digitale Technologien am Arbeitsplatz erweisen sich als leistungsfähige
-      und wirksame Werkzeuge, welche für eine agile und innovative Organisation
-      benötigt werden.
+      Mit digitalen Technologien am Arbeitsplatz schaffen sie eine
+      leistungsfähige, agile und innovative Organisation. Konsequent eingeführt
+      und etabliert entfalten die richtigen Werkzeuge die volle Wirkung. Eine
+      Arbeitswelt ohne Digitalisierung wird so für Ihre Mitarbeiter nicht mehr
+      vorstellbar sein.
     headline: IHR NUTZEN
     highlighted: false
 video: 'https://www.youtube.com/watch?v=eKCVfAgD0Uw'
