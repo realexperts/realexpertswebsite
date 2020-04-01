@@ -27,22 +27,18 @@ thesis:
       Unternehmens.
     headline: Ihr Nutzen
     highlighted: false
-video: 'https://www.youtube.com/watch?v=gLoDsa-1QY4'
+video: 'https://youtu.be/gLoDsa-1QY4'
 successStories:
   - customerName: IPROconsult
     image: /img/vorlage_logos3-1-1024x259.jpg
     post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
 infoBox:
-  body: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-    clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-    amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam voluptua.
-  headline: UNSER ANSATZ
-  image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
+  body: |-
+    **Peggy Kopkow**
+
+    hier ein Text zu Peggy
+  headline: IHRE ANSPRECHPARTNERIN
+  image: /img/DSC_8294.jpg
 statements:
   - author: Christoph Rauhut
     body: >-
