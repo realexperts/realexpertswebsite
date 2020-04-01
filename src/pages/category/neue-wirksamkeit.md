@@ -25,26 +25,13 @@ thesis:
       kommen.
     headline: Ihr Nutzen
     highlighted: false
-video: 'https://youtu.be/ScMzIvxBSi4'
+video: 'https://youtu.be/rM981u9mdFs'
 successStories: []
 infoBox:
-  body: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-    clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-    amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam voluptua.
-  headline: UNSER ANSATZ
-  image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
-statements:
-  - author: Christin Löffler - IPROconsult GmbH
-    body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
+  body: sdasd
+  headline: asdasd
+  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+statements: []
 relatedPosts:
   - post: 'Neues Arbeiten - Geht nicht, gibt es nicht.'
   - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
