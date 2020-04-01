@@ -28,10 +28,7 @@ thesis:
     headline: Ihr Nutzen
     highlighted: false
 video: 'https://youtu.be/gLoDsa-1QY4'
-successStories:
-  - customerName: IPROconsult
-    image: /img/vorlage_logos3-1-1024x259.jpg
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
+successStories: []
 infoBox:
   body: |-
     **Peggy Kopkow**
@@ -39,13 +36,7 @@ infoBox:
     hier ein Text zu Peggy
   headline: IHRE ANSPRECHPARTNERIN
   image: /img/DSC_8294.jpg
-statements:
-  - author: Christoph Rauhut
-    body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
+statements: []
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
