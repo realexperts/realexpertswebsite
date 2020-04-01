@@ -225,6 +225,14 @@ export const categoryPageQuery = graphql`
                     id
                     fields {
                         slug
+                        category {
+                            fields {
+                                slug
+                            }
+                            frontmatter {
+                                title
+                            }
+                        }
                         image {
                             childImageSharp {
                                 fluid(maxWidth: 630) {

@@ -145,6 +145,14 @@ export const portfolioPageQuery = graphql`
                                 }
                             }
                         }
+                        category {
+                            fields {
+                                slug
+                            }
+                            frontmatter {
+                                title
+                            }
+                        }
                     }
                     frontmatter {
                         title
