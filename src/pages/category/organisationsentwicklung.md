@@ -26,23 +26,18 @@ thesis:
       gelingt die Entwicklung jeder Organisation.
     headline: Ihr Nutzen
     highlighted: false
-video: 'https://www.youtube.com/watch?v=53H1q0PxAuM'
+video: 'https://youtu.be/53H1q0PxAuM'
 successStories:
   - customerName: IPROconsult
     image: /img/vorlage_logos3-1-1024x259.jpg
     post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
 infoBox:
-  body: >-
-    Wofür gibt es Ihre Organisation und wohin möchte sich Ihre Organisation
-    entwickeln? 
+  body: |-
+    **Peggy Kopkow**
 
-
-    Auf Grundlage dieser zwei Fragen helfen wir Ihnen zu identifizieren, was Ihr
-    Unternehmen gerade braucht. Anschließend unterstützen wir Sie mit Hilfe von
-    Workshops, Pilotprojekten und Experimenten den gewünschten Changeprozess in
-    Ihrem Unternehmen optimal umzusetzen.
-  headline: UNSER ANSATZ
-  image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
+    hier noch ein Text zu Peggy
+  headline: IHRE ANSPRECHPARTNERIN
+  image: /img/DSC_8294.jpg
 statements:
   - author: Christoph Rauhut
     body: >-
