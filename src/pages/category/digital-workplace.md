@@ -29,13 +29,13 @@ thesis:
 video: 'https://youtu.be/eKCVfAgD0Uw'
 successStories: []
 infoBox:
-  body: |-
-    **Oliver Reithage**
-
-    hier ein Text zu Olli
-  headline: IHRE ANSPRECHPARTNER
-  image: /img/Oliver Reithage.jpg
-statements: []
+  body: Text
+  headline: UNSER ANSATZ
+  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+statements:
+  - author: Christoph Rauhut
+    body: Hier ein Text von und zu Christoph
+    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
