@@ -30,13 +30,13 @@ thesis:
 video: 'https://youtu.be/gLoDsa-1QY4'
 successStories: []
 infoBox:
-  body: |-
-    **Peggy Kopkow**
-
-    hier ein Text zu Peggy
-  headline: IHRE ANSPRECHPARTNERIN
-  image: /img/DSC_8294.jpg
-statements: []
+  body: Text
+  headline: UNSER ANSATZ
+  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+statements:
+  - author: Peggy Kopkow
+    body: Hier ein Text von und über Peggy
+    image: /img/DSC_8294.jpg
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
