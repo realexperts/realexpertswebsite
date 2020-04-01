@@ -28,9 +28,9 @@ thesis:
 video: 'https://youtu.be/rM981u9mdFs'
 successStories: []
 infoBox:
-  body: sdasd
-  headline: asdasd
-  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+  body: '**Christoph Rauhut**'
+  headline: IHRE ANSPRECHPARTNER
+  image: /img/der-beginn-einer-reise.png
 statements: []
 relatedPosts:
   - post: 'Neues Arbeiten - Geht nicht, gibt es nicht.'
