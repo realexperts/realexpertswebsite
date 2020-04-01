@@ -33,9 +33,9 @@ infoBox:
   headline: UNSER ANSATZ
   image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 statements:
-  - author: Christoph Rauhut
-    body: Hier ein Text von und zu Christoph
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
+  - author: Oliver Reithage
+    body: Hier ein Text von und zu Olli
+    image: /img/Oliver Reithage.jpg
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
