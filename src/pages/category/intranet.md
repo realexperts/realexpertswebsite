@@ -29,13 +29,13 @@ thesis:
 video: 'https://youtu.be/ECmyssqhJns'
 successStories: []
 infoBox:
-  body: |-
-    **Oliver Reithage**
-
-    hier ein Text zu Olli
-  headline: IHR ANSPRECHPARTNER
-  image: /img/Oliver Reithage.jpg
-statements: []
+  body: Text
+  headline: UNSER ANSATZ
+  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+statements:
+  - author: Oliver Reithage
+    body: Ein Text über und von Olli
+    image: /img/Oliver Reithage.jpg
 relatedPosts:
   - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
   - post: Social Intranet mit Linchpin für Confluence
