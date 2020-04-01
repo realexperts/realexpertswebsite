@@ -30,13 +30,10 @@ thesis:
 video: 'https://youtu.be/gLoDsa-1QY4'
 successStories: []
 infoBox:
-  body: Text
-  headline: UNSER ANSATZ
-  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
-statements:
-  - author: Peggy Kopkow
-    body: Hier ein Text von und über Peggy
-    image: /img/DSC_8294.jpg
+  body: Hier ein Text von und über Peggy
+  headline: 'EXPERTIN: Peggy Kopkow'
+  image: /img/DSC_8294.jpg
+statements: []
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
