@@ -1,4 +1,64 @@
 {
   "id": "footer-links-settings",
-  "footerLinks": []
+  "footerLinks": [
+    {
+      "title": "Digitalisierung und Arbeitsplatz",
+      "links": [
+        {
+          "title": "Digitaler Arbeitsplatz",
+          "url": "/category/digital-workplace/"
+        },
+        {
+          "title": "Intranet",
+          "url": "/category/intranet/"
+        },
+        {
+          "title": "Software Auswahl",
+          "url": "/category/software-auswahl/"
+        }
+      ]
+    },
+    {
+      "title": "Mitarbeiter und Führung",
+      "links": [
+        {
+          "title": "Mitarbeiter und Führung",
+          "url": "/category/mitarbeiter-und-führung/"
+        },
+        {
+          "title": "Organisationsentwicklung",
+          "url": "/category/organisationsentwicklung/"
+        },
+        {
+          "title": "Neue Wirksamkeit",
+          "url": "/category/neue-wirksamkeit/"
+        }
+      ]
+    },
+    {
+      "title": "Real Experts",
+      "links": [
+        {
+          "title": "Blog",
+          "url": "/blog"
+        },
+        {
+          "title": "Youtube",
+          "url": "https://www.youtube.com/channel/UCKz6nXZObvjqr9G9uS4PamQ"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/realxperts"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/company/real-experts-network-gmbh"
+        },
+        {
+          "title": "Xing",
+          "url": "https://www.xing.com/companies/realexpertsnetworkgmbh"
+        }
+      ]
+    }
+  ]
 }
