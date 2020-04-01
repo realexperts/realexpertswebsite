@@ -199,15 +199,15 @@ exports.createPages = ({boundActionCreators, graphql}) => {
 
       Array.from({length: numPages}).forEach((_, i) => {
 
-        let numShown = i === 0 ? postsPerPage + extraArticlesOnStartPage : postsPerPage;
+        let numShown = i === 0 ? postsPerPage - extraArticlesOnStartPage : postsPerPage;
         let numSkip = i === 0 ? 0 : extraArticlesOnStartPage + i * postsPerPage;
 
         createPage({
           path: i === 0 ? `/blog/` : `/blog/${i + 1}`,
           component: path.resolve('./src/templates/blog.js'),
           context: {
-            limit: numShown,
-            skip: numSkip,
+            limit: postsPerPage,
+            skip: i * postsPerPage,
             numPages,
             currentPage: i + 1,
           },

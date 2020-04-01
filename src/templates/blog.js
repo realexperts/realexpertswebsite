@@ -7,7 +7,6 @@ import favicon from '../img/favicon.ico';
 import arrowLeft from '../img/icons/arrow-left.svg';
 import arrowRight from '../img/icons/arrow-right.svg';
 import Layout from '../components/layout';
-import SEO from '../components/SEO';
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -16,12 +15,15 @@ export default class BlogIndexPage extends React.Component {
     // only consider the first four related posts on the front page as top posts
     const topPosts = data.markdownRemark.fields.relatedPosts.slice(0, 4);
     // exclude posts from `all posts` which are already in top posts
-    const posts = data.allMarkdownRemark.edges
-      .filter(({node: post}) => {
-        return !topPosts.find(topPost => topPost.id === post.id);
-      });
+    const posts = data.allMarkdownRemark.edges;
+      // .filter(({node: post}) => {
+      //   return !topPosts.find(topPost => topPost.id === post.id);
+      // });
 
-    const {currentPage, numPages} = this.props.pageContext;
+    const {limit, skip, currentPage, numPages} = this.props.pageContext;
+
+    console.log(limit, skip, currentPage, numPages);
+
     const isFirst = currentPage === 1;
     const isLast = currentPage === numPages;
     const prevPage = currentPage - 1 === 1 ? '' : (currentPage - 1).toString();
