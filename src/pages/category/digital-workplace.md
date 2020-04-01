@@ -26,27 +26,16 @@ thesis:
       vorstellbar sein.
     headline: IHR NUTZEN
     highlighted: false
-video: 'https://www.youtube.com/watch?v=eKCVfAgD0Uw'
-successStories:
-  - customerName: IPROconsult
-    image: /img/vorlage_logos3-1-1024x259.jpg
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
+video: 'https://youtu.be/eKCVfAgD0Uw'
+successStories: []
 infoBox:
-  body: >-
-    Die Einführung digitaler Technologien ist kein Selbstläufer und ist eng mit
-    der Herausforderung verbunden, neue Arbeitsweisen bei den Mitarbeitern zu
-    etablieren. Damit die Vision eines Digital Workplace Realität wird, bedarf
-    es eine an den verschiedenen Zielgruppen ausgerichtete
-    Arbeitsplatzstrategie.
-  headline: UNSER ANSATZ
-  image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
-statements:
-  - author: Christoph Rauhut
-    body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
+  body: |-
+    **Oliver Reithage**
+
+    hier ein Text zu Olli
+  headline: IHRE ANSPRECHPARTNER
+  image: /img/Oliver Reithage.jpg
+statements: []
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
