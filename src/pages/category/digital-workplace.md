@@ -29,13 +29,10 @@ thesis:
 video: 'https://youtu.be/eKCVfAgD0Uw'
 successStories: []
 infoBox:
-  body: Text
-  headline: UNSER ANSATZ
-  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
-statements:
-  - author: Oliver Reithage
-    body: Hier ein Text von und zu Olli
-    image: /img/Oliver Reithage.jpg
+  body: Hier ein Text von und über Olli
+  headline: 'EXPERTE: Oliver Reithage'
+  image: /img/Oliver Reithage.jpg
+statements: []
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
