@@ -28,10 +28,13 @@ thesis:
 video: 'https://youtu.be/rM981u9mdFs'
 successStories: []
 infoBox:
-  body: '**Christoph Rauhut**'
-  headline: IHRE ANSPRECHPARTNER
-  image: /img/der-beginn-einer-reise.png
-statements: []
+  body: Text
+  headline: UNSER ANSATZ
+  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+statements:
+  - author: Christoph Rauhut
+    body: Hier ein Text von und über Christoph
+    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
 relatedPosts:
   - post: 'Neues Arbeiten - Geht nicht, gibt es nicht.'
   - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
