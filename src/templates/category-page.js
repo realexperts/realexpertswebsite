@@ -14,7 +14,7 @@ import 'pure-react-carousel/dist/react-carousel.es.css';
 import sliderRight from "../img/icons/slider-right.svg";
 import sliderLeft from "../img/icons/slider-left.svg";
 
-export const CategoryPageTemplate = ({data}) => {
+export const CategoryPageTemplate = ({data, settings}) => {
 
     const thesisElements = data.frontmatter.thesis.map((thesisElement, key) => (
         <div key={key} className={`thesis ${thesisElement.highlighted ? 'highlighted' : 'normal'}`}>
@@ -64,7 +64,7 @@ export const CategoryPageTemplate = ({data}) => {
     return (
         <Layout>
             <section className='category'>
-                <Helmet title={data.name} link={[
+                <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
                     {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
                 ]}/>
                 <div className="hero">
@@ -120,7 +120,7 @@ export const CategoryPageTemplate = ({data}) => {
                         </div>
                         }
                     </div>
-
+                    {data.frontmatter.infoBox.headline != null && data.frontmatter.infoBox.headline.length > 0 &&
                     <div className="category-info-box-wrapper">
                       <div className="category-info-box">
                         <div className="info-box-content">
@@ -132,7 +132,7 @@ export const CategoryPageTemplate = ({data}) => {
                         </div>
                       </div>
                     </div>
-
+                    }
                   { statements.length > 0 &&
                     <div className="statements-wrapper">
                         <div className="statements-content">
@@ -184,10 +184,13 @@ CategoryPageTemplate.propTypes = {
 };
 
 const CategoryPage = ({data}) => {
-    const {markdownRemark: post} = data;
+    const {
+        settings,
+        markdownRemark: post
+    } = data;
 
     return (
-        <CategoryPageTemplate contentComponent={HTMLContent} data={post}/>
+        <CategoryPageTemplate contentComponent={HTMLContent} data={post} settings={settings}/>
     );
 };
 

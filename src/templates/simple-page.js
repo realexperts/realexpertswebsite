@@ -6,13 +6,13 @@ import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 
-export const SimplePageTemplate = ({title, content, contentComponent}) => {
+export const SimplePageTemplate = ({title, content, contentComponent, settings}) => {
   const PageContent = contentComponent || Content;
 
   return (
     <Layout noHeader={true}>
       <section className='simple'>
-        <Helmet title={title} link={[
+        <Helmet title={`${title}  | ${settings.global.title}`} link={[
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
         ]}/>
         <div className="page-content">
@@ -33,10 +33,16 @@ SimplePageTemplate.propTypes = {
 };
 
 const SimplePage = ({data}) => {
-  const {markdownRemark: post} = data;
+  const {
+    settings,
+    markdownRemark: post
+  } = data;
 
   return (
-    <SimplePageTemplate contentComponent={HTMLContent} title={`${post.frontmatter.title}`} content={post.html}/>
+    <SimplePageTemplate contentComponent={HTMLContent}
+                        title={`${post.frontmatter.title}`}
+                        content={post.html}
+                        settings={settings}/>
   );
 };
 
