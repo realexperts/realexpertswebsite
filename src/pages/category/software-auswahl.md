@@ -25,26 +25,16 @@ thesis:
       werden kann.
     headline: Ihr Nutzen
     highlighted: false
-video: 'https://youtu.be/ScMzIvxBSi4'
-successStories:
-  - customerName: IPROconsult
-    image: /img/vorlage_logos3-1-1024x259.jpg
-    post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
+video: 'https://youtu.be/g23-J0Q_8Ww'
+successStories: []
 infoBox:
-  body: >-
-    Mithilfe eines systematischen Leitfadens und einem von uns entworfenen
-    4-Phasen-Plan wird sichergestellt, dass Technologien evaluiert werden, die
-    den Ansprüchen und Anforderungen Ihrer Mitarbeiter im Unternehmen gerecht
-    werden.
-  headline: Unser Ansatz
-  image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
-statements:
-  - author: Christoph Rauhut
-    body: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
+  body: |-
+    **Oliver Reithage**
+
+    hier ein Text zu Olli
+  headline: IHR ANSPRECHPARTNER
+  image: /img/Oliver Reithage.jpg
+statements: []
 relatedPosts:
   - post: Digitale Heimat mit einem Social Intranet von COYO
 ---
