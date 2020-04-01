@@ -28,13 +28,13 @@ thesis:
 video: 'https://youtu.be/g23-J0Q_8Ww'
 successStories: []
 infoBox:
-  body: |-
-    **Oliver Reithage**
-
-    hier ein Text zu Olli
-  headline: IHR ANSPRECHPARTNER
-  image: /img/Oliver Reithage.jpg
-statements: []
+  body: Text
+  headline: UNSER ANSATZ
+  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+statements:
+  - author: Oliver Reithage
+    body: Hier ein Text von und über Olli
+    image: /img/Oliver Reithage.jpg
 relatedPosts:
   - post: Digitale Heimat mit einem Social Intranet von COYO
 ---
