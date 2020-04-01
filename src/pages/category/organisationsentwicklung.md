@@ -29,13 +29,13 @@ thesis:
 video: 'https://youtu.be/53H1q0PxAuM'
 successStories: []
 infoBox:
-  body: |-
-    **Peggy Kopkow**
-
-    hier noch ein Text zu Peggy
-  headline: IHRE ANSPRECHPARTNERIN
-  image: /img/DSC_8294.jpg
-statements: []
+  body: Text
+  headline: UNSER ANSATZ
+  image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+statements:
+  - author: Peggy Kopkow
+    body: Hier ein Text von und über Peggy
+    image: /img/DSC_8294.jpg
 relatedPosts:
   - post: 'Was bedeutet es gut zusammenzuarbeiten? '
   - post: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
