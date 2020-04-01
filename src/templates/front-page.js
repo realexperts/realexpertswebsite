@@ -8,6 +8,7 @@ import Layout from '../components/layout';
 
 import favicon from '../img/favicon.ico';
 import BackgroundImage from 'gatsby-background-image';
+import SEO from '../components/SEO';
 
 export const FrontPageTemplate = ({
   title,
@@ -15,8 +16,11 @@ export const FrontPageTemplate = ({
   thesis,
   video,
   relatedPosts,
-  data
+  data,
+  settings
 }) => {
+
+  console.log(settings);
 
   const thesisElements = thesis.map((thesisElement, key) => (
     <div key={key} className={`thesis ${thesisElement.highlighted ? 'highlighted' : 'normal'}`}>
@@ -33,9 +37,17 @@ export const FrontPageTemplate = ({
     ));
   }
 
+  const seoTags =
+    <SEO isBlogPost={false} postData={{
+      excerpt: data.frontmatter.claim.teaser,
+      frontmatter: data.frontmatter,
+      slug: data.fields.slug,
+    }} postImage={settings.global.url+data.frontmatter.headerImage.childImageSharp.fluid.src}/>;
+
   return (
     <Layout>
       <section className="front">
+        {seoTags}
         <Helmet title={title} link={[
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
         ]} bodyAttributes={{
@@ -103,14 +115,18 @@ FrontPageTemplate.propTypes = {
   })),
   video: PropTypes.string.isRequired,
   relatedPosts: PropTypes.arrayOf(PropTypes.object),
+  settings: PropTypes.object
 };
 
 const FrontPage = ({data}) => {
 
-  const {markdownRemark: post} = data;
+  const {
+    settings,
+    markdownRemark: post
+  } = data;
 
   return (
-    <FrontPageTemplate data={post} title={`${post.frontmatter.title} | ${data.settings.global.title}`} claim={post.frontmatter.claim} thesis={post.frontmatter.thesis} video={post.frontmatter.video} relatedPosts={post.fields.relatedPosts}/>
+    <FrontPageTemplate data={post} title={`${post.frontmatter.title} | ${data.settings.global.title}`} claim={post.frontmatter.claim} thesis={post.frontmatter.thesis} video={post.frontmatter.video} relatedPosts={post.fields.relatedPosts} settings={settings}/>
   );
 };
 

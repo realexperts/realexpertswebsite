@@ -33,6 +33,7 @@ export const BlogPostTemplate = ({
   return (
     <Layout noHeader={true}>
       <section className={'blog-post ' + (relatedPosts !== null ? 'has-related-posts' : '')}>
+        {seoTags}
         <Helmet title={`${title} | ${settings.global.title}`} />
         <div className="page-content">
           <div className="content-block-wrapper">

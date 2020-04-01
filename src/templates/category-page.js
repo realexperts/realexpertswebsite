@@ -13,6 +13,7 @@ import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-re
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import sliderRight from "../img/icons/slider-right.svg";
 import sliderLeft from "../img/icons/slider-left.svg";
+import SEO from '../components/SEO';
 
 export const CategoryPageTemplate = ({data, settings}) => {
 
@@ -61,9 +62,18 @@ export const CategoryPageTemplate = ({data, settings}) => {
             <BlogPostTeaser key={post.id} type='top' post={post}/>
         ));
     }
+
+    const seoTags =
+    <SEO isBlogPost={false} postData={{
+      excerpt: data.frontmatter.description,
+      frontmatter: data.frontmatter,
+      slug: data.fields.slug,
+    }} postImage={settings.global.url+data.frontmatter.headerImage.childImageSharp.fluid.src}/>;
+
     return (
         <Layout>
             <section className='category'>
+                {seoTags}
                 <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
                     {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
                 ]}/>
@@ -249,6 +259,7 @@ export const categoryPageQuery = graphql`
                         }
                     }
                 }
+                slug
             }
             frontmatter {
                 title

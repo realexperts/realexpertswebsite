@@ -7,6 +7,7 @@ import favicon from '../img/favicon.ico';
 import arrowLeft from '../img/icons/arrow-left.svg';
 import arrowRight from '../img/icons/arrow-right.svg';
 import Layout from '../components/layout';
+import SEO from '../components/SEO';
 
 export default class BlogIndexPage extends React.Component {
   render() {

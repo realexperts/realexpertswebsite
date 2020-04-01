@@ -9,6 +9,7 @@ import Helmet from 'react-helmet';
 import favicon from '../img/favicon.ico';
 import BackgroundImage from 'gatsby-background-image';
 import FeaturedBlogPost from '../components/FeaturedBlogPost';
+import SEO from '../components/SEO';
 
 export const PortfolioPageTemplate = ({data, settings}) => {
   let categories = [];
@@ -24,10 +25,18 @@ export const PortfolioPageTemplate = ({data, settings}) => {
       <BlogPostTeaser key={post.id} type='top' post={post}/>
     ));
   }
-  
+
+  const seoTags =
+    <SEO isBlogPost={false} postData={{
+      excerpt: data.frontmatter.description,
+      frontmatter: data.frontmatter,
+      slug: data.fields.slug,
+    }} postImage={settings.global.url+data.frontmatter.headerImage.childImageSharp.fluid.src}/>;
+
   return (
     <Layout>
       <section className='category'>
+        {seoTags}
         <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
         ]}/>
@@ -159,6 +168,7 @@ export const portfolioPageQuery = graphql`
                         title
                     }
                 }
+                slug
             }
             frontmatter {
                 title
