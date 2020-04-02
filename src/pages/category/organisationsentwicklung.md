@@ -30,7 +30,7 @@ video: 'https://youtu.be/53H1q0PxAuM'
 successStories: []
 infoBox:
   body: Hier ein Text von und über Peggy
-  headline: 'EXPERTIN: Peggy Kopkow'
+  headline: Unsere Expertin - Peggy Kopkow
   image: /img/DSC_8294.jpg
 statements: []
 relatedPosts:
