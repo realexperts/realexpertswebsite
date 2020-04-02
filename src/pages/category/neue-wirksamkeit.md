@@ -29,7 +29,7 @@ video: 'https://youtu.be/rM981u9mdFs'
 successStories: []
 infoBox:
   body: Hier ein Text von und über Christoph
-  headline: 'EXPERTE: Christoph Rauhut'
+  headline: Unser Experte - Christoph Rauhut
   image: /img/der-beginn-einer-reise.png
 statements: []
 relatedPosts:
