@@ -4,32 +4,35 @@ title: Software Auswahl
 contentTitle: So finden Sie die passenden digitalen Werkzeuge
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
-  Der Markt für Software-Technologien ist riesig. Welche Technologie dabei die
-  richtige für die eigenen Anforderungen ist, ist auf Anhieb nur schwer zu
-  erkennen. In unseren Blog-Beiträgen erfahren Sie, wie man im Software-Jungle
-  den Überblick behält. 
+  Der Markt für Software-Technologien ist riesig. Mit dem richtigen Vorgehen
+  finden Sie die Technologie, die zu Ihrem Unternehmen, den Mitarbeitern und den
+  Anforderungen passt. Eine Entscheidung kann so langfristig und nachhaltig
+  getroffen werden und gibt Ihnen die Investitionssicherheit, die Entscheider
+  brauchen. 
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
-      Digitale Technologien beinhaltet eine Vielfalt an Leistungen und
-      Funktionen. Alles sieht dabei irgendwie ähnlich aus, ist aber am Ende doch
-      nicht das Gleiche. Als Unternehmen müssen Sie sicherstellen, dass
-      Mitarbeitern Technologien bereitgestellt werden, die den Bedürfnissen
-      entsprechen.
+      Unternehmen sind von der Vielfalt der verfügbaren Anbieter im Markt
+      überfordert. Anforderungen und Erwartungen der Anwender sind oft unklar,
+      Technologien werden planlos eingeführt und in Frage gestellt. Es fehlt
+      eine strukturierte Auswahl neuer Technologien und Software-Anwendungen.
+      Der gewünschte Nutzen bleibt aus. Das frustriert Mitarbeiter und
+      Entscheider zugleich. 
     headline: Ihre Herausforderung
     highlighted: false
   - body: >-
-      Die Durchführung einer fundierten Software-Auswahl schützt Sie vor
-      Irrwegen im Tool-Dschungel und bringt ein belastbares Ergebnis hervor,
-      welches vor relevanten Stakeholdern in Ihrem Unternehmen präsentiert
-      werden kann.
+      Die Durchführung einer fundierten und strukturierten Software-Auswahl
+      schützt Sie vor Irrwegen im Dschungel der Software-Anbieter. Die
+      identifizierten Anforderungen und Anwendungsfälle lassen sich mit den
+      anwendungsspezifischen Funktionen abgleichen. So sichern Sie die
+      Investition ab und überzeugen Entscheider und Stakeholder. 
     headline: Ihr Nutzen
     highlighted: false
 video: 'https://youtu.be/g23-J0Q_8Ww'
 successStories: []
 infoBox:
   body: Hier ein Text von und über Olli
-  headline: 'EXPERTE: Oliver Reithage'
+  headline: Unser Experte - Oliver Reithage
   image: /img/Foto_Oliver_quer.jpg
 statements: []
 relatedPosts:
