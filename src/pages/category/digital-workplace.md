@@ -30,7 +30,7 @@ video: 'https://youtu.be/eKCVfAgD0Uw'
 successStories: []
 infoBox:
   body: Hier ein Text von und über Olli
-  headline: 'EXPERTE: Oliver Reithage'
+  headline: Unser Experte - Oliver Reithage
   image: /img/Foto_Oliver_quer.jpg
 statements: []
 relatedPosts:
