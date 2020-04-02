@@ -6,9 +6,9 @@ headerImage: /img/real-experts-header-kategorie.png
 description: >-
   Jede Organisation hat die Fähigkeiten und Menschen um eine positive
   Entwicklung gelingen zu lassen. Es ist alles schon da. Entdecken Sie diese
-  Fähigkeiten und bringen Sie das was in den Mitarbeitern zum Vorscheinen. Die
-  Veränderung entwickelt sich von Innen heraus. So werden Lösungen für die
-  brennenden Fragen in Ihrer Organisation gefunden. 
+  Fähigkeiten und bringen Sie das was in den Mitarbeitern steckt zum
+  Vorscheinen. Die Veränderung entwickelt sich von Innen heraus. So werden
+  Lösungen für die brennenden Fragen in Ihrer Organisation gefunden. 
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
