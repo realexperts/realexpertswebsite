@@ -12,7 +12,7 @@ description: >
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
-      In Unternehmen sind fehlender Motivation, Konflikte, mangelnde
+      In Unternehmen sind fehlende Motivation, Konflikte, mangelnde
       Zusammenarbeit und nicht erreichte Ziele an der Tagesordnung. Das liegt
       häufig nicht an den Mitarbeitern und deren Fähigkeiten. Es fehlt ein
       gemeinsames Wofür. Wofür lohnt es sich genau diesen Job zu machen und was
