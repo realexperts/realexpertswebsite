@@ -38,10 +38,11 @@ export const BlogPostTemplate = ({
         <div className="page-content">
           <div className="content-block-wrapper">
             <div className="content-block">
-              {category && category.fields && category.fields.slug &&
-              <Link to={category.fields.slug}>
-                <h5>{category.frontmatter.title}</h5>
-              </Link>}
+              {category && (
+                <Link to={category.fields.slug} >
+                  <h5>{category.frontmatter.title}</h5>
+                </Link>
+              )}
               {!category && (
                 <Link to="/" >
                   <h5>Fehlt!</h5>
@@ -319,6 +320,14 @@ export const pageQuery = graphql`
           }
           fields {
             slug
+            category {
+                fields {
+                    slug
+                }
+                frontmatter {
+                    title
+                }
+            }
             author {
               fields {
                 image {
