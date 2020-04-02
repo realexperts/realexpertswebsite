@@ -1,36 +1,42 @@
 ---
 templateKey: category-page
 title: Intranet
-contentTitle: Das Intranet als zentraler Baustein des Digital Workplace
+contentTitle: Das Intranet als zentraler Baustein des digitalen Arbeitsplatzes
 headerImage: /img/real-experts-header-kategorie.png
-description: >-
-  Erfahren Sie mehr über das effektive Zusammenspiel von Kommunikation,
-  Information und Zusammenarbeit im Intranet. Anhand von Erfahrungsberichten
-  klären wir auf, worauf es sowohl aus technologischer als auch aus kultureller
-  Sicht bei der erfolgreichen Implementierung einer Intranetlösung in
-  Unternehmen ankommt.
+description: >
+  Ein Social Intranet verbindet, hält Mitarbeiter und Informationen zusammen und
+  schafft Raum für Zusammenarbeit und Ideen. Sowohl top-down als auch bottom-up
+  Interaktion ist somit über Hierarchie- und Abteilungsgrenzen hinweg möglich.
+  Mit einer Vielzahl an Funktion lassen sich zentral die wichtigen
+  Anwendungsfälle der unternehmensweiten Interaktion und Kommunikation
+  abbilden. 
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
-      Der Arbeitsplatz der Mitarbeiter ist längst nicht mehr nur das klassische
-      Unternehmensbüro. Es geht also nicht mehr darum Mitarbeiter vor Ort
-      abzuholen und über relevante Neuigkeiten im Unternehmen zu informieren,
-      sondern darum eine dauerhafte Konnektivität zu relevanten digitalen
-      Systemen im Unternehmen sicherzustellen.
+      Ein Arbeitsplatz ist längst nicht mehr nur das klassische Büro. Mit
+      Wachstum des Unternehmens arbeiten Mitarbeiter zunehmend verteilt und in
+      Teams. Ein unternehmensweiter Austausch und Informationsfluss kommt so
+      nicht mehr zu Stande. Informationen und Wissen gehen verloren und die
+      Verbindung zwischen den Menschen und zu zentralen Anwendungen wird
+      schwerer. Es fehlt die Möglichkeit Mitarbeiter und Kollegen schnell zu
+      erreichen und auf dem aktuellen Stand zu halten.
     headline: Ihre Herausforderung
     highlighted: false
   - body: >-
-      Ein leistungsfähiges Intranet ist nicht mehr nur als klassisches
-      Informationsmedium für Mitarbeiter zu verstehen, sondern kann richtig
-      eingesetzt, als zentrales Werkzeug für die wirksame Vernetzung von
-      Kommunikation, Information und Zusammenarbeit am Arbeitsplatz dienen.
+      Ein modernes Social Intranet ist mehr als ein klassisches
+      Informationsmedium für Mitarbeiter. Als zentraler Bestandteil des
+      digitalen Arbeitsplatzes stellt das Intranet ein effektives Werkzeug für
+      die Vernetzung von Kommunikation, Information und Zusammenarbeit und die
+      Abbildung von Geschäftsprozessen dar. Ein Intranet schafft Heimat und
+      Identität für alle Mitarbeiter und bringt das Wir-Gefühl zurück. Sie
+      werden die positive Auswirkung auf die tägliche Arbeit spüren. 
     headline: Ihr Nutzen
     highlighted: false
 video: 'https://youtu.be/ECmyssqhJns'
 successStories: []
 infoBox:
   body: Hier ein Text von und über Olli
-  headline: 'EXPERTE: Oliver Reithage'
+  headline: Unser Experte - Oliver Reithage
   image: /img/Foto_Oliver_quer.jpg
 statements: []
 relatedPosts:
