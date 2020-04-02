@@ -31,7 +31,7 @@ successStories: []
 infoBox:
   body: Hier ein Text von und über Olli
   headline: 'EXPERTE: Oliver Reithage'
-  image: /img/Oliver Reithage.jpg
+  image: /img/Foto_Oliver_quer.jpg
 statements: []
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter

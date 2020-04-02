@@ -3,6 +3,13 @@ import { useFooterLinks } from '../hooks/use-footer-links';
 import { Link } from 'gatsby';
 
 const FooterLink = ({title, link}) => {
+  if(link.toString().startsWith('http')){
+    return (
+        <li>
+          <a href={link} target="_blank">{title}</a>
+        </li>
+    );
+  }
   return (
     <li>
       <Link to={link}>{title}</Link>
