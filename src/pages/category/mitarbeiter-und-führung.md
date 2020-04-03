@@ -30,7 +30,14 @@ thesis:
 video: 'https://youtu.be/gLoDsa-1QY4'
 successStories: []
 infoBox:
-  body: Hier ein Text von und über Peggy
+  body: >-
+    Frau Kopkow ist bei uns die Expertin, wenn es darum geht Menschen für den
+    Weg der Veränderung zu begeistern und mitzunehmen. Als ausgebildete
+    Augenhöhe Wegbegleiterin und Organisationsentwicklerin kennt Sie die
+    Herausforderungen eines Unternehmens aber auch die Fähigkeiten, die in den
+    Menschen einer Organisation stecken. Durch eine authentische und
+    sympathische Herangehensweise ist Frau Kopkow die Wegbegleiterin für Ihr
+    Unternehmen.
   headline: Unsere Expertin - Peggy Kopkow
   image: /img/DSC_8294.jpg
 statements: []
