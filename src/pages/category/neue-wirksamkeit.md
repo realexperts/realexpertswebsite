@@ -34,7 +34,7 @@ infoBox:
     Technologien und Arbeitsweisen. Als Übersetzer und Vermittler zwischen den
     neuen Möglichkeiten und den Gegebenheiten in Unternehmen, entwickelt Herr
     Rauhut gemeinsam mit Ihnen das passende Vorgehen, um mit neuen Konzepten
-    nachhaltig und erfolgreich zu sein.
+    erfolgreich zu sein.
   headline: Unser Experte - Christoph Rauhut
   image: /img/der-beginn-einer-reise.png
 statements: []
