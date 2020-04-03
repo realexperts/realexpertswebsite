@@ -29,7 +29,14 @@ thesis:
 video: 'https://youtu.be/eKCVfAgD0Uw'
 successStories: []
 infoBox:
-  body: Hier ein Text von und über Olli
+  body: >-
+    Als ausgewiesener Experte für den digitalen Arbeitsplatz der Mitarbeiter ist
+    Oliver Reithage der richtige Ansprechpartner, um mit Ihnen gemeinsam eine
+    begeisternde Arbeitsplatzumgebung für Ihre Mitarbeiter zu schaffen. Als
+    technischer Berater unterstützt Herr Reithage Sie dafür bei der Auswahl als
+    auch bei der Implementierung passender digitaler Technologien, damit Ihre
+    Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße für sich
+    nutzen können.
   headline: Unser Experte - Oliver Reithage
   image: /img/Foto_Oliver_quer.jpg
 statements: []
