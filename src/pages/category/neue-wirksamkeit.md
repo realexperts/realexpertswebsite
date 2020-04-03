@@ -28,7 +28,13 @@ thesis:
 video: 'https://youtu.be/rM981u9mdFs'
 successStories: []
 infoBox:
-  body: Hier ein Text von und über Christoph
+  body: >-
+    Als erfahrener Berater kennt Herr Rauhut aus vielen Projekten die
+    Herausforderungen einer nachhaltigen Veränderungen und Etablierung neuer
+    Technologien und Arbeitsweisen. Als Übersetzer und Vermittler zwischen den
+    neuen Möglichkeiten und den Gegebenheiten in Unternehmen, entwickelt Herr
+    Rauhut gemeinsam mit Ihnen das passende Vorgehen, um mit neuen Konzepten
+    nachhaltig und erfolgreich zu sein.
   headline: Unser Experte - Christoph Rauhut
   image: /img/der-beginn-einer-reise.png
 statements: []
