@@ -1,29 +1,29 @@
 ---
 templateKey: category-page
 title: Organisationsentwicklung
-contentTitle: Eine positive Entwicklung im Unternehmen ist kein Zufall
+contentTitle: Eine positive Entwicklung in Ihrem Unternehmen ist kein Zufall
 headerImage: /img/real-experts-header-kategorie.png
 description: >-
-  Jede Organisation hat die Fähigkeiten und Menschen um eine positive
-  Entwicklung gelingen zu lassen. Es ist alles schon da. Entdecken Sie diese
-  Fähigkeiten und bringen Sie das was in den Mitarbeitern steckt zum
-  Vorscheinen. Die Veränderung entwickelt sich von Innen heraus. So werden
-  Lösungen für die brennenden Fragen in Ihrer Organisation gefunden. 
+  Die Menschen und deren Verhalten in einem Unternehmen formen die Organisation
+  und deren Kultur. Jeder Mitarbeiter mit seinen individuellen Fähigkeiten kann
+  die Unternehmensentwicklung positiv voranbringen. Denn es ist alles schon da.
+  Geben Sie diesem Potential Raum, kann eine nachhaltige Veränderung von innen
+  heraus stattfinden.
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
   - body: >-
-      Viele Mitarbeiter und Führungskräfte spüren sehr genau wann sich eine
+      Viele Mitarbeiter und Führungskräfte spüren sehr genau, wann sich eine
       Organisation weiterentwickeln sollte. Häufig werden diese Erwartungen und
       Wünsche nicht offen gelegt und aktiv wahrgenommen. Es fehlt die
-      Initiative, der Mut und das große Ziel einer Entwicklung.
+      Initiative, der erste Schritt, Mut und das große Ziel.
     headline: Ihre Herausforderung
     highlighted: false
   - body: >-
-      Mit den richtigen Rahmenbedingungen und Formaten lässt sich die
-      Entwicklung einer Organisation starten und erkennen was am dringendsten
-      gebraucht wird. Mit Mut und engagierten Mitarbeitern beginnt die
-      Veränderung im Kleinen und findet somit Einzug ins gesamte Unternehmen. So
-      gelingt die Entwicklung jeder Organisation.
+      Mit den entsprechenden Rahmenbedingungen und Formaten lässt sich eine
+      Weiterentwicklung Ihrer Organisation starten und auch erkennen, was gerade
+      am dringendsten gebraucht wird. Mit Mut und Ihren Mitarbeitern beginnt die
+      Veränderung im Kleinen und findet nach und nach Einzug ins gesamte
+      Unternehmen. 
     headline: Ihr Nutzen
     highlighted: false
 video: 'https://youtu.be/53H1q0PxAuM'
