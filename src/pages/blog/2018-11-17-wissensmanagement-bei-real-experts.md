@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Wie machen wir das bei Real Experts mit dem täglichen Wissensmanagement
+title: Wissensmanagement und Zusammenarbeit bei Real Experts
 date: '2018-07-25T14:43:04+02:00'
 author: Peggy Kopkow
 image: >-
