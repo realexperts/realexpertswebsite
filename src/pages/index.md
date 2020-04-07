@@ -28,9 +28,9 @@ thesis:
     highlighted: true
 video: 'https://youtu.be/-YneU6yfowY'
 relatedPosts:
-  - post: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
-  - post: 'Der “digitale” Arbeitsplatz im Wandel '
-  - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
+  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
+  - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
+  - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
 ---
 
