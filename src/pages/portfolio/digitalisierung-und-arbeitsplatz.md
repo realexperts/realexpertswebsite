@@ -7,14 +7,14 @@ description: >-
   und Weise. Jedes Unternehmen und alle Mitarbeiter werden von den neuen
   Möglichkeiten profitieren. Mach Sie sich gemeinsam mit uns auf den Weg die
   Potentiale der digitalen Arbeitswelt zu entdecken. 
-featuredPost: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
+featuredPost: 1x1 - Die Grundlagen des digitalen Arbeitens
 categories:
   - category: Digitaler Arbeitsplatz
   - category: Intranet
   - category: Software Auswahl
 relatedPosts:
-  - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
-  - post: Tipps für eine erfolgreiche Intranet-Einführung
-  - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
+  - post: 'Der “digitale” Arbeitsplatz im Wandel '
+  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
 ---
 
