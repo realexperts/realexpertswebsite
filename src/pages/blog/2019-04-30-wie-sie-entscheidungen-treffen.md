@@ -10,13 +10,13 @@ description: >-
   der Hand, die Ihnen beim Entscheiden helfen oder treffen Sie Ihre
   Entscheidungen eher aus dem Bauch heraus? Wie stehen Sie oder ihr Unternehmen
   zu Fehlentscheidungen? Werden diese kommuniziert? 
-category: Augenhöhe
+category: Organisationsentwicklung
 tags:
   - Augenhöhe
 relatedPosts:
   - post: 'Führen und führen lassen auf Augenhöhe '
-  - post: Auf dem Weg zum AUGENHÖHEwegbegleiter
-  - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
+  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+  - post: Ein Unternehmen hat keine Mitarbeiter
 ---
  „_Es ist gut, etwas Langsames zu tun, bevor man im Leben eine wichtige Entscheidung trifft_.“ (Paulo Coelho)
 
