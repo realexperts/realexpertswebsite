@@ -16,9 +16,9 @@ category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung
 relatedPosts:
-  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
-  - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
   - post: 'Was brauchst Du, um das zu machen, was Du willst?'
+  - post: 'Führen und führen lassen auf Augenhöhe '
+  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
 ---
 **Wissen Sie, welches Wissen Ihres ausscheidenden Mitarbeiters unternehmenskritisch ist? Welches zwingend auf den Nachfolger transferiert werden sollte? Klar, Sie kennen Ihren Mitarbeiter. Wissen um seine Aufgabenbereiche. Aber wissen Sie auch was, wie, wann, wo und warum er etwas tut? Oder was Ihn und seinen Erfolg ausmacht? Besonders der Nachfolger sollte darüber im Klaren sein! Warum? Weil Sie sonst Zeit und Geld verlieren, welches durchaus in andere Bereiche investiert werden könnte.** 
 
