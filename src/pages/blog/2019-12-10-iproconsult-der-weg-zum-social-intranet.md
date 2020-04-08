@@ -14,9 +14,9 @@ category: Intranet
 tags:
   - Kunden
 relatedPosts:
-  - post: 'Ein Intranet verbindet - “Linchpin” stellt sich vor '
-  - post: Social Intranet mit Linchpin für Confluence
   - post: Tipps für eine erfolgreiche Intranet-Einführung
+  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
 ---
 Die IPROconsult GmbH ist ein Architektur- und Ingenieurbüro aus Dresden, das seit 1949 besteht. Über 13 Standorte und drei Geschäftsbereiche verteilt arbeiten hier ca. 350 Mitarbeiter. Die IPROconsult war unter anderem Hauptplaner der Frauenkirche und ist mit Spezialisierung auf Generalplanung national und international aktiv.
 
