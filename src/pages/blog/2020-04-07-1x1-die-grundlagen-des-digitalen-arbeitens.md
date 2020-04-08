@@ -13,6 +13,10 @@ description: >-
 category: Digitaler Arbeitsplatz
 tags:
   - Digitales Arbeiten
+relatedPosts:
+  - post: Der Weg zum wirksamen Digital Workplace
+  - post: 'Der “digitale” Arbeitsplatz im Wandel '
+  - post: EntoNative GmbH - Modernes Arbeiten im Startup mit Google G Suite
 ---
 Jedes Unternehmen, welches die Digitalisierung und damit eine digitale Arbeitsweise etablieren möchte, sollte ein paar grundlegende Dinge beachten und umsetzen. Hierbei geht es nicht nur um die eingesetzten Technologien, sondern viel mehr darum wie man Mitarbeiter und Arbeitsprozesse für die neue digitale Arbeitswelt fit macht. In unserem Beitrag “[Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen](https://www.realexperts.de/blog/2020-03-20-digitales-arbeiten-%E2%80%93-was-unternehmen-aus-der-corona-krise-lernen-m%C3%BCssen/)” haben wir bereits beschrieben, warum gerade in Zeiten der Krise es unabdingbar ist neue Wege in der Arbeitswelt zu gehen. Unserer Meinung nach sollte jedes Unternehmen nicht nur in Vorbereitung auf eine Krise bereit für mobiles Arbeiten und Home Office sein, sondern das digitale Arbeiten zum Standard für alle Mitarbeiter machen. Das “Warum” sollte mittlerweile niemand mehr in Frage stellen. Die Frage ist nur wann und wie eine digitale Arbeitsweise im Unternehmen etabliert und somit nutzbar für alle Mitarbeiter ist. Klar ist, dass es sich hierbei um die Mitarbeiter handelt, die ihre Tätigkeit am Rechner oder anderen digitalen Geräten ausüben. 
 
