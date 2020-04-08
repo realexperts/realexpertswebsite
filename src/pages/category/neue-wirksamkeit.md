@@ -39,9 +39,8 @@ infoBox:
   image: /img/der-beginn-einer-reise.png
 statements: []
 relatedPosts:
-  - post: 'Neues Arbeiten - Geht nicht, gibt es nicht.'
-  - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
-  - post: Die Folgen einer neuen Wirksamkeit
+  - post: Das Dilemma des New Work Hype
   - post: 'Entdecke das Potential, den Kern von New Work'
+  - post: Die Folgen einer neuen Wirksamkeit
 ---
 
