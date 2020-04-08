@@ -8,11 +8,13 @@ description: >-
   Die interne digitale Transformation soll weiter vorangetrieben werden. Das
   Projekt “Aufbau Digital Workplace” der Unternehmensführung ist ambitioniert:
   Es soll eine begeisternde und intuitive Arbeitsplatzumgebung geschaffen werden
-category: Digital Workplace
+category: Digitaler Arbeitsplatz
 tags:
   - Digital Workplace
 relatedPosts:
-  - post: Digitale Heimat mit einem Social Intranet von COYO
+  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
+  - post: Der Weg zum wirksamen Digital Workplace
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
 ---
 Die interne digitale Transformation soll weiter vorangetrieben werden. Das Projekt **“Aufbau Digital** **Workplace”** der Unternehmensführung ist ambitioniert: Es soll eine begeisternde und intuitive Arbeitsplatzumgebung geschaffen werden, in der Mitarbeiter vom Potential und der Wirksamkeit digitaler Technologien profitieren. Die Etablierung eines Digital Workplace ist damit längst keine Vision mehr, sondern wird nun vielmehr eine sich durch alle Unternehmensbereiche erstreckende Mission. Soweit, so gut! Aber wie sieht eigentlich der zukünftige moderne digitale Arbeitsplatz für Mitarbeiter aus? Und überhaupt - wie unterscheidet dieser sich zur gegenwärtigen “digitalen” Arbeitsplatzumgebung? 
 
