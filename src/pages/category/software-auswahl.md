@@ -43,6 +43,8 @@ infoBox:
   image: /img/Foto_Oliver_quer.jpg
 statements: []
 relatedPosts:
-  - post: Digitale Heimat mit einem Social Intranet von COYO
+  - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
+  - post: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
 ---
 
