@@ -8,7 +8,7 @@ description: >-
   Dr. Jenny Meyer ist Digital Workplace Consultant und Partner im Real Expert
   Netzwerk und unterstützt dabei Unternehmen bei der Einführung digitaler
   Arbeitsplätze in Unternehmen.
-category: Partner und Netzwerk
+category: Real Experts
 tags:
   - Partner
 relatedPosts:
