@@ -8,13 +8,15 @@ description: >-
   TeneTrio stellt sich vor. Das junge Startup produziert alternative
   Nahrungsmittel für Hunde, welche auf Insektenbasis hergestellt werden um
   Nachhaltigkeit zu gewährleisten.
-category: Digital Workplace
+category: Digitaler Arbeitsplatz
 tags:
   - Kunden
 relatedPosts:
-  - post: Ein Jahr Social Intranet bei der IPROconsult GmbH
-  - post: Tipps für eine erfolgreiche Intranet-Einführung
-  - post: Kampf der Giganten - Microsoft Office 365 und Google G Suite im Vergleich
+  - post: >-
+      Kampf der Giganten - Microsoft Office 365 und Google G Suite im
+      Vergleich  
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
+  - post: 'Der “digitale” Arbeitsplatz im Wandel '
 ---
 TeneTrio stellt sich vor. Das junge Startup produziert alternative Nahrungsmittel für Hunde, welche auf Insektenbasis hergestellt werden um Nachhaltigkeit zu gewährleisten. Um den Arbeitsalltag im Unternehmen zu erleichtern TeneTrio sich dazu entschlossen die Google G Suite einzuführen. Welche Vorteile die Nutzung mit sich bringt und wie die Implementierung bei den Mitarbeitern ablief berichten Dr. Ina Henkel und Sabrina Jaap im Interview.
 
