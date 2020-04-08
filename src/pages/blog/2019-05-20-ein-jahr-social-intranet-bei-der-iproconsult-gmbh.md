@@ -12,7 +12,7 @@ category: Intranet
 tags:
   - Kunden
 relatedPosts:
-  - post: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
+  - post: 'IPROconsult: Der Weg zum Social Intranet'
   - post: Tipps für eine erfolgreiche Intranet-Einführung
   - post: 'Ein Intranet verbindet - “Linchpin” stellt sich vor '
 ---
