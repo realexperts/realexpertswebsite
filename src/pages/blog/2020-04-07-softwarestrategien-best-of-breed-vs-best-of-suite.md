@@ -15,6 +15,10 @@ description: >-
 category: Software Auswahl
 tags:
   - Software Auswahl
+relatedPosts:
+  - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
+  - post: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
+  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
 ---
 Eine Herausforderung, welche sowohl Konzerne als auch kleine und mittlere Unternehmen (KMU) regelmäßig im Rahmen einer Tool-Evaluierung begleitet, ist die Frage danach, mit welchem Tool-Set Anforderungen an Prozesse zukünftig abgedeckt werden sollten. Der IT-Fachjargon diskutiert dafür die zwei strategischen Ausrichtungen “Best-of-Breed” vs. Best-of-Suite”. Vereinfacht ausgedrückt bedeutet das: Unternehmen wählen zwischen verschiedenen Einzellösungen oder einer integrierbaren Gesamtlösung. 
 
