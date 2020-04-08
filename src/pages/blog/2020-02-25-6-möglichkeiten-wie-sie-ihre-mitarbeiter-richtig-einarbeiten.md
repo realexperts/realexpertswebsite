@@ -19,6 +19,8 @@ tags:
   - Mitarbeiter und Führung
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
+  - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
 ---
 Ein klassisches Szenario. Max Mustermann ist ein Bindeglied und Hauptakteur im Unternehmen. Ohne ihn kann sich keiner vorstellen zu arbeiten. Denn er ist zuständig für die Abrechnung aller Kollegen, um diese dann anschließend dem Auftraggeber vorzulegen. Ausschließlich Max Mustermann weiß um den Ablauf dieses Prozesses mit verschiedenen Exceltabellen und immer wieder neuen Vorgaben und Vorlagen. Und dann kündigt Max Mustermann und keiner hat Ahnung von den Abrechnungsprozessen oder auch Zeit diese sich anzueignen. Die Konsequenz ist eine wochenlange Verzögerung der Abrechnungen. Wie hätte diese Verzögerung verhindert werden können? Wie könnte nun Ad-hoc reagiert werden?
 
