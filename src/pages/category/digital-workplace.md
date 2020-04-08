@@ -41,9 +41,8 @@ infoBox:
   image: /img/Foto_Oliver_quer.jpg
 statements: []
 relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-  - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
   - post: 'Der “digitale” Arbeitsplatz im Wandel '
+  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
+  - post: Der Weg zum wirksamen Digital Workplace
 ---
 
