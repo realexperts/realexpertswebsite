@@ -15,8 +15,11 @@ category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung
 relatedPosts:
-  - post: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
   - post: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
+  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: >-
+      Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
+      Ergebnisse erreichen
 ---
 Partnerarbeit, Gruppenarbeit und Teamarbeit. Wie im Profisport kann ein Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur geschlossen kann im Team ein Pokal geholt werden. Durch die immer tiefere Spezialisierung und Globalisierung sind immer mehr diverse Projektteams erforderlich. Aber was bedeutet eigentlich gute Teamarbeit und somit auch gute Zusammenarbeit im Unternehmen?
 
