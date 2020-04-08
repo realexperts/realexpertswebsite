@@ -9,13 +9,15 @@ description: >
   Haben Sie sich schon einmal über Ihr Führungsverständnis Gedanken gemacht.
   Also was Sie unter Führen verstehen? Was bedeutet für Sie Führung und was
   nicht? 
-category: Augenhöhe
+category: Mitarbeiter und Führung
 tags:
   - Augenhöhe
 relatedPosts:
-  - post: Auf dem Weg zum AUGENHÖHEwegbegleiter
-  - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
   - post: Experimente wagen
+  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
+  - post: >-
+      Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
+      Ergebnisse erreichen
 ---
 Haben Sie sich schon einmal über Ihr Führungsverständnis Gedanken gemacht. Also was Sie unter Führen verstehen? Was bedeutet für Sie Führung und was nicht? 
 
