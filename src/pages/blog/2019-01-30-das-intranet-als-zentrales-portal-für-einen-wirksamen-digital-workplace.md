@@ -14,9 +14,9 @@ category: Intranet
 tags:
   - Intranet
 relatedPosts:
-  - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-  - post: Digitale Heimat mit einem Social Intranet von COYO
-  - post: Kampf der Giganten - Microsoft Office 365 und Google G Suite im Vergleich
+  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
+  - post: 'IPROconsult: Der Weg zum Social Intranet'
+  - post: Tipps für eine erfolgreiche Intranet-Einführung
 ---
 Weiter geht unsere Digital Workplace Blogreihe mit dem Trendthema “Intranet”. Ich weiß, beim Intranet im Jahr 2019 von einem Trendthema zu sprechen, ist natürlich eine wirklich gewagte These zum Start. Deshalb aufgepasst: Next Generation **“Front-Door-Intranet”**. Dazu gleich mehr! Zunächst eine kurze Rückblende. In unserem letzten Blogbeitrag wurde erklärt, dass die Etablierung eines Digital Workplace eine mitarbeiterorientierte Strategie der Unternehmen darstellt, um die Wirksamkeit digitaler Technologien für Unternehmen und Mitarbeiter zu nutzen. Da stellt sich natürlich die Frage, was das eigentlich in der Umsetzung bedeutet? Was hat es mit Wirksamkeit auf sich bzw. in welchem Zusammenhang steht das mit unserem heutigen Blogbeitrag zum Thema Intranet im Jahr 2019?
 
