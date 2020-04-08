@@ -44,8 +44,10 @@ infoBox:
   image: /img/DSC_8294.jpg
 statements: []
 relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
-  - post: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
+  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
+  - post: 'Führen und führen lassen auf Augenhöhe '
+  - post: >-
+      Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
+      Ergebnisse erreichen
 ---
 
