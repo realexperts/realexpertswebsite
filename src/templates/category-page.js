@@ -165,12 +165,16 @@ export const CategoryPageTemplate = ({data, settings}) => {
                     </div>
                   }
 
-                    <div className="posts">
-                        <h2>Top Beiträge</h2>
-                        <div className="top-posts">
-                            {topPosts}
-                        </div>
+                  {topPosts.length > 0 &&
+
+                  <div className="posts">
+                    <h2>Top Beiträge</h2>
+                    <div className="top-posts">
+                      {topPosts}
                     </div>
+                  </div>
+
+                  }
                 </div>
             </section>
         </Layout>

@@ -13,7 +13,8 @@ export default class BlogIndexPage extends React.Component {
     const {data} = this.props;
 
     // only consider the first four related posts on the front page as top posts
-    const topPosts = data.markdownRemark.fields.relatedPosts.slice(0, 4);
+    const relatedPosts = data.markdownRemark.fields.relatedPosts;
+    const topPosts = relatedPosts ? relatedPosts.slice(0, 4) : [];
     // exclude posts from `all posts` which are already in top posts
     const posts = data.allMarkdownRemark.edges;
       // .filter(({node: post}) => {
@@ -38,6 +39,7 @@ export default class BlogIndexPage extends React.Component {
           <div className="page-content">
             {isFirst &&
             <div className="content-block-wrapper">
+              { topPosts.length > 0 &&
               <div className="content-block">
                 <h2>Top Beiträge</h2>
                 <div className="top-posts">
@@ -46,6 +48,7 @@ export default class BlogIndexPage extends React.Component {
                   ))}
                 </div>
               </div>
+              }
             </div>
             }
             <div className="content-block-wrapper">

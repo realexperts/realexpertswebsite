@@ -7,20 +7,7 @@
 }
 
 body {
-
   font-family: 'Open Sans', sans-serif !important;
-
-  //&.front-page {
-  //  header {
-  //    background: none;
-  //  }
-  //
-  //  main {
-  //    section {
-  //      margin-top: 0;
-  //    }
-  //  }
-  //}
 }
 
 .vertical-posts-list {
@@ -86,6 +73,15 @@ body {
 #__gatsby > div > .content {
   overflow: scroll;
 }
+
+.button-round-blue {
+  margin: 30px 0;
+  display: inline-block;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  border: none;
+}
+
 .content {
   display: flex;
   flex-direction: column;
@@ -352,9 +348,10 @@ main {
 
         .claim {
 
-          width: 800px;
+          max-width: 800px;
           align-self: center;
           margin: 150px 0 70px 0;
+          width: 100%;
 
           h1 {
             color: #FFF;
@@ -938,14 +935,6 @@ main {
       text-align: center;
       max-width: 786px;
       margin: 30px auto;
-
-      .button-round-blue {
-        margin: 30px 0;
-        display: inline-block;
-        font-family: "Open Sans", sans-serif;
-        text-transform: uppercase;
-      }
-
     }
 
     .related-posts {
@@ -1201,12 +1190,6 @@ a.more {
             flex: 2;
             width: 100%;
             padding-right: 50px;
-
-            .button-round-blue {
-              font-family: "Open Sans", sans-serif;
-              text-transform: uppercase;
-            }
-
           }
         }
       }

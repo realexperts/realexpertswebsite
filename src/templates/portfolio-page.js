@@ -50,25 +50,32 @@ export const PortfolioPageTemplate = ({data, settings}) => {
             </div>
           </BackgroundImage>
         </div>
+
+        { data.fields.featuredPost && categories.length > 0 && topPosts.length > 0 &&
         <div className="page-content">
-          <div className="featured-blog-post-wrapper">
             {data.fields.featuredPost && (
-              <FeaturedBlogPost post={data.fields.featuredPost} />
+              <div className="featured-blog-post-wrapper">
+                <FeaturedBlogPost post={data.fields.featuredPost} />
+              </div>
             )}
-          </div>
+          {categories.length > 0 &&
           <div className="portfolio-categories-wrapper">
             <h2>Unsere Themen</h2>
             <div className="portfolio-categories">
               {categories}
             </div>
           </div>
+          }
+          { topPosts.length > 0 &&
           <div className="posts">
             <h2>Top Beiträge</h2>
             <div className="top-posts">
               {topPosts}
             </div>
           </div>
+          }
         </div>
+        }
       </section>
     </Layout>
   );
