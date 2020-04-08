@@ -12,6 +12,10 @@ description: >-
 category: Digitaler Arbeitsplatz
 tags:
   - Digitales Arbeiten
+relatedPosts:
+  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
+  - post: Der Weg zum wirksamen Digital Workplace
+  - post: 'Der “digitale” Arbeitsplatz im Wandel '
 ---
 Zu Hause arbeiten im so genannten „Home Office“ war noch vor zwei Wochen vielen Arbeitnehmern und auch Unternehmen in Deutschland einigermaßen unbekannt. Meist brachte man damit das Leben vieler Berater und IT-Mitarbeiter in Verbindung. Kollegen, die noch nie im Home Office tätig waren belächelten diese Form der modernen Arbeit oft als „Na da kann man ja während der Arbeitszeit noch Wäsche waschen!“. Dies änderte sich schlagartig mit einem zweiten, recht unbekannten Begriff – Corona Virus. Von heute auf morgen sollen tausende Arbeitnehmer in Deutschland von zu Hause aus ihrer Tätigkeit nachgehen. Aufgrund zu hoher Ansteckungsgefahr auf Arbeit vor Ort. Schlagartig galt es auf beiden Seiten umzudenken. Neben den Aspekten des „Was bedeutet Home Office eigentlich für mich und meinen Arbeitstag?“ gilt es auf einmal auch strukturelle Herausforderungen anzugehen:
 
