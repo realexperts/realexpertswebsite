@@ -48,7 +48,7 @@ infoBox:
 statements: []
 relatedPosts:
   - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
-  - post: Social Intranet mit Linchpin für Confluence
   - post: Tipps für eine erfolgreiche Intranet-Einführung
+  - post: 'IPROconsult: Der Weg zum Social Intranet'
 ---
 
