@@ -41,8 +41,8 @@ infoBox:
   image: /img/DSC_8294.jpg
 statements: []
 relatedPosts:
-  - post: 'Was bedeutet es gut zusammenzuarbeiten? '
-  - post: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
-  - post: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
+  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+  - post: Wie Sie Entscheidungen treffen
 ---
 
