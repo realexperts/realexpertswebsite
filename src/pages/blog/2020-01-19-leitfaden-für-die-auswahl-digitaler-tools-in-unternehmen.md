@@ -17,9 +17,9 @@ category: Software Auswahl
 tags:
   - Software Auswahl
 relatedPosts:
-  - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
-  - post: Der Weg zum wirksamen Digital Workplace
   - post: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
+  - post: Der Weg zum wirksamen Digital Workplace
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
 ---
 Damit die Einführung und Etablierung digitaler Tools nachhaltig gelingen kann, empfiehlt sich  eine Art “Qualitätssicherung” im Projektvorgehen. Dadurch wird sichergestellt, dass alle relevante Anforderungen bedacht werden. Dass der Bedarf nach Absicherung im Projektvorgehen groß ist, zeigt sich regelmäßig im Austausch mit unseren Kunden. Eine Frage, die uns als technologische Berater immer wieder gestellt wird, lautet: _“Wie können wir sicherstellen, dass wir mit Abschluss einer Tool-Evaluierung auch die passende Technologie ausgewählt haben?” 
 _
