@@ -16,7 +16,9 @@ category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung
 relatedPosts:
-  - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
+  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
+  - post: 'Führen und führen lassen auf Augenhöhe '
+  - post: Ein Unternehmen hat keine Mitarbeiter
 ---
 Können Sie sich noch an Ihren ersten Arbeitstag erinnern? Als Sie die oder der Neue waren und das erste Mal Ihren neuen Arbeitsplatz betraten? Ich kann mich noch ganz gut daran erinnern. Und es war doch irgendwie chaotisch und unstrukturiert. Oder vielleicht haben Sie auch schon mal eine Einarbeitung“aufgedrückt“ bekommen und waren überfordert? So oder so, eine Begleitung ist notwendig. Sei es virtuell, klassisch verschriftlicht oder als Person. 
 
