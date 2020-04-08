@@ -16,8 +16,8 @@ tags:
   - Real Experts
 relatedPosts:
   - post: Real Experts - Der Beginn einer Reise
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
   - post: Das Why und die Vision von Real Experts - Podcast
+  - post: Kampf gegen den Krebs - BEYOND THE GREATEST PEAKS
 ---
 Dank der [Nominierung](https://twitter.com/mseibert/status/1195601307522027520) von Martin Seibert bin ich aufgefordert an der **\#SELBERgroß** Challenge, [initiiert](https://twitter.com/MarkPoppenborg/status/1194863899436298240) am 14. November 2019 von Mark Poppenburg, zu beteiligen. Im ersten Moment musste ich überlegen was ich damit anfangen soll. Aber dann wurde mir bewusst wie passend der Moment gerade ist, darüber zu schreiben und somit meinen Beitrag zur Challenge zu leisten. Denn mittlerweile fühle ich mich **\#SELBERgroß**. Vielleicht passt das hier Beschriebene nicht ganz zur inhaltlichen Intention der Challenge, da ich in erster Linie nicht über zivilen Ungehorsam schreibe. Aber für mich fühlt es sich richtig und wichtig an, über die Dinge zu schreiben die mich derzeit und im Zusammenhang mit der Challenge bewegen. Ich schreibe diese Geschichte als 37-jähriger Familienvater von drei Töchtern, Ehemann, Gründer und Geschäftsführer von Real Experts und als jemand, der über 9 Jahre im Berufsleben brauchte, um zu erkennen, dass die Selbstständigkeit und das Unternehmertum der richtige Weg sind. Mit dieser Geschichte möchte ich anderen Mut machen und zum Nachdenken über die eigene (Arbeits-)Situation und das eigene Leben anregen. 
 
