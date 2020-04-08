@@ -11,13 +11,13 @@ description: >-
   Projekt läuft genau so, wie es geplant wurde. Ein gut überlegter Sprint und
   nichts geht schief.  Aber wir wissen es alle. So läuft das nicht. Nicht mehr.
   Organisationen sind komplexer geworden, weil wir in einer anderen Zeit leben.
-category: Augenhöhe
+category: Organisationsentwicklung
 tags:
   - Augenhöhe
 relatedPosts:
   - post: Wie Sie Entscheidungen treffen
   - post: 'Führen und führen lassen auf Augenhöhe '
-  - post: Auf dem Weg zum AUGENHÖHEwegbegleiter
+  - post: Ein Unternehmen hat keine Mitarbeiter
 ---
 “Ich male die Dinge so wie ich sie denke, nicht wie ich sie sehe.” - Pablo Picasso
 
