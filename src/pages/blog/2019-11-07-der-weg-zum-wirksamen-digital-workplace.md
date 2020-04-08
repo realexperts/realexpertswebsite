@@ -12,15 +12,13 @@ description: >-
   Frage, mit der uns unsere Kunden in Einführungsprojekten immer wieder
   konfrontieren, lautet: “Welche Phasen durchläuft man üblicherweise bis zu zur
   Etablierung eines wirksamen Digital Workplace?” 
-category: Digital Workplace
+category: Digitaler Arbeitsplatz
 tags:
   - Digital Workplace
 relatedPosts:
   - post: Digital Workplace - vom Schreckgespenst zur Lichtgestalt
-  - post: >-
-      Digitale Kommunikation und Zusammenarbeit im Social Intranet - Meetup
-      Dresden
   - post: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
+  - post: 'Der “digitale” Arbeitsplatz im Wandel '
 ---
 In unserer "[_Digital Workplace_](https://www.realexperts.de/tags/digital-workplace)" Blogreihe ging es bisher darum, das Phänomen digitaler Arbeitsplatz genauer zu beleuchten. Es konnten verschiedene Erkenntnisse über die eigentlichen Ziele eines Digital Workplace gewonnen werden. Nun stellt sich für Unternehmen die Frage der Umsetzbarkeit. Eine Frage, mit der uns unsere Kunden in Einführungsprojekten immer wieder konfrontieren, lautet: _“Welche Phasen durchläuft man üblicherweise bis zu zur Etablierung eines wirksamen Digital Workplace?”_
 
