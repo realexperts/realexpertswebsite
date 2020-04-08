@@ -10,13 +10,13 @@ description: >-
   Science-Fiction klingt, ist längst Realität und stellt nur einen Bruchteil
   populärer Buzzwörter dar, die mit einem digitalen Arbeitsplatz oder auch
   Digital Workplace in Verbindung gebracht werden.
-category: Digital Workplace
+category: Digitaler Arbeitsplatz
 tags:
   - Digital Workplace
 relatedPosts:
-  - post: 'Entdecke das Potential, den Kern von New Work'
-  - post: Social Intranet mit Linchpin für Confluence
-  - post: Digitale Heimat mit einem Social Intranet von COYO
+  - post: Der Weg zum wirksamen Digital Workplace
+  - post: 'Der “digitale” Arbeitsplatz im Wandel '
+  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
 ---
 Cyber-physische-Systeme (CPS), Internet of Things (IoT), Künstliche Intelligenz (KI) oder Cloud Computing. Was zunächst alles ein bisschen nach Science-Fiction klingt, ist längst Realität und stellt nur einen Bruchteil populärer Buzzwörter dar, die mit einem digitalen Arbeitsplatz oder auch Digital Workplace in Verbindung gebracht werden. Aber ganz ehrlich: Wie soll man als Unternehmen oder Mitarbeiter bei der Fülle an viral postulierten und doch so “überlebenswichtigen” Maßnahmen rund um die Entwicklungen und Trends eines technologisch-geprägten Arbeitsplatzes noch den Überblick behalten? 
 
