@@ -72,7 +72,7 @@ export const CategoryPageTemplate = ({data, settings}) => {
 
     return (
         <Layout>
-            <section className='category'>
+            <section className='category' lang="de">
                 {seoTags}
                 <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
                     {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},

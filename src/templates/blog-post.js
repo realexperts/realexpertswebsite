@@ -32,7 +32,7 @@ export const BlogPostTemplate = ({
 
   return (
     <Layout noHeader={true}>
-      <section className={'blog-post ' + (relatedPosts !== null ? 'has-related-posts' : '')}>
+      <section className={'blog-post ' + (relatedPosts !== null ? 'has-related-posts' : '')}  lang="de">
         {seoTags}
         <Helmet title={`${title} | ${settings.global.title}`} />
         <div className="page-content">

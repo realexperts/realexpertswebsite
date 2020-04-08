@@ -31,7 +31,7 @@ export default class BlogIndexPage extends React.Component {
 
     return (
       <Layout noHeader={true}>
-        <section className="blog">
+        <section className="blog" lang="de">
           <Helmet title={`Blog | ${data.settings.global.title}`} link={[
             {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
           ]}/>

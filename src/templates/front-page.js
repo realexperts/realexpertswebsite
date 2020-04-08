@@ -46,7 +46,7 @@ export const FrontPageTemplate = ({
 
   return (
     <Layout>
-      <section className="front">
+      <section className="front" lang="de">
         {seoTags}
         <Helmet title={title} link={[
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},

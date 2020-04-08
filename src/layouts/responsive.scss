@@ -28,7 +28,31 @@
   }
 
   main {
+
     padding: 0 20px;
+
+    section {
+
+      &.front {
+
+        .hero {
+          height: 100vh;
+          margin-left: -20px;
+          margin-right: -20px;
+
+        }
+
+      }
+
+      .page-content {
+
+        .featured-video-wrapper {
+          margin-left: -20px;
+          margin-right: -20px;
+        }
+
+      }
+    }
 
     .blog-post {
 
@@ -50,8 +74,8 @@
     padding: 0 20px;
 
     .contact-form-footer-content {
-      margin-left: 0;
-      margin-right: 0;
+      margin-left: -20px;
+      margin-right: -20px;
 
       .section {
         padding: 0 20px;
@@ -833,6 +857,7 @@
 
     h2 {
       font-size: 32px !important;
+      margin-top: 20px;
     }
 
     p {
@@ -854,7 +879,7 @@
 
         .navigation-bar-logo {
 
-          margin-left: 10px;
+          margin-left: 0px;
 
           figure {
             padding: 20px 20px;
@@ -879,7 +904,7 @@
           height: 80px;
           display: block;
           position: absolute;
-          right: 0px;
+          right: 10px;
         }
 
         .navigation-bar-menu {
@@ -983,11 +1008,18 @@
       .page-content {
 
         margin-top: 0;
+        hyphens: auto;
+
+        > h2 {
+          padding: 0 20px;
+          hyphens: auto;
+          margin-bottom: 0;
+        }
 
         .content-block-wrapper {
           width: 100%;
           flex-direction: column;
-          padding: 0 20px;
+          padding: 20px 20px;
 
           .thesis {
             margin-top: 40px;
@@ -1040,7 +1072,7 @@
         .portfolio-categories-wrapper {
           width: 100%;
           margin: 20px 0;
-          padding: 20px;
+          padding: 40px 20px;
           background-size: cover;
 
           .portfolio-categories {
@@ -1146,7 +1178,7 @@
         }
 
         .contact-title {
-          padding: 0 20px;
+          padding: 20px 20px 0;
           margin-bottom: 10px;
         }
 
@@ -1296,12 +1328,41 @@
         }
 
         .related-posts {
-          //bottom: auto;
-          padding: 0 20px;
+          padding: 20px 20px;
+          margin-left: 0;
+          margin-right: 0;
 
-          .related-posts-wrapper-inner {
+          .related-posts-wrapper {
+
             margin: 0 0;
+            padding: 0 0;
+
+            .related-posts-wrapper-inner {
+              margin: 0 0;
+
+              .related-posts-list-wrapper .related-posts-list  {
+
+                flex-direction: column;
+                margin-top: 0;
+
+                 .post.related {
+                   border-right: none;
+                   border-top: 1px solid #e4e4e4;
+                   padding: 20px 0;
+
+                   &:first-child {
+                     border-left: none;
+                     border-top: none;
+                   }
+                 }
+
+              }
+
+            }
+
           }
+
+
         }
       }
     }
@@ -1357,7 +1418,7 @@
 
       .section {
         display: block;
-        margin: 20px 30px;
+        margin: 60px 20px;
 
         .contact-content {
           display: block;

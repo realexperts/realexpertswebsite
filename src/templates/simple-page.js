@@ -11,7 +11,7 @@ export const SimplePageTemplate = ({title, content, contentComponent, settings})
 
   return (
     <Layout noHeader={true}>
-      <section className='simple'>
+      <section className='simple' lang="de">
         <Helmet title={`${title}  | ${settings.global.title}`} link={[
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
         ]}/>
