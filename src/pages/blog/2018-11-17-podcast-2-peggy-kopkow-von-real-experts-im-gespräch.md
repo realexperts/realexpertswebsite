@@ -10,13 +10,13 @@ description: >-
   spricht Sie über Ihre persönliche WHY Entscheidung für Real Experts und
   darüber, wie durch Werte wie Respekt, Loyalität und Vertrauen Synergien für
   eine sinnstiftende Zusammenarbeit freigesetzt werden können. 
-category: Team
+category: Real Experts
 tags:
   - Mitarbeiter
 relatedPosts:
-  - post: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
   - post: Real Experts - Der Beginn einer Reise
-  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Das Why und die Vision von Real Experts - Podcast
+  - post: 'Neue Wege gehen und #SELBERgroß sein'
 ---
 Arbeit als Mittel zum Zweck? Für Peggy Kopkow ist das weit vom heutigen Zeitgeist entfernt. Im Gespräch mit Real Experts Gründer Christoph Rauhut spricht Sie über Ihre persönliche WHY Entscheidung für Real Experts und darüber, wie durch Werte wie Respekt, Loyalität und Vertrauen Synergien für eine sinnstiftende Zusammenarbeit freigesetzt werden können. 
 
