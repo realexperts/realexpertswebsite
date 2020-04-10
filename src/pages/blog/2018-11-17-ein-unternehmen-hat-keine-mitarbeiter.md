@@ -16,8 +16,8 @@ tags:
   - Mitarbeiter und Führung
 relatedPosts:
   - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
-  - post: Ein Unternehmen hat keine Mitarbeiter
   - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
+  - post: 'Entdecke das Potential, den Kern von New Work'
 ---
 ...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von einem seelenlosen, ausschließlich profitorientierten Unternehmen, das nur von der Führungsetage rumdelegiert wird. Immerzu wird von der Verantwortung der Mitarbeiter gegenüber dem Unternehmen gesprochen. Dabei soll heute die zentrale Frage sein: Was hat ein Unternehmen gegenüber seinen Mitarbeitern für Aufgaben und worin liegt seine Verantwortung?
 
