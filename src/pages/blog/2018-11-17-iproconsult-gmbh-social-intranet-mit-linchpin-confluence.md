@@ -15,9 +15,9 @@ category: Intranet
 tags:
   - Kunden
 relatedPosts:
-  - post: 'Entdecke das Potential, den Kern von New Work'
-  - post: Das Dilemma des New Work Hype
-  - post: Wissensmanagement und Zusammenarbeit bei Real Experts
+  - post: Tipps für eine erfolgreiche Intranet-Einführung
+  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
+  - post: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
 ---
 Als innovativer Partner für die Umsetzung von Bauvorhaben hat die IPROconsult GmbH aus Dresden den Bedarf Ihrer Mitarbeiterinnen und Mitarbeiter nach effizienterer Zusammenarbeit erkannt und mit Linchpin aus Basis von Confluence ein Social Intranet für 500 Mitarbeiter eingeführt. Christin Löffler, Leiterin der Unternehmenskommunikation, über die Beweggründe, Umsetzung und das Potential eines Social Intranets.
 
