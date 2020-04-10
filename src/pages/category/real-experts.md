@@ -30,11 +30,8 @@ successStories:
   - customerName: Peggy Kopkow
     image: /img/DSC_8294.jpg
     post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
-  - customerName: Christoph Rauhut
-    image: /img/der-beginn-einer-reise.png
-    post: Das Why und die Vision von Real Experts - Podcast
 infoBox:
-  body: <hier kommt noch ein Text>
+  body: hier kommt noch ein Text
   headline: Über uns
   image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
 statements: []
