@@ -9,7 +9,7 @@ description: >-
   spricht im Interview mit Christoph Rauhut u.a. über die Bedeutung von User
   Experience (UX) bei der Nutzung eines Social Intranets. Oberstes Gebot:
   Digitale Lösungen müssen dem Nutzer Spaß und Freude bereiten. 
-category: Partner und Netzwerk
+category: Real Experts
 tags:
   - Partner
 relatedPosts:
