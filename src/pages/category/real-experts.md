@@ -30,6 +30,18 @@ successStories:
   - customerName: Peggy Kopkow
     image: /img/DSC_8294.jpg
     post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
+  - customerName: Oliver Reithage
+    image: /img/Foto_Oliver_quer.jpg
+    post: Oliver Reithage - Warum arbeitest Du für Real Experts?
+  - customerName: Enrico Skottnik
+    image: /img/DSC_8649.png
+    post: Enrico Skottnik - Warum arbeitest du für Real Experts?
+  - customerName: Daniel Jeschor
+    image: /img/20190930_141030_gray.jpg
+    post: Daniel Jeschor - Warum arbeitest Du für Real Experts?
+  - customerName: Christoph Rauhut
+    image: /img/der-beginn-einer-reise.png
+    post: Das Why und die Vision von Real Experts - Podcast
 infoBox:
   body: hier kommt noch ein Text
   headline: Über uns
