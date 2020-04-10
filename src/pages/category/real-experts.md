@@ -34,10 +34,7 @@ infoBox:
   body: hier kommt noch ein Text
   headline: Über uns
   image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
-statements:
-  - author: sdadasd
-    body: asdasd
-    image: /img/der-beginn-einer-reise-a5440b7a0bf73b3b61b33201dbd00c36-21464.png
+statements: []
 relatedPosts:
   - post: Real Experts - Der Beginn einer Reise
   - post: Das Why und die Vision von Real Experts - Podcast
