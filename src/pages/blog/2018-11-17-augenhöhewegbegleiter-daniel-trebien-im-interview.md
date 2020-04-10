@@ -11,7 +11,7 @@ description: >-
   der Zusammenarbeit sowohl für kleine als auch für große Unternehmen ist. Unser
   Résumé: Es gibt keinen Grund es nicht zu tun. Darum werden auch wir von Real
   Experts an diesem Entwicklungsprogramm teilnehmen!
-category: Augenhöhe
+category: Real Experts
 tags:
   - Augenhöhe
 relatedPosts:
