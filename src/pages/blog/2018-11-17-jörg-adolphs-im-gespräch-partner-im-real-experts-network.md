@@ -12,7 +12,7 @@ description: >-
   leistungsorientiert arbeitet. Andererseits zugleich ein Berater, der
   „Leerlaufzeiten“ energiebringend nutzt. Seit 2004 realisiert Jörg Vorträge und
   Seminare, die sich den zentralen Qualitäten des MenschSeins widmen. 
-category: Partner und Netzwerk
+category: Real Experts
 tags:
   - Partner
 relatedPosts:
