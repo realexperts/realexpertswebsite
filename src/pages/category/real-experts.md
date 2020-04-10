@@ -43,9 +43,14 @@ successStories:
     image: /img/der-beginn-einer-reise.png
     post: Das Why und die Vision von Real Experts - Podcast
 infoBox:
-  body: hier kommt noch ein Text
+  body: >-
+    Real Experts ist ein junges Unternehmen aus Dresden. Gemeinsam mit unseren
+    Experten und unserem Netzwerk wollen wir für unsere Kunden und deren
+    Mitarbeiter eine neue Form des Arbeitens schaffen. Wir wollen begleiten und
+    befähigen, um so einen Wandel der Arbeitswelt in allen Unternehmen zu
+    ermöglichen.
   headline: Über uns
-  image: /img/alter-vs.-neuer-arbeitsplatz-.pptx-1-.png
+  image: /img/crauhut-logo-realexperts-512x512px.png
 statements: []
 relatedPosts:
   - post: Real Experts - Der Beginn einer Reise
