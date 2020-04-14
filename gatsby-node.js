@@ -307,6 +307,21 @@ exports.onCreateNode = ({node, boundActionCreators, getNode}) => {
         });
       }
     }
+
+    if (node.frontmatter.successStories && node.frontmatter.successStories.length > 0) {
+
+      const successStoriesImages = node.frontmatter.successStories.map(successStory => {
+        return `../../../static${successStory.storyImage}`
+      });
+
+      createNodeField({
+        node,
+        name: 'successStoriesImages',
+        value: successStoriesImages,
+      });
+
+    }
+
   }
 
   const {frontmatter} = node;

@@ -27,6 +27,7 @@ thesis:
     headline: Ihr Nutzen
     highlighted: false
 video: 'https://youtu.be/gLoDsa-1QY4'
+successStoriesTitle: Erfolgsgeschichten
 successStories: []
 infoBox:
   body: >-

@@ -55,7 +55,22 @@
           padding-right: 20px;
         }
 
+        .success-stories-wrapper {
+          .success-stories {
+            .carousel {
+              .success-story {
+                .carousel__inner-slide {
+                  h4 {
+                    font-size: 20px;
+                  }
+                }
+              }
+            }
+          }
+        }
+
       }
+
     }
 
     .blog-post {
@@ -341,26 +356,24 @@
         .success-stories-wrapper {
           width: 100%;
           margin: 20px 0;
-          padding: 0px;
+          padding: 0;
 
           .success-stories {
             flex-direction: column;
             margin: 0;
 
-            .success-story {
-              max-width: 100%;
-              display: inline-block;
-              width: 48%;
-              margin-bottom: 40px;
-              padding: 0;
-              margin-right: 4%;
-
-              &:nth-child(2n) {
-                margin-right: 0;
+            .carousel {
+              padding: 0 60px;
+              .success-story {
+                .carousel__inner-slide {
+                  padding: 10px;
+                  h4 {
+                    font-size: 16px;
+                  }
+                }
               }
             }
           }
-
         }
 
         .category-info-box-wrapper {
@@ -1076,18 +1089,59 @@
         .success-stories-wrapper {
           width: 100%;
           margin: 20px 0;
-          padding: 20px;
+          padding: 0;
 
           .success-stories {
-            flex-direction: column;
 
-            .success-story {
-              max-width: 100%;
-              display: block;
-              width: 100%;
-              margin-bottom: 40px;
-              padding: 0;
-            }
+              //flex-direction: column;
+              margin: 0;
+
+              .carousel {
+
+                padding: 0 60px;
+
+                .back-button-wrapper,
+                .next-button-wrapper {
+                  position: absolute;
+                  top: 50%;
+                  margin-top: -50px;
+                }
+
+                .back-button-wrapper {
+                  margin-left: 0px;
+                  left: 0;
+                }
+
+                .next-button-wrapper {
+                  margin-left: 0px;
+                  right: 0;
+                }
+
+                .success-story {
+
+                  .carousel__inner-slide {
+
+                    padding: 10px;
+
+                    h4 {
+                      font-size: 20px;
+                    }
+
+                  }
+
+                }
+
+              }
+
+            //flex-direction: column;
+            //
+            //.success-story {
+            //  max-width: 100%;
+            //  display: block;
+            //  width: 100%;
+            //  margin-bottom: 40px;
+            //  padding: 0;
+            //}
           }
 
         }

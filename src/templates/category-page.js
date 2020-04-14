@@ -27,14 +27,14 @@ export const CategoryPageTemplate = ({data, settings}) => {
     let successStories = [];
     if (data.fields.successStories) {
         successStories = data.fields.successStories.map((successStory, key) => (
-            <div key={key} className="success-story">
+            <Slide index={key} key={key} className="success-story">
               <Link to={successStory.fields.slug}>
-                <Img fluid={successStory.fields.image.childImageSharp.fluid}/>
+                <Img fluid={data.fields.successStoriesImages[key].childImageSharp.fluid}/>
               </Link>
               <Link to={successStory.fields.slug}>
                 <h4>{data.frontmatter.successStories[key].customerName}</h4>
               </Link>
-            </div>
+            </Slide>
         ));
     }
 
@@ -70,7 +70,16 @@ export const CategoryPageTemplate = ({data, settings}) => {
       slug: data.fields.slug,
     }} postImage={settings.global.url+data.frontmatter.headerImage.childImageSharp.fluid.src}/>;
 
-    return (
+    let numSlides;
+    if (window.innerWidth > 768) {
+      numSlides = 4
+    } else if (window.innerWidth > 480) {
+      numSlides = 3
+    } else {
+      numSlides = 1
+    }
+
+  return (
         <Layout>
             <section className='category' lang="de">
                 {seoTags}
@@ -123,9 +132,25 @@ export const CategoryPageTemplate = ({data, settings}) => {
 
                         { successStories.length > 0 &&
                         <div className="success-stories-wrapper">
-                          <h2>Erfolgsgeschichten</h2>
+                          <h2>{data.frontmatter.successStoriesTitle}</h2>
                           <div className="success-stories">
-                            {successStories}
+                            <CarouselProvider
+                              naturalSlideWidth={400}
+                              naturalSlideHeight={300}
+                              totalSlides={successStories.length}
+                              visibleSlides={numSlides}
+                            >
+                              <div className="back-button-wrapper">
+                                <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
+                              </div>
+                              <Slider>
+                                {successStories}
+                              </Slider>
+                              <div className="next-button-wrapper">
+                                <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
+                              </div>
+                            </CarouselProvider>
+
                           </div>
                         </div>
                         }
@@ -191,6 +216,7 @@ CategoryPageTemplate.propTypes = {
         body: PropTypes.string,
     })),
     video: PropTypes.string,
+    successStoriesTitle: PropTypes.string,
     successStories: PropTypes.arrayOf(PropTypes.object),
     infoBox: PropTypes.arrayOf(PropTypes.object),
     statements: PropTypes.arrayOf(PropTypes.object),
@@ -255,15 +281,15 @@ export const categoryPageQuery = graphql`
                 successStories {
                     fields {
                         slug
-                        image {
-                            childImageSharp {
-                                fluid(maxWidth: 630) {
-                                    ...GatsbyImageSharpFluid
-                                }
-                            }
-                        }
                     }
                 }
+                successStoriesImages {
+                    childImageSharp {
+                        fluid(maxWidth: 630) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                } 
                 infoBoxImage {
                     childImageSharp {
                         fluid(maxWidth: 630) {
@@ -290,10 +316,11 @@ export const categoryPageQuery = graphql`
                     body
                 }
                 video
+                successStoriesTitle
                 successStories {
                     post
                     customerName
-                    image
+                    storyImage
                 }
                 infoBox {
                     headline
