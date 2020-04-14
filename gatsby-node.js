@@ -349,6 +349,24 @@ exports.onCreateNode = ({node, boundActionCreators, getNode}) => {
 
 };
 
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  const typeDefs = `
+    type MarkdownRemark implements Node {
+      frontmatter: Frontmatter
+    }
+    type Frontmatter {
+      statements: [Statement]
+    }
+    type Statement implements Node {
+      author: String
+      body: String
+      image: File
+    }`;
+
+  createTypes(typeDefs)
+};
+
 exports.onCreateWebpackConfig = ({
   stage,
   getConfig,
