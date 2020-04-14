@@ -50,11 +50,8 @@ infoBox:
     befähigen, um so einen Wandel der Arbeitswelt in allen Unternehmen zu
     ermöglichen.
   headline: Über uns
-  image: /img/crauhut-logo-realexperts-512x512px.png
-statements:
-  - author: dsfsdf
-    body: dsfsdfsd
-    image: /img/Best of breed vs best of suit2 mit text.png
+  image: /img/IMG_4017_3.jpg
+statements: []
 relatedPosts:
   - post: Real Experts - Der Beginn einer Reise
   - post: Das Why und die Vision von Real Experts - Podcast
