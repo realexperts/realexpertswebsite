@@ -70,7 +70,9 @@ export const CategoryPageTemplate = ({data, settings}) => {
       slug: data.fields.slug,
     }} postImage={settings.global.url+data.frontmatter.headerImage.childImageSharp.fluid.src}/>;
 
-    let numSlides;
+
+  let numSlides = 4;
+  if (typeof window !== `undefined`) {
     if (window.innerWidth > 768) {
       numSlides = 4
     } else if (window.innerWidth > 480) {
@@ -78,6 +80,8 @@ export const CategoryPageTemplate = ({data, settings}) => {
     } else {
       numSlides = 1
     }
+  }
+
 
   return (
         <Layout>
