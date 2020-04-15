@@ -12,21 +12,32 @@
         background-color: #0e3e93;
         height: 100px;
 
-        nav .navigation-bar-logo {
+        nav {
 
-          margin-left: 20px;
+          position: relative;
 
-          figure.image-top {
-            position: static;
-            opacity: 1;
+          .navigation-bar-logo {
 
-            img {
-              width: 80%;
+            margin-left: 20px;
+
+            figure.image-top {
+              position: static;
+              opacity: 1;
+              display: block;
+
+              img {
+                width: 80%;
+              }
             }
+
+            figure.image-top-scrolling {
+              opacity: 0;
+            }
+
           }
 
-          figure.image-top-scrolling {
-            opacity: 0;
+          .navigation-bar-burger {
+            top: 10px;
           }
 
         }
@@ -45,11 +56,19 @@
             height: auto !important;
           }
       }
+
+      .page-content {
+        margin-top: 0 !important;
+      }
+
     }
   }
 
-  main section .page-content {
-    margin-top: 0 !important;
+  .footer-links {
+    a, span {
+      hyphens: auto;
+      -ms-hyphens: auto;
+    }
   }
 
   main .blog .top-posts .post.top,
@@ -64,3 +83,66 @@
 
 
 }
+
+@media screen and (max-width: 768px) and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+
+  .content {
+    overflow: hidden;
+  }
+
+  main {
+    section {
+      .page-content {
+        display: block;
+        .featured-blog-post-wrapper {
+          .featured-blog-post {
+            display: block;
+          }
+        }
+        .category-info-box-wrapper {
+          .category-info-box {
+            display: block;
+          }
+        }
+        .contact-block-wrapper {
+          .contact-content {
+            display: block;
+          }
+        }
+        .content-block-wrapper {
+          display: block;
+          .content-block {
+            .blog-post-content {
+              display: block;
+              .content {
+                overflow: hidden;
+              }
+            }
+          }
+        }
+
+        .related-posts {
+          .related-posts-wrapper {
+            .related-posts-wrapper-inner {
+              .related-posts-list-wrapper {
+                .related-posts-list{
+                  display: block;
+                }
+              }
+            }
+          }
+        }
+
+      }
+
+    }
+  }
+
+  .contact-form-footer {
+    .contact-form-footer-content {
+      display: block;
+    }
+  }
+
+}
+
