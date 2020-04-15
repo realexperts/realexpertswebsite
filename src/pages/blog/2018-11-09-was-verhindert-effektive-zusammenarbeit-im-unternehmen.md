@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Was verhindert effektive Zusammenarbeit im Unternehmen?
+slug: blog/2018-11-09-was-verhindert-effektive-zusammenarbeit-im-unternehmen
 date: '2018-05-07T11:36:11+02:00'
 author: Peggy Kopkow
 image: /img/header-mitarbeiter-und-führung.png

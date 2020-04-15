@@ -20,6 +20,7 @@ module.exports = {
     `gatsby-plugin-polyfill-io`,
     'gatsby-plugin-sitemap',
     'gatsby-plugin-sharp',
+    'gatsby-plugin-slug',
     'gatsby-transformer-sharp',
     'gatsby-transformer-json',
     {

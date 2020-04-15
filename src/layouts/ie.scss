@@ -35,9 +35,20 @@
 
   }
 
-  main .blog .top-posts .post.top, 
+  main {
+    section {
+      .hero {
+        height: auto !important;
+          .gatsby-image-wrapper {
+            height: auto !important;
+          }
+      }
+    }
+  }
+
+  main .blog .top-posts .post.top,
   main .blog-post .related-posts .related-posts-wrapper
-  main section .page-content .posts, 
+  main section .page-content .posts,
   main section .page-content .posts .top-posts .post,
   main section .page-content .featured-blog-post-wrapper,
   main section .page-content .statements-wrapper .statements-content .statement,

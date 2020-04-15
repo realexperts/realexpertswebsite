@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Ein Jahr Social Intranet bei der IPROconsult GmbH
+slug: blog/2019-05-20-ein-jahr-social-intranet-bei-der-iproconsult-gmbh
 date: '2019-05-20T11:28:38+02:00'
 author: Christoph Rauhut
 image: /img/vortrag-ipro-meetup-hamburg-neu.png

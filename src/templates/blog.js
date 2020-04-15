@@ -124,7 +124,7 @@ export const pageQuery = graphql`
       }
     }
     # Query front page for related posts used as top posts
-    markdownRemark(fields: { slug: { eq: "/" }}) {
+    markdownRemark(fields: { slug: { eq: "/index/" }}) {
       id
       fields {
         relatedPosts {

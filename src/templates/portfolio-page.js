@@ -12,6 +12,9 @@ import FeaturedBlogPost from '../components/FeaturedBlogPost';
 import SEO from '../components/SEO';
 
 export const PortfolioPageTemplate = ({data, settings}) => {
+
+  console.log("data", data);
+
   let categories = [];
   if(data.fields.categories){
     categories = data.fields.categories.map((category, index) => (
@@ -32,6 +35,9 @@ export const PortfolioPageTemplate = ({data, settings}) => {
       frontmatter: data.frontmatter,
       slug: data.fields.slug,
     }} postImage={settings.global.url+data.frontmatter.headerImage.childImageSharp.fluid.src}/>;
+
+  console.log("categories", categories);
+  console.log("topPosts", topPosts);
 
   return (
     <Layout>

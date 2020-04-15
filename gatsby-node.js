@@ -147,8 +147,8 @@ exports.sourceNodes = ({actions, getNodes, getNode}) => {
   }
 };
 
-exports.createPages = ({boundActionCreators, graphql}) => {
-  const {createPage} = boundActionCreators;
+exports.createPages = ({actions, graphql}) => {
+  const {createPage} = actions;
 
   return new Promise((resolve, reject) => {
     graphql(`
@@ -178,8 +178,13 @@ exports.createPages = ({boundActionCreators, graphql}) => {
       pages.forEach(edge => {
         const id = edge.node.id;
 
+        let slug = edge.node.fields.slug;
+        if (slug === '/index/') {
+          slug = '/';
+        }
+
         createPage({
-          path: edge.node.fields.slug,
+          path: slug,
           tags: edge.node.frontmatter.tags,
           component: path.resolve(
             `src/templates/${String(edge.node.frontmatter.templateKey)}.js`,
@@ -187,6 +192,7 @@ exports.createPages = ({boundActionCreators, graphql}) => {
           // additional data can be passed via context
           context: {
             id,
+            slug
           },
         });
       });
@@ -210,6 +216,7 @@ exports.createPages = ({boundActionCreators, graphql}) => {
             skip: i * postsPerPage,
             numPages,
             currentPage: i + 1,
+            slug: i === 0 ? `/blog/` : `/blog/${i + 1}`
           },
         });
       });
@@ -243,13 +250,12 @@ exports.createPages = ({boundActionCreators, graphql}) => {
   });
 };
 
-exports.onCreateNode = ({node, boundActionCreators, getNode}) => {
-  const {createNodeField} = boundActionCreators;
+exports.onCreateNode = ({node, actions, getNode}) => {
+  const {createNodeField} = actions;
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({node, getNode});
     createNodeField({
-      name: `slug`,
       node,
       value,
     });

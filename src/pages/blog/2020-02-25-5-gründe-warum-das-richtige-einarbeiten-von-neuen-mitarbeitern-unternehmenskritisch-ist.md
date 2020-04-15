@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
+slug: blog/2020-02-25-5-gruende-warum-das-richtige-einarbeiten-von-neuen-mitarbeitern-unternehmenskritisch-ist
 date: 2020-02-25T09:17:28.783Z
 author: Peggy Kopkow
 image: /img/header-organisationsentwicklung.png

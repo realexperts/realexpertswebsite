@@ -1,6 +1,7 @@
 ---
 templateKey: category-page
 title: Digitaler Arbeitsplatz
+slug: category/digital-workplace
 contentTitle: Ein moderner Arbeitsplatz für eine erfolgreiche Zukunft
 headerImage: /img/real-experts-header-kategorie.png
 description: >-

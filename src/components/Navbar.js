@@ -59,7 +59,8 @@ class NavbarComponent extends React.Component {
                className="navigation-bar-burger"
                aria-label="menu"
                aria-expanded="false"
-               onClick={this.toggleClass}>
+               onClick={this.toggleClass}
+               onKeyDown={this.toggleClass}>
           </img>
           <div className={`navigation-bar-menu ${this.state.mobileMenuActive ? 'is-active': 'not-active'}`}>
             {this.state.menuItems}

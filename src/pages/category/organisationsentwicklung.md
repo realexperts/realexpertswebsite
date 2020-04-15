@@ -1,6 +1,7 @@
 ---
 templateKey: category-page
 title: Organisationsentwicklung
+slug: category/organisationsentwicklung
 contentTitle: Eine positive Entwicklung in Ihrem Unternehmen ist kein Zufall
 headerImage: /img/real-experts-header-kategorie.png
 description: >-

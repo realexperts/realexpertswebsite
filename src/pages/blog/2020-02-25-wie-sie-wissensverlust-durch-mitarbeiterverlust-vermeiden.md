@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
+slug: blog/2020-02-25-wie-sie-wissensverlust-durch-mitarbeiterverlust-vermeiden
 date: 2020-02-25T09:37:32.851Z
 author: Peggy Kopkow
 image: /img/header-organisationsentwicklung.png

@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Was brauchst Du, um das zu machen, was Du willst?'
+slug: blog/2018-12-19-was-brauchst-du-um-das-zu-machen-was-du-willst
 date: '2018-12-19T19:18:37+01:00'
 author: Peggy Kopkow
 image: /img/header-mitarbeiter-und-führung.png

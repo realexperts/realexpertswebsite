@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Kampf der Giganten - Microsoft Office 365 und Google G Suite im Vergleich  '
+slug: blog/2018-11-17-microsoft-office-365-und-google-g-suite-im-vergleich-–-google-cloud-fruehstueck
 date: '2018-03-15T15:23:21+01:00'
 author: Christoph Rauhut
 image: /img/video_365_gsuite.png

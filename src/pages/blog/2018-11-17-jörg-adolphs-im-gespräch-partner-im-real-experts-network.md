@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Jörg Adolphs - Partner im Real Experts Netzwerk
+slug: blog/2018-11-17-joerg-adolphs-im-gespraech-partner-im-real-experts-network
 date: '2018-07-28T15:14:04+02:00'
 author: Christoph Rauhut
 image: /img/video_joerg_adolphs.png

@@ -1,6 +1,7 @@
 ---
 templateKey: front-page
 title: Start
+slug: "" 
 headerImage: /img/real-experts-header-home.png
 claim:
   heading: Zusammenarbeit und Wirksamkeit in Unternehmen neu gestalten

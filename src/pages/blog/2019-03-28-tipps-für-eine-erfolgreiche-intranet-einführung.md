@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Tipps für eine erfolgreiche Intranet-Einführung
+slug: blog/2019-03-28-tipps-fuer-eine-erfolgreiche-intranet-einfuehrung
 date: '2019-03-28T10:14:27+01:00'
 author: Oliver Reithage
 image: /img/tipps-für-eine-erfolgreiche-intranet-einführung.png

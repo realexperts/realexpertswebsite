@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Leitfaden für die Auswahl digitaler Tools in Unternehmen
+slug: blog/2020-01-19-leitfaden-für-die-auswahl-digitaler-tools-in-unternehmen
 date: '2020-01-19T16:32:07+01:00'
 author: Oliver Reithage
 image: /img/tool-evaluierung-4-phasen-model.png

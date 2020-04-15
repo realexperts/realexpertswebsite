@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Ein Unternehmen hat keine Mitarbeiter
+slug: blog/2018-11-17-ein-unternehmen-hat-keine-mitarbeiter
 date: '2018-09-05T14:31:41+02:00'
 author: Peggy Kopkow
 image: /img/header-mitarbeiter-und-führung.png

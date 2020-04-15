@@ -1,6 +1,7 @@
 ---
 templateKey: portfolio-page
 title: Digitalisierung und Arbeitsplatz
+slug: portfolio/digitalisierung-und-arbeitsplatz
 headerImage: /img/real-experts-header-portfolio.png
 description: >-
   Die Digitalisierung verändert unsere Arbeitswelt in einer nie dagewesenen Art

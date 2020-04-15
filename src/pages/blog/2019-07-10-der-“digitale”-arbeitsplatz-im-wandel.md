@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Der “digitale” Arbeitsplatz im Wandel '
+slug: blog/2019-07-10-der-“digitale”-arbeitsplatz-im-wandel
 date: '2019-07-10T13:29:01+02:00'
 author: Oliver Reithage
 image: /img/der-“digitale”arbeitsplatz-im-wandel-fertig.png

@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Wissensmanagement und Zusammenarbeit bei Real Experts
+slug: blog/2018-11-17-wissensmanagement-bei-real-experts
 date: '2018-07-25T14:43:04+02:00'
 author: Peggy Kopkow
 image: >-

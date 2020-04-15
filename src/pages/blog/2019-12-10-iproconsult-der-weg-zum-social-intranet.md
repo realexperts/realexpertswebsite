@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'IPROconsult: Der Weg zum Social Intranet'
+slug: blog/2019-12-10-iproconsult-der-weg-zum-social-intranet
 date: '2019-12-10T09:23:39+01:00'
 author: Christoph Rauhut
 image: /img/case-study-ipro.png

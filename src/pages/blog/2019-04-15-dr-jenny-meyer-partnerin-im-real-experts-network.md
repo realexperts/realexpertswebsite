@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Dr. Jenny Meyer - Partnerin im Real Experts Network
+slug: blog/2019-04-15-dr-jenny-meyer-partnerin-im-real-experts-network
 date: '2019-04-15T18:03:32+02:00'
 author: Christoph Rauhut
 image: /img/dr.-jenny-meyer-im-gespräch-partnerin-im-real-experts-network-neu.png

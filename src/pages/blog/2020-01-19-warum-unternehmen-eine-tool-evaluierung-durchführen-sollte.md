@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
+slug: blog/2020-01-19-warum-unternehmen-eine-tool-evaluierung-durchfuehren-sollte
 date: '2020-01-19T17:18:18+01:00'
 author: Oliver Reithage
 image: /img/tool-evaluierung-part-1.png

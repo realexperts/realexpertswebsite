@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Der Weg zur Vision
+slug: blog/2018-11-17-der-weg-zur-vision
 date: '2018-07-04T14:19:34+02:00'
 author: Peggy Kopkow
 image: /img/der-weg-zur-vision.png

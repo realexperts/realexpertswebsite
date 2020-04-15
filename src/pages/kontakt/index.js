@@ -5,12 +5,6 @@ import Map from '../../components/Map';
 import { graphql } from 'gatsby';
 import Layout from '../../components/layout';
 import ContactForm from '../../components/ContactForm';
-import facebookIcon from '../../img/icons/social/facebook.svg';
-import instagramIcon from '../../img/icons/social/instagram.svg';
-import linkedinIcon from '../../img/icons/social/linkedin.svg';
-import twitterIcon from '../../img/icons/social/twitter.svg';
-import xingIcon from '../../img/icons/social/xing.svg';
-import youtubeIcon from '../../img/icons/social/youtube.svg';
 
 class ContactPage extends React.Component {
 

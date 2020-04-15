@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Führen und führen lassen auf Augenhöhe '
+slug: blog/2019-03-25-fuehren-und-fuehren-lassen-auf-augenhoehe
 date: '2019-03-25T15:01:14+01:00'
 author: Peggy Kopkow
 image: /img/führen-und-führen-lassen-auf-augenhöhe-2-.png

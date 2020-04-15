@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Experimente wagen
+slug: blog/2019-09-18-experimente-wagen
 date: '2019-09-18T11:41:32+02:00'
 author: Peggy Kopkow
 image: /img/experimente-wagen.png

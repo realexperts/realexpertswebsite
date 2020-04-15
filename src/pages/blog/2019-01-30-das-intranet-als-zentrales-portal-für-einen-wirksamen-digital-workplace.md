@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
+slug: blog/2019-01-30-das-intranet-als-zentrales-portal-fuer-einen-wirksamen-digital-workplace
 date: '2019-01-30T12:05:33+01:00'
 author: Oliver Reithage
 image: >-

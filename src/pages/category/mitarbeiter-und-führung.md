@@ -1,6 +1,7 @@
 ---
 templateKey: category-page
 title: Mitarbeiter und Führung
+slug: category/mitarbeiter-und-fuehrung
 contentTitle: WOFÜR existiert Ihr Unternehmen?
 headerImage: /img/real-experts-header-kategorie.png
 description: >-

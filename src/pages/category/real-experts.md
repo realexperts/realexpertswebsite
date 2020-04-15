@@ -1,6 +1,7 @@
 ---
 templateKey: category-page
 title: Real Experts
+slug: category/real-experts
 contentTitle: Zusammenarbeit und Wirksamkeit in Unternehmen neu gestalten
 headerImage: /img/real-experts-header-kategorie.png
 description: >-

@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Das Dilemma des New Work Hype
+slug: blog/2018-11-18-das-dilemma-des-new-work-hype
 date: '2018-11-17T10:32:18+01:00'
 author: Christoph Rauhut
 image: /img/das-dilemma-des-new-work-hype.png

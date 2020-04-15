@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Daniel Jeschor - Warum arbeitest Du für Real Experts?
+slug: blog/2020-04-10-daniel-jeschor-warum-arbeitest-du-fuer-real-experts
 date: 2019-06-18T10:24:39.184Z
 author: Christoph Rauhut
 image: /img/20190930_141030_gray.jpg

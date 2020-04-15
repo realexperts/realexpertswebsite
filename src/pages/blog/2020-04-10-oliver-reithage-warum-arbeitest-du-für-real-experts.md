@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Oliver Reithage - Warum arbeitest Du für Real Experts?
+slug: blog/2020-04-10-oliver-reithage-warum-arbeitest-du-fuer-real-experts
 date: 2019-04-01T10:20:59.005Z
 author: Christoph Rauhut
 image: /img/Foto_Oliver_quer.jpg

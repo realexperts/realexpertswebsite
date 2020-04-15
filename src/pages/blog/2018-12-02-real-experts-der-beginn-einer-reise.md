@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Real Experts - Der Beginn einer Reise
+slug: blog/2018-12-02-real-experts-der-beginn-einer-reise
 date: '2018-03-01T09:24:46+01:00'
 author: Christoph Rauhut
 image: /img/der-beginn-einer-reise.png

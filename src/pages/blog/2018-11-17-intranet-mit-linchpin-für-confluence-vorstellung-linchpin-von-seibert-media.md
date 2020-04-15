@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Social Intranet mit Linchpin für Confluence
+slig: 2018-11-17-intranet-mit-linchpin-fuer-confluence-vorstellung-linchpin-von-seibert-media
 date: '2018-06-22T15:18:43+02:00'
 author: Christoph Rauhut
 image: /img/video_social_intranet_mit_linchpin_fuer_confluence.png

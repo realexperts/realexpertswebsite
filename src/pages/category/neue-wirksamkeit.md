@@ -1,6 +1,7 @@
 ---
 templateKey: category-page
 title: Neue Wirksamkeit
+slug: category/neue-wirksamkeit
 contentTitle: Der Weg zu einer neuen Wirksamkeit im Unternehmen
 headerImage: /img/real-experts-header-kategorie.png
 description: >-

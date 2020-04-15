@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Peggy Kopkow - Warum arbeitest Du für Real Experts?
+slug: blog/2018-11-17-podcast-2-peggy-kopkow-von-real-experts-im-gespraech
 date: '2018-10-01T14:56:09+02:00'
 author: Christoph Rauhut
 image: /img/podcast_peggy.png

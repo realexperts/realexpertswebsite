@@ -1,6 +1,7 @@
 ---
 templateKey: category-page
 title: Software Auswahl
+slug: category/software-auswahl
 contentTitle: So finden Sie die passenden digitalen Werkzeuge
 headerImage: /img/real-experts-header-kategorie.png
 description: >-

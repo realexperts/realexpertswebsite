@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
+slug: blog/2020-02-25-wie-sie-wichtiges-einarbeitungswissen-identifizieren-und-finden
 date: 2020-02-25T10:22:01.209Z
 author: Peggy Kopkow
 image: /img/header-mitarbeiter-und-führung.png

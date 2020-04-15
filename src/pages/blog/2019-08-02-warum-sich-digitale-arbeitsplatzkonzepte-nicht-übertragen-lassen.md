@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Warum sich digitale Arbeitsplatzkonzepte nicht übertragen lassen '
+slug: blog/2019-08-02-warum-sich-digitale-arbeitsplatzkonzepte-nicht-uebertragen-lassen
 date: '2019-08-02T19:47:37+02:00'
 author: Oliver Reithage
 image: /img/warum-sich-digitale-arbeitsplatzkonzepte-nicht-übertragen-lassen-neu.png

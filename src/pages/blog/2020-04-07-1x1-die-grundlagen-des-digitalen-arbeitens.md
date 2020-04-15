@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 1x1 - Die Grundlagen des digitalen Arbeitens
+slug: blog/2020-04-07-1x1-die-grundlagen-des-digitalen-arbeitens
 date: 2020-03-31T08:16:00.000Z
 author: Christoph Rauhut
 image: /img/einmaleins.png

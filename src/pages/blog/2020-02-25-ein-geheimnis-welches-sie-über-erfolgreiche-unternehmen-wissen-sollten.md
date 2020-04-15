@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
+slug: blog/2020-02-25-ein-geheimnis-welches-sie-ueber-erfolgreiche-unternehmen-wissen-sollten
 date: 2020-02-25T09:21:06.637Z
 author: Peggy Kopkow
 image: /img/header-organisationsentwicklung.png

@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Ein Intranet verbindet - “Linchpin” stellt sich vor '
+slug: blog/2019-02-27-ein-intranet-verbindet-“linchpin”-stellt-sich-vor
 date: '2019-02-27T09:14:37+01:00'
 author: Oliver Reithage
 image: /img/realexperts-technologien-linchpin.png

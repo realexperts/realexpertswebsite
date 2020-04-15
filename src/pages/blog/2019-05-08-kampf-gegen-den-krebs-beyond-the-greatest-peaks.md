@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Kampf gegen den Krebs - BEYOND THE GREATEST PEAKS
+slug: blog/2019-05-08-kampf-gegen-den-krebs-beyond-the-greatest-peaks
 date: '2019-05-08T10:49:04+02:00'
 author: Christoph Rauhut
 image: /img/vortrag-philipp-markgraf.png

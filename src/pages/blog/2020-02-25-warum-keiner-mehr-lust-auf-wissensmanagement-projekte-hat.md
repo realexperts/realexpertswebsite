@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
+slug: blog/2020-02-25-warum-keiner-mehr-lust-auf-wissensmanagement-projekte-hat
 date: 2020-02-25T09:32:42.489Z
 author: Peggy Kopkow
 image: /img/header-organisationsentwicklung.png

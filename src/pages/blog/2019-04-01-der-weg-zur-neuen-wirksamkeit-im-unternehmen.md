@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Der Weg zur Neuen Wirksamkeit im Unternehmen
+slug: blog/2019-04-01-der-weg-zur-neuen-wirksamkeit-im-unternehmen
 date: '2019-04-01T13:41:51+02:00'
 author: Christoph Rauhut
 image: /img/der-weg-zur-neuen-wirksamkeit-in-unternehmen.png

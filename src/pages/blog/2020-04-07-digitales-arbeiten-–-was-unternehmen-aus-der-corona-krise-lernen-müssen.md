@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
+slug: blog/2020-04-07-digitales-arbeiten-–-was-unternehmen-aus-der-corona-krise-lernen-muessen
 date: 2020-03-20T09:29:00.000Z
 author: Christoph Rauhut
 image: /img/Digitales Arbeiten.png

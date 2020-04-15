@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Der Weg zum wirksamen Digital Workplace
+slug: blog/2019-11-07-der-weg-zum-wirksamen-digital-workplace
 date: '2019-11-07T09:45:55+01:00'
 author: Oliver Reithage
 image: /img/der-weg-zum-wirksamen-digital-workplace.png

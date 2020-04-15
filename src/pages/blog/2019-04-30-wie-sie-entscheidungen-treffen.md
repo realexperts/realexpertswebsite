@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Wie Sie Entscheidungen treffen
+slug: blog/2019-04-30-wie-sie-entscheidungen-treffen
 date: '2019-04-30T11:17:59+02:00'
 author: Peggy Kopkow
 image: /img/wie-sie-entscheidungen-treffen.png

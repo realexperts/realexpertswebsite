@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
+slug: blog/2020-02-25-6-moeglichkeiten-wie-sie-ihre-mitarbeiter-richtig-einarbeiten
 date: 2020-02-25T09:55:57.029Z
 author: Peggy Kopkow
 image: /img/header-mitarbeiter-und-führung.png

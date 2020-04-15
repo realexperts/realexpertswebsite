@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Neue Wege gehen und #SELBERgroß sein'
+slug: blog/2019-11-17-neue-wege-gehen-und-selbergross-sein
 date: '2019-11-17T11:13:22+01:00'
 author: Christoph Rauhut
 image: /img/der-weg-zur-vision.png
@@ -56,4 +57,5 @@ Diesen Ansatz leben wir auch im Unternehmen und von mir aus darf jeder Mitarbeit
 
 Vielleicht spielt in meinem Leben die weibliche Intuition dabei eine wichtige Rolle. Ich bin umgeben von meinen vier Frauen zuhause und starken Persönlichkeiten wie Peggy, die mich in den letzten Jahren stark geprägt haben und immer noch prägen. Ich selbst stehe da erst am Anfang einer Entwicklung und einer persönlichen Reise.
 
-Das sind drei (Lebens-)Bereiche, die für mich wichtig und richtig waren um **\#SELBERgroß** zu werden und zu sein. Wie gesagt kenne ich viele Leute, die das bereits sind und vorleben. Aber ebenso sehe ich da draußen noch eine große Anzahl von Menschen, die ich ermutigen möchte, selber groß zu werden. Habt den Mut und traut euch genau den Schritt zu gehen und die Entwicklung zu nehmen, die ihr für euch im Inneren für richtig haltet. Beschäftigt euch mit dem Hier und Jetzt. Hinterfragt das Bestehende und das eigene Handeln und Tun. Lasst euch inspirieren von vielen positiven Beispiele, auch aus der [**\#SELBERgroß Challenge**](https://twitter.com/hashtag/SELBERgro%C3%9F). Es gibt so viel mehr zu erleben und zu entdecken, als uns unsere kleine (Arbeits-)Welt so vorgibt. Für mich ist das auch erst der Anfang einer Reise und ich freue mich auf das, was da noch kommt. **KEEP ON CHANGING!**
+Das sind drei (Lebens-)Bereiche, die für mich wichtig und richtig waren um **\#SELBERgroß** zu werden und zu sein. Wie gesagt kenne ich viele Leute, die das bereits sind und vorleben. Aber ebenso sehe ich da draußen noch eine große Anzahl von Menschen, die ich ermutigen möchte, selber groß zu werden. Habt den Mut und traut euch genau den Schritt zu gehen und die Entwicklung zu nehmen, die ihr für euch im Inneren für richtig haltet. Beschäftigt euch mit dem Hier und Jetzt. Hinterfragt das Bestehende und das eigene Handeln und Tun. Lasst euch inspirieren von vielen positiven Beispiele, auch aus der [**\#SELBERgroß Challenge**](https://twitter.com/hashtag/SELBERgro%C3%9F). Es gibt so viel mehr zu erleben und zu entdecken, als uns unsere kleine (Arbeits-)Welt so vorgibt. Für mich ist das auch erst der Anfang einer Reise und ich freue mich auf das, was da noch kommt. **KEEP ON CHANGING!
+**

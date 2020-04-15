@@ -3,6 +3,7 @@ templateKey: blog-post
 title: >-
   Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten Ergebnisse
   erreichen
+slug: blog/2020-02-25-der-wichtigste-grund-warum-ihre-mitarbeiter-nicht-die-gewuenschten-ergebnisse-erreichen
 date: 2020-02-25T10:29:55.550Z
 author: Peggy Kopkow
 image: /img/header-mitarbeiter-und-führung.png

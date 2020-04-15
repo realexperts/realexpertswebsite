@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: EntoNative GmbH - Modernes Arbeiten im Startup mit Google G Suite
+slug: blog/2019-04-23-entonative-gmbh-modernes-arbeiten-im-startup-mit-google-g-suite
 date: '2019-04-23T13:03:41+02:00'
 author: Christoph Rauhut
 image: /img/entonative-gmbh-modernes-arbeiten-im-startup-mit-google-g-suite.png

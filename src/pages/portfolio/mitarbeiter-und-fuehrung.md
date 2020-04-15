@@ -1,6 +1,7 @@
 ---
 templateKey: portfolio-page
 title: Mitarbeiter und Führung
+slug: portfolio/mitarbeiter-und-fuehrung
 headerImage: /img/real-experts-header-portfolio.png
 description: >-
   Veränderungen können nicht auferlegt werden. Sie gestalten sich durch das

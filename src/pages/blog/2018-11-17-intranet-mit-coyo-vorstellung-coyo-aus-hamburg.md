@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Digitale Heimat mit einem Social Intranet von COYO
+slug: blog/2018-11-17-intranet-mit-coyo-vorstellung-coyo-aus-hamburg 
 date: '2018-07-06T15:16:30+02:00'
 author: Christoph Rauhut
 image: /img/video_eine_digitale_heimat_mit_einem_social_intranet_von_coyo.png

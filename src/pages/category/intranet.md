@@ -1,6 +1,7 @@
 ---
 templateKey: category-page
 title: Intranet
+slug: category/intranet
 contentTitle: Das Intranet als zentraler Baustein des digitalen Arbeitsplatzes
 headerImage: /img/real-experts-header-kategorie.png
 description: >

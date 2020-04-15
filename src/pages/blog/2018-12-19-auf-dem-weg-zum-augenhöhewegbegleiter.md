@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Auf dem Weg zum AUGENHÖHEwegbegleiter
+slug: blog/2018-12-19-auf-dem-weg-zum-augenhoehewegbegleiter
 date: '2018-12-19T19:11:56+01:00'
 author: Peggy Kopkow
 image: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png

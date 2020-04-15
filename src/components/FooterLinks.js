@@ -6,7 +6,7 @@ const FooterLink = ({title, link}) => {
   if(link.toString().startsWith('http')){
     return (
         <li>
-          <a href={link} target="_blank">{title}</a>
+          <a href={link} target="_blank" rel="noopener noreferrer">{title}</a>
         </li>
     );
   }

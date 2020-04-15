@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Enrico Skottnik - Warum arbeitest du für Real Experts?
+slug: blog/2020-04-10-enrico-skottnik-warum-arbeitest-du-fuer-real-experts
 date: 2020-04-10T10:28:36.450Z
 author: Christoph Rauhut
 image: /img/DSC_8649.png
