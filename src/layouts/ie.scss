@@ -14,6 +14,8 @@
 
         nav .navigation-bar-logo {
 
+          margin-left: 20px;
+
           figure.image-top {
             position: static;
             opacity: 1;
@@ -46,8 +48,12 @@
     }
   }
 
+  main section .page-content {
+    margin-top: 0 !important;
+  }
+
   main .blog .top-posts .post.top,
-  main .blog-post .related-posts .related-posts-wrapper
+  main .blog-post .related-posts .related-posts-wrapper,
   main section .page-content .posts,
   main section .page-content .posts .top-posts .post,
   main section .page-content .featured-blog-post-wrapper,
