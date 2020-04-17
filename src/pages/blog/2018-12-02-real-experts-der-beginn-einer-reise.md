@@ -1,24 +1,23 @@
 ---
 templateKey: blog-post
 title: Real Experts - Der Beginn einer Reise
-slug: blog/2018-12-02-real-experts-der-beginn-einer-reise
-date: '2018-03-01T09:24:46+01:00'
+date: 2018-03-01T09:24:46+01:00
 author: Christoph Rauhut
-image: /img/der-beginn-einer-reise.png
-description: >-
-  Die Reise von Real Experts ist eine Reise, die schon vor einer Weile begonnen
-  hat. Es ist eine Reise in die Zukunft, bei der aktuell noch niemand weiß,
-  wohin diese uns führen wird. Es wird eine Reise mit vielen neue Entdeckungen
-  und spannenden  neuen Zielen sein. Jeder Mitarbeiter, Kunde und Partner wird
-  Teil dieser Reise und gestaltet diese auf individuelle und eigene Art und
-  Weise mit. 
+description: "Die Reise von Real Experts ist eine Reise, die schon vor einer
+  Weile begonnen hat. Es ist eine Reise in die Zukunft, bei der aktuell noch
+  niemand weiß, wohin diese uns führen wird. Es wird eine Reise mit vielen neue
+  Entdeckungen und spannenden  neuen Zielen sein. Jeder Mitarbeiter, Kunde und
+  Partner wird Teil dieser Reise und gestaltet diese auf individuelle und eigene
+  Art und Weise mit. "
+relatedPosts:
+  - post: "Neue Wege gehen und #SELBERgroß sein"
+  - post: Das Why und die Vision von Real Experts - Podcast
+  - post: Der Weg zur Vision
+slug: blog/2018-12-02-real-experts-der-beginn-einer-reise
+image: /img/01_startseite_.jpg
 category: Real Experts
 tags:
   - Real Experts
-relatedPosts:
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
-  - post: Das Why und die Vision von Real Experts - Podcast
-  - post: Der Weg zur Vision
 ---
 Die Reise von Real Experts ist eine Reise, die schon vor einer Weile begonnen hat. Es ist eine Reise in die Zukunft, bei der aktuell noch niemand weiß, wohin diese uns führen wird. Es wird eine Reise mit vielen neue Entdeckungen und spannenden  neuen Zielen sein. Jeder Mitarbeiter, Kunde und Partner wird Teil dieser Reise und gestaltet diese auf individuelle und eigene Art und Weise mit. 
 
