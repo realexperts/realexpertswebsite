@@ -1,10 +1,8 @@
 ---
 templateKey: blog-post
 title: Ein Unternehmen hat keine Mitarbeiter
-slug: blog/2018-11-17-ein-unternehmen-hat-keine-mitarbeiter
-date: '2018-09-05T14:31:41+02:00'
+date: 2018-09-05T14:31:41+02:00
 author: Peggy Kopkow
-image: /img/header-mitarbeiter-und-führung.png
 description: >
   ...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von
   einem seelenlosen, ausschließlich profitorientierten Unternehmen, das nur von
@@ -12,13 +10,15 @@ description: >
   Mitarbeiter gegenüber dem Unternehmen gesprochen. Dabei soll heute die
   zentrale Frage sein: Was hat ein Unternehmen gegenüber seinen Mitarbeitern für
   Aufgaben und worin liegt seine Verantwortung?
-category: Mitarbeiter und Führung
-tags:
-  - Mitarbeiter und Führung
 relatedPosts:
   - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
   - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
-  - post: 'Entdecke das Potential, den Kern von New Work'
+  - post: Entdecke das Potential, den Kern von New Work
+slug: blog/2018-11-17-ein-unternehmen-hat-keine-mitarbeiter
+image: /img/ein-unternehmen-hat-keine-mitarbeiter.png
+category: Mitarbeiter und Führung
+tags:
+  - Mitarbeiter und Führung
 ---
 ...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von einem seelenlosen, ausschließlich profitorientierten Unternehmen, das nur von der Führungsetage rumdelegiert wird. Immerzu wird von der Verantwortung der Mitarbeiter gegenüber dem Unternehmen gesprochen. Dabei soll heute die zentrale Frage sein: Was hat ein Unternehmen gegenüber seinen Mitarbeitern für Aufgaben und worin liegt seine Verantwortung?
 
