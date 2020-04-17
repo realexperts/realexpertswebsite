@@ -2,7 +2,7 @@
 templateKey: category-page
 title: Mitarbeiter und Führung
 contentTitle: WOFÜR existiert Ihr Unternehmen?
-headerImage: /img/real-experts-header-kategorie.png
+headerImage: /img/mitarbeiter-und-führung_header.png
 description: Ein starkes WOFÜR, mit dem sich alle Mitarbeiter im Unternehmen
   verbinden können, schafft Verbundenheit. Nichts kann motivierender sein, als
   gemeinsam für einen Sinn zu arbeiten. Nichts kann mehr Potential freisetzen.
