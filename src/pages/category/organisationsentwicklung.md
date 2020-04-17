@@ -8,7 +8,7 @@ description: Die Menschen und deren Verhalten in einem Unternehmen formen die
   Fähigkeiten kann die Unternehmensentwicklung positiv voranbringen. Denn es ist
   alles schon da. Geben Sie diesem Potential Raum, kann eine nachhaltige
   Veränderung von innen heraus stattfinden.
-thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+thumbnail: /img/organisationsentwicklung.png
 thesis:
   - body: Viele Mitarbeiter und Führungskräfte spüren sehr genau, wann sich eine
       Organisation weiterentwickeln sollte. Häufig werden diese Erwartungen und
