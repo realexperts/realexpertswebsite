@@ -2,7 +2,7 @@
 templateKey: category-page
 title: Intranet
 contentTitle: Das Intranet als zentraler Baustein des digitalen Arbeitsplatzes
-headerImage: /img/real-experts-header-kategorie.png
+headerImage: /img/intranet_header.png
 description: >
   Ein Social Intranet verbindet, hält Mitarbeiter und Informationen zusammen und
   schafft Raum für Zusammenarbeit und Ideen. Sowohl top-down als auch bottom-up
