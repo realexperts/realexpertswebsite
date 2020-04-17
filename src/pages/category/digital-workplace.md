@@ -2,7 +2,7 @@
 templateKey: category-page
 title: Digitaler Arbeitsplatz
 contentTitle: Ein moderner Arbeitsplatz für eine erfolgreiche Zukunft
-headerImage: /img/real-experts-header-kategorie.png
+headerImage: /img/digitaler-arbeitspaltz.png
 description: "Die Wirksamkeit moderner und digitaler Technologien ist enorm. So
   gestalten Sie den digitalen Arbeitsplatz der Zukunft und machen Ihre
   Mitarbeiter und Ihr Unternehmen erfolgreich. Kommunikation, Zusammenarbeit und
