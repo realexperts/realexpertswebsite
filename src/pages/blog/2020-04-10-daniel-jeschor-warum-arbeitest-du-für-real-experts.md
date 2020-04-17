@@ -1,23 +1,22 @@
 ---
 templateKey: blog-post
 title: Daniel Jeschor - Warum arbeitest Du für Real Experts?
-slug: blog/2020-04-10-daniel-jeschor-warum-arbeitest-du-fuer-real-experts
 date: 2019-06-18T10:24:39.184Z
 author: Christoph Rauhut
-image: /img/20190930_141030_gray.jpg
-description: >-
-  Im nächsten Teil unserer Podcast-Reihe WHY Real Experts? ist Daniel Jeschor,
-  unser Experte für Videoproduktion und Medien, im Interview. Daniel erklärt
-  dabei, warum er sich für Real Experts entschieden hat, was die Arbeit hier für
-  ihn ausmacht und welchen genauen Platz er in unserem Team einnimmt und wie er
-  arbeitet.
-category: Real Experts
-tags:
-  - Mitarbeiter
+description: Im nächsten Teil unserer Podcast-Reihe WHY Real Experts? ist Daniel
+  Jeschor, unser Experte für Videoproduktion und Medien, im Interview. Daniel
+  erklärt dabei, warum er sich für Real Experts entschieden hat, was die Arbeit
+  hier für ihn ausmacht und welchen genauen Platz er in unserem Team einnimmt
+  und wie er arbeitet.
 relatedPosts:
   - post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
   - post: Oliver Reithage - Warum arbeitest Du für Real Experts?
   - post: Das Why und die Vision von Real Experts - Podcast
+slug: blog/2020-04-10-daniel-jeschor-warum-arbeitest-du-fuer-real-experts
+image: /img/daniel_jeschor.jpg
+category: Real Experts
+tags:
+  - Mitarbeiter
 ---
 Im nächsten Teil unserer Podcast-Reihe WHY Real Experts? ist Daniel Jeschor, unser Experte für Videoproduktion und Medien, im Interview. Daniel erklärt dabei, warum er sich für Real Experts entschieden hat, was die Arbeit hier für ihn ausmacht und welchen genauen Platz er in unserem Team einnimmt und wie er arbeitet.
 
