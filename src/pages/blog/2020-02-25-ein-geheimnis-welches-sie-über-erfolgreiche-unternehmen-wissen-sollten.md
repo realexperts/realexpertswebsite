@@ -1,23 +1,22 @@
 ---
 templateKey: blog-post
-title: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
-slug: blog/2020-02-25-ein-geheimnis-welches-sie-ueber-erfolgreiche-unternehmen-wissen-sollten
+title: Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten
 date: 2020-02-25T09:21:06.637Z
 author: Peggy Kopkow
-image: /img/header-organisationsentwicklung.png
-description: >-
-  Megatrends, wie Fachkräftemangel, demografischer Wandel, Arbeit 4.0 oder aber
-  auch die Digitalisierung stellen den Erfolg eines Unternehmens auf eine harte
-  Probe. Darum ist es heute für Unternehmer umso wichtiger, das Wissen und die
-  Fähigkeiten seiner Mitarbeiter mit entsprechenden Tools aufzugreifen, im
-  Unternehmen weiterzugeben und zu sichern.
-category: Organisationsentwicklung
-tags:
-  - Organisationsentwicklung
+description: Megatrends, wie Fachkräftemangel, demografischer Wandel, Arbeit 4.0
+  oder aber auch die Digitalisierung stellen den Erfolg eines Unternehmens auf
+  eine harte Probe. Darum ist es heute für Unternehmer umso wichtiger, das
+  Wissen und die Fähigkeiten seiner Mitarbeiter mit entsprechenden Tools
+  aufzugreifen, im Unternehmen weiterzugeben und zu sichern.
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
   - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
   - post: Wie Sie Entscheidungen treffen
+slug: blog/2020-02-25-ein-geheimnis-welches-sie-ueber-erfolgreiche-unternehmen-wissen-sollten
+image: /img/ein-geheimnis-welches-sie-ueber-erfolgreiche-unternehmen.png
+category: Organisationsentwicklung
+tags:
+  - Organisationsentwicklung
 ---
 Megatrends, wie **Fachkräftemangel**, **demografischer Wandel**, **Arbeit 4.0** oder aber auch die **Digitalisierung** stellen den Erfolg eines Unternehmens auf eine harte Probe. Darum ist es heute für Unternehmer umso wichtiger, das Wissen und die Fähigkeiten seiner Mitarbeiter mit entsprechenden Tools aufzugreifen, im Unternehmen weiterzugeben und zu sichern. Aber was, wenn die Mitarbeiter nicht bereit sind, **ihr erfolgskritisches Wissen** ihrem Unternehmen bereitzustellen? Liegt es an den Mitarbeitern? Ist es nicht das Beste, diese dann zu kündigen? Oder ist der Grund, dass das Wissen nicht geteilt wird, vielleicht ein anderer? Liegt es womöglich am Unternehmen, dem Umfeld oder an Ihnen? Für den zukünftigen Erfolg **besonders kleiner und mittlerer Unternehmen** ist es enorm wichtig, die Quelle der inneren Wertschöpfung effektiv zu nutzen und auch dauerhaft für das Unternehmen zu sichern. Und damit meine ich nicht das Offenlegen von Faktenwissen der Mitarbeiter, wie Anleitungen, Richtlinien, Verträge. Nein, ich meine das Teilen von implizitem Wissen. Ich meine das Wissen, welches dem Mitarbeiter vorerst vielleicht gar nicht bewusst ist, ihn aber als Einzigartiges ausmacht. Es sind die einzelnen Erfahrungen, die dieser Mitarbeiter im Laufe seiner Zeit gesammelt hat und die so oft übersehen werden, aber so unglaublich wichtig für ihr Unternehmen sind! Denn und das weiß man nicht erst seit heute, implizites Wissen stellt ca. 90% des Wissens in Unternehmen dar (Schewe/ Nienaber 2011). Das macht Ihre Mitarbeiter für Sie unersetzbar. Besonders gut zu spüren ist dies, wenn es um Urlaubsvertretung, Krankheitsvertretung oder Mitarbeiternachfolge geht. Hat der Mitarbeiter nicht schon vorher sein erfolgsrelevantes Wissen mit Ihrem Unternehmen geteilt, wird es schwierig. Denn: Wie bereit wären Sie an dieser Stelle Ihr Wichtigstes preiszugeben?
 
