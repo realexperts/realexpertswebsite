@@ -1,26 +1,24 @@
 ---
 templateKey: blog-post
-title: 'Was bedeutet es gut zusammenzuarbeiten? '
-slug: blog/2020-02-25-was-bedeutet-es-gut-zusammenzuarbeiten
+title: "Was bedeutet es gut zusammenzuarbeiten? "
 date: 2020-02-25T09:26:49.673Z
 author: Peggy Kopkow
-image: /img/header-organisationsentwicklung.png
-description: >-
-  Partnerarbeit, Gruppenarbeit und Teamarbeit. Wie im Profisport kann ein
-  Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur geschlossen kann
-  im Team ein Pokal geholt werden. Durch die immer tiefere Spezialisierung und
-  Globalisierung sind immer mehr diverse Projektteams erforderlich. Aber was
+description: Partnerarbeit, Gruppenarbeit und Teamarbeit. Wie im Profisport kann
+  ein Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur geschlossen
+  kann im Team ein Pokal geholt werden. Durch die immer tiefere Spezialisierung
+  und Globalisierung sind immer mehr diverse Projektteams erforderlich. Aber was
   bedeutet eigentlich gute Teamarbeit und somit auch gute Zusammenarbeit im
   Unternehmen?
+relatedPosts:
+  - post: Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten
+  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
+      Ergebnisse erreichen
+slug: blog/2020-02-25-was-bedeutet-es-gut-zusammenzuarbeiten
+image: /img/gut-zusammenarbeiten.png
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung
-relatedPosts:
-  - post: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: >-
-      Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
-      Ergebnisse erreichen
 ---
 Partnerarbeit, Gruppenarbeit und Teamarbeit. Wie im Profisport kann ein Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur geschlossen kann im Team ein Pokal geholt werden. Durch die immer tiefere Spezialisierung und Globalisierung sind immer mehr diverse Projektteams erforderlich. Aber was bedeutet eigentlich gute Teamarbeit und somit auch gute Zusammenarbeit im Unternehmen?
 
