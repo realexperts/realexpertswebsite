@@ -1,28 +1,26 @@
 ---
 templateKey: blog-post
-title: >-
-  Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten Ergebnisse
-  erreichen
-slug: blog/2020-02-25-der-wichtigste-grund-warum-ihre-mitarbeiter-nicht-die-gewuenschten-ergebnisse-erreichen
+title: Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
+  Ergebnisse erreichen
 date: 2020-02-25T10:29:55.550Z
 author: Peggy Kopkow
-image: /img/header-mitarbeiter-und-führung.png
-description: >-
-  Stärken stärken. Was wie eine Wortwiederholung aussieht, hat beim Genaueren
-  überlegen so viel Inhalt. Den eigenen Mitarbeiter in seinen persönlichen
-  Stärken unterstützen. Und sicherlich ist das für Ihren Mitarbeiter eine gute
-  Sache, aber für Ihr Unternehmen ist das Stärken von Ihren Mitarbeitern
-  erkennen und diese dann auch zu fördern und anzuwenden, überlebensnotwendig.
-  Warum? Weil Sie so Potentiale optimal für Ihr Unternehmen nutzen können und
-  sich einen klaren Wettbewerbsvorteil gegenüber Ihren Konkurrenten
-  verschaffen. 
+description: "Stärken stärken. Was wie eine Wortwiederholung aussieht, hat beim
+  Genaueren überlegen so viel Inhalt. Den eigenen Mitarbeiter in seinen
+  persönlichen Stärken unterstützen. Und sicherlich ist das für Ihren
+  Mitarbeiter eine gute Sache, aber für Ihr Unternehmen ist das Stärken von
+  Ihren Mitarbeitern erkennen und diese dann auch zu fördern und anzuwenden,
+  überlebensnotwendig. Warum? Weil Sie so Potentiale optimal für Ihr Unternehmen
+  nutzen können und sich einen klaren Wettbewerbsvorteil gegenüber Ihren
+  Konkurrenten verschaffen. "
+relatedPosts:
+  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Was brauchst Du, um das zu machen, was Du willst?
+  - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
+slug: blog/2020-02-25-der-wichtigste-grund-warum-ihre-mitarbeiter-nicht-die-gewuenschten-ergebnisse-erreichen
+image: /img/der-wichtigste-grund-warum-mitarbeiter-nicht.png
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung
-relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
-  - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
 ---
 Stärken stärken. Was wie eine Wortwiederholung aussieht, hat beim Genaueren überlegen so viel Inhalt. Den eigenen Mitarbeiter in seinen persönlichen Stärken unterstützen. Und sicherlich ist das für Ihren Mitarbeiter eine gute Sache, aber für Ihr Unternehmen ist das Stärken von Ihren Mitarbeitern erkennen und diese dann auch zu fördern und anzuwenden, überlebensnotwendig. Warum? Weil Sie so Potentiale optimal für Ihr Unternehmen nutzen können und sich einen klaren Wettbewerbsvorteil gegenüber Ihren Konkurrenten verschaffen. 
 
