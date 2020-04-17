@@ -1,7 +1,6 @@
 ---
 templateKey: category-page
 title: Intranet
-slug: category/intranet
 contentTitle: Das Intranet als zentraler Baustein des digitalen Arbeitsplatzes
 headerImage: /img/real-experts-header-kategorie.png
 description: >
@@ -11,10 +10,9 @@ description: >
   Mit einer Vielzahl an Funktion lassen sich zentral die wichtigen
   Anwendungsfälle der unternehmensweiten Interaktion und Kommunikation
   abbilden. 
-thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+thumbnail: /img/intranet.png
 thesis:
-  - body: >-
-      Ein Arbeitsplatz ist längst nicht mehr nur das klassische Büro. Mit
+  - body: Ein Arbeitsplatz ist längst nicht mehr nur das klassische Büro. Mit
       Wachstum des Unternehmens arbeiten Mitarbeiter zunehmend verteilt und in
       Teams. Ein unternehmensweiter Austausch und Informationsfluss kommt so
       nicht mehr zu Stande. Informationen und Wissen gehen verloren und die
@@ -23,24 +21,22 @@ thesis:
       erreichen und auf dem aktuellen Stand zu halten.
     headline: Ihre Herausforderung
     highlighted: false
-  - body: >-
-      Ein modernes Social Intranet ist mehr als ein klassisches
+  - body: "Ein modernes Social Intranet ist mehr als ein klassisches
       Informationsmedium für Mitarbeiter. Als zentraler Bestandteil des
       digitalen Arbeitsplatzes stellt das Intranet ein effektives Werkzeug für
       die Vernetzung von Kommunikation, Information und Zusammenarbeit und die
       Abbildung von Geschäftsprozessen dar. Ein Intranet schafft Heimat und
       Identität für alle Mitarbeiter und bringt das Wir-Gefühl zurück. Sie
-      werden die positive Auswirkung auf die tägliche Arbeit spüren. 
+      werden die positive Auswirkung auf die tägliche Arbeit spüren. "
     headline: Ihr Nutzen
     highlighted: false
-video: 'https://youtu.be/ECmyssqhJns'
+video: https://youtu.be/ECmyssqhJns
 successStoriesTitle: Erfolgsgeschichten
 successStories: []
 infoBox:
-  body: >-
-    Als ausgewiesener Experte für den digitalen Arbeitsplatz der Mitarbeiter ist
-    Oliver Reithage der richtige Ansprechpartner, um mit Ihnen gemeinsam eine
-    begeisternde Arbeitsplatzumgebung für Ihre Mitarbeiter zu schaffen. Als
+  body: Als ausgewiesener Experte für den digitalen Arbeitsplatz der Mitarbeiter
+    ist Oliver Reithage der richtige Ansprechpartner, um mit Ihnen gemeinsam
+    eine begeisternde Arbeitsplatzumgebung für Ihre Mitarbeiter zu schaffen. Als
     technischer Berater unterstützt Herr Reithage Sie dafür bei der Auswahl als
     auch bei der Implementierung passender digitaler Technologien, damit Ihre
     Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße für sich
@@ -49,8 +45,8 @@ infoBox:
   image: /img/Foto_Oliver_quer.jpg
 statements: []
 relatedPosts:
-  - post: 'Das Intranet als zentrales Portal für einen wirksamen Digital Workplace '
+  - post: "Das Intranet als zentrales Portal für einen wirksamen Digital Workplace "
   - post: Tipps für eine erfolgreiche Intranet-Einführung
-  - post: 'IPROconsult: Der Weg zum Social Intranet'
+  - post: "IPROconsult: Der Weg zum Social Intranet"
+slug: category/intranet
 ---
-
