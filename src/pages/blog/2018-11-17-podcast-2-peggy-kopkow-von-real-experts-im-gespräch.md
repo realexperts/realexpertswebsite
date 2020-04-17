@@ -1,23 +1,22 @@
 ---
 templateKey: blog-post
 title: Peggy Kopkow - Warum arbeitest Du für Real Experts?
-slug: blog/2018-11-17-podcast-2-peggy-kopkow-von-real-experts-im-gespraech
-date: '2018-10-01T14:56:09+02:00'
+date: 2018-10-01T14:56:09+02:00
 author: Christoph Rauhut
-image: /img/podcast_peggy.png
-description: >-
-  Arbeit als Mittel zum Zweck? Für Peggy Kopkow ist das weit vom heutigen
-  Zeitgeist entfernt. Im Gespräch mit Real Experts Gründer Christoph Rauhut
-  spricht Sie über Ihre persönliche WHY Entscheidung für Real Experts und
+description: "Arbeit als Mittel zum Zweck? Für Peggy Kopkow ist das weit vom
+  heutigen Zeitgeist entfernt. Im Gespräch mit Real Experts Gründer Christoph
+  Rauhut spricht Sie über Ihre persönliche WHY Entscheidung für Real Experts und
   darüber, wie durch Werte wie Respekt, Loyalität und Vertrauen Synergien für
-  eine sinnstiftende Zusammenarbeit freigesetzt werden können. 
-category: Real Experts
-tags:
-  - Mitarbeiter
+  eine sinnstiftende Zusammenarbeit freigesetzt werden können. "
 relatedPosts:
   - post: Real Experts - Der Beginn einer Reise
   - post: Das Why und die Vision von Real Experts - Podcast
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
+  - post: "Neue Wege gehen und #SELBERgroß sein"
+slug: blog/2018-11-17-podcast-2-peggy-kopkow-von-real-experts-im-gespraech
+image: /img/DSC_8294.jpg
+category: Real Experts
+tags:
+  - Mitarbeiter
 ---
 Arbeit als Mittel zum Zweck? Für Peggy Kopkow ist das weit vom heutigen Zeitgeist entfernt. Im Gespräch mit Real Experts Gründer Christoph Rauhut spricht Sie über Ihre persönliche WHY Entscheidung für Real Experts und darüber, wie durch Werte wie Respekt, Loyalität und Vertrauen Synergien für eine sinnstiftende Zusammenarbeit freigesetzt werden können. 
 
