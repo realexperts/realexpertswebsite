@@ -1,24 +1,20 @@
 ---
 templateKey: category-page
 title: Real Experts
-slug: category/real-experts
 contentTitle: Zusammenarbeit und Wirksamkeit in Unternehmen neu gestalten
 headerImage: /img/real-experts-header-kategorie.png
-description: >-
-  Wir ermöglichen jedem Unternehmen sein größtmögliches Potential zu entfalten.
-  Wir befähigen, motivieren und schaffen nachhaltige Lösungen. Unsere
+description: Wir ermöglichen jedem Unternehmen sein größtmögliches Potential zu
+  entfalten. Wir befähigen, motivieren und schaffen nachhaltige Lösungen. Unsere
   Mitarbeiter leben, was wir für unsere Kunden erreichen.
 thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
 thesis:
-  - body: >-
-      Für unsere Kunden entwickeln wir Strategien und Lösungen für eine neue
+  - body: Für unsere Kunden entwickeln wir Strategien und Lösungen für eine neue
       Form des digitalen Arbeitens, der Kommunikation und des Miteinanders im
       Unternehmen. Wir begleiten bei der Konzeption und Umsetzung. Unser Ziel
       ist ein nachhaltiger Wandel und die Befähigung jeder Organisation.
     headline: Was wir machen
     highlighted: false
-  - body: >-
-      Real Experts erschafft eine nie dagewesene Form einer freien,
+  - body: Real Experts erschafft eine nie dagewesene Form einer freien,
       selbstorganisierten und leistungsfähigen Art und Weise der Zusammenarbeit
       in einem skalierbaren Netzwerk. Nur dadurch können individuelle und
       nachhaltige Lösungen für unsere Kunden entstehen. Wir haben genau die
@@ -26,27 +22,26 @@ thesis:
       Unternehmen.
     headline: Wie wir arbeiten
     highlighted: false
-video: 'https://youtu.be/ScMzIvxBSi4'
+video: https://youtu.be/ScMzIvxBSi4
 successStoriesTitle: Team
 successStories:
   - customerName: Peggy Kopkow
-    storyImage: /img/DSC_8294.jpg
+    storyImage: /img/peggy_kopkow-4-3.jpg
     post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
   - customerName: Oliver Reithage
-    storyImage: /img/Foto_Oliver_quer.jpg
+    storyImage: /img/foto_oliver_quer.jpg
     post: Oliver Reithage - Warum arbeitest Du für Real Experts?
   - customerName: Enrico Skottnik
-    storyImage: /img/DSC_8649.png
+    storyImage: /img/enrico_skottnik-4-3.jpg
     post: Enrico Skottnik - Warum arbeitest du für Real Experts?
   - customerName: Daniel Jeschor
-    storyImage: /img/20190930_141030_gray.jpg
+    storyImage: /img/daniel_jeschor-4-3.jpg
     post: Daniel Jeschor - Warum arbeitest Du für Real Experts?
   - customerName: Christoph Rauhut
-    storyImage: /img/der-beginn-einer-reise.png
+    storyImage: /img/christoph_rauhut-4-3.jpg
     post: Das Why und die Vision von Real Experts - Podcast
 infoBox:
-  body: >-
-    Real Experts ist ein junges Unternehmen aus Dresden. Gemeinsam mit unseren
+  body: Real Experts ist ein junges Unternehmen aus Dresden. Gemeinsam mit unseren
     Experten und unserem Netzwerk wollen wir für unsere Kunden und deren
     Mitarbeiter eine neue Form des Arbeitens schaffen. Wir wollen begleiten und
     befähigen, um so einen Wandel der Arbeitswelt in allen Unternehmen zu
@@ -57,6 +52,6 @@ statements: []
 relatedPosts:
   - post: Real Experts - Der Beginn einer Reise
   - post: Das Why und die Vision von Real Experts - Podcast
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
+  - post: "Neue Wege gehen und #SELBERgroß sein"
+slug: category/real-experts
 ---
-
