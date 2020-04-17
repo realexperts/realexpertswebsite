@@ -42,7 +42,7 @@ infoBox:
     Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße für sich
     nutzen können.
   headline: Unser Experte - Oliver Reithage
-  image: /img/Foto_Oliver_quer.jpg
+  image: /img/01_startseite_.jpg
 statements: []
 relatedPosts:
   - post: "Das Intranet als zentrales Portal für einen wirksamen Digital Workplace "
