@@ -1,10 +1,8 @@
 ---
 templateKey: blog-post
-title: '6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten'
-slug: blog/2020-02-25-6-moeglichkeiten-wie-sie-ihre-mitarbeiter-richtig-einarbeiten
+title: 6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten
 date: 2020-02-25T09:55:57.029Z
 author: Peggy Kopkow
-image: /img/header-mitarbeiter-und-führung.png
 description: >
   Ein klassisches Szenario. Max Mustermann ist ein Bindeglied und Hauptakteur im
   Unternehmen. Ohne ihn kann sich keiner vorstellen zu arbeiten. Denn er ist
@@ -15,13 +13,15 @@ description: >
   von den Abrechnungsprozessen oder auch Zeit diese sich anzueignen. Die
   Konsequenz ist eine wochenlange Verzögerung der Abrechnungen. Wie hätte diese
   Verzögerung verhindert werden können? Wie könnte nun Ad-hoc reagiert werden?
+relatedPosts:
+  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Was brauchst Du, um das zu machen, was Du willst?
+  - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
+slug: blog/2020-02-25-6-moeglichkeiten-wie-sie-ihre-mitarbeiter-richtig-einarbeiten
+image: /img/6-moeglichkeiten-wie-sie-ihre-mitarbeiter.png
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung
-relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
-  - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
 ---
 Ein klassisches Szenario. Max Mustermann ist ein Bindeglied und Hauptakteur im Unternehmen. Ohne ihn kann sich keiner vorstellen zu arbeiten. Denn er ist zuständig für die Abrechnung aller Kollegen, um diese dann anschließend dem Auftraggeber vorzulegen. Ausschließlich Max Mustermann weiß um den Ablauf dieses Prozesses mit verschiedenen Exceltabellen und immer wieder neuen Vorgaben und Vorlagen. Und dann kündigt Max Mustermann und keiner hat Ahnung von den Abrechnungsprozessen oder auch Zeit diese sich anzueignen. Die Konsequenz ist eine wochenlange Verzögerung der Abrechnungen. Wie hätte diese Verzögerung verhindert werden können? Wie könnte nun Ad-hoc reagiert werden?
 
