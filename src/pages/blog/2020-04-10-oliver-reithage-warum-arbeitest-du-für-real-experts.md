@@ -1,25 +1,24 @@
 ---
 templateKey: blog-post
 title: Oliver Reithage - Warum arbeitest Du für Real Experts?
-slug: blog/2020-04-10-oliver-reithage-warum-arbeitest-du-fuer-real-experts
 date: 2019-04-01T10:20:59.005Z
 author: Christoph Rauhut
-image: /img/Foto_Oliver_quer.jpg
-description: >-
-  Als ausgewiesener Experte für den digitalen Arbeitsplatz der Mitarbeiter ist
-  Oliver Reithage der richtige Ansprechpartner, um mit Ihnen gemeinsam eine
-  begeisternde Arbeitsplatzumgebung für Ihre Mitarbeiter zu schaffen. Als
-  technischer Berater unterstützt Herr Reithage Sie dafür bei der Auswahl als
-  auch bei der Implementierung passender digitaler Technologien, damit Ihre
-  Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße für sich
-  nutzen können.
-category: Real Experts
-tags:
-  - Mitarbeiter
+description: Als ausgewiesener Experte für den digitalen Arbeitsplatz der
+  Mitarbeiter ist Oliver Reithage der richtige Ansprechpartner, um mit Ihnen
+  gemeinsam eine begeisternde Arbeitsplatzumgebung für Ihre Mitarbeiter zu
+  schaffen. Als technischer Berater unterstützt Herr Reithage Sie dafür bei der
+  Auswahl als auch bei der Implementierung passender digitaler Technologien,
+  damit Ihre Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße
+  für sich nutzen können.
 relatedPosts:
   - post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
   - post: Das Why und die Vision von Real Experts - Podcast
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
+  - post: "Neue Wege gehen und #SELBERgroß sein"
+slug: blog/2020-04-10-oliver-reithage-warum-arbeitest-du-fuer-real-experts
+image: /img/oliver_reithage-16-9.jpg
+category: Real Experts
+tags:
+  - Mitarbeiter
 ---
 Als ausgewiesener Experte für den digitalen Arbeitsplatz der Mitarbeiter ist Oliver Reithage der richtige Ansprechpartner, um mit Ihnen gemeinsam eine begeisternde Arbeitsplatzumgebung für Ihre Mitarbeiter zu schaffen. Als technischer Berater unterstützt Herr Reithage Sie dafür bei der Auswahl als auch bei der Implementierung passender digitaler Technologien, damit Ihre Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße für sich nutzen können.
 
