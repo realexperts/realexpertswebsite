@@ -1,25 +1,24 @@
 ---
 templateKey: blog-post
 title: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
-slug: blog/2020-02-25-wie-sie-wichtiges-einarbeitungswissen-identifizieren-und-finden
 date: 2020-02-25T10:22:01.209Z
 author: Peggy Kopkow
-image: /img/header-mitarbeiter-und-führung.png
-description: >-
-  Wissen Sie, welches Wissen Ihres ausscheidenden Mitarbeiters
+description: "Wissen Sie, welches Wissen Ihres ausscheidenden Mitarbeiters
   unternehmenskritisch ist? Welches zwingend auf den Nachfolger transferiert
   werden sollte? Klar, Sie kennen Ihren Mitarbeiter. Wissen um seine
   Aufgabenbereiche. Aber wissen Sie auch was, wie, wann, wo und warum er etwas
   tut? Oder was Ihn und seinen Erfolg ausmacht? Besonders der Nachfolger sollte
   darüber im Klaren sein! Warum? Weil Sie sonst Zeit und Geld verlieren, welches
-  durchaus in andere Bereiche investiert werden könnte. 
+  durchaus in andere Bereiche investiert werden könnte. "
+relatedPosts:
+  - post: Was brauchst Du, um das zu machen, was Du willst?
+  - post: "Führen und führen lassen auf Augenhöhe "
+  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
+slug: blog/2020-02-25-wie-sie-wichtiges-einarbeitungswissen-identifizieren-und-finden
+image: /img/wichtiges-einarbeitungswissen-identifzieren.png
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung
-relatedPosts:
-  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
-  - post: 'Führen und führen lassen auf Augenhöhe '
-  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
 ---
 **Wissen Sie, welches Wissen Ihres ausscheidenden Mitarbeiters unternehmenskritisch ist? Welches zwingend auf den Nachfolger transferiert werden sollte? Klar, Sie kennen Ihren Mitarbeiter. Wissen um seine Aufgabenbereiche. Aber wissen Sie auch was, wie, wann, wo und warum er etwas tut? Oder was Ihn und seinen Erfolg ausmacht? Besonders der Nachfolger sollte darüber im Klaren sein! Warum? Weil Sie sonst Zeit und Geld verlieren, welches durchaus in andere Bereiche investiert werden könnte.** 
 
