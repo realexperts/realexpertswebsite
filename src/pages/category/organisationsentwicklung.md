@@ -2,7 +2,7 @@
 templateKey: category-page
 title: Organisationsentwicklung
 contentTitle: Eine positive Entwicklung in Ihrem Unternehmen ist kein Zufall
-headerImage: /img/real-experts-header-kategorie.png
+headerImage: /img/organisationsentwicklung_header.png
 description: Die Menschen und deren Verhalten in einem Unternehmen formen die
   Organisation und deren Kultur. Jeder Mitarbeiter mit seinen individuellen
   Fähigkeiten kann die Unternehmensentwicklung positiv voranbringen. Denn es ist
