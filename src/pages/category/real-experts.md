@@ -29,7 +29,7 @@ successStories:
     storyImage: /img/peggy_kopkow-4-3.jpg
     post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
   - customerName: Oliver Reithage
-    storyImage: /img/foto_oliver_quer.jpg
+    storyImage: /img/oliver_reithage-4-3.jpg
     post: Oliver Reithage - Warum arbeitest Du für Real Experts?
   - customerName: Enrico Skottnik
     storyImage: /img/enrico_skottnik-4-3.jpg
