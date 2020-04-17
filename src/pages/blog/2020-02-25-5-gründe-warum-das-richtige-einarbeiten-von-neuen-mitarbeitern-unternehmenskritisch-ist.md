@@ -1,10 +1,9 @@
 ---
 templateKey: blog-post
-title: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
-slug: blog/2020-02-25-5-gruende-warum-das-richtige-einarbeiten-von-neuen-mitarbeitern-unternehmenskritisch-ist
+title: " 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern
+  unternehmenskritisch ist"
 date: 2020-02-25T09:17:28.783Z
 author: Peggy Kopkow
-image: /img/header-organisationsentwicklung.png
 description: >
   Können Sie sich noch an Ihren ersten Arbeitstag erinnern? Als Sie die oder der
   Neue waren und das erste Mal Ihren neuen Arbeitsplatz betraten? Ich kann mich
@@ -13,13 +12,15 @@ description: >
   Einarbeitung“aufgedrückt“ bekommen und waren überfordert? So oder so, eine
   Begleitung ist notwendig. Sei es virtuell, klassisch verschriftlicht oder als
   Person. 
+relatedPosts:
+  - post: Was brauchst Du, um das zu machen, was Du willst?
+  - post: "Führen und führen lassen auf Augenhöhe "
+  - post: Ein Unternehmen hat keine Mitarbeiter
+slug: blog/2020-02-25-5-gruende-warum-das-richtige-einarbeiten-von-neuen-mitarbeitern-unternehmenskritisch-ist
+image: /img/5_gruende-warum-das-richtige-einarbeiten-von-neuen-mitarbeitern.png
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung
-relatedPosts:
-  - post: 'Was brauchst Du, um das zu machen, was Du willst?'
-  - post: 'Führen und führen lassen auf Augenhöhe '
-  - post: Ein Unternehmen hat keine Mitarbeiter
 ---
 Können Sie sich noch an Ihren ersten Arbeitstag erinnern? Als Sie die oder der Neue waren und das erste Mal Ihren neuen Arbeitsplatz betraten? Ich kann mich noch ganz gut daran erinnern. Und es war doch irgendwie chaotisch und unstrukturiert. Oder vielleicht haben Sie auch schon mal eine Einarbeitung“aufgedrückt“ bekommen und waren überfordert? So oder so, eine Begleitung ist notwendig. Sei es virtuell, klassisch verschriftlicht oder als Person. 
 
