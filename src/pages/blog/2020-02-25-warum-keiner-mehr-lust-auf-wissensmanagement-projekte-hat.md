@@ -1,22 +1,22 @@
 ---
 templateKey: blog-post
 title: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
-slug: blog/2020-02-25-warum-keiner-mehr-lust-auf-wissensmanagement-projekte-hat
 date: 2020-02-25T09:32:42.489Z
 author: Peggy Kopkow
-image: /img/header-organisationsentwicklung.png
-description: >-
-  Besonders durch die ISO 9001:2015 ist Wissensmanagement immer mehr Thema in
-  Unternehmen. Und die, die über die ISO nicht drauf kommen, spüren den
+description: Besonders durch die ISO 9001:2015 ist Wissensmanagement immer mehr
+  Thema in Unternehmen. Und die, die über die ISO nicht drauf kommen, spüren den
   dringenden Beratungsbedarf durch die Digitalisierung oder auch die neuen
   Generationen im Unterneh
+relatedPosts:
+  - post: "Was bedeutet es gut zusammenzuarbeiten? "
+  - post: Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten
+  - post: " 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern
+      unternehmenskritisch ist"
+slug: blog/2020-02-25-warum-keiner-mehr-lust-auf-wissensmanagement-projekte-hat
+image: /img/keine-lust-auf-wissensmanagement.png
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung
-relatedPosts:
-  - post: 'Was bedeutet es gut zusammenzuarbeiten? '
-  - post: 'Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten'
-  - post: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
 ---
 Besonders durch die **ISO 9001:2015** ist Wissensmanagement immer mehr Thema in Unternehmen. Und die, die über die ISO nicht drauf kommen, spüren den dringenden Beratungsbedarf durch die Digitalisierung oder auch die neuen Generationen im Unternehmen. So oder so, immer mehr Unternehmen starten zu Recht Wissensmanagement-Projekte.
 
