@@ -1,22 +1,22 @@
 ---
 templateKey: blog-post
 title: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
-slug: blog/2020-02-25-wie-sie-wissensverlust-durch-mitarbeiterverlust-vermeiden
 date: 2020-02-25T09:37:32.851Z
 author: Peggy Kopkow
-image: /img/header-organisationsentwicklung.png
-description: >-
-  Aufgrund der Altersstruktur von Mitarbeitern durch viele Branchen hinweg
-  werden in den nächsten 10-20 Jahren überdurchschnittlich viele Fachleute das
-  Unternehmen verlassen. Und mit dem Verlassen der Fachleute – dem
+description: Aufgrund der Altersstruktur von Mitarbeitern durch viele Branchen
+  hinweg werden in den nächsten 10-20 Jahren überdurchschnittlich viele
+  Fachleute das Unternehmen verlassen. Und mit dem Verlassen der Fachleute – dem
   Mitarbeiterverlust –  besteht auch die Gefahr des Wissensverlustes. Wissensver
+relatedPosts:
+  - post: "Was bedeutet es gut zusammenzuarbeiten? "
+  - post: " 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern
+      unternehmenskritisch ist"
+  - post: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
+slug: blog/2020-02-25-wie-sie-wissensverlust-durch-mitarbeiterverlust-vermeiden
+image: /img/wissensverlust-durch-mitarbeiterverlust-vermeiden.png
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung
-relatedPosts:
-  - post: 'Was bedeutet es gut zusammenzuarbeiten? '
-  - post: ' 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern unternehmenskritisch ist'
-  - post: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
 ---
 Aufgrund der Altersstruktur von Mitarbeitern durch viele Branchen hinweg werden in den nächsten 10-20 Jahren überdurchschnittlich viele Fachleute das Unternehmen verlassen. Und mit dem Verlassen der Fachleute – d**em Mitarbeiterverlust** –  besteht auch die Gefahr des Wissensverlustes. Wissensverlust droht einem Unternehmen dann, wenn Fachleute und Schlüsselpersonen das Unternehmen verlassen. 
 
