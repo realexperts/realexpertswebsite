@@ -2,7 +2,7 @@
 templateKey: category-page
 title: Software Auswahl
 contentTitle: So finden Sie die passenden digitalen Werkzeuge
-headerImage: /img/real-experts-header-kategorie.png
+headerImage: /img/software-auswahl_header.png
 description: "Der Markt für Software-Technologien ist riesig. Mit dem richtigen
   Vorgehen finden Sie die Technologie, die zu Ihrem Unternehmen, den
   Mitarbeitern und den Anforderungen passt. Eine Entscheidung kann so
