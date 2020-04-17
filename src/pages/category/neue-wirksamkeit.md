@@ -2,7 +2,7 @@
 templateKey: category-page
 title: Neue Wirksamkeit
 contentTitle: Der Weg zu einer neuen Wirksamkeit im Unternehmen
-headerImage: /img/real-experts-header-kategorie.png
+headerImage: /img/neue-wirksamkeit.png
 description: Die Potentiale einer neuen Form des Arbeitens in Unternehmen sind
   riesig. Die Methoden und Technologien sind bereits alle vorhanden. Ein "Geht
   nicht" wird es so nicht mehr geben. Entdecken Sie diese Möglichkeiten für Ihr
