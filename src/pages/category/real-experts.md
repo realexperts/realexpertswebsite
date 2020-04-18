@@ -26,7 +26,7 @@ video: https://youtu.be/ScMzIvxBSi4
 successStoriesTitle: Team
 successStories:
   - customerName: Peggy Kopkow
-    storyImage: /img/peggy_kopkow-4-3.jpg
+    storyImage: /img/01_startseite_.jpg
     post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
   - customerName: Oliver Reithage
     storyImage: /img/oliver_reithage-4-3.jpg
