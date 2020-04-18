@@ -38,7 +38,7 @@ infoBox:
     Herangehensweise ist Frau Kopkow die Begleiterin für Sie und Ihr
     Unternehmen.
   headline: Unsere Expertin - Peggy Kopkow
-  image: /img/DSC_8294.jpg
+  image: /img/01_startseite_.jpg
 statements: []
 relatedPosts:
   - post: Was brauchst Du, um das zu machen, was Du willst?
