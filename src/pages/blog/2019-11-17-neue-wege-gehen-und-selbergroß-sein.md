@@ -4,7 +4,7 @@ title: 'Neue Wege gehen und #SELBERgroß sein'
 slug: blog/2019-11-17-neue-wege-gehen-und-selbergross-sein
 date: '2019-11-17T11:13:22+01:00'
 author: Christoph Rauhut
-image: /img/der-weg-zur-vision.png
+image: /img/der-weg-zur-vision.jpg
 description: >-
   Dank der Nominierung von Martin Seibert bin ich aufgefordert an der
   #SELBERgroß Challenge, initiiert am 14. November 2019 von Mark Poppenburg, zu

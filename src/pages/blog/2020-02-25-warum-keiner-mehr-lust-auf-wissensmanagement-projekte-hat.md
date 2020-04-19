@@ -13,7 +13,7 @@ relatedPosts:
   - post: " 5 Gründe, warum das richtige Einarbeiten von neuen Mitarbeitern
       unternehmenskritisch ist"
 slug: blog/2020-02-25-warum-keiner-mehr-lust-auf-wissensmanagement-projekte-hat
-image: /img/keine-lust-auf-wissensmanagement.png
+image: /img/keine-lust-auf-wissensmanagement.jpg
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung

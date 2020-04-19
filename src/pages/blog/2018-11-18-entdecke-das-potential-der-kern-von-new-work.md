@@ -4,7 +4,7 @@ title: 'Entdecke das Potential, den Kern von New Work'
 slug: blog/2018-11-18-entdecke-das-potential-der-kern-von-new-work
 date: '2018-11-30T11:56:29+01:00'
 author: Christoph Rauhut
-image: /img/entdecke-das-potential-den-kern-von-new-work-2-.png
+image: /img/entdecke-das-potential-den-kern-von-new-work-2-.jpg
 description: >-
   Viele Unternehmen mit denen wir in Kontakt stehen, befinden sich gerade auf
   der Suche nach neuen und modernen Wegen der Zusammenarbeit und des

@@ -15,7 +15,7 @@ relatedPosts:
   - post: Der wichtigste Grund, warum Ihre Mitarbeiter nicht die gewünschten
       Ergebnisse erreichen
 slug: blog/2020-02-25-was-bedeutet-es-gut-zusammenzuarbeiten
-image: /img/gut-zusammenarbeiten.png
+image: /img/gut-zusammenarbeiten.jpg
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung

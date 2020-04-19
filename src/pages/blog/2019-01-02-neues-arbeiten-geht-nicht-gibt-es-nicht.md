@@ -4,7 +4,7 @@ title: 'Neues Arbeiten - Geht nicht, gibt es nicht.'
 slug: blog/2019-01-02-neues-arbeiten-geht-nicht-gibt-es-nicht
 date: '2019-01-02T16:44:24+01:00'
 author: Christoph Rauhut
-image: /img/neues-arbeiten-geht-nicht-gibt-es-nicht.-2-.png
+image: /img/neues-arbeiten-geht-nicht-gibt-es-nicht.-2-.jpg
 description: >-
   “Es ist so schwer”. “Bei uns geht das nicht”. “Die da oben wollen das nicht”. 
 

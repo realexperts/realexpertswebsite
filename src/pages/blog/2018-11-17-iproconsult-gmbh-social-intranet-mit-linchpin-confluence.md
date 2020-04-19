@@ -4,7 +4,7 @@ title: IPROconsult GmbH - Moderne Kommunikation und Zusammenarbeit
 slug: blog/2018-11-17-iproconsult-gmbh-social-intranet-mit-linchpin-confluence 
 date: '2018-08-31T15:04:33+02:00'
 author: Christoph Rauhut
-image: /img/video_iproconsult-gmbh-moderne-kommunikation-und-zusammenarbeit.png
+image: /img/video_iproconsult-gmbh-moderne-kommunikation-und-zusammenarbeit.jpg
 description: >-
   Als innovativer Partner für die Umsetzung von Bauvorhaben hat die IPROconsult
   GmbH aus den Dresden den Bedarf Ihrer Mitarbeiterinnen und Mitarbeiter nach

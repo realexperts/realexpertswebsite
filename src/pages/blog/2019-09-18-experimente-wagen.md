@@ -4,7 +4,7 @@ title: Experimente wagen
 slug: blog/2019-09-18-experimente-wagen
 date: '2019-09-18T11:41:32+02:00'
 author: Peggy Kopkow
-image: /img/experimente-wagen.png
+image: /img/experimente-wagen.jpg
 description: >-
   Einfacher wäre es! Kausalabfolgen im Unternehmen. Ich mache etwas und weiß
   genau um die Folge. Eine Führungskraft äußert Kritik und daraufhin

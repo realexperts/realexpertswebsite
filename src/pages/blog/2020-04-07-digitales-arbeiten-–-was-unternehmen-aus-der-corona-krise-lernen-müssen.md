@@ -4,7 +4,7 @@ title: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müsse
 slug: blog/2020-04-07-digitales-arbeiten-–-was-unternehmen-aus-der-corona-krise-lernen-muessen
 date: 2020-03-20T09:29:00.000Z
 author: Christoph Rauhut
-image: /img/Digitales Arbeiten.png
+image: /img/Digitales Arbeiten.jpg
 description: >-
   Zu Hause arbeiten im so genannten „Home Office“ war noch vor zwei Wochen
   vielen Arbeitnehmern und auch Unternehmen in Deutschland einigermaßen

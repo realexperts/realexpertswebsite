@@ -4,7 +4,7 @@ title: 'IPROconsult: Der Weg zum Social Intranet'
 slug: blog/2019-12-10-iproconsult-der-weg-zum-social-intranet
 date: '2019-12-10T09:23:39+01:00'
 author: Christoph Rauhut
-image: /img/case-study-ipro.png
+image: /img/case-study-ipro.jpg
 description: >-
   Die IPROconsult GmbH ist ein Architektur- und Ingenieurbüro aus Dresden, das
   seit 1949 besteht. Über 13 Standorte und drei Geschäftsbereiche verteilt

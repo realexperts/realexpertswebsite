@@ -4,7 +4,7 @@ title: 'Ein Intranet verbindet - “Linchpin” stellt sich vor '
 slug: blog/2019-02-27-ein-intranet-verbindet-“linchpin”-stellt-sich-vor
 date: '2019-02-27T09:14:37+01:00'
 author: Oliver Reithage
-image: /img/realexperts-technologien-linchpin.png
+image: /img/realexperts-technologien-linchpin.jpg
 description: >
   Linchpin ist eine Social Intranet Technologie vom deutschen Atlassian Partner
   //SEIBERT/MEDIA, welche 2014 offiziell auf der Atlassian Summit vorgestellt

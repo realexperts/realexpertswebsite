@@ -17,7 +17,7 @@ relatedPosts:
   - post: Was brauchst Du, um das zu machen, was Du willst?
   - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
 slug: blog/2020-02-25-der-wichtigste-grund-warum-ihre-mitarbeiter-nicht-die-gewuenschten-ergebnisse-erreichen
-image: /img/der-wichtigste-grund-warum-mitarbeiter-nicht.png
+image: /img/der-wichtigste-grund-warum-mitarbeiter-nicht.jpg
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung

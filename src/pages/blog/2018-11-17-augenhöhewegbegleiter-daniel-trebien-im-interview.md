@@ -4,7 +4,7 @@ title: AUGENHÖHEwegbegleiter - Daniel Trebien im Interview
 slug: blog/2018-11-17-augenhoehewegbegleiter-daniel-trebien-im-interview
 date: '2018-10-26T15:01:00+02:00'
 author: Peggy Kopkow
-image: /img/video_augenhoehewegbegleiter-daniel-trebien-im-interview.png
+image: /img/video_augenhoehewegbegleiter-daniel-trebien-im-interview.jpg
 description: >-
   Auf dem AugenhöheCamp in München 2018 hatten wir die Ehre mit Daniel Trebien
   von AUGENHÖHE zu sprechen. Wir haben uns über das Entwicklungsprogramm zum

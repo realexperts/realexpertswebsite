@@ -4,7 +4,7 @@ title: Marco Meirich - Partner im Real Experts Netzwerk
 slug: blog/2018-11-17-marco-meirich-im-gespraech-partner-im-real-experts-network
 date: '2018-09-10T15:12:06+02:00'
 author: Christoph Rauhut
-image: /img/video_marco_meirich.png
+image: /img/video_marco_meirich.jpg
 description: >-
   Design & UX Experte Marco Meirich gehört dem Real Experts Network an und
   spricht im Interview mit Christoph Rauhut u.a. über die Bedeutung von User

@@ -5,7 +5,7 @@ slug: blog/2018-11-17-wissensmanagement-bei-real-experts
 date: '2018-07-25T14:43:04+02:00'
 author: Peggy Kopkow
 image: >-
-  /img/wie-machen-wir-das-bei-real-experts-mit-dem-täglichen-wissensmanagement_.png
+  /img/wie-machen-wir-das-bei-real-experts-mit-dem-täglichen-wissensmanagement_.jpg
 description: >-
   Hätte einer vor 20 Jahren den Wunsch gehabt, im Homeoffice zu arbeiten,
   zeitunabhängig und auch noch das machen zu dürfen, was dem Interesse obliegt,

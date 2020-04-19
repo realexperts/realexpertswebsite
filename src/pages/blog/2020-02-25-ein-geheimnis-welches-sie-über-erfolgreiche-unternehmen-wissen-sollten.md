@@ -13,7 +13,7 @@ relatedPosts:
   - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
   - post: Wie Sie Entscheidungen treffen
 slug: blog/2020-02-25-ein-geheimnis-welches-sie-ueber-erfolgreiche-unternehmen-wissen-sollten
-image: /img/ein-geheimnis-welches-sie-ueber-erfolgreiche-unternehmen.png
+image: /img/ein-geheimnis-welches-sie-ueber-erfolgreiche-unternehmen.jpg
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung

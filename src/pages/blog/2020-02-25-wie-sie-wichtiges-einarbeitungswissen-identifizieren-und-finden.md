@@ -15,7 +15,7 @@ relatedPosts:
   - post: "Führen und führen lassen auf Augenhöhe "
   - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
 slug: blog/2020-02-25-wie-sie-wichtiges-einarbeitungswissen-identifizieren-und-finden
-image: /img/wichtiges-einarbeitungswissen-identifzieren.png
+image: /img/wichtiges-einarbeitungswissen-identifzieren.jpg
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung

@@ -12,7 +12,7 @@ relatedPosts:
       Ergebnisse erreichen
   - post: 6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten
 slug: blog/2018-12-19-was-brauchst-du-um-das-zu-machen-was-du-willst
-image: /img/machen-was-du-willst.png
+image: /img/machen-was-du-willst.jpg
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung

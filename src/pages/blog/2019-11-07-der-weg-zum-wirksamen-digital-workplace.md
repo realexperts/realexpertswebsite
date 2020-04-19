@@ -4,7 +4,7 @@ title: Der Weg zum wirksamen Digital Workplace
 slug: blog/2019-11-07-der-weg-zum-wirksamen-digital-workplace
 date: '2019-11-07T09:45:55+01:00'
 author: Oliver Reithage
-image: /img/der-weg-zum-wirksamen-digital-workplace.png
+image: /img/der-weg-zum-wirksamen-digital-workplace.jpg
 description: >-
   In unserer #DigitalWorkplace Blogreihe ging es bisher darum, das Phänomen
   digitaler Arbeitsplatz genauer zu beleuchten. Es konnten verschiedene

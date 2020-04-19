@@ -4,7 +4,7 @@ title: Warum Unternehmen eine Tool-Evaluierung durchführen sollten
 slug: blog/2020-01-19-warum-unternehmen-eine-tool-evaluierung-durchfuehren-sollte
 date: '2020-01-19T17:18:18+01:00'
 author: Oliver Reithage
-image: /img/tool-evaluierung-part-1.png
+image: /img/tool-evaluierung-part-1.jpg
 description: >-
   Steht die Notwendigkeit einer technologischen Veränderung im Raum, verengt
   sich der damit verbundene Projektauftrag häufig auf die Suche nach einer

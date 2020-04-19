@@ -4,7 +4,7 @@ title: 'Softwarestrategien: Best-of-Breed vs. Best-of-Suite'
 slug: blog/2020-04-07-softwarestrategien-best-of-breed-vs-best-of-suite
 date: 2020-03-31T12:07:00.000Z
 author: Oliver Reithage
-image: /img/Best of breed vs best of suit2 mit text.png
+image: /img/Best of breed vs best of suit2 mit text.jpg
 description: >-
   Eine Herausforderung, welche sowohl Konzerne als auch kleine und mittlere 
   Unternehmen (KMU) regelmäßig im Rahmen einer Tool-Evaluierung begleitet, ist

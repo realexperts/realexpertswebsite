@@ -4,7 +4,7 @@ title: Die Folgen einer neuen Wirksamkeit
 slug: blog/2019-04-04-die-folgen-einer-neuen-wirksamkeit
 date: '2019-04-04T13:38:01+02:00'
 author: Christoph Rauhut
-image: /img/die-folgen-der-neuen-wirksamkeit-2-.png
+image: /img/die-folgen-der-neuen-wirksamkeit-2-.jpg
 description: >-
   Veränderung passiert ständig und in allen Bereichen des Unternehmens. Egal ob
   sie wollen oder nicht.

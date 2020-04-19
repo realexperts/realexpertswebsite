@@ -15,7 +15,7 @@ relatedPosts:
   - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
   - post: Entdecke das Potential, den Kern von New Work
 slug: blog/2018-11-17-ein-unternehmen-hat-keine-mitarbeiter
-image: /img/ein-unternehmen-hat-keine-mitarbeiter.png
+image: /img/ein-unternehmen-hat-keine-mitarbeiter.jpg
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung

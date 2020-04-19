@@ -17,7 +17,7 @@ relatedPosts:
   - post: "Führen und führen lassen auf Augenhöhe "
   - post: Ein Unternehmen hat keine Mitarbeiter
 slug: blog/2020-02-25-5-gruende-warum-das-richtige-einarbeiten-von-neuen-mitarbeitern-unternehmenskritisch-ist
-image: /img/5_gruende-warum-das-richtige-einarbeiten-von-neuen-mitarbeitern.png
+image: /img/5_gruende-warum-das-richtige-einarbeiten-von-neuen-mitarbeitern.jpg
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung

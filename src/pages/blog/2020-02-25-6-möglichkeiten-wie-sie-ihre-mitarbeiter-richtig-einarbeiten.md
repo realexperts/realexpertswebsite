@@ -18,7 +18,7 @@ relatedPosts:
   - post: Was brauchst Du, um das zu machen, was Du willst?
   - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
 slug: blog/2020-02-25-6-moeglichkeiten-wie-sie-ihre-mitarbeiter-richtig-einarbeiten
-image: /img/6-moeglichkeiten-wie-sie-ihre-mitarbeiter.png
+image: /img/6-moeglichkeiten-wie-sie-ihre-mitarbeiter.jpg
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung

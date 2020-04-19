@@ -13,7 +13,7 @@ relatedPosts:
       unternehmenskritisch ist"
   - post: Warum keiner mehr Lust auf Wissensmanagement-Projekte hat
 slug: blog/2020-02-25-wie-sie-wissensverlust-durch-mitarbeiterverlust-vermeiden
-image: /img/wissensverlust-durch-mitarbeiterverlust-vermeiden.png
+image: /img/wissensverlust-durch-mitarbeiterverlust-vermeiden.jpg
 category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung

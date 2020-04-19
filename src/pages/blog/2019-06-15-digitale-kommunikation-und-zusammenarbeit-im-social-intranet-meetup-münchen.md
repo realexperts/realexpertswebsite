@@ -4,7 +4,7 @@ title: Digitale Kommunikation und Zusammenarbeit im Social Intranet - Meetup Mü
 slug: blog/2019-06-15-digitale-kommunikation-und-zusammenarbeit-im-social-intranet-meetup-muenchen
 date: '2019-06-15T13:48:35+02:00'
 author: Oliver Reithage
-image: /img/meetup-olli-münchrn-neu.png
+image: /img/meetup-olli-münchrn-neu.jpg
 description: >-
   Den Auftakt unseres Meetups in München machte Olli mit einem Impulsvortrag
   über Digitale 

@@ -14,7 +14,7 @@ relatedPosts:
   - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
   - post: Wie Sie wichtiges Einarbeitungswissen identifizieren und finden
 slug: blog/2018-11-09-was-verhindert-effektive-zusammenarbeit-im-unternehmen
-image: /img/was-verhindert-effektive-zusammenarbeit.png
+image: /img/was-verhindert-effektive-zusammenarbeit.jpg
 category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung

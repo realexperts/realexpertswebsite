@@ -4,7 +4,7 @@ title: Andres Kühn - Partner im Real Experts Netzwerk
 slug: blog/2018-11-17-andres-kuehn-im-gespraech-partner-im-real-experts-network
 date: '2018-07-26T15:15:10+02:00'
 author: Christoph Rauhut
-image: /img/video_interview_andreas_kuehn.png
+image: /img/video_interview_andreas_kuehn.jpg
 description: >-
   Andres Kühn ist ein Pionier, der viele Themen und Möglichkeiten verbindet, um
   vitale Synergien zu verwirklichen. Dafür baut er Brücken, welche die Vorzüge

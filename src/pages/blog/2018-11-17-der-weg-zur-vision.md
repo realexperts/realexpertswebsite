@@ -4,7 +4,7 @@ title: Der Weg zur Vision
 slug: blog/2018-11-17-der-weg-zur-vision
 date: '2018-07-04T14:19:34+02:00'
 author: Peggy Kopkow
-image: /img/der-weg-zur-vision.png
+image: /img/der-weg-zur-vision.jpg
 description: >-
   Vielleicht kennen Sie das. Das Gefühl zu haben: “So wie es jetzt läuft, läuft
   es nicht gut. Das geht besser. Es muss einen anderen Weg geben.”
