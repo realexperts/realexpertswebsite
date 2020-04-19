@@ -203,9 +203,6 @@ exports.createPages = ({actions, graphql}) => {
       const blogArticles = pages.filter(page => page.node.frontmatter.templateKey === 'blog-post');
       const numPages = Math.ceil(blogArticles.length / postsPerPage);
 
-      console.log("numPages", numPages);
-      console.log("blogArticles.length", blogArticles.length);
-
       Array.from({length: numPages}).forEach((_, i) => {
 
         let numShown = i === 0 ? postsPerPage - extraArticlesOnStartPage : postsPerPage;
