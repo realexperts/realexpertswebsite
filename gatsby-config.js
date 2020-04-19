@@ -94,5 +94,6 @@ module.exports = {
         mergeSecurityHeaders: false,
       },
     },
+    'gatsby-plugin-netlify-cache',
   ],
 };
