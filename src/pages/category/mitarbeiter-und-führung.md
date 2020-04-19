@@ -2,12 +2,12 @@
 templateKey: category-page
 title: Mitarbeiter und Führung
 contentTitle: WOFÜR existiert Ihr Unternehmen?
-headerImage: /img/mitarbeiter-und-führung_header.png
+headerImage: /img/mitarbeiter-und-fuehrung_header.png
 description: Ein starkes WOFÜR, mit dem sich alle Mitarbeiter im Unternehmen
   verbinden können, schafft Verbundenheit. Nichts kann motivierender sein, als
   gemeinsam für einen Sinn zu arbeiten. Nichts kann mehr Potential freisetzen.
   Und dieses Potential schafft nachhaltig den Erfolg Ihres Unternehmens.
-thumbnail: /img/mitarbeiter-und-führung.png
+thumbnail: /img/mitarbeiter-und-fuehrung.png
 thesis:
   - body: Oft sehen wir fehlende Motivation, Konflikte, mangelnde Zusammenarbeit und
       nicht erreichte Ziele in Unternehmen. Die Ursachen sind vielfältig. Dabei
