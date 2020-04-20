@@ -13,7 +13,7 @@ relatedPosts:
   - post: Oliver Reithage - Warum arbeitest Du für Real Experts?
   - post: Das Why und die Vision von Real Experts - Podcast
 slug: blog/2020-04-10-daniel-jeschor-warum-arbeitest-du-fuer-real-experts
-image: /img/daniel_jeschor.jpg
+image: /img/daniel-jeschor-16-0-low.jpg
 category: Real Experts
 tags:
   - Mitarbeiter
