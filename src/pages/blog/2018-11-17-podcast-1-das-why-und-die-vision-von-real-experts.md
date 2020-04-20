@@ -1,24 +1,23 @@
 ---
 templateKey: blog-post
 title: Das Why und die Vision von Real Experts - Podcast
-slug: blog/2018-11-17-podcast-1-das-why-und-die-vision-von-real-experts
-date: '2018-09-17T14:49:51+02:00'
+date: 2018-09-17T14:49:51+02:00
 author: Peggy Kopkow
-image: /img/podcast_das_why_und_die_vision.jpg
-description: >-
-  Wie lässt sich Zusammenarbeit und Wirksamkeit in Unternehmen nachhaltig
-  gestalten?  Christoph Rauhut, Initiator und Gründer von Real Experts, spricht
-  über sein persönliches WHY für eine Unternehmensgründung und die Vision eines
-  leistungsfähigen Netzwerkes aus selbstbestimmten und eigenmotivierten
-  Mitarbeitern, die Unternehmen dabei helfen ihr größtmögliches Potential zu
-  entfalten.
+description: Wie lässt sich Zusammenarbeit und Wirksamkeit in Unternehmen
+  nachhaltig gestalten?  Christoph Rauhut, Initiator und Gründer von Real
+  Experts, spricht über sein persönliches WHY für eine Unternehmensgründung und
+  die Vision eines leistungsfähigen Netzwerkes aus selbstbestimmten und
+  eigenmotivierten Mitarbeitern, die Unternehmen dabei helfen ihr größtmögliches
+  Potential zu entfalten.
+relatedPosts:
+  - post: Real Experts - Der Beginn einer Reise
+  - post: "Neue Wege gehen und #SELBERgroß sein"
+  - post: Der Weg zur Vision
+slug: blog/2018-11-17-podcast-1-das-why-und-die-vision-von-real-experts
+image: /img/christoph-rauhut-16-9-low.jpg
 category: Real Experts
 tags:
   - Real Experts
-relatedPosts:
-  - post: Real Experts - Der Beginn einer Reise
-  - post: 'Neue Wege gehen und #SELBERgroß sein'
-  - post: Der Weg zur Vision
 ---
 Wie lässt sich Zusammenarbeit und Wirksamkeit in Unternehmen nachhaltig gestalten?  Christoph Rauhut, Initiator und Gründer von Real Experts, spricht über sein persönliches WHY für eine Unternehmensgründung und die Vision eines leistungsfähigen Netzwerkes aus selbstbestimmten und eigenmotivierten Mitarbeitern, die Unternehmen dabei helfen ihr größtmögliches Potential zu entfalten.
 
