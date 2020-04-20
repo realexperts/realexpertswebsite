@@ -1,20 +1,19 @@
 ---
 templateKey: blog-post
 title: Enrico Skottnik - Warum arbeitest du für Real Experts?
-slug: blog/2020-04-10-enrico-skottnik-warum-arbeitest-du-fuer-real-experts
 date: 2020-04-10T10:28:36.450Z
 author: Christoph Rauhut
-image: /img/DSC_8649.jpg
-description: >-
-  In unserem Podcast spricht Enrico Skottnik darüber warum er bei Real Experts
-  arbeitet. 
-category: Real Experts
-tags:
-  - Mitarbeiter
+description: "In unserem Podcast spricht Enrico Skottnik darüber warum er bei
+  Real Experts arbeitet. "
 relatedPosts:
   - post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
   - post: Oliver Reithage - Warum arbeitest Du für Real Experts?
   - post: Daniel Jeschor - Warum arbeitest Du für Real Experts?
+slug: blog/2020-04-10-enrico-skottnik-warum-arbeitest-du-fuer-real-experts
+image: /img/enrico-skottnik-16-9-low.jpg
+category: Real Experts
+tags:
+  - Mitarbeiter
 ---
 In unserem Podcast spricht Enrico Skottnik darüber warum er bei Real Experts arbeitet. 
 
