@@ -41,8 +41,8 @@ infoBox:
   image: /img/peggy_kopkow-4-3.jpg
 statements: []
 relatedPosts:
-  - post: Ein Unternehmen hat keine Mitarbeiter
-  - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
   - post: Wie Sie Entscheidungen treffen
+  - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
+  - post: "Was bedeutet es gut zusammenzuarbeiten? "
 slug: category/organisationsentwicklung
 ---
