@@ -13,7 +13,7 @@ relatedPosts:
   - post: Das Why und die Vision von Real Experts - Podcast
   - post: "Neue Wege gehen und #SELBERgroß sein"
 slug: blog/2018-11-17-podcast-2-peggy-kopkow-von-real-experts-im-gespraech
-image: /img/01_startseite_.jpg
+image: /img/DSC_8294.jpg
 category: Real Experts
 tags:
   - Mitarbeiter
