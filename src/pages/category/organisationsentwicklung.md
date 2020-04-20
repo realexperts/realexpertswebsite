@@ -38,7 +38,7 @@ infoBox:
     Herangehensweise ist Frau Kopkow die Begleiterin für Sie und Ihr
     Unternehmen.
   headline: Unsere Expertin - Peggy Kopkow
-  image: /img/01_startseite_.jpg
+  image: /img/peggy_kopkow-4-3.jpg
 statements: []
 relatedPosts:
   - post: Ein Unternehmen hat keine Mitarbeiter
