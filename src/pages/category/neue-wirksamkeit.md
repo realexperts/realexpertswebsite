@@ -33,7 +33,7 @@ infoBox:
     Rauhut gemeinsam mit Ihnen das passende Vorgehen, um mit neuen Konzepten
     erfolgreich zu sein.
   headline: Unser Experte - Christoph Rauhut
-  image: /img/der-beginn-einer-reise.png
+  image: /img/christoph_rauhut-4-3.jpg
 statements: []
 relatedPosts:
   - post: Das Dilemma des New Work Hype
