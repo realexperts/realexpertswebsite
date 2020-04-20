@@ -22,7 +22,7 @@ thesis:
       Unternehmen.
     headline: Wie wir arbeiten
     highlighted: false
-video: https://youtu.be/ScMzIvxBSi4
+video: https://youtu.be/YysKSI8-kvA
 successStoriesTitle: Team
 successStories:
   - customerName: Peggy Kopkow
