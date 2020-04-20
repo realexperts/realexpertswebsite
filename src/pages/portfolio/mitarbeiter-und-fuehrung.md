@@ -15,6 +15,6 @@ categories:
   - category: Neue Wirksamkeit
 relatedPosts:
   - post: "Führen und führen lassen auf Augenhöhe "
-  - post: Ein Unternehmen hat keine Mitarbeiter
+  - post: Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten
   - post: Entdecke das Potential, den Kern von New Work
 ---
