@@ -37,7 +37,7 @@ infoBox:
     Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße für sich
     nutzen können.
   headline: Unser Experte - Oliver Reithage
-  image: /img/Best of breed vs best of suit2 mit text.jpg
+  image: /img/foto_oliver_quer.jpg
 statements: []
 relatedPosts:
   - post: Leitfaden für die Auswahl digitaler Tools in Unternehmen
