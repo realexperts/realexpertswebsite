@@ -6,7 +6,7 @@ headerImage: /img/real-experts-header-kategorie.png
 description: Wir ermöglichen jedem Unternehmen sein größtmögliches Potential zu
   entfalten. Wir befähigen, motivieren und schaffen nachhaltige Lösungen. Unsere
   Mitarbeiter leben, was wir für unsere Kunden erreichen.
-thumbnail: /img/auf-dem-weg-zum-augenhöhewegbegleiter-2-.png
+thumbnail: /img/real-experts-header-kategorie.png
 thesis:
   - body: Für unsere Kunden entwickeln wir Strategien und Lösungen für eine neue
       Form des digitalen Arbeitens, der Kommunikation und des Miteinanders im
@@ -26,7 +26,7 @@ video: https://youtu.be/ScMzIvxBSi4
 successStoriesTitle: Team
 successStories:
   - customerName: Peggy Kopkow
-    storyImage: /img/01_startseite_.jpg
+    storyImage: /img/peggy_kopkow-4-3.jpg
     post: Peggy Kopkow - Warum arbeitest Du für Real Experts?
   - customerName: Oliver Reithage
     storyImage: /img/oliver_reithage-4-3.jpg
