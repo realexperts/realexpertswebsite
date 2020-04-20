@@ -5,7 +5,6 @@ title: Enrico Skottnik
 position: Berater
 company: Real Experts Network GmbH
 email: skottnik@realexperts.de
-image: /img/DSC_8649.png
+image: /img/enrico_skottnik-4-3.jpg
 description: Enrico Skottnik
 ---
-
