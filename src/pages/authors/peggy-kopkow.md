@@ -6,7 +6,6 @@ position: Organisationsentwicklung
 company: Real Experts Network GmbH
 email: kopkow@realexperts.de
 twitterHandle: PKwissenswertes
-image: /img/DSC_8294.jpg
+image: /img/peggy_kopkow-4-3.jpg
 description: Peggy Kopkow
 ---
-
