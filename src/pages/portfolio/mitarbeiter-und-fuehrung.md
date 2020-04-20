@@ -10,7 +10,7 @@ description: Veränderungen können nicht auferlegt werden. Sie gestalten sich
   für Sie und Ihre Organisation.
 featuredPost: Was brauchst Du, um das zu machen, was Du willst?
 categories:
-  - category: Neue Wirksamkeit
+  - category: Mitarbeiter und Führung
   - category: Organisationsentwicklung
   - category: Neue Wirksamkeit
 relatedPosts:
