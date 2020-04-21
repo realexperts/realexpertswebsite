@@ -34,15 +34,14 @@ video: https://youtu.be/ECmyssqhJns
 successStoriesTitle: Erfolgsgeschichten
 successStories: []
 infoBox:
-  body: Als ausgewiesener Experte für den digitalen Arbeitsplatz der Mitarbeiter
-    ist Oliver Reithage der richtige Ansprechpartner, um mit Ihnen gemeinsam
-    eine begeisternde Arbeitsplatzumgebung für Ihre Mitarbeiter zu schaffen. Als
-    technischer Berater unterstützt Herr Reithage Sie dafür bei der Auswahl als
-    auch bei der Implementierung passender digitaler Technologien, damit Ihre
-    Mitarbeiter das Potential und die Wirksamkeit dieser in vollem Maße für sich
-    nutzen können.
-  headline: Unser Experte - Oliver Reithage
-  image: /img/foto_oliver_quer.jpg
+  body: Als erfahrener Berater kennt Herr Rauhut aus vielen Projekten die
+    Herausforderungen einer nachhaltigen Veränderungen und Etablierung neuer
+    Technologien und Arbeitsweisen. Als Übersetzer und Vermittler zwischen den
+    neuen Möglichkeiten und den Gegebenheiten in Unternehmen, entwickelt Herr
+    Rauhut gemeinsam mit Ihnen das passende Vorgehen, um mit neuen Konzepten
+    erfolgreich zu sein.
+  headline: Unser Experte - Christoph Rauhut
+  image: /img/christoph-rauhut-16-9-low.jpg
 statements: []
 relatedPosts:
   - post: "Das Intranet als zentrales Portal für einen wirksamen Digital Workplace "
