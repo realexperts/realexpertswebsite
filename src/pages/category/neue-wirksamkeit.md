@@ -10,13 +10,13 @@ description: Die Potentiale einer neuen Form des Arbeitens in Unternehmen sind
 thumbnail: /img/neue-wirksamkeit.png
 thesis:
   - body: Das Dilemma des neuen Arbeitens - alles ist machbar aber nichts
-      funktioniert. Unternehmen probieren neue Dinge aber eine nachhaltige
-      Veränderung bleibt aus. Viele wissen nicht wie es beginnt und wie alle
+      funktioniert. Unternehmen probieren neue Dinge, aber eine nachhaltige
+      Veränderung bleibt aus. Viele wissen nicht, wie es beginnt und wie alle
       Mitarbeiter im Unternehmen auf den Weg der Veränderung mitgehen können.
     headline: Ihre Herausforderung
     highlighted: false
   - body: Jedes Unternehmen mit einer klaren Überzeugen, einer bewussten
-      Selbstverantwortung kann den eigenen Weg der Veränderung gestalten und
+      Selbstverantwortung, kann den eigenen Weg der Veränderung gestalten und
       gehen. Durch unsere Impulse und Begleitung schaffen Sie den  Raum für
       diese Veränderung. Sie werden erkennen und eigenverantwortlich ins Handel
       kommen.
