@@ -16,7 +16,7 @@ thesis:
       Einführung und Veränderung stellt Unternehmen vor große Herausforderungen.
     headline: IHRE HERAUSFORDERUNG
     highlighted: false
-  - body: Mit digitalen Technologien am Arbeitsplatz schaffen sie eine
+  - body: Mit digitalen Technologien am Arbeitsplatz schaffen Sie eine
       leistungsfähige, agile und innovative Organisation. Konsequent eingeführt
       und etabliert entfalten die richtigen Werkzeuge die volle Wirkung. Eine
       Arbeitswelt ohne Digitalisierung wird so für Ihre Mitarbeiter nicht mehr
