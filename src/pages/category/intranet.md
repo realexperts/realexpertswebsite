@@ -7,7 +7,7 @@ description: >
   Ein Social Intranet verbindet, hält Mitarbeiter und Informationen zusammen und
   schafft Raum für Zusammenarbeit und Ideen. Sowohl top-down als auch bottom-up
   Interaktion ist somit über Hierarchie- und Abteilungsgrenzen hinweg möglich.
-  Mit einer Vielzahl an Funktion lassen sich zentral die wichtigen
+  Mit einer Vielzahl an Funktionen lassen sich zentral die wichtigen
   Anwendungsfälle der unternehmensweiten Interaktion und Kommunikation
   abbilden. 
 thumbnail: /img/intranet.png
