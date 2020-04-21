@@ -17,7 +17,7 @@ thesis:
       Teams. Ein unternehmensweiter Austausch und Informationsfluss kommt so
       nicht mehr zu Stande. Informationen und Wissen gehen verloren und die
       Verbindung zwischen den Menschen und zu zentralen Anwendungen wird
-      schwerer. Es fehlt die Möglichkeit Mitarbeiter und Kollegen schnell zu
+      schwerer. Es fehlt die Möglichkeit, Mitarbeiter und Kollegen schnell zu
       erreichen und auf dem aktuellen Stand zu halten.
     headline: Ihre Herausforderung
     highlighted: false
