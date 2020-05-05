@@ -43,6 +43,10 @@
           "url": "/blog"
         },
         {
+          "title": "Podcast",
+          "url": "/podcast/"
+        },
+        {
           "title": "Youtube",
           "url": "https://www.youtube.com/channel/UCKz6nXZObvjqr9G9uS4PamQ"
         },
