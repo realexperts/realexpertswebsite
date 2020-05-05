@@ -16,6 +16,10 @@
     {
       "title": "Blog",
       "url": "/blog"
+    },
+    {
+      "title": "Podcast",
+      "url": "/podcast/"
     }
   ]
 }
