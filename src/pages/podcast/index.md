@@ -6,7 +6,7 @@ title: RE TALK - Der Podcast von Real Experts
 
 ### **Unsere aktuelle Podcast-Folge**
 
-<script defer class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://retalk.podigee.io/2-bike24/embed?context=external"></script>
+<div id="podcast-player"></div>
 
 ### **Hier finden Sie unseren Podcast:**
 
