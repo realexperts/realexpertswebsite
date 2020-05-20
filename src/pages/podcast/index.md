@@ -6,7 +6,9 @@ title: RE TALK - Der Podcast von Real Experts
 
 ### **Unsere aktuelle Podcast-Folge**
 
-<div id="podcast-player"></div>
+
+<div id="podcast-player"><script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://retalk.podigee.io/3-stadtentwaesserungdresden/embed?context=external"></script></div>
+
 
 ### **Hier finden Sie unseren Podcast:**
 
@@ -17,6 +19,8 @@ title: RE TALK - Der Podcast von Real Experts
 * [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9yZXRhbGsucG9kaWdlZS5pby9mZWVkL21wMw)
 
 
+
 <script defer class="podlove-subscribe-button" src="https://cdn.podigee.com/subscribe-button/javascripts/app.js" data-json-url="https://retalk.podigee.io/embed/subscribe_button"></script>
+
 
 ![Headerbild Podcast](/img/podcast-bild_cc0_logo_r.png "Podcast RE Talk")
