@@ -328,6 +328,20 @@ exports.onCreateNode = ({node, actions, getNode}) => {
 
     }
 
+    if (node.frontmatter.statements && node.frontmatter.statements.length > 0) {
+
+      const statementsImages = node.frontmatter.statements.map(statement => {
+        return `../../../static${statement.image}`
+      });
+
+      createNodeField({
+        node,
+        name: 'statementsImages',
+        value: statementsImages,
+      });
+
+    }
+
   }
 
   const {frontmatter} = node;

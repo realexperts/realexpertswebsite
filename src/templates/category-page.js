@@ -44,7 +44,8 @@ export const CategoryPageTemplate = ({data, settings}) => {
           <Slide index={key} key={key}>
               <div className="statement">
                 <div className="statement-image">
-                    <Img fluid={statement.image.childImageSharp.fluid}/>
+                  <Img fluid={data.fields.statementsImages[key].childImageSharp.fluid}
+                       imgStyle={{ objectFit: 'contain' }}/>
                 </div>
                 <div className="statement-message">
                   <span className="statement-text">„{statement.body}“</span>
@@ -301,6 +302,13 @@ export const categoryPageQuery = graphql`
                         }
                     }
                 }
+                statementsImages {
+                    childImageSharp {
+                        fluid(maxWidth: 200) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
                 slug
             }
             frontmatter {
@@ -333,13 +341,6 @@ export const categoryPageQuery = graphql`
                 }
                 statements {
                     author
-                    image {
-                        childImageSharp {
-                            fluid(maxWidth: 200) {
-                                ...GatsbyImageSharpFluid
-                            }
-                        }
-                    }
                     body
                 }
                 relatedPosts {
