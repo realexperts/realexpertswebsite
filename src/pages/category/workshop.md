@@ -55,18 +55,18 @@ statements:
       konkreter Einsatzmöglichkeiten digitaler Kommunikationsund
       Kollaborationstools in Ihrem Unternehmen."
     author: "Ziel #1 - Einsatzmöglichkeiten"
-    image: /img/icon_einsatzmöglichkeiten.png
+    image: /img/DSC_8294.jpg
   - author: "Ziel #2 - Sensibilisierung und Verständnis"
     body: Sensibilisierung und Verständnis für digitale Arbeitsprozesse und die
       daraus erwachsenden Chancen. Entwicklung eines gemeinsamen Zielbilds
       (Vision) für eine nachhaltige Neuausrichtung des digitalen Arbeitens in
       Ihrem Unternehmen.
-    image: /img/icon_sensibilisierung-und-verständnis.png
+    image: /img/20190930_141030_gray.jpg
   - author: "Ziel #3 - Fahrplan und Maßnahmen"
     body: Erarbeitung eines Schritt-für-Schritt-Plans zur Weiterentwicklung der
       digitalen Arbeitskultur in Ihrem Unternehmen inkl. Fahrplan und Maßnahmen
       für die Umsetzung des digitalen Arbeitsplatzes.
-    image: /img/icon_schritt-für-schritt.png
+    image: /img/01_startseite_.jpg
 relatedPosts:
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
