@@ -54,19 +54,19 @@ statements:
       Stärken, Schwächen und zukünftige Einsatzpotenziale. Identifizierung
       konkreter Einsatzmöglichkeiten digitaler Kommunikationsund
       Kollaborationstools in Ihrem Unternehmen."
-    author: "Ziel #1 - Einsatzmöglichkeiten"
-    image: /img/DSC_8294.jpg
-  - author: "Ziel #2 - Sensibilisierung und Verständnis"
+    author: Ziel 1 - Einsatzmöglichkeiten
+    image: /img/icon_einsatzmöglichkeiten.png
+  - author: Ziel 2 - Sensibilisierung und Verständnis
     body: Sensibilisierung und Verständnis für digitale Arbeitsprozesse und die
       daraus erwachsenden Chancen. Entwicklung eines gemeinsamen Zielbilds
       (Vision) für eine nachhaltige Neuausrichtung des digitalen Arbeitens in
       Ihrem Unternehmen.
-    image: /img/20190930_141030_gray.jpg
-  - author: "Ziel #3 - Fahrplan und Maßnahmen"
+    image: /img/icon_sensibilisierung-und-verständnis.png
+  - author: Ziel 3 - Fahrplan und Maßnahmen
     body: Erarbeitung eines Schritt-für-Schritt-Plans zur Weiterentwicklung der
       digitalen Arbeitskultur in Ihrem Unternehmen inkl. Fahrplan und Maßnahmen
       für die Umsetzung des digitalen Arbeitsplatzes.
-    image: /img/01_startseite_.jpg
+    image: /img/icon_schritt-für-schritt.png
 relatedPosts:
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
