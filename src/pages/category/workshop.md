@@ -10,7 +10,7 @@ description: Wir sind überzeugt, dass digitale Lösungen nicht nur den
   Experts.
 thumbnail: /img/Digitales Arbeiten.jpg
 thesis:
-  - highlighted: "false"
+  - highlighted: false
     body: "Globalisierung, Digitalisierung und gesellschaftlicher Wandel verändern
       unsere Art zu arbeiten nachhaltig und stellen viele Unternehmen vor neue
       Herausforderungen: Wie kann unser Team jederzeit und von überall arbeiten,
@@ -18,7 +18,7 @@ thesis:
       effektiv kommunizieren? Wie ermöglichen wir unseren Mitarbeitern eine
       gesunde Work-Life-Balance?"
     headline: Ihr Herausforderung
-  - highlighted: "false"
+  - highlighted: false
     headline: Unser Angebot
     body: Ob Home Office, Videokonferenzen, Cloud- oder Kollaborationstools – ein
       digitaler Arbeitsplatz sollte kein Privileg mehr sein, sondern eine
