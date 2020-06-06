@@ -48,7 +48,7 @@ infoBox:
 
     [Hier finden Sie unsere Kontaktdaten.](https://www.realexperts.de/kontakt)
   image: /img/christoph-rauhut-16-9-low.jpg
-  headline: DER WORKSHOP IM ÜBERBLICK
+  headline: Der Workshop im Überblick
 statements:
   - body: "Bestandsaufnahme der digitalen Anwendungsfälle im Unternehmen: aktuelle
       Stärken, Schwächen und zukünftige Einsatzpotenziale. Identifizierung
