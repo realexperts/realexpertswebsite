@@ -14,6 +14,9 @@ import 'pure-react-carousel/dist/react-carousel.es.css';
 import sliderRight from "../img/icons/slider-right.svg";
 import sliderLeft from "../img/icons/slider-left.svg";
 import SEO from '../components/SEO';
+import remark from 'remark';
+import recommended from 'remark-preset-lint-recommended';
+import remarkHtml from 'remark-html';
 
 export const CategoryPageTemplate = ({data, settings}) => {
 
@@ -23,6 +26,14 @@ export const CategoryPageTemplate = ({data, settings}) => {
             <p>{thesisElement.body}</p>
         </div>
     ));
+
+    let infoBoxBody = "";
+    if(data.frontmatter.infoBox){
+      infoBoxBody = remark()
+      .use(recommended)
+      .use(remarkHtml)
+      .processSync(data.frontmatter.infoBox.body).toString();
+    }
 
     let successStories = [];
     if (data.fields.successStories) {
@@ -165,7 +176,7 @@ export const CategoryPageTemplate = ({data, settings}) => {
                       <div className="category-info-box">
                         <div className="info-box-content">
                           <h2>{data.frontmatter.infoBox.headline}</h2>
-                          <p>{data.frontmatter.infoBox.body}</p>
+                          <div dangerouslySetInnerHTML={{__html: infoBoxBody}}></div>
                         </div>
                         <div className="info-box-image">
                           <Img fluid={data.fields.infoBoxImage.childImageSharp.fluid}/>
