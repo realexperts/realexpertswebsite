@@ -1,6 +1,6 @@
 ---
 templateKey: category-page
-title: Workshop
+title: Workshop Digitales Arbeiten
 contentTitle: Ist Ihr Unternehmen fit für die Arbeitswelt von morgen?
 headerImage: /img/digitaler-arbeitspaltz.png
 description: Wir sind überzeugt, dass digitale Lösungen nicht nur den
