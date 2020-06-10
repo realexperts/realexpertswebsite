@@ -2,7 +2,7 @@
 templateKey: category-page
 title: Workshop
 contentTitle: Ist Ihr Unternehmen fit für die Arbeitswelt von morgen?
-headerImage: /img/Digitales Arbeiten.jpg
+headerImage: /img/digitaler-arbeitspaltz.png
 description: Wir sind überzeugt, dass digitale Lösungen nicht nur den
   Arbeitsalltag von Unternehmen und Mitarbeitern bereichern, sondern für deren
   zukünftigen Erfolg unabdingbar sind. Rüsten Sie deshalb Ihr Unternehmen für
