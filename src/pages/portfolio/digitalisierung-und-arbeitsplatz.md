@@ -12,6 +12,7 @@ categories:
   - category: Digitaler Arbeitsplatz
   - category: Intranet
   - category: Software Auswahl
+  - category: Workshop Digitales Arbeiten
 relatedPosts:
   - post: "Der “digitale” Arbeitsplatz im Wandel "
   - post: "Das Intranet als zentrales Portal für einen wirksamen Digital Workplace "
