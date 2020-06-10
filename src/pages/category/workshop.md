@@ -26,28 +26,37 @@ thesis:
       konkrete Anwendungsfälle digitaler Anwendungen in Ihrem Unternehmen, loten
       ungenutzte Potenziale aus und legen den Grundstein für Ihre individuelle
       Digitalisierungsstrategie.
-video: https://www.youtube.com/watch?v=ztTM7Bp1YBw
+video: https://youtu.be/JTTGuRcMQkg
 successStoriesTitle: Erfolgsgeschichten
 successStories: []
 infoBox:
   body: >-
-    **Durchführung:** vor Ort (im Unternehmen) oder remote (via Web-Konferenz)
+    Durchführung: vor Ort (im Unternehmen) oder remote (via Web-Konferenz)
 
 
-    **Dauer:** 4 Stunden
+    \-
 
 
-    **Teilnehmer:** 5-6 Vertreter des Unternehmens (Geschäftsleitung und Top-Management)
+    Dauer: 4 Stunden
+
+
+    \-
+
+
+    Teilnehmer: 5-6 Vertreter des Unternehmens (Geschäftsleitung und Top-Management)
+
+
+    \-
 
 
     Die Ergebnisse erhalten Sie übersichtlich dokumentiert und aufbereitet im Anschluss an den Workshop. Auf dieser Grundlage können Sie erste konkrete Maßnahmen anstoßen oder künftige Digitalisierungsvorhaben planen. Gern unterstützen wir Sie auch dabei.
 
 
-    **Bereit für die Arbeitswelt der Zukunft? Sprechen Sie uns an. Wir beraten Sie gern und planen gemeinsam Ihren individuellen Workshop.** 
+    \-
 
 
-    [Hier finden Sie unsere Kontaktdaten.](https://www.realexperts.de/kontakt)
-  image: /img/christoph-rauhut-16-9-low.jpg
+    Bereit für die Arbeitswelt der Zukunft? Sprechen Sie uns an. Wir beraten Sie gern und planen gemeinsam Ihren individuellen Workshop.
+  image: /img/christoph_rauhut-4-3.jpg
   headline: Der Workshop im Überblick
 statements:
   - body: "Bestandsaufnahme der digitalen Anwendungsfälle im Unternehmen: aktuelle
