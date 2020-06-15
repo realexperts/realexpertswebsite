@@ -26,8 +26,8 @@ thesis:
     highlighted: true
 video: https://youtu.be/YysKSI8-kvA
 relatedPosts:
+  - post: So gelingt die erfolgreiche Microsoft Teams Einführung
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: "Softwarestrategien: Best-of-Breed vs. Best-of-Suite"
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
-  - post: Der Weg zur Neuen Wirksamkeit im Unternehmen
 ---
