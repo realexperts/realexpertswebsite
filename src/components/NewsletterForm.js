@@ -52,7 +52,7 @@ export default class NewsletterForm extends React.Component {
         });
     }
 
-    _resetMailchimpError(){
+    _resetMailchimpMessage(){
         if (this.state.showMailchimpError || this.state.showSuccess){
             this.setState({
                 showMailchimpError: false,
@@ -82,6 +82,7 @@ export default class NewsletterForm extends React.Component {
 
     _handleSubmit = e => {
         this._resetServerError();
+        this._resetMailchimpMessage();
         e.preventDefault();
         if (this.state.checked){
             addToMailchimp(this.refs.emailItem.value) 
@@ -106,28 +107,28 @@ export default class NewsletterForm extends React.Component {
                 <div className="contact-form-wrapper">
                     <div className="contact-form-name" style={{width: '100%'}}>
                         <form onSubmit={this._handleSubmit}>
-                            <h3>Real Experts Newsletter</h3>
+                            <h3 style={{marginTop: '-10px'}} >Real Experts Newsletter</h3>
                             <input
                                 style={{width: '70%'}}
                                 placeholder="E-Mail Addresse"
                                 name="email"
                                 ref="emailItem"
                                 type="text"
-                                onChange={this._resetMailchimpError.bind(this)}
+                                onChange={this._resetMailchimpMessage.bind(this)}
                             />
-                            <div style={{color: 'red'}} dangerouslySetInnerHTML={{__html: this.state.emailMailchimpErrorMsg}} />
+                            <div style={{color: '#ed6a14'}} dangerouslySetInnerHTML={{__html: this.state.emailMailchimpErrorMsg}} />
                             <div style={{width: '100%'}} style={{display: 'flex', paddingTop: '10px',  alignItems: 'flex-start'}}>
                                 <input onChange={this._handleCheckboxChange.bind(this)} style={{width: '80px'}} id={this.id} type="checkbox" />
                                 <label htmlFor={this.id}>Mit Ihrer Kontaktaufnahme stimmen Sie den Datenschutzbestimmungen dieser Website nach EU-DSGVO zu und, dass Sie von Real Experts Network GmbH Marketingmaterialien per E-Mail erhalten, die nach Ansicht von Real Experts Network GmbH zu Ihrer Anfrage passen.</label>
                             </div>
-                            <div style={{ color: 'red' }}>
+                            <div style={{ color: '#ed6a14' }}>
                                 {this.state.emailCheckErrorMsg}
                             </div>
                             <button type="submit" className="button-round-blue">Abonnieren</button>
-                            <div style={{ color: 'red' }}>
+                            <div style={{ color: '#ed6a14' }}>
                                 {this.state.serverError}
                             </div>
-                            <div style={{ color: 'green' }}>
+                            <div style={{ color: '#2db7bc' }}>
                                 {this.state.emailSuccessMsg}
                             </div>
                         </form>
