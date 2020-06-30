@@ -27,7 +27,7 @@ module.exports = {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
           endpoint: 'https://realexperts.us10.list-manage.com/subscribe/post?u=0765846df347ef60fe0336bdf&id=b40890bf31', // string; add your MC list endpoint here; see instructions below
-          timeout: 3500, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
+          timeout: 5000, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
       },
     },
     {
