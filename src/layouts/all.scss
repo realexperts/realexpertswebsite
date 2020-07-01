@@ -82,6 +82,10 @@ body {
   border: none;
 }
 
+.button-round-blue:focus{
+  outline: 0px transparent !important;
+}
+
 .content {
   display: flex;
   flex-direction: column;

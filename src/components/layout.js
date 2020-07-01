@@ -9,9 +9,9 @@ import CookieConsent from 'react-cookie-consent';
 import 'typeface-open-sans';
 import 'typeface-changa';
 import '../layouts/all.scss';
-import FooterContactForm from '../components/FooterContactForm';
 import FooterLinks from './FooterLinks';
 import { globalHistory } from "@reach/router"
+import FooterNewsletterForm from './FooterNewsletterForm';
 
 const TemplateWrapper = ({children, noHeader}) => {
   const path = globalHistory.location.pathname;
@@ -24,7 +24,7 @@ const TemplateWrapper = ({children, noHeader}) => {
         {children}
       </main>
       {path.indexOf("kontakt") === -1 &&
-        <FooterContactForm/>
+        <FooterNewsletterForm/>
       }
       <FooterLinks/>
       <Footer/>
