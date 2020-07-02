@@ -19,10 +19,10 @@ const TemplateWrapper = ({children, noHeader}) => {
   return (
     <div className={noHeader ? "content no-header" : "content"}>
       <Helmet
+        /* script={[
+          {'id': 'Cookiebot', 'src': 'https://consent.cookiebot.com/uc.js', 'data-cbid': '178192ac-766f-4cab-a110-039ac99eaf64', 'data-blockingmode': 'auto', 'type': 'text/javascript', 'async':'false'}
+        ]} */
         title="Home | Gatsby + Netlify CMS"
-        script={[
-          {'id': 'Cookiebot', 'src': 'https://consent.cookiebot.com/uc.js', 'data-cbid': '178192ac-766f-4cab-a110-039ac99eaf64', 'data-blockingmode': 'auto', 'type': 'text/javascript'}
-        ]}
       />
       <header id="header-main"><Navbar/></header>
       <main>
