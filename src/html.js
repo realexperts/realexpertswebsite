@@ -5,8 +5,8 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
-{/*       <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="178192ac-766f-4cab-a110-039ac99eaf64" data-blockingmode="auto" type="text/javascript"></script>
- */}        <meta charSet="utf-8" />
+      <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="178192ac-766f-4cab-a110-039ac99eaf64" data-blockingmode="auto" type="text/javascript"></script>
+        <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta
           name="viewport"
