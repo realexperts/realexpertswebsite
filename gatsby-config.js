@@ -91,6 +91,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-netlify',
       options: {
+        mergeLinkHeaders: false,
+        mergeCachingHeaders: false,
         headers: {
           '/*': [
             'X-Frame-Options: ALLOW-FROM https://www.itsax.de',
