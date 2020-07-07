@@ -98,7 +98,7 @@ const SEO = ({ postData, postImage, isBlogPost, author }) => {
       <meta name="image" content={image}/>
 
       {/* Schema.org tags */}
-      <script type="application/ld+json">
+      <script data-cookieconsent="ignore" type="application/ld+json">
         {JSON.stringify(schemaOrgJSONLD)}
       </script>
 
