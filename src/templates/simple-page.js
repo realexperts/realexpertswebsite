@@ -18,7 +18,7 @@ export const SimplePageTemplate = ({ title, content, contentComponent, settings 
         <Helmet title={`${title}  | ${settings.global.title}`} link={[
           { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
         ]}>
-          {/* <script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js" integrity="sha256-xOIPU/XvDtRLeDQ3qj9GOKmlbMSqKa6D7ZIS6ygHBSo=" crossOrigin="anonymous"></script> */}
+          <script data-cookieconsent="ignore" src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js" integrity="sha256-xOIPU/XvDtRLeDQ3qj9GOKmlbMSqKa6D7ZIS6ygHBSo=" crossOrigin="anonymous"></script>
         </Helmet>
         <div className="page-content">
           {path.indexOf("datenschutz") === -1 &&
