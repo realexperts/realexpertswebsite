@@ -13,7 +13,7 @@ export default class CookieSettings extends React.Component {
     render() {
         return (
            <div>
-            Test
+            <h3>Cookies</h3>
             <div ref={el => (this.instance = el)}>
             </div>
            </div>

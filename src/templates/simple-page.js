@@ -8,7 +8,7 @@ import Layout from '../components/layout';
 import { globalHistory } from "@reach/router"
 import CookieSettings from '../components/CookieSettings';
 
-export const SimplePageTemplate = ({title, content, contentComponent, settings}) => {
+export const SimplePageTemplate = ({ title, content, contentComponent, settings }) => {
   const PageContent = contentComponent || Content;
   const path = globalHistory.location.pathname;
 
@@ -16,20 +16,23 @@ export const SimplePageTemplate = ({title, content, contentComponent, settings})
     <Layout noHeader={true}>
       <section className='simple' lang="de">
         <Helmet title={`${title}  | ${settings.global.title}`} link={[
-          {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
+          { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
         ]}>
           <script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js" integrity="sha256-xOIPU/XvDtRLeDQ3qj9GOKmlbMSqKa6D7ZIS6ygHBSo=" crossOrigin="anonymous"></script>
         </Helmet>
         <div className="page-content">
-          <h2>{title}</h2>
+          {path.indexOf("datenschutz") === -1 &&
+            <h2>{title}</h2>
+          }
+
           <div className="content-block-wrapper">
-            <PageContent className="content" content={content}/>
+            <PageContent className="content" content={content} />
           </div>
-          {/* <div className="content-block-wrapper">
-          {!(path.indexOf("datenschutz") === -1) &&
-              <CookieSettings className="content"/>
+          <div className="content-block-wrapper">
+            {!(path.indexOf("datenschutz") === -1) &&
+              <CookieSettings className="content" />
             }
-          </div> */}
+          </div>
         </div>
       </section>
     </Layout>
@@ -42,7 +45,7 @@ SimplePageTemplate.propTypes = {
   contentComponent: PropTypes.func,
 };
 
-const SimplePage = ({data}) => {
+const SimplePage = ({ data }) => {
   const {
     settings,
     markdownRemark: post
@@ -50,9 +53,9 @@ const SimplePage = ({data}) => {
 
   return (
     <SimplePageTemplate contentComponent={HTMLContent}
-                        title={`${post.frontmatter.title}`}
-                        content={post.html}
-                        settings={settings}/>
+      title={`${post.frontmatter.title}`}
+      content={post.html}
+      settings={settings} />
   );
 };
 
