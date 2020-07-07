@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
-import ReactPlayer from 'react-player';
+import ReactPlayer from 'react-player/lazy';
 import BlogPostTeaser from '../components/BlogPostTeaser';
 import Layout from '../components/layout';
 

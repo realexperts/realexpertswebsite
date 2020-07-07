@@ -43,7 +43,7 @@
     "react-google-maps": "^9.4.5",
     "react-helmet": "^6.1.0",
     "react-load-script": "^0.0.6",
-    "react-player": "^1.11.0",
+    "react-player": "^2.5.0",
     "react-share": "^3.0.0",
     "react-typography": "^0.16.19",
     "recompose": "^0.30.0",

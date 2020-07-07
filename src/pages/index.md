@@ -24,7 +24,7 @@ thesis:
       Unternehmen.
     headline: Wie wir arbeiten
     highlighted: true
-video: https://youtu.be/YysKSI8-kvA
+# video: https://youtu.be/YysKSI8-kvA
 relatedPosts:
   - post: So gelingt die erfolgreiche Microsoft Teams Einführung
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
