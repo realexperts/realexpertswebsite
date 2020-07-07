@@ -5,16 +5,12 @@ import favicon from '../img/favicon.ico';
 import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 import Layout from '../components/layout';
+import { globalHistory } from "@reach/router"
 import CookieSettings from '../components/CookieSettings';
 
 export const SimplePageTemplate = ({title, content, contentComponent, settings}) => {
   const PageContent = contentComponent || Content;
-
-  /* setTimeout(() => {
-    if (typeof window !== `undefined`) {
-      window.postscribe('#podcast-player', '<script defer class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://retalk.podigee.io/2-bike24/embed?context=external"></script>');
-    }
-  },2000); */
+  const path = globalHistory.location.pathname;
 
   return (
     <Layout noHeader={true}>
@@ -28,8 +24,12 @@ export const SimplePageTemplate = ({title, content, contentComponent, settings})
           <h2>{title}</h2>
           <div className="content-block-wrapper">
             <PageContent className="content" content={content}/>
-            <CookieSettings/>
           </div>
+          {/* <div className="content-block-wrapper">
+          {!(path.indexOf("datenschutz") === -1) &&
+              <CookieSettings className="content"/>
+            }
+          </div> */}
         </div>
       </section>
     </Layout>
