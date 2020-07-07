@@ -74,7 +74,15 @@ export const FrontPageTemplate = ({
                 position: 'relative',
                 paddingTop: '56.25%',
               }}>
-                <ReactPlayer url={video} width='100%' height='100%' style={{
+                <ReactPlayer url={video} width='100%' height='100%'
+                config={{ 
+                  youtube: { 
+                    embedOptions: { 
+                      host: 'https://www.youtube-nocookie.com' 
+                    } 
+                  } 
+                }} 
+                style={{
                   position: 'absolute',
                   top: '0',
                   left: '0',
