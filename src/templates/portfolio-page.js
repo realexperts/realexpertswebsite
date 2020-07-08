@@ -135,7 +135,7 @@ export const portfolioPageQuery = graphql`
                         }
                         image {
                             childImageSharp {
-                                fluid(maxWidth: 850) {
+                                fluid(maxWidth: 1000) {
                                     ...GatsbyImageSharpFluid
                                 }
                             }
