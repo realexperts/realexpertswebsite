@@ -14,7 +14,7 @@ export default class FeaturedBlogPost extends React.Component {
         <div className="blog-post-image">
           {post.fields.image &&
           <Link to={post.fields.slug}>
-            <Img data-cookieconsent="ignore" critical="true" loading="eager" fluid={post.fields.image.childImageSharp.fluid}/>
+            <Img fluid={post.fields.image.childImageSharp.fluid}/>
           </Link>}
         </div>
         <div className="post-content">
