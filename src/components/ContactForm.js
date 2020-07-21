@@ -9,7 +9,7 @@ const ContactForm = () => {
 {/*         <input type="hidden" name="form-name" value="contact" />
  */}        
         <p class="hidden">
-          <label>Adresse<input type="text" name="bot-field" tabindex="-1" autocomplete="off"/></label>
+          <label>Adresse<input name="bot-field"/></label>
         </p>
         <div className="contact-form-wrapper">
           <div className="contact-form-name">
