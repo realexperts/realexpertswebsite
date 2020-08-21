@@ -18,7 +18,6 @@ import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
 
-import addToMailchimp from 'gatsby-plugin-mailchimp'
 import WhitepaperFormContainer from '../components/WhitepaperFormContainer'
 
 export const CategoryPageTemplate = ({ data, settings }) => {
@@ -26,7 +25,13 @@ export const CategoryPageTemplate = ({ data, settings }) => {
     const thesisElements = data.frontmatter.thesis.map((thesisElement, key) => (
         <div key={key} className={`thesis ${thesisElement.highlighted ? 'highlighted' : 'normal'}`}>
             <h3>{thesisElement.headline}</h3>
-            <p>{thesisElement.body}</p>
+            <div dangerouslySetInnerHTML={{
+                __html:
+                    remark()
+                        .use(recommended)
+                        .use(remarkHtml)
+                        .processSync(thesisElement.body).toString()
+            }}></div>
         </div>
     ));
 
@@ -62,8 +67,16 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                             imgStyle={{ objectFit: 'contain' }} />
                     </div>
                     <div className="statement-message">
-                        <span className="statement-text">„{statement.body}“</span>
-                        <span className="statement-author">{statement.author}</span>
+                        <span className="statement-text">
+                            <span dangerouslySetInnerHTML={{
+                            __html: remark()
+                                .use(recommended)
+                                .use(remarkHtml)
+                                .processSync(("\"" + statement.body + "\"")).toString()
+                            }}>
+                            </span>
+                        </span>
+                        <span className="statement-author"dangerouslySetInnerHTML={{__html:statement.author}}></span>
                     </div>
                 </div>
             </Slide>
@@ -97,6 +110,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
         }
     }
 
+    console.log(statements);
 
     return (
         <Layout>
@@ -122,60 +136,63 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                     <div className="content-block-wrapper">
                         {thesisElements}
                     </div>
-
-                    <div className="featured-video-wrapper category-video-wrapper">
-                        <div className='featured-video'>
-                            <div style={{
-                                position: 'relative',
-                                paddingTop: '56.25%',
-                            }}>
-                                <ReactPlayer url={data.frontmatter.video}
-                                    width='100%'
-                                    height='100%'
-                                    style={{
-                                        position: 'absolute',
-                                        top: '0',
-                                        left: '0',
-                                    }}
-                                    config={{
-                                        youtube: {
-                                            embedOptions: {
-                                                host: 'https://www.youtube-nocookie.com',
-                                            },
-                                            preload: true
-                                        }
-                                    }}
-                                />
-                            </div>
-                        </div>
-                        {successStories.length > 0 &&
-                            <div className="success-stories-wrapper">
-                                <h2>{data.frontmatter.successStoriesTitle}</h2>
-                                <div className="success-stories">
-                                    <CarouselProvider
-                                        naturalSlideWidth={400}
-                                        naturalSlideHeight={300}
-                                        totalSlides={successStories.length}
-                                        visibleSlides={numSlides}
-                                    >
-                                        <div className="back-button-wrapper">
-                                            <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
-                                        </div>
-                                        <Slider>
-                                            {successStories}
-                                        </Slider>
-                                        <div className="next-button-wrapper">
-                                            <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
-                                        </div>
-                                    </CarouselProvider>
-
+                    {!(successStories.length == 0 && data.frontmatter.video == null) &&
+                        <div className="featured-video-wrapper category-video-wrapper">
+                            {data.frontmatter.video != null &&
+                                <div className='featured-video'>
+                                    <div style={{
+                                        position: 'relative',
+                                        paddingTop: '56.25%',
+                                    }}>
+                                        <ReactPlayer url={data.frontmatter.video}
+                                            width='100%'
+                                            height='100%'
+                                            style={{
+                                                position: 'absolute',
+                                                top: '0',
+                                                left: '0',
+                                            }}
+                                            config={{
+                                                youtube: {
+                                                    embedOptions: {
+                                                        host: 'https://www.youtube-nocookie.com',
+                                                    },
+                                                    preload: true
+                                                }
+                                            }}
+                                        />
+                                    </div>
                                 </div>
-                            </div>
-                        }
-                    </div>
-                    {data.frontmatter.title === "Whitepaper Digitale Kompetenzen" &&
-                            <WhitepaperFormContainer />
-                        }
+                            }
+
+
+                            {successStories.length > 0 &&
+                                <div className="success-stories-wrapper">
+                                    <h2>{data.frontmatter.successStoriesTitle}</h2>
+                                    <div className="success-stories">
+                                        <CarouselProvider
+                                            naturalSlideWidth={400}
+                                            naturalSlideHeight={300}
+                                            totalSlides={successStories.length}
+                                            visibleSlides={numSlides}
+                                        >
+                                            <div className="back-button-wrapper">
+                                                <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
+                                            </div>
+                                            <Slider>
+                                                {successStories}
+                                            </Slider>
+                                            <div className="next-button-wrapper">
+                                                <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
+                                            </div>
+                                        </CarouselProvider>
+
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    }
+                    {(successStories.length == 0 && data.frontmatter.video == null) && <div style={{ marginTop: '65px' }}></div>}
                     {data.frontmatter.infoBox.headline != null && data.frontmatter.infoBox.headline.length > 0 &&
                         <div className="category-info-box-wrapper">
                             <div className="category-info-box">
@@ -194,7 +211,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                             <div className="statements-content">
                                 <CarouselProvider
                                     naturalSlideWidth={100}
-                                    naturalSlideHeight={20}
+                                    naturalSlideHeight={data.frontmatter.title.includes("Digitale Kompetenzen") ? 40 : 20}
                                     totalSlides={statements.length}
                                 >
                                     <div className="back-button-wrapper">
@@ -209,6 +226,10 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                                 </CarouselProvider>
                             </div>
                         </div>
+                    }
+
+                    {data.frontmatter.title.includes("Digitale Kompetenzen") &&
+                        <WhitepaperFormContainer />
                     }
 
                     {topPosts.length > 0 &&

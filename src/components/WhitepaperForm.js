@@ -107,7 +107,7 @@ export default class WhitepaperForm extends React.Component {
                 <div className="contact-form-wrapper">
                     <div className="contact-form-name" style={{width: '100%'}}>
                         <form onSubmit={this._handleSubmit}>
-                            <h3 style={{marginTop: '-10px'}} >Real Experts Newsletter</h3>
+                            <h3 style={{marginTop: '-10px'}} >Download Whitepaper: Digitale Kompetenz</h3>
                             <input
                                 style={{width: '70%'}}
                                 placeholder="E-Mail Addresse"

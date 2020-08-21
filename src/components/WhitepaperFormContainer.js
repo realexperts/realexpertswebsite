@@ -9,9 +9,9 @@ const FooterNewsletterForm = () => {
         <section className="section">
           <div className="contact-content">
             <div className="contact-information">
-              <h3 className="contact-title">Hier anmelden für das Whitepaper</h3>
+              <h3 className="contact-title">Anmelden für das Whitepaper</h3>
               <div className="contact-content-text">
-                Melden Sie sich hier für unseren Newsletter an. Einmal pro Quartal senden wir Ihnen Neuigkeiten zu unserem Unternehmen, Themen des digitalen Arbeitsplatzes sowie des neuen Arbeitens in Unternehmen. Danach bekommen Sie den Downloadlink.
+                Melden Sie sich hier für unseren Newsletter an. Einmal pro Quartal senden wir Ihnen Neuigkeiten zu unserem Unternehmen, Themen des digitalen Arbeitsplatzes sowie des neuen Arbeitens in Unternehmen zu. Nach der abgeschlossenen Anmeldung bekommen Sie den Downloadlink zugeschickt.
               </div>
             </div>
             <div className="contact-form-wrapper">

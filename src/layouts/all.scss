@@ -414,6 +414,13 @@ main {
         .thesis {
           flex: 1;
 
+          ul{
+            list-style-type: disc;
+            li{
+              margin-left: 1em;
+            }
+          }
+
           &:first-child {
             margin-right: 40px;
           }
@@ -619,7 +626,6 @@ main {
                 font-size: 24px;
                 color: $primary;
                 font-weight: 300;
-
               }
 
               .statement-author {
@@ -629,6 +635,11 @@ main {
                 color: $primary;
                 display: block;
                 margin-top: 20px;
+                a { color: inherit; }
+              }
+
+              .statement-author::after {
+                content: " 🡕";
               }
             }
           }
