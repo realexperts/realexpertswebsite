@@ -69,14 +69,14 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                     <div className="statement-message">
                         <span className="statement-text">
                             <span dangerouslySetInnerHTML={{
-                            __html: remark()
-                                .use(recommended)
-                                .use(remarkHtml)
-                                .processSync(("\"" + statement.body + "\"")).toString()
+                                __html: remark()
+                                    .use(recommended)
+                                    .use(remarkHtml)
+                                    .processSync(("\"" + statement.body + "\"")).toString()
                             }}>
                             </span>
                         </span>
-                        <span className="statement-author"dangerouslySetInnerHTML={{__html:statement.author}}></span>
+                        <span className="statement-author" dangerouslySetInnerHTML={{ __html: statement.author }}></span>
                     </div>
                 </div>
             </Slide>
@@ -206,12 +206,21 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                             </div>
                         </div>
                     }
+
+                    {data.frontmatter.title.includes("Digitale Kompetenzen") &&
+                        <WhitepaperFormContainer />
+                    }
+
                     {statements.length > 0 &&
                         <div className="statements-wrapper">
+                            {data.frontmatter.title.includes("Digitale Kompetenzen") &&
+                                <h2>Autoren</h2>
+                            }
                             <div className="statements-content">
+
                                 <CarouselProvider
                                     naturalSlideWidth={100}
-                                    naturalSlideHeight={data.frontmatter.title.includes("Digitale Kompetenzen") ? 40 : 20}
+                                    naturalSlideHeight={data.frontmatter.title.includes("Digitale Kompetenzen") ? 42 : 20}
                                     totalSlides={statements.length}
                                 >
                                     <div className="back-button-wrapper">
@@ -226,10 +235,6 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                                 </CarouselProvider>
                             </div>
                         </div>
-                    }
-
-                    {data.frontmatter.title.includes("Digitale Kompetenzen") &&
-                        <WhitepaperFormContainer />
                     }
 
                     {topPosts.length > 0 &&
