@@ -124,7 +124,7 @@ export default class WhitepaperForm extends React.Component {
                             <div style={{ color: '#ed6a14' }}>
                                 {this.state.emailCheckErrorMsg}
                             </div>
-                            <button type="submit" className="button-round-blue">Abonnieren</button>
+                            <button type="submit" className="button-round-blue">Download und Abonnieren</button>
                             <div style={{ color: '#ed6a14' }}>
                                 {this.state.serverError}
                             </div>

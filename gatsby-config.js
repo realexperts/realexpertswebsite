@@ -24,12 +24,6 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-transformer-json',
     {
-      resolve: `gatsby-plugin-styled-components`,
-      options: {
-        // Add any options here
-      },
-    },
-    {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
           endpoint: 'https://realexperts.us10.list-manage.com/subscribe/post?u=0765846df347ef60fe0336bdf&id=b40890bf31', // string; add your MC list endpoint here; see instructions below

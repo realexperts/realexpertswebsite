@@ -24,7 +24,7 @@ const TemplateWrapper = ({children, noHeader}) => {
       <main>
         {children}
       </main>
-      {((path.indexOf("kontakt") === -1) && (path.indexOf("whitepaper") === -1)) &&
+      {//((path.indexOf("kontakt") === -1) && (path.indexOf("whitepaper") === -1)) &&
         <FooterNewsletterForm/>
       }
       <FooterLinks/>
