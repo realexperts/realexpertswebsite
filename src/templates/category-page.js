@@ -18,33 +18,41 @@ import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
 
-export const CategoryPageTemplate = ({data, settings}) => {
+import WhitepaperFormContainer from '../components/WhitepaperFormContainer'
+
+export const CategoryPageTemplate = ({ data, settings }) => {
 
     const thesisElements = data.frontmatter.thesis.map((thesisElement, key) => (
         <div key={key} className={`thesis ${thesisElement.highlighted ? 'highlighted' : 'normal'}`}>
             <h3>{thesisElement.headline}</h3>
-            <p>{thesisElement.body}</p>
+            <div dangerouslySetInnerHTML={{
+                __html:
+                    remark()
+                        .use(recommended)
+                        .use(remarkHtml)
+                        .processSync(thesisElement.body).toString()
+            }}></div>
         </div>
     ));
 
     let infoBoxBody = "";
-    if(data.frontmatter.infoBox){
-      infoBoxBody = remark()
-      .use(recommended)
-      .use(remarkHtml)
-      .processSync(data.frontmatter.infoBox.body).toString();
+    if (data.frontmatter.infoBox) {
+        infoBoxBody = remark()
+            .use(recommended)
+            .use(remarkHtml)
+            .processSync(data.frontmatter.infoBox.body).toString();
     }
 
     let successStories = [];
     if (data.fields.successStories) {
         successStories = data.fields.successStories.map((successStory, key) => (
             <Slide index={key} key={key} className="success-story">
-              <Link to={successStory.fields.slug}>
-                <Img fluid={data.fields.successStoriesImages[key].childImageSharp.fluid}/>
-              </Link>
-              <Link to={successStory.fields.slug}>
-                <h4>{data.frontmatter.successStories[key].customerName}</h4>
-              </Link>
+                <Link to={successStory.fields.slug}>
+                    <Img fluid={data.fields.successStoriesImages[key].childImageSharp.fluid} />
+                </Link>
+                <Link to={successStory.fields.slug}>
+                    <h4>{data.frontmatter.successStories[key].customerName}</h4>
+                </Link>
             </Slide>
         ));
     }
@@ -52,18 +60,26 @@ export const CategoryPageTemplate = ({data, settings}) => {
     let statements = [];
     if (data.frontmatter.statements) {
         statements = data.frontmatter.statements.map((statement, key) => (
-          <Slide index={key} key={key}>
-              <div className="statement">
-                <div className="statement-image">
-                  <Img fluid={data.fields.statementsImages[key].childImageSharp.fluid}
-                       imgStyle={{ objectFit: 'contain' }}/>
+            <Slide index={key} key={key}>
+                <div className="statement">
+                    <div className="statement-image">
+                        <Img fluid={data.fields.statementsImages[key].childImageSharp.fluid}
+                            imgStyle={{ objectFit: 'contain' }} />
+                    </div>
+                    <div className="statement-message">
+                        <span className="statement-text">
+                            <span dangerouslySetInnerHTML={{
+                                __html: remark()
+                                    .use(recommended)
+                                    .use(remarkHtml)
+                                    .processSync(("\"" + statement.body + "\"")).toString()
+                            }}>
+                            </span>
+                        </span>
+                        <span className="statement-author" dangerouslySetInnerHTML={{ __html: statement.author }}></span>
+                    </div>
                 </div>
-                <div className="statement-message">
-                  <span className="statement-text">„{statement.body}“</span>
-                  <span className="statement-author">{statement.author}</span>
-                </div>
-              </div>
-          </Slide>
+            </Slide>
         ));
     }
 
@@ -71,43 +87,44 @@ export const CategoryPageTemplate = ({data, settings}) => {
     let topPosts = [];
     if (data.fields.relatedPosts) {
         topPosts = data.fields.relatedPosts.slice(0, 3).map((post) => (
-            <BlogPostTeaser key={post.id} type='top' post={post}/>
+            <BlogPostTeaser key={post.id} type='top' post={post} />
         ));
     }
 
     const seoTags =
-    <SEO isBlogPost={false} postData={{
-      excerpt: data.frontmatter.description,
-      frontmatter: data.frontmatter,
-      slug: data.fields.slug,
-    }} postImage={settings.global.url+data.frontmatter.headerImage.childImageSharp.fluid.src}/>;
+        <SEO isBlogPost={false} postData={{
+            excerpt: data.frontmatter.description,
+            frontmatter: data.frontmatter,
+            slug: data.fields.slug,
+        }} postImage={settings.global.url + data.frontmatter.headerImage.childImageSharp.fluid.src} />;
 
 
-  let numSlides = 4;
-  if (typeof window !== `undefined`) {
-    if (window.innerWidth > 768) {
-      numSlides = 4
-    } else if (window.innerWidth > 480) {
-      numSlides = 3
-    } else {
-      numSlides = 1
+    let numSlides = 4;
+    if (typeof window !== `undefined`) {
+        if (window.innerWidth > 768) {
+            numSlides = 4
+        } else if (window.innerWidth > 480) {
+            numSlides = 3
+        } else {
+            numSlides = 1
+        }
     }
-  }
 
+    console.log(statements);
 
-  return (
+    return (
         <Layout>
             <section className='category' lang="de">
                 {seoTags}
                 <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
-                    {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
-                ]}/>
+                    { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
+                ]} />
                 <div className="hero">
                     <BackgroundImage Tag="div"
-                                     style={{
-                                         backgroundPosition: 'top left',
-                                     }}
-                                     fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
+                        style={{
+                            backgroundPosition: 'top left',
+                        }}
+                        fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
                         <div className="claim">
                             <h3>{data.frontmatter.title}</h3>
                             <h1>{data.frontmatter.contentTitle}</h1>
@@ -119,103 +136,117 @@ export const CategoryPageTemplate = ({data, settings}) => {
                     <div className="content-block-wrapper">
                         {thesisElements}
                     </div>
-
-                    <div className="featured-video-wrapper category-video-wrapper">
-                        <div className='featured-video'>
-                            <div style={{
-                                position: 'relative',
-                                paddingTop: '56.25%',
-                            }}>
-                                <ReactPlayer url={data.frontmatter.video}
-                                             width='100%'
-                                             height='100%'
-                                             style={{
+                    {!(successStories.length == 0 && data.frontmatter.video == null) &&
+                        <div className="featured-video-wrapper category-video-wrapper">
+                            {data.frontmatter.video != null &&
+                                <div className='featured-video'>
+                                    <div style={{
+                                        position: 'relative',
+                                        paddingTop: '56.25%',
+                                    }}>
+                                        <ReactPlayer url={data.frontmatter.video}
+                                            width='100%'
+                                            height='100%'
+                                            style={{
                                                 position: 'absolute',
                                                 top: '0',
                                                 left: '0',
-                                             }}
-                                             config={{
-                                                 youtube: {
-                                                     embedOptions: {
-                                                         host: 'https://www.youtube-nocookie.com',
-                                                     },
-                                                     preload: true
-                                                 }
-                                             }}
-                                             />
+                                            }}
+                                            config={{
+                                                youtube: {
+                                                    embedOptions: {
+                                                        host: 'https://www.youtube-nocookie.com',
+                                                    },
+                                                    preload: true
+                                                }
+                                            }}
+                                        />
+                                    </div>
+                                </div>
+                            }
+
+
+                            {successStories.length > 0 &&
+                                <div className="success-stories-wrapper">
+                                    <h2>{data.frontmatter.successStoriesTitle}</h2>
+                                    <div className="success-stories">
+                                        <CarouselProvider
+                                            naturalSlideWidth={400}
+                                            naturalSlideHeight={300}
+                                            totalSlides={successStories.length}
+                                            visibleSlides={numSlides}
+                                        >
+                                            <div className="back-button-wrapper">
+                                                <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
+                                            </div>
+                                            <Slider>
+                                                {successStories}
+                                            </Slider>
+                                            <div className="next-button-wrapper">
+                                                <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
+                                            </div>
+                                        </CarouselProvider>
+
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    }
+                    {(successStories.length == 0 && data.frontmatter.video == null) && <div style={{ marginTop: '65px' }}></div>}
+                    {data.frontmatter.infoBox.headline != null && data.frontmatter.infoBox.headline.length > 0 &&
+                        <div className="category-info-box-wrapper">
+                            <div className="category-info-box">
+                                <div className="info-box-content">
+                                    <h2>{data.frontmatter.infoBox.headline}</h2>
+                                    <div dangerouslySetInnerHTML={{ __html: infoBoxBody }}></div>
+                                </div>
+                                <div className="info-box-image">
+                                    <Img fluid={data.fields.infoBoxImage.childImageSharp.fluid} />
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    {data.frontmatter.title.includes("Digitale Kompetenzen") &&
+                        <WhitepaperFormContainer />
+                    }
+
+                    {statements.length > 0 &&
+                        <div className="statements-wrapper">
+                            {data.frontmatter.title.includes("Digitale Kompetenzen") &&
+                                <h2>Autoren</h2>
+                            }
+                            <div className="statements-content">
+
+                                <CarouselProvider
+                                    naturalSlideWidth={100}
+                                    naturalSlideHeight={data.frontmatter.title.includes("Digitale Kompetenzen") ? 42 : 20}
+                                    totalSlides={statements.length}
+                                >
+                                    <div className="back-button-wrapper">
+                                        <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
+                                    </div>
+                                    <Slider>
+                                        {statements}
+                                    </Slider>
+                                    <div className="next-button-wrapper">
+                                        <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
+                                    </div>
+                                </CarouselProvider>
+                            </div>
+                        </div>
+                    }
+
+                    {topPosts.length > 0 &&
+
+                        <div className="posts">
+                            <h2>Top Beiträge</h2>
+                            <div className="top-posts">
+                                {topPosts}
                             </div>
                         </div>
 
-                        { successStories.length > 0 &&
-                        <div className="success-stories-wrapper">
-                          <h2>{data.frontmatter.successStoriesTitle}</h2>
-                          <div className="success-stories">
-                            <CarouselProvider
-                              naturalSlideWidth={400}
-                              naturalSlideHeight={300}
-                              totalSlides={successStories.length}
-                              visibleSlides={numSlides}
-                            >
-                              <div className="back-button-wrapper">
-                                <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
-                              </div>
-                              <Slider>
-                                {successStories}
-                              </Slider>
-                              <div className="next-button-wrapper">
-                                <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
-                              </div>
-                            </CarouselProvider>
-
-                          </div>
-                        </div>
-                        }
-                    </div>
-                    {data.frontmatter.infoBox.headline != null && data.frontmatter.infoBox.headline.length > 0 &&
-                    <div className="category-info-box-wrapper">
-                      <div className="category-info-box">
-                        <div className="info-box-content">
-                          <h2>{data.frontmatter.infoBox.headline}</h2>
-                          <div dangerouslySetInnerHTML={{__html: infoBoxBody}}></div>
-                        </div>
-                        <div className="info-box-image">
-                          <Img fluid={data.fields.infoBoxImage.childImageSharp.fluid}/>
-                        </div>
-                      </div>
-                    </div>
                     }
-                  { statements.length > 0 &&
-                    <div className="statements-wrapper">
-                        <div className="statements-content">
-                            <CarouselProvider
-                              naturalSlideWidth={100}
-                              naturalSlideHeight={20}
-                              totalSlides={statements.length}
-                            >
-                                <div className="back-button-wrapper">
-                                    <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
-                                </div>
-                                <Slider>
-                                    {statements}
-                                </Slider>
-                                <div className="next-button-wrapper">
-                                    <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
-                                </div>
-                            </CarouselProvider>
-                        </div>
-                    </div>
-                  }
-
-                  {topPosts.length > 0 &&
-
-                  <div className="posts">
-                    <h2>Top Beiträge</h2>
-                    <div className="top-posts">
-                      {topPosts}
-                    </div>
-                  </div>
-
-                  }
                 </div>
             </section>
         </Layout>
@@ -239,14 +270,14 @@ CategoryPageTemplate.propTypes = {
     relatedPosts: PropTypes.arrayOf(PropTypes.object),
 };
 
-const CategoryPage = ({data}) => {
+const CategoryPage = ({ data }) => {
     const {
         settings,
         markdownRemark: post
     } = data;
 
     return (
-        <CategoryPageTemplate contentComponent={HTMLContent} data={post} settings={settings}/>
+        <CategoryPageTemplate contentComponent={HTMLContent} data={post} settings={settings} />
     );
 };
 
