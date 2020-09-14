@@ -5,7 +5,7 @@ const FooterNewsletterForm = () => {
 
   return (
     <div className="contact-form-footer">
-      <div className="contact-form-footer-content">
+      <div className="contact-form-footer-content" style={{background: 'white'}}>
         <section className="section">
           <div className="contact-content">
             <div className="contact-information">
