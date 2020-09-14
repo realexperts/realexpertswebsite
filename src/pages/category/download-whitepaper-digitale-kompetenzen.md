@@ -8,7 +8,7 @@ description: Digitale Kompetenzen sind in einer sich ständig ändernden, global
   und digitalen Welt unerlässlich. Oft fragen sich Unternehmen, wie sie es
   schaffen, ihren Mitarbeitern alle notwendigen digitalen Kompetenzen so zu
   vermitteln, dass diese schnell und performant im Arbeitsalltag umgesetzt
-  werden können.
+  werden können
 thumbnail: /img/whitepaper-digitale-kompetenzen_thumbnail.png
 thesis:
   - highlighted: false
