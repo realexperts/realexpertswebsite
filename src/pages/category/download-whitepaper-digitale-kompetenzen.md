@@ -32,7 +32,7 @@ thesis:
 
 
       </ul>
-video: " "
+video: https://www.youtube.com/watch?v=NpEaa2P7qZI
 successStoriesTitle: Erfolgsgeschichten
 infoBox:
   body: Dieser Beitrag beschreibt das Modell der digitalen Kompetenzaneignung von
@@ -66,4 +66,8 @@ statements:
       geeigneter Maßnahmen. Zusätzlich dazu kennt sich die studierte
       Wirtschaftsinformatikerin mit diversen Themen rund um die Aneignung von
       Wissen z.B. im Bereich Social Learning oder Working Out Loud.
+relatedPosts:
+  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
+  - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
+  - post: Der Weg zum wirksamen Digital Workplace
 ---
