@@ -136,9 +136,9 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                     <div className="content-block-wrapper">
                         {thesisElements}
                     </div>
-                    {!(successStories.length == 0 && data.frontmatter.video == null) &&
+                    {!(successStories.length == 0 && (data.frontmatter.video == null || data.frontmatter.video.length < 3)) &&
                         <div className="featured-video-wrapper category-video-wrapper">
-                            {data.frontmatter.video != null &&
+                            {(data.frontmatter.video != null && data.frontmatter.video.length > 3) &&
                                 <div className='featured-video'>
                                     <div style={{
                                         position: 'relative',
@@ -192,7 +192,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                             }
                         </div>
                     }
-                    {(successStories.length == 0 && data.frontmatter.video == null) && <div style={{ marginTop: '65px' }}></div>}
+                    {(successStories.length == 0 && (data.frontmatter.video == null || data.frontmatter.video.length < 3)) && <div style={{ marginTop: '65px' }}></div>}
                     {data.frontmatter.infoBox.headline != null && data.frontmatter.infoBox.headline.length > 0 &&
                         <div className="category-info-box-wrapper">
                             <div className="category-info-box">
