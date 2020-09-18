@@ -1,6 +1,6 @@
 ---
 templateKey: category-page
-title: "DOWNLOAD Whitepaper: Digitale Kompetenzen"
+title: "Whitepaper: Digitale Kompetenzen"
 contentTitle: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren
   durch den Einsatz eines Social Intranets"
 headerImage: /img/whitepaper-digitale-kompetenzen_header.png
@@ -67,7 +67,8 @@ statements:
       Wirtschaftsinformatikerin mit diversen Themen rund um die Aneignung von
       Wissen z.B. im Bereich Social Learning oder Working Out Loud.
 relatedPosts:
+  - post: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren durch
+      den Einsatz eines Social Intranets"
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
-  - post: Der Weg zum wirksamen Digital Workplace
 ---
