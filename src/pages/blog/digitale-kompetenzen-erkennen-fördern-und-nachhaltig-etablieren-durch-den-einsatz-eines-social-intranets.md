@@ -11,9 +11,9 @@ description: >-
    Oft fragen sich Unternehmen, wie sie es schaffen ihren Mitarbeitern alle notwendigen
    digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag
    umgesetzt werden können.
-category: Digitaler Arbeitsplatz
+category: "Whitepaper: Digitale Kompetenzen"
 tags:
-  - Digitaler Workplace
+  - Digitale Kompetenzen
 relatedPosts:
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
