@@ -15,23 +15,16 @@ thesis:
     body: Unternehmen und Einzelpersonen, die verstärkt digitale Kompetenzen fördern
       wollen und/oder sich mit der Einführung digitaler Kompetenzen innerhalb
       eines Social Intranets Projekts beschäftigen.
-    headline: Zielgruppe
+    headline: "Für diese Zielgruppe ist das Whitepaper:"
   - highlighted: false
     headline: "Nach dem Lesen des Papers werden Sie:"
     body: >-
-      <ul>
+      * Verstehen, welchen Weg Sie gehen sollten, um digitale Kompetenzen zu
+      erkennen.
 
+      * Lernen, wie diese bestmöglich im Unternehmen eingeführt werden können.
 
-      <li>Verstehen, welchen Weg Sie gehen sollten, um digitale Kompetenzen zu erkennen.</li>
-
-
-      <li>Lernen, wie diese bestmöglich im Unternehmen eingeführt werden können</li>
-
-
-      <li>Wissen, wie ein Social Intranet maßgeblich dazu beitragen kann digitale Kompetenzen zu fördern.</li>
-
-
-      </ul>
+      * Wissen, wie ein Social Intranet maßgeblich dazu beitragen kann digitale Kompetenzen zu fördern.
 video: https://www.youtube.com/watch?v=NpEaa2P7qZI
 successStoriesTitle: Erfolgsgeschichten
 infoBox:
