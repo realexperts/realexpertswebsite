@@ -122,7 +122,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                 <div className="hero">
                     <BackgroundImage Tag="div"
                         style={{
-                            backgroundPosition: 'top left',
+                            backgroundPosition: 'center left',
                         }}
                         fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
                         <div className="claim">

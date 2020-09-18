@@ -17,11 +17,11 @@ export default class WhitepaperForm extends React.Component {
         };
     }
 
-    _handleCheckboxChange () {
-        if (this.state.showCheckError && !this.state.checked){
+    _handleCheckboxChange() {
+        if (this.state.showCheckError && !this.state.checked) {
             this._resetCheckError();
         }
-        this.setState({checked: !this.state.checked});
+        this.setState({ checked: !this.state.checked });
     }
 
     _showCheckError(text) {
@@ -38,34 +38,34 @@ export default class WhitepaperForm extends React.Component {
         });
     }
 
-    _showServorErrorMsg(){
+    _showServorErrorMsg() {
         this.setState({
             serverError: 'Keine Verbindung mit dem Server möglich. Bitte zu einem anderen Zeitpunkt erneut probieren.',
             showServerError: true
         });
     }
 
-    _resetCheckError(){
+    _resetCheckError() {
         this.setState({
             showCheckError: false,
             emailCheckErrorMsg: ''
         });
     }
 
-    _resetMailchimpMessage(){
-        if (this.state.showMailchimpError || this.state.showSuccess){
+    _resetMailchimpMessage() {
+        if (this.state.showMailchimpError || this.state.showSuccess) {
             this.setState({
                 showMailchimpError: false,
                 emailMailchimpErrorMsg: '',
                 showSuccess: false,
                 emailSuccessMsg: ''
             });
-        } 
+        }
     }
 
-    _resetServerError(){
+    _resetServerError() {
         //console.log('reset');
-        if (this.state.showServerError){
+        if (this.state.showServerError) {
             this.setState({
                 serverError: '',
                 showServerError: false
@@ -73,7 +73,7 @@ export default class WhitepaperForm extends React.Component {
         }
     }
 
-    _showSuccessMessage(text){
+    _showSuccessMessage(text) {
         this.setState({
             showSuccess: true,
             emailSuccessMsg: text
@@ -84,19 +84,19 @@ export default class WhitepaperForm extends React.Component {
         this._resetServerError();
         this._resetMailchimpMessage();
         e.preventDefault();
-        if (this.state.checked){
-            addToMailchimp(this.refs.emailItem.value, {'group[19049][1]': '1'}) 
-            .then(data => {
-                if (data.result === 'error') {
-                    this._showMailchimpError(data.msg);
-                }else{
-                    this._showSuccessMessage(data.msg);
-                }
-            })
-            .catch(() => {
-                this._showServorErrorMsg();
-            })
-        }else{
+        if (this.state.checked) {
+            addToMailchimp(this.refs.emailItem.value, { 'group[19049][1]': '1' })
+                .then(data => {
+                    if (data.result === 'error') {
+                        this._showMailchimpError(data.msg);
+                    } else {
+                        this._showSuccessMessage(data.msg);
+                    }
+                })
+                .catch(() => {
+                    this._showServorErrorMsg();
+                })
+        } else {
             this._showCheckError('Bitte bestätigen sie die Bedingungen.');
         }
     }
@@ -105,20 +105,23 @@ export default class WhitepaperForm extends React.Component {
         return (
             <div className="contact-form">
                 <div className="contact-form-wrapper">
-                    <div className="contact-form-name" style={{width: '100%'}}>
+                    <div className="contact-form-name" style={{ width: '100%' }}>
                         <form onSubmit={this._handleSubmit}>
-                            <h3 style={{marginTop: '-10px'}} >Download Whitepaper: Digitale Kompetenz</h3>
+                            <h3 style={{ marginTop: '-10px' }} >Download Whitepaper: Digitale Kompetenz</h3>
+                            <div className="contact-content-text" style={{marginBottom: '5px'}}>
+                                Nach Angabe Ihrer E-Mail Adresse bekommen Sie das Whitepaper zugeschickt. Außerdem werden Sie für unseren Newsletter eingetragen, aus dem Sie sich über den entsprechenden Link in den Newsletter E-Mails jederzeit abmelden können.
+                            </div>
                             <input
-                                style={{width: '70%'}}
+                                style={{ width: '70%' }}
                                 placeholder="E-Mail Addresse"
                                 name="email"
                                 ref="emailItem"
                                 type="text"
                                 onChange={this._resetMailchimpMessage.bind(this)}
                             />
-                            <div style={{color: '#ed6a14'}} dangerouslySetInnerHTML={{__html: this.state.emailMailchimpErrorMsg}} />
-                            <div style={{width: '100%'}} style={{display: 'flex', paddingTop: '10px',  alignItems: 'flex-start'}}>
-                                <input onChange={this._handleCheckboxChange.bind(this)} style={{width: '80px'}} id={this.id} type="checkbox" autocomplete="off" />
+                            <div style={{ color: '#ed6a14' }} dangerouslySetInnerHTML={{ __html: this.state.emailMailchimpErrorMsg }} />
+                            <div style={{ width: '100%' }} style={{ display: 'flex', paddingTop: '10px', alignItems: 'flex-start' }}>
+                                <input onChange={this._handleCheckboxChange.bind(this)} style={{ width: '80px' }} id={this.id} type="checkbox" autocomplete="off" />
                                 <label htmlFor={this.id}>Mit Ihrer Kontaktaufnahme stimmen Sie den Datenschutzbestimmungen dieser Website nach EU-DSGVO zu und, dass Sie von Real Experts Network GmbH Marketingmaterialien per E-Mail erhalten, die nach Ansicht von Real Experts Network GmbH zu Ihrer Anfrage passen.</label>
                             </div>
                             <div style={{ color: '#ed6a14' }}>

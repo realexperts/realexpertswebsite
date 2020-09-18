@@ -40,7 +40,7 @@ statements:
   - author: Christoph Rauhut
     image: /img/christoph-rauhut-rund.png
     body: <a target="_blank" rel="noopener noreferrer"
-      href="https://www.linkedin.com/in/crauhut/">Christoph Rauhut 🡕</a>,
+      href="https://www.linkedin.com/in/crauhut/">Christoph Rauhut &#8599</a>,
       Initiator und Gründer von Real Experts ist nicht nur Geschäftsführer,
       sondern vor allem Berater rund um die Themen der Digitalisierung. Zusammen
       mit seinem Netzwerk aus verschieden Firmen berät er seine Kunden
@@ -52,7 +52,7 @@ statements:
   - author: Sandra Brückner
     image: /img/sandra-brueckner-rund.png
     body: <a target="_blank" rel="noopener noreferrer"
-      href="https://www.linkedin.com/in/sandrabrueckner/">Sandra Brückner 🡕</a>
+      href="https://www.linkedin.com/in/sandrabrueckner/">Sandra Brückner &#8599</a>
       ist Berater für Digitalisierung insb. für die Einführung von sozialen
       Netzwerken. Auf Basis verschiedener Anwendungsfälle berät sie ihre Kunden
       von ersten konzeptionellen Workshops bis hin zur Umsetzung und Nachhaltung
