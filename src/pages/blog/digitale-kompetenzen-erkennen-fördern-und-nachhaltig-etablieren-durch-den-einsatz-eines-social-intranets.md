@@ -11,9 +11,9 @@ description: >-
    Oft fragen sich Unternehmen, wie sie es schaffen ihren Mitarbeitern alle notwendigen
    digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag
    umgesetzt werden können.
-category: Digitaler Arbeitsplatz
+category: "Whitepaper: Digitale Kompetenzen"
 tags:
-  - Digitaler Workplace
+  - Digitale Kompetenzen
 relatedPosts:
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
@@ -46,10 +46,8 @@ Untersuchungen haben gezeigt, wie wichtig dieses Thema für Unternehmen verschie
 Eine Pauschalantwort, welche digitalen Kompetenzen dies für deutsche Unternehmen sind, gibt es nicht. Sicherlich existieren Kompetenzen, die umfassend und auf mehrere oder sogar alle Industrien anwendbar sind (z.B. die Nutzung moderner Kommunikations- und Zusammenarbeitswerkzeuge) aber eine ebenso große Rolle spielen stets individuelle Kompetenzen. Somit muss ein Unternehmen Fragen beantworten können: 
 
 1. Welche digitalen Kompetenzen sind in meinem Marktumfeld essenziell bzw. welche digitalen Kompetenzen bringen mich vor meine Mitbewerber?
-
-   Wie verankere ich diese Kompetenzen bei unseren Mitarbeitern?
-
-   Welche digitalen Kompetenzen muss ich als Arbeitgeber anbieten, um attraktiv zu sein/bleiben?
+2. Wie verankere ich diese Kompetenzen bei unseren Mitarbeitern?
+3. Welche digitalen Kompetenzen muss ich als Arbeitgeber anbieten, um attraktiv zu sein/bleiben?
 
 Um wettbewerbsfähig zu bleiben müssen Unternehmen eine Antwort auf diese Fragen haben bzw. finden und deren Antworten fest in der (digitalen) Unternehmensstrategie verankern. 
 
