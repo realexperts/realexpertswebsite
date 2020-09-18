@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren durch
   den Einsatz eines Social Intranets"
 date: 2020-09-18T06:22:39.870Z
-author: Christoph Rauhut
+author: Sandra Brückner
 image: /img/digitale-kompetenz-whitepaper.png
 description: >-
   Digitale Kompetenzen sind in einer sich ständig ändernden, globalen und
