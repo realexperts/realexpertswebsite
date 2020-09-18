@@ -60,8 +60,7 @@ statements:
       Wirtschaftsinformatikerin mit diversen Themen rund um die Aneignung von
       Wissen z.B. im Bereich Social Learning oder Working Out Loud.
 relatedPosts:
-  - post: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren durch
-      den Einsatz eines Social Intranets"
+  - post: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren"
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
 ---
