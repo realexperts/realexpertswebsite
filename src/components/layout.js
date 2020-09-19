@@ -9,12 +9,13 @@ import CookieConsent from 'react-cookie-consent';
 import 'typeface-open-sans';
 import 'typeface-changa';
 import '../layouts/all.scss';
-import FooterContactForm from '../components/FooterContactForm';
 import FooterLinks from './FooterLinks';
 import { globalHistory } from "@reach/router"
+import FooterNewsletterForm from './FooterNewsletterForm';
 
 const TemplateWrapper = ({children, noHeader}) => {
   const path = globalHistory.location.pathname;
+  console.log(path);
 
   return (
     <div className={noHeader ? "content no-header" : "content"}>
@@ -23,8 +24,8 @@ const TemplateWrapper = ({children, noHeader}) => {
       <main>
         {children}
       </main>
-      {path.indexOf("kontakt") === -1 &&
-        <FooterContactForm/>
+      {//((path.indexOf("kontakt") === -1) && (path.indexOf("whitepaper") === -1)) &&
+        <FooterNewsletterForm/>
       }
       <FooterLinks/>
       <Footer/>
