@@ -25,7 +25,7 @@ thesis:
       * Lernen, wie diese bestmöglich im Unternehmen eingeführt werden können.
 
       * Wissen, wie ein Social Intranet maßgeblich dazu beitragen kann digitale Kompetenzen zu fördern.
-video: https://www.youtube.com/watch?v=NpEaa2P7qZI
+video: https://www.youtube.com/watch?v=CIeg1rRGL3k
 successStoriesTitle: Erfolgsgeschichten
 infoBox:
   body: Dieser Beitrag beschreibt das Modell der digitalen Kompetenzaneignung von
@@ -52,11 +52,11 @@ statements:
   - author: Sandra Brückner
     image: /img/sandra-brueckner-rund.png
     body: <a target="_blank" rel="noopener noreferrer"
-      href="https://www.linkedin.com/in/sandrabrueckner/">Sandra Brückner &#8599</a>
-      ist Berater für Digitalisierung insb. für die Einführung von sozialen
-      Netzwerken. Auf Basis verschiedener Anwendungsfälle berät sie ihre Kunden
-      von ersten konzeptionellen Workshops bis hin zur Umsetzung und Nachhaltung
-      geeigneter Maßnahmen. Zusätzlich dazu kennt sich die studierte
+      href="https://www.linkedin.com/in/sandrabrueckner/">Sandra Brückner
+      &#8599</a> ist Berater für Digitalisierung insb. für die Einführung von
+      sozialen Netzwerken. Auf Basis verschiedener Anwendungsfälle berät sie
+      ihre Kunden von ersten konzeptionellen Workshops bis hin zur Umsetzung und
+      Nachhaltung geeigneter Maßnahmen. Zusätzlich dazu kennt sich die studierte
       Wirtschaftsinformatikerin mit diversen Themen rund um die Aneignung von
       Wissen z.B. im Bereich Social Learning oder Working Out Loud.
 relatedPosts:
