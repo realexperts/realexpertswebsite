@@ -176,3 +176,13 @@ In jeder Newsletter E-Mail ist ein sogenanter “web-beacon” enthalten. Dabei 
 Des Weiteren wird festgestellt, ob und wann die Newsletter E-Mails geöffnet werden und welche Links geklickt werden. Aus technischen Gründen ist zwar die Zuordnung von einzelnen Newsletterempfängern möglich. Es ist jedoch weder von uns oder von Mailchimp das Bestreben, einzelne Nutzer zu beobachten. Die Statistik dient für uns dazu, Lesegewohnheiten zu erkennen und unsere Inhalte anzupassen.
 
 Die Datenschutzbestimmungen von MailChimp finden Sie hier:<https://mailchimp.com/legal/privacy>
+
+### Podigee Podcast-Hosting
+
+Wir nutzen den Podcast-Hosting-Dienst Podigee des Anbieters Podigee GmbH, Ritterstraße 2A, 10969 Berlin, Deutschland. Die Podcasts werden dabei von Podigee geladen oder über Podigee übertragen.
+
+Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Optimierung unseres Podcastangebotes gem. Art. 6 Abs. 1 lit. f. DSGVO. 
+
+Podigee verarbeitet IP-Adressen und Geräteinformationen, um Podcast-Downloads/Wiedergaben zu ermöglichen und statistische Daten, wie z.B. Abrufzahlen zu ermitteln. Diese Daten werden vor der Speicherung in der Datenbank von Podigee anonymisiert oder pseudonymisiert, sofern Sie für die Bereitstellung der Podcasts nicht erforderlich sind.
+
+Weitere Informationen und Widerspruchsmöglichkeiten finden sich in der Datenschutzerklärung von Podigee:  <https://www.podigee.com/de/about/privacy/>. 
