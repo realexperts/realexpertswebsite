@@ -12,6 +12,10 @@
     {
       "title": "Datenschutzerklärung",
       "url": "datenschutz"
+    },
+    {
+      "title": "Stellenangebote",
+      "url": "/jobs"
     }
   ]
 }
