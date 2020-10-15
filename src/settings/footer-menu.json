@@ -2,6 +2,10 @@
   "id": "footer-menu-settings",
   "footerMenu": [
     {
+      "title": "Stellenangebote",
+      "url": "/jobs"
+    },
+    {
       "title": "Kontakt",
       "url": "/kontakt"
     },
@@ -12,10 +16,6 @@
     {
       "title": "Datenschutzerklärung",
       "url": "datenschutz"
-    },
-    {
-      "title": "Stellenangebote",
-      "url": "/jobs"
     }
   ]
 }
