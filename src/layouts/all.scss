@@ -1199,6 +1199,46 @@ a.more {
 
 }
 
+a.download-button {
+  -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    margin: auto;
+
+    padding: 10px 0;
+    background-size: 100% 200%;
+    background-image: linear-gradient(to bottom, #ed6a14 50%, $primary 50%);
+    //margin-left: -160px;
+    //margin-right: -160px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+
+    height: 70px;
+
+    width: 300px;
+
+    z-index: 3;
+
+    text-align: center;
+    font-family: 'Changa', sans-serif;
+    font-size: xx-large;
+    color: white;
+
+    transition: 0.3s ease-out;
+
+    box-shadow: 10px 10px 10px #595959;
+}
+
+a.download-button:hover{
+  border-radius: 10px;
+  color: white;
+  background-position: 0 -100%;
+  box-shadow: 0 0 10px #595959;
+  width: 400px;
+}
+
 .contact-form-footer {
 
   max-width: 1920px;

@@ -18,8 +18,6 @@ import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
 
-import WhitepaperFormContainer from '../components/WhitepaperFormContainer'
-
 export const CategoryPageTemplate = ({ data, settings }) => {
 
     const thesisElements = data.frontmatter.thesis.map((thesisElement, key) => (
@@ -208,7 +206,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                     }
 
                     {data.frontmatter.title.includes("Digitale Kompetenzen") &&
-                        <WhitepaperFormContainer />
+                        <a href={`/downloads/Real_Experts_Whitepaper_Digitale_Kompetenzen.pdf`} download className="download-button">Download &dArr;</a>
                     }
 
                     {statements.length > 0 &&
