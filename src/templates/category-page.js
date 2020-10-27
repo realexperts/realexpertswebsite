@@ -209,16 +209,20 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                         <a href={`/downloads/Real_Experts_Whitepaper_Digitale_Kompetenzen.pdf`} download className="download-button">Download &dArr;</a>
                     }
 
+                    {data.frontmatter.title.includes("Digitalstrategie") &&
+                        <a className="download-button">Bald verfügbar</a>
+                    }
+
                     {statements.length > 0 &&
                         <div className="statements-wrapper">
-                            {data.frontmatter.title.includes("Digitale Kompetenzen") &&
+                            {data.frontmatter.title.includes("Whitepaper") &&
                                 <h2>Autoren</h2>
                             }
                             <div className="statements-content">
 
                                 <CarouselProvider
                                     naturalSlideWidth={100}
-                                    naturalSlideHeight={data.frontmatter.title.includes("Digitale Kompetenzen") ? 42 : 20}
+                                    naturalSlideHeight={data.frontmatter.title.includes("Whitepaper") ? 42 : 20}
                                     totalSlides={statements.length}
                                 >
                                     <div className="back-button-wrapper">
