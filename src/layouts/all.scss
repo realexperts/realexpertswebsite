@@ -1206,7 +1206,7 @@ a.download-button {
 
     margin: auto;
 
-    padding: 10px 0;
+    padding: 12px 0;
     background-size: 100% 200%;
     background-image: linear-gradient(to bottom, #ed6a14 50%, $primary 50%);
     //margin-left: -160px;
@@ -1232,11 +1232,10 @@ a.download-button {
 }
 
 a.download-button:hover{
-  border-radius: 10px;
+  border-radius: 0px;
   color: white;
   background-position: 0 -100%;
   box-shadow: 0 0 10px #595959;
-  width: 400px;
 }
 
 .contact-form-footer {
