@@ -36,7 +36,7 @@ infoBox:
     sowohl praktische Umsetzungsbeispiele gegeben, als auch Rahmenbedingungen
     für den Einsatz aufgezeigt.
   image: /img/whitepaper-digitale-kompetenzen-fertig-klein.png
-whitepaperFile: /whitepaper/real-experts-whitepaper-digitale-kompetenzen.pdf
+whitepaperFile: /img/real-experts_whitepaper_digitale-kompetenzen.pdf
 authors:
   - name: Christoph Rauhut
     body: <a target="_blank" rel="noopener noreferrer"
