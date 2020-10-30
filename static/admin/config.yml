@@ -88,8 +88,10 @@ collections:
         default: ""
         required: false
         allow_multiple: false
-        media_folder: "static/whitepaper"
-        public_folder: "/whitepaper"
+        media_library:
+          config:
+            media_folder: "static/whitepaper"
+            public_folder: "/whitepaper"
       - {label: "Authors",     name: "authors",     widget: "list",   fields: [{label: "Name",      name: "name",     widget: "string"}, {label: "Image",  name: "image", widget: "image"}, {label: "Body", name: "body", widget: "markdown"}]}
       - {label: "Top Posts",      name: "relatedPosts",   widget: "list",   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: title}]}
   - name: "pages"
