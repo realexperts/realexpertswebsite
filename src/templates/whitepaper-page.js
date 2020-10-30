@@ -209,7 +209,7 @@ export const WhitepaperPageTemplate = ({ data, settings }) => {
                     {data.frontmatter.whitepaperFile.length > 0 ?
                         <a href={data.frontmatter.whitepaperFile} download className="download-button">Download &dArr;</a>
                         :
-                        <a className="download-button">Bald verfügbar</a>
+                        <a className="download-button disabled">Bald verfügbar</a>
                     }
 
                     {authors.length > 0 &&

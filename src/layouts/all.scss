@@ -1227,15 +1227,20 @@ a.download-button {
     color: white;
 
     transition: 0.3s ease-out;
-
-    box-shadow: 10px 10px 10px #595959;
+    box-shadow: 0 0 10px #595959;
+    //box-shadow: 10px 10px 10px #595959;
 }
 
 a.download-button:hover{
   border-radius: 0px;
   color: white;
   background-position: 0 -100%;
-  box-shadow: 0 0 10px #595959;
+  box-shadow: 0 0 0px #595959;
+}
+
+a.download-button.disabled {
+  pointer-events: none;
+  cursor: default;
 }
 
 .contact-form-footer {
