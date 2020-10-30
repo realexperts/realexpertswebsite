@@ -342,11 +342,25 @@ exports.onCreateNode = ({node, actions, getNode}) => {
 
     }
 
+    if (node.frontmatter.authors && node.frontmatter.authors.length > 0) {
+
+      const authorsImages = node.frontmatter.authors.map(author => {
+        return `../../../static${author.image}`
+      });
+
+      createNodeField({
+        node,
+        name: 'authorsImages',
+        value: authorsImages,
+      });
+
+    }
+
   }
 
   const {frontmatter} = node;
   if (frontmatter) {
-    const {headerImage, statements} = frontmatter;
+    const {headerImage, statements, authors} = frontmatter;
     if (headerImage) {
       if (headerImage.indexOf('/img') === 0) {
         frontmatter.headerImage = path.relative(
@@ -361,6 +375,16 @@ exports.onCreateNode = ({node, actions, getNode}) => {
           statement.image = path.relative(
             path.dirname(node.fileAbsolutePath),
             path.join(__dirname, '/static/', statement.image),
+          );
+        }
+      });
+    }
+    if(authors){
+      authors.forEach((author) => {
+        if(author.image && author.image.indexOf('/img') === 0){
+          author.image = path.relative(
+            path.dirname(node.fileAbsolutePath),
+            path.join(__dirname, '/static/', author.image),
           );
         }
       });
