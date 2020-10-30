@@ -1,1 +1,0 @@
-In this directory are going all the downloadable PDFs of the site. Uploaded through the Netlify CMS.
