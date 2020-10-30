@@ -16,7 +16,7 @@ thesis:
     body: Unternehmen und Einzelpersonen, die verstärkt digitale Kompetenzen fördern
       wollen und/oder sich mit der Einführung digitaler Kompetenzen innerhalb
       eines Social Intranets Projekts beschäftigen.
-  - highlighted: "false"
+  - highlighted: false
     headline: "Nach dem Lesen des Papers werden Sie:"
     body: >-
       * Verstehen, welchen Weg Sie gehen sollten, um digitale Kompetenzen zu
