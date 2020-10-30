@@ -114,7 +114,7 @@ export const WhitepaperPageTemplate = ({ data, settings }) => {
         <Layout>
             <section className='category' lang="de">
                 {seoTags}
-                <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
+                <Helmet title={`Whitepaper: ${data.frontmatter.title} | ${settings.global.title}`} link={[
                     { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
                 ]} />
                 <div className="hero">
@@ -124,7 +124,7 @@ export const WhitepaperPageTemplate = ({ data, settings }) => {
                         }}
                         fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
                         <div className="claim">
-                            <h3>{data.frontmatter.title}</h3>
+                            <h3>Whitepaper: {data.frontmatter.title}</h3>
                             <h1>{data.frontmatter.contentTitle}</h1>
                             <p>{data.frontmatter.description}</p>
                         </div>
