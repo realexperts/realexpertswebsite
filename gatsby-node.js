@@ -85,6 +85,20 @@ exports.sourceNodes = ({actions, getNodes, getNode}) => {
         }
       }
 
+      if (node.frontmatter.whitepaper) {
+        const postNode = allNodes.find(someNode =>
+          someNode.internal.type === 'MarkdownRemark' &&
+          someNode.frontmatter.title === node.frontmatter.whitepaper,
+        );
+        if (postNode) {
+          createNodeField({
+            node,
+            name: 'whitepaper',
+            value: postNode.id,
+          });
+        }
+      }
+
       if (node.frontmatter.categories) {
         const resolvedCategories = [];
         node.frontmatter.categories.map(category => {

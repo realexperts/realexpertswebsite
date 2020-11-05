@@ -166,6 +166,14 @@ export const frontPageQuery = graphql`
                                 title
                             }
                         }
+                        whitepaper {
+                          fields {
+                              slug
+                          }
+                          frontmatter {
+                              title
+                          }
+                      }
                     }
                     frontmatter {
                         title
