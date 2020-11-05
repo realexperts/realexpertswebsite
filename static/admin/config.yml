@@ -24,7 +24,8 @@ collections:
       - {label: "Featured Image", name: "image",        widget: "image"}
       - {label: "Description",    name: "description",  widget: "text"}
       - {label: "Body",           name: "body",         widget: "markdown"}
-      - {label: "Category",       name: "category",     widget: "relation", collection: "category", searchFields: ["titel"], valueField: "title"}
+      - {label: "Whitepaper",     name: "whitepaper",   widget: "relation", collection: "whitepaper", searchFields: ["titel"], valueField: "title", required: false}
+      - {label: "Category",       name: "category",     widget: "relation", collection: "category", searchFields: ["titel"], valueField: "title", required: false}
       - {label: "Tags",           name: "tags",         widget: "list"}
       - {label: "Related Posts",  name: "relatedPosts", widget: "list", fields: [{name: "post", label: "Post", widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: "title"}]}
   - name: "portfolio"
