@@ -235,6 +235,31 @@ exports.createPages = ({actions, graphql}) => {
         });
       });
 
+      // Create whitepaper list pages
+      const whitepapersPerPage = 6;
+      const extraWhitepapersOnStartPage = 4;
+      const whitepaperPages = pages.filter(page => page.node.frontmatter.templateKey === 'whitepaper-page');
+      const numPages2 = Math.ceil(whitepaperPages.length / whitepapersPerPage);
+
+      Array.from({length: numPages2}).forEach((_, i) => {
+
+        let numShown = i === 0 ? whitepapersPerPage - extraWhitepapersOnStartPage : whitepapersPerPage;
+        let numSkip = i === 0 ? 0 : extraWhitepapersOnStartPage + i * whitepapersPerPage;
+
+        createPage({
+          path: i === 0 ? `/whitepaper/` : `/whitepaper/${i + 1}`,
+          component: path.resolve('./src/templates/whitepaper.js'),
+          context: {
+            limit: whitepapersPerPage,
+            skip: i * whitepapersPerPage,
+            numPages2,
+            currentPage: i + 1,
+            slug: i === 0 ? `/whitepaper/` : `/whitepaper/${i + 1}`
+          },
+        });
+      });
+
+
       // Tag pages:
       let tags = [];
       // Iterate through each post, putting all found tags into `tags`

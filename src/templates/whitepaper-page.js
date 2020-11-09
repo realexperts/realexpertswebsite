@@ -124,7 +124,12 @@ export const WhitepaperPageTemplate = ({ data, settings }) => {
                         }}
                         fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
                         <div className="claim">
-                            <h3>Whitepaper: {data.frontmatter.title}</h3>
+                            <h3>     
+                                <Link to={'/whitepaper'}>
+                                   <h3 style={{display: 'inline'}}>Whitepaper</h3> 
+                                </Link>
+                                {": "+data.frontmatter.title}
+                            </h3>
                             <h1>{data.frontmatter.contentTitle}</h1>
                             <p>{data.frontmatter.description}</p>
                         </div>
@@ -214,7 +219,7 @@ export const WhitepaperPageTemplate = ({ data, settings }) => {
 
                     {authors.length > 0 &&
                         <div className="statements-wrapper">
-                                <h2>Autoren</h2>
+                            <h2>Autoren</h2>
                             <div className="statements-content">
 
                                 <CarouselProvider
