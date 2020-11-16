@@ -86,29 +86,24 @@ collections:
       - {label: "Whitepaper File",name: "whitepaperFile", widget: "file", default: "", required: false, allow_multiple: false}
       - {label: "Authors",     name: "authors",     widget: "list",   fields: [{label: "Name",      name: "name",     widget: "string"}, {label: "Image",  name: "image", widget: "image"}, {label: "Body", name: "body", widget: "markdown"}]}
       - {label: "Top Posts",      name: "relatedPosts",   widget: "list",   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: title}]}
-  - name: "references"
-    label: "References"
-    folder: "src/pages/references"
+  - name: "reference"
+    label: "Reference"
+    folder: "src/pages/reference"
     create: true
     editor:
       preview: false
     slug: "{{slug}}"
     fields:
-      - {label: "Template Key",   name: "templateKey",    widget: "hidden", default: "references-page"}
+      - {label: "Template Key",   name: "templateKey",    widget: "hidden", default: "reference-page"}
+      - {label: "Thumbnail Image",name: "thumbnail",      widget: "image"}
       - {label: "Client",         name: "client",         widget: "string"}
       - {label: "Client Logo",    name: "clientLogo",     widget: "image"}
       - {label: "Industry",       name: "industry",       widget: "string"}
       - {label: "Service",        name: "service",        widget: "string"}
       - {label: "Significant Improvement", name: "significantImprovement", widget: "string"}
-      - {label: "Description",    name: "description",    widget: "text"}
-      - {label: "Thumbnail Image",name: "thumbnail",      widget: "image"}
-      - {label: "Thesis",         name: "thesis",         widget: "list",   fields: [{label: "Headline",  name: "headline", widget: "string"}, {label: "Highlight", name: "highlighted", widget: "boolean", default: "false"}, {label: "Body", name: "body", widget: "markdown"}]}
-      - {label: "Featured video", name: "video",          widget: "string"}
-      - {label: "Success stories title",  name: "successStoriesTitle",   widget: "string", default: "Erfolgsgeschichten"}
-      - {label: "Success stories",name: "successStories", widget: "list",   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: "title"}, {label: "Name",  name: "customerName", widget: "string"}, {label: "Story Image",  name: "storyImage", widget: "image"}]}
-      - {label: "Info Box",       name: "infoBox",        widget: "object", fields: [{label: "Headline",  name: "headline", widget: "string"}, {label: "Body",  name: "body", widget: "markdown", required: false}, {label: "Image",  name: "image", widget: "image"}]}
-      - {label: "Whitepaper File",name: "whitepaperFile", widget: "file", default: "", required: false, allow_multiple: false}
-      - {label: "Authors",     name: "authors",     widget: "list",   fields: [{label: "Name",      name: "name",     widget: "string"}, {label: "Image",  name: "image", widget: "image"}, {label: "Body", name: "body", widget: "markdown"}]}
+      - {label: "Quote",          name: "quote",          widget: "object", fields: [{label: "Quote Text",  name: "quoteText", widget: "string"}, {label: "Name",  name: "name", widget: "string"}, {label: "Role",  name: "role", widget: "string"}]}
+      - {label: "Featured video", name: "featuredVideo",  widget: "string"}
+      - {label: "Essential Points", name: "essentialPoints", widget: "list",   fields: [{label: "Question",  name: "question", widget: "string"}, {label: "Answer", name: "answer", widget: "markdown"}]}
       - {label: "Top Posts",      name: "relatedPosts",   widget: "list",   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: title}]}
   - name: "pages"
     label: "Pages"

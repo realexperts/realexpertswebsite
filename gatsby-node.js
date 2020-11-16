@@ -341,6 +341,30 @@ exports.onCreateNode = ({node, actions, getNode}) => {
       }
     }
 
+    if (node.frontmatter.clientLogo) {
+      let imagePath = node.frontmatter.clientLogo;
+      if (node.frontmatter.clientLogo.startsWith('/img/')) {
+        imagePath = `../../../static${node.frontmatter.clientLogo}`;
+        createNodeField({
+          name: `clientLogo`,
+          node,
+          value: imagePath,
+        });
+      }
+    }
+
+    if (node.frontmatter.thumbnail) {
+      let imagePath = node.frontmatter.thumbnail;
+      if (node.frontmatter.thumbnail.startsWith('/img/')) {
+        imagePath = `../../../static${node.frontmatter.thumbnail}`;
+        createNodeField({
+          name: `thumbnail`,
+          node,
+          value: imagePath,
+        });
+      }
+    }
+
     if (node.frontmatter.infoBox && node.frontmatter.infoBox.image) {
       let imagePath = node.frontmatter.infoBox.image;
       if (node.frontmatter.infoBox.image.startsWith('/img/')) {
@@ -399,7 +423,7 @@ exports.onCreateNode = ({node, actions, getNode}) => {
 
   const {frontmatter} = node;
   if (frontmatter) {
-    const {headerImage, statements, authors} = frontmatter;
+    const {headerImage, statements, authors, clientLogo, thumbnail} = frontmatter;
     if (headerImage) {
       if (headerImage.indexOf('/img') === 0) {
         frontmatter.headerImage = path.relative(
@@ -427,6 +451,22 @@ exports.onCreateNode = ({node, actions, getNode}) => {
           );
         }
       });
+    }
+    if (clientLogo) {
+      if (clientLogo.indexOf('/img') === 0) {
+        frontmatter.clientLogo = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', clientLogo),
+        );
+      }
+    }
+    if (thumbnail) {
+      if (thumbnail.indexOf('/img') === 0) {
+        frontmatter.thumbnail = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', thumbnail),
+        );
+      }
     }
   }
 

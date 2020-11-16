@@ -11,6 +11,7 @@ module.exports = {
     'MarkdownRemark.fields.category': 'MarkdownRemark',
     'MarkdownRemark.fields.categories': 'MarkdownRemark',
     'MarkdownRemark.fields.successStories': 'MarkdownRemark',
+    'MarkdownRemark.fields.essentialPoints': 'MarkdownRemark',
     'MarkdownRemark.fields.infoBox': 'MarkdownRemark',
     'MarkdownRemark.fields.statements': 'MarkdownRemark',
     'MarkdownRemark.fields.author': 'MarkdownRemark',
