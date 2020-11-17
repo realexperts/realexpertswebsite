@@ -17,9 +17,10 @@ import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
 
 export const ReferencePageTemplate = ({ data, settings }) => {
-
+    var backgroundCount = 1;
     const essentialPoints = data.frontmatter.essentialPoints.map((essentialPoint, key) => (
-        <div key={key} className={'thesis'}>
+        <div key={key} className={(backgroundCount % 2 == 0) ? 'thesis' : 'thesis-background'}>
+            <div style={{display: 'none'}}>{backgroundCount++}</div>
             <h3>{essentialPoint.question}</h3>
             <div dangerouslySetInnerHTML={{
                 __html:
@@ -63,7 +64,7 @@ export const ReferencePageTemplate = ({ data, settings }) => {
                 ]} />
                 <div className="page-content">
                     <h3>{data.frontmatter.client}</h3>
-                    <div className="content-block-wrapper">
+                    <div className="content-block-wrapper-essential-points">
                         {essentialPoints}
                     </div>
                 </div>

@@ -38,6 +38,12 @@ essentialPoints:
       * Austauschforum.
   - question: "Welches System wurde eingeführt?"
     answer: Auf Confluence basierte Erweiterung Linchpin.
+  - question: "Wie ist Real Experts vorgegangen?"
+    answer: >-
+      * Durchführung von Workshops mit unterschiedlichen Stakeholdern zur Anforderungsanalyse aus verschiedenen Bereichen des Unternehmens.  
+      <br /> 
+      <br /> 
+      _„Es müssen alle Hierarchiestufen mitmachen“_
 relatedPosts:
   - post: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren"
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
