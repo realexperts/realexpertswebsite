@@ -54,11 +54,16 @@
 
         .featured-video-wrapper,
         .category-info-box-wrapper,
+        .content-block-wrapper-essential-points,
         .portfolio-categories-wrapper{
           margin-left: -20px;
           margin-right: -20px;
           padding-left: 20px;
           padding-right: 20px;
+        }
+
+        .essential-points-content:hover{
+          pointer-events: none;
         }
 
         .success-stories-wrapper {
@@ -395,6 +400,18 @@
               margin: 80px 0 20px;
             }
           }
+        }
+
+        .content-block-wrapper-essential-points{
+          width: auto;
+          margin-left: 0;
+          margin-right: 0;
+          padding-left: 30px;
+          padding-right: 30px;
+        }
+
+        .essential-points-content:hover{
+          pointer-events: none;
         }
 
         .statements-wrapper {
@@ -1174,6 +1191,16 @@
               margin: 80px 0 20px;
             }
           }
+        }
+
+        .content-block-wrapper-essential-points{
+          width: 100%;
+          margin: 0;
+          padding: 20px;
+        }
+
+        .essential-points-content:hover{
+          pointer-events: none;
         }
 
         .statements-wrapper {

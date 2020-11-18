@@ -15,62 +15,106 @@ import SEO from '../components/SEO';
 import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
+import { CSSTransition } from 'react-transition-group'
+import AnimateHeight from 'react-animate-height'; 
 
-export const ReferencePageTemplate = ({ data, settings }) => {
-    var backgroundCount = 1;
-    const essentialPoints = data.frontmatter.essentialPoints.map((essentialPoint, key) => (
-        <div key={key} className={(backgroundCount % 2 == 0) ? 'thesis' : 'thesis-background'}>
-            <div style={{display: 'none'}}>{backgroundCount++}</div>
-            <h3>{essentialPoint.question}</h3>
-            <div dangerouslySetInnerHTML={{
-                __html:
-                    remark()
-                        .use(recommended)
-                        .use(remarkHtml)
-                        .processSync(essentialPoint.answer).toString()
-            }}></div>
-        </div>
-    ));
+export class ReferencePageTemplate extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            essentialPointsVisible: {},
+        };
 
-    let quoteText = "";
-    if (data.frontmatter.quote) {
-        quoteText = remark()
-            .use(recommended)
-            .use(remarkHtml)
-            .processSync(data.frontmatter.quote.quoteText).toString();
+        const { data, settings } = this.props;
+
+        Object.entries(data.frontmatter.essentialPoints).map(([key, essentialPoint]) => {
+            const newEssentialPointsVisible = this.state.essentialPointsVisible //copy the array
+            newEssentialPointsVisible[key] = false //execute the manipulations
+            this.setState({ essentialPointsVisible: newEssentialPointsVisible })
+        })
+
+        this.triggerPoint = this.triggerPoint.bind(this);
     }
 
-    // show the first three related posts as top posts
-    let topPosts = [];
-    if (data.fields.relatedPosts) {
-        topPosts = data.fields.relatedPosts.slice(0, 3).map((post) => (
-            <BlogPostTeaser key={post.id} type='top' post={post} />
+    triggerPoint(key) {
+        const newEssentialPointsVisible = this.state.essentialPointsVisible //copy the array
+        newEssentialPointsVisible[key] = !newEssentialPointsVisible[key] //execute the manipulations
+        this.setState({ essentialPointsVisible: newEssentialPointsVisible })
+    }
+
+    render() {
+        const { data, settings } = this.props;
+
+        const essentialPoints = data.frontmatter.essentialPoints.map((essentialPoint, key) => (
+            <div key={key} className={'thesis'}>
+                <h3 onClick={() => this.triggerPoint(key)}>{essentialPoint.question}</h3>
+                <CSSTransition in={this.state.essentialPointsVisible[key]} timeout={200} classNames="essential-points-animation" unmountOnExit>
+    <div className={"essential-points-content"} dangerouslySetInnerHTML={{
+                    __html:
+                        remark()
+                            .use(recommended)
+                            .use(remarkHtml)
+                            .processSync(essentialPoint.answer).toString()
+                }}></div>
+               </CSSTransition>
+
+            </div>
         ));
-    }
 
-    const seoTags =
-        <SEO isBlogPost={false} postData={{
-            excerpt: data.frontmatter.service,
-            frontmatter: data.frontmatter,
-            slug: data.fields.slug,
-        }} postImage={settings.global.url + data.frontmatter.thumbnail.childImageSharp.fluid.src} />;
+        let quoteText = "";
+        if (data.frontmatter.quote) {
+            quoteText = remark()
+                .use(recommended)
+                .use(remarkHtml)
+                .processSync(data.frontmatter.quote.quoteText).toString();
+        }
 
-    return (
-        <Layout noHeader={true}>
-            <section className='category' lang="de">
-                {seoTags}
-                <Helmet title={`Referenz: ${data.frontmatter.client} | ${settings.global.title}`} link={[
-                    { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
-                ]} />
-                <div className="page-content">
-                    <h3>{data.frontmatter.client}</h3>
-                    <div className="content-block-wrapper-essential-points">
-                        {essentialPoints}
+        // show the first three related posts as top posts
+        let topPosts = [];
+        if (data.fields.relatedPosts) {
+            topPosts = data.fields.relatedPosts.slice(0, 3).map((post) => (
+                <BlogPostTeaser key={post.id} type='top' post={post} />
+            ));
+        }
+
+        const seoTags =
+            <SEO isBlogPost={false} postData={{
+                excerpt: data.frontmatter.service,
+                frontmatter: data.frontmatter,
+                slug: data.fields.slug,
+            }} postImage={settings.global.url + data.frontmatter.thumbnail.childImageSharp.fluid.src} />;
+
+        return (
+            <Layout noHeader={true}>
+                <section className='category' lang="de">
+                    {seoTags}
+                    <Helmet title={`Referenz: ${data.frontmatter.client} | ${settings.global.title}`} link={[
+                        { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
+                    ]} />
+                    <div className="page-content">
+                        <h3>{data.frontmatter.client}</h3>
+                    
+                        <div className="content-block-wrapper-essential-points">
+                            
+
+                            {essentialPoints}
+                            
+                        </div>
+                        {topPosts.length > 0 &&
+
+                            <div className="posts">
+                                <h2>Top Beiträge</h2>
+                                <div className="top-posts">
+                                    {topPosts}
+                                </div>
+                            </div>
+
+                        }
                     </div>
-                </div>
-            </section>
-        </Layout>
-    );
+                </section>
+            </Layout>
+        );
+    }
 };
 
 ReferencePageTemplate.propTypes = {

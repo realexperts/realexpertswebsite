@@ -333,6 +333,25 @@ header:has(.navbar-scrolled) {
 
 }
 
+.essential-points-animation-enter {
+  opacity: 0;
+  transform: translateY(-20px);
+}
+.essential-points-animation-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 200ms, transform 200ms;
+}
+.essential-points-animation-exit {
+  opacity: 1;
+  transform: translateY(0);
+}
+.essential-points-animation-exit-active {
+  opacity: 0;
+  transform: translateY(-20px);
+  transition: opacity 200ms, transform 200ms;
+}
+
 main {
 
   max-width: 1920px;
@@ -435,11 +454,17 @@ main {
       }
 
       .content-block-wrapper-essential-points {
-        width: 100%;
-        max-width: 1280px;
+        
         display: flex;
+        align-items: center;
         flex-direction: column;
-        align-self: center;
+        padding: 65px 0;
+        background: $secondary;
+        overflow: hidden;
+        margin-left: -160px;
+        margin-right: -160px;
+        color: white;
+        transition: all 0.5s ease;
 
         .content-block {
           width: 100%;
@@ -447,40 +472,60 @@ main {
 
         .thesis {
           flex: 1;
-
-          ul{
-            list-style-type: disc;
-            li{
-              margin-left: 1em;
-            }
-          }
-
-          &:first-child {
-            margin-right: 40px;
-          }
-
-          
-        }
-
-        .thesis-background {
-          flex: 1;
-          background: white url("../img/realexperts-bg-kategorien-rechts.png") top right no-repeat;
           width: 100%;
-          margin-right: -160px;
-          
+          max-width: 1280px;
+          border-radius: 6px;
+          transition: all 0.5s ease;
+
+          .essential-points-content{
+            background-color: $primary;
+            padding: 10px;
+            border-radius: 0 0 10px 10px;
+            transition: all 0.5s ease;
+          }
+
+          .essential-points-content:hover{
+            box-shadow: 0px 0px 20px white;
+          //margin-right: -80px;
+          padding-left: 20px;
+
+          cursor: default;
+          }
+
+          h3{
+            color: white;
+            background-color: $primary;
+            border-radius: 3px;  
+            padding-left: 10px;
+            cursor: pointer;
+            -webkit-user-select: none; /* Chrome/Safari */        
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+ */
+
+            /* Rules below not implemented in browsers yet */
+            -o-user-select: none;
+            user-select: none;
+          }
+
           ul{
             list-style-type: disc;
             li{
               margin-left: 1em;
             }
           }
-
-          &:first-child {
-            margin-right: 40px;
-          }
-
-          
         }
+
+        /* .thesis:hover{
+          background-color: $primary;
+          box-shadow: 0px 0px 10px $primary;
+          //margin-right: -80px;
+          
+          padding: 20px;
+          padding-top: 0px;
+          padding-left: 80px;
+
+          cursor: default;
+        } */
 
         .content {
           display: block;
