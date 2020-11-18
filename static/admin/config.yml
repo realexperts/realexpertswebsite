@@ -95,6 +95,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Template Key",   name: "templateKey",    widget: "hidden", default: "reference-page"}
+      - {label: "Header Image",   name: "headerImage",    widget: "image"}
       - {label: "Thumbnail Image",name: "thumbnail",      widget: "image"}
       - {label: "Client",         name: "client",         widget: "string"}
       - {label: "Client Logo",    name: "clientLogo",     widget: "image"}

@@ -1,8 +1,9 @@
 ---
 templateKey: reference-page
 thumbnail: /img/whitepaper-digitale-kompetenzen_thumbnail.png
+headerImage: /img/digitaler-arbeitspaltz.png
 client: IPROconsult GmbH
-clientLogo: /img/whitepaper-digitale-kompetenzen_thumbnail.png
+clientLogo: /img/logo.png
 industry: Architektur- und Ingenieursdienstleistungen
 service: Einführung eines Social Intranets
 significantImprovement: Schnellere, effizientere Kommunikation im Unternehmen

@@ -16,7 +16,7 @@ import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
 import { CSSTransition } from 'react-transition-group'
-import AnimateHeight from 'react-animate-height'; 
+import AnimateHeight from 'react-animate-height';
 
 export class ReferencePageTemplate extends React.Component {
     constructor(props) {
@@ -49,14 +49,14 @@ export class ReferencePageTemplate extends React.Component {
             <div key={key} className={'thesis'}>
                 <h3 onClick={() => this.triggerPoint(key)}>{essentialPoint.question}</h3>
                 <CSSTransition in={this.state.essentialPointsVisible[key]} timeout={200} classNames="essential-points-animation" unmountOnExit>
-    <div className={"essential-points-content"} dangerouslySetInnerHTML={{
-                    __html:
-                        remark()
-                            .use(recommended)
-                            .use(remarkHtml)
-                            .processSync(essentialPoint.answer).toString()
-                }}></div>
-               </CSSTransition>
+                    <div className={"essential-points-content"} dangerouslySetInnerHTML={{
+                        __html:
+                            remark()
+                                .use(recommended)
+                                .use(remarkHtml)
+                                .processSync(essentialPoint.answer).toString()
+                    }}></div>
+                </CSSTransition>
 
             </div>
         ));
@@ -85,20 +85,70 @@ export class ReferencePageTemplate extends React.Component {
             }} postImage={settings.global.url + data.frontmatter.thumbnail.childImageSharp.fluid.src} />;
 
         return (
-            <Layout noHeader={true}>
+            <Layout>
                 <section className='category' lang="de">
                     {seoTags}
                     <Helmet title={`Referenz: ${data.frontmatter.client} | ${settings.global.title}`} link={[
                         { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
                     ]} />
-                    <div className="page-content">
-                        <h3>{data.frontmatter.client}</h3>
-                    
-                        <div className="content-block-wrapper-essential-points">
-                            
+                     <div className="hero">
+                    <BackgroundImage Tag="div"
+                        style={{
+                            backgroundPosition: 'center left',
+                        }}
+                        fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
+                        <div className="claim">
+                            <h3 style={{color: "white"}}>Referenz:</h3>
+                        <Img title={"Referenz: " + data.frontmatter.client} className={"client-image"} fluid={data.fields.clientLogo.childImageSharp.fluid} />
 
+                        </div>
+                    </BackgroundImage>
+                </div>
+                    <div className="page-content">
+                        <div className="content-block-wrapper">
+                            <div className="overview-reference">
+                                <h5>> Branche</h5>
+                                <h3>{data.frontmatter.industry}</h3>
+                            </div>
+                            <div className="overview-reference">
+                                <h5>> Leistung</h5>
+                                <h3>{data.frontmatter.service}</h3>
+                            </div>
+                            <div className="overview-reference">
+                                <h5>> Wesentliche Verbesserung</h5>
+                                <h3>{data.frontmatter.significantImprovement}</h3>
+                            </div>
+                        </div>
+                        <div className="featured-video-wrapper category-video-wrapper">
+                            {(data.frontmatter.featuredVideo != null && data.frontmatter.featuredVideo.length > 3) &&
+                                <div className='featured-video'>
+                                    <div style={{
+                                        position: 'relative',
+                                        paddingTop: '56.25%',
+                                    }}>
+                                        <ReactPlayer url={data.frontmatter.featuredVideo}
+                                            width='100%'
+                                            height='100%'
+                                            style={{
+                                                position: 'absolute',
+                                                top: '0',
+                                                left: '0',
+                                            }}
+                                            config={{
+                                                youtube: {
+                                                    embedOptions: {
+                                                        host: 'https://www.youtube-nocookie.com',
+                                                    },
+                                                    preload: true
+                                                }
+                                            }}
+                                        />
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <div className="content-block-wrapper-essential-points">
                             {essentialPoints}
-                            
                         </div>
                         {topPosts.length > 0 &&
 
@@ -195,9 +245,23 @@ export const referencePageQuery = graphql`
                     }
                 }
                 slug
+                clientLogo {
+                    childImageSharp {
+                        fluid(maxWidth: 630) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
             }
             frontmatter {
                 thumbnail {
+                    childImageSharp {
+                        fluid(maxWidth: 630) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
+                headerImage {
                     childImageSharp {
                         fluid(maxWidth: 630) {
                             ...GatsbyImageSharpFluid
