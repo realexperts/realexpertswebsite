@@ -112,12 +112,12 @@ class NavbarComponent extends React.Component {
                     x1="7" y1="26" x2="89" y2="26" 
                   />
                   <line 
-                    transform={`translate(${x * 12}, ${x * 7}) rotate(${x * -45}, 7, 70)`} 
+                    transform={`translate(0, ${x * 50})`} 
+                    opacity={y} 
                     x1="7" y1="70" x2="89" y2="70" 
                   />
-                  <line 
-                    transform={`translate(${x * -96})`} 
-                    opacity={y} 
+                  <line
+                    transform={`translate(${x * 27}, ${x * 22}) rotate(${x * -45}, 7, 70)`}
                     x1="7" y1="48" x2="89" y2="48"
                   />
                 </g>
