@@ -2,12 +2,8 @@
   "id": "main-menu-settings",
   "mainMenu": [
     {
-      "title": "Digitalisierung & Arbeitsplatz",
-      "url": "/portfolio/digitalisierung-und-arbeitsplatz"
-    },
-    {
-      "title": "Mitarbeiter & Führung",
-      "url": "/portfolio/mitarbeiter-und-fuehrung"
+      "title": "Referenzen",
+      "url": "/reference"
     },
     {
       "title": "Team",

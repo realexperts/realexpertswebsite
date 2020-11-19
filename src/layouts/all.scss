@@ -49,6 +49,86 @@ body {
   }
 }
 
+.horizontal-posts-list {
+
+
+  width: 100%;
+        max-width: 1280px;
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+        flex-wrap: wrap;
+
+  .reference-post.normal {
+
+    //flex: 1;
+    padding: 10px;
+
+    .image-type-normal {
+      min-width: 21%;
+      margin-right: 2%;
+    }
+
+    .reference-list-image-container{
+      width: 400px;
+      height:200px;
+      background-color: $primary;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 5px;
+      transition: all 0.3s ease;
+
+      &:hover{
+        background-color: #000b38;
+      }
+    }
+
+    .reference-list-image-container .reference-list-text{
+      position: absolute;
+      display: none; /* Hidden by default */
+      z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+      cursor: pointer; 
+      color:white;
+      font-family: 'Changa', sans-serif !important;
+      font-size: larger;
+    }
+
+    .reference-list-image-container:hover .reference-list-text{
+      display: block;
+    }
+
+    .reference-list-image-container:hover .reference-list-client-image{
+      -webkit-filter: brightness(95%) blur(3px);
+      /* FF 35+ */
+      filter: brightness(95%) blur(3px);
+    }
+
+    .reference-list-client-image{
+      -webkit-filter: brightness(0) invert(1);
+      /* FF 35+ */
+      filter: brightness(0) invert(1);
+      width: 70%;
+    }
+
+    .post-content {
+      display: flex;
+      flex-direction: column;
+
+      .taglist {
+        margin-top: 5px;
+      }
+
+      a {
+        h4 {
+          margin-top: 0;
+        }
+      }
+    }
+
+  }
+}
+
 .horzontal-three-posts-list {
 
   display: flex;
@@ -252,6 +332,28 @@ header {
           }
         }
 
+        .navigation-sub-menu{
+          border-radius: 0px;
+        }
+
+        .menu-button{
+          color: #FFF;
+          font-size: 18px;
+          font-weight: 600;
+          text-transform: uppercase;
+          margin-left: 57px;
+          border: none;
+          background-color: inherit;
+
+          &:hover{
+            text-decoration: underline;
+          }
+
+          &:focus{
+            outline: 0px transparent !important;
+          }
+        }
+
         a {
           color: #FFF;
           font-size: 18px;
@@ -261,6 +363,23 @@ header {
 
           &:hover {
             text-decoration: underline;
+          }
+        }
+
+        .menu-item{
+          color: $primary;
+          margin-left: 0px;
+          padding-right: 20px;
+          transition: all 0.5s ease;
+
+          &:hover{
+            text-decoration: none;
+            margin-left: 10px;
+            background-color: inherit;
+          }
+
+          &.is-active {
+            color: $secondary;
           }
         }
       }
@@ -539,14 +658,6 @@ main {
             padding: 10px;
             border-radius: 0 0 10px 10px;
             transition: all 0.5s ease;
-          }
-
-          .essential-points-content:hover{
-            box-shadow: 0px 0px 20px white;
-          //margin-right: -80px;
-          padding-left: 20px;
-
-          cursor: default;
           }
 
           h3{
@@ -970,6 +1081,12 @@ main {
     .all-posts {
 
       @extend .vertical-posts-list;
+
+    }
+
+    .all-reference-posts {
+
+      @extend .horizontal-posts-list;
 
     }
 

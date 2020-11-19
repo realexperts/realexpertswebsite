@@ -57,7 +57,6 @@ export class ReferencePageTemplate extends React.Component {
                                 .processSync(essentialPoint.answer).toString()
                     }}></div>
                 </CSSTransition>
-
             </div>
         ));
 
@@ -98,7 +97,9 @@ export class ReferencePageTemplate extends React.Component {
                         }}
                         fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
                         <div className="claim">
+                        <Link to="/reference">
                             <h3 style={{color: "white"}}>Referenz:</h3>
+                            </Link>
                         <Img title={"Referenz: " + data.frontmatter.client} className={"client-image"} fluid={data.fields.clientLogo.childImageSharp.fluid} />
 
                         </div>
@@ -229,6 +230,14 @@ export const referencePageQuery = graphql`
                                 title
                             }
                         }
+                        reference {
+                            fields {
+                                slug
+                            }
+                            frontmatter {
+                                client
+                            }
+                          }
                         image {
                             childImageSharp {
                                 fluid(maxWidth: 630) {

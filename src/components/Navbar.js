@@ -11,11 +11,19 @@ import logoScrolling from '../img/realexperts-logo-scrolling.svg';
 import menu from '../img/icons/menu.svg';
 import { useMainMenu } from '../hooks/use-main-menu';
 
+import {
+  Menu,
+  MenuItem,
+  MenuButton,
+  SubMenu
+} from '@szhsin/react-menu';
+import '@szhsin/react-menu/dist/index.css';
+
 class NavbarComponent extends React.Component {
 
   constructor(props) {
     super(props);
-    this.toggleClass= this.toggleClass.bind(this);
+    this.toggleClass = this.toggleClass.bind(this);
     this.handleScroll = this.handleScroll.bind(this);
 
     this.state = {
@@ -27,7 +35,7 @@ class NavbarComponent extends React.Component {
   }
 
   handleClick() {
-    this.setState({toggle: !this.state.toggle});
+    this.setState({ toggle: !this.state.toggle });
     this.toggleClass();
   }
 
@@ -45,10 +53,10 @@ class NavbarComponent extends React.Component {
 
   handleScroll(event) {
     if (window.scrollY === 0 && this.state.scrolling === true) {
-      this.setState({scrolling: false});
+      this.setState({ scrolling: false });
     }
     else if (window.scrollY !== 0 && this.state.scrolling !== true) {
-      this.setState({scrolling: true});
+      this.setState({ scrolling: true });
     }
   };
 
@@ -67,13 +75,13 @@ class NavbarComponent extends React.Component {
         <nav role="navigation" aria-label="main navigation">
           <Link to="/" className="navigation-bar-logo">
             <figure className="image-top">
-              <img src={logo} alt="Real Experts GmbH"/>
+              <img src={logo} alt="Real Experts GmbH" />
             </figure>
             <figure className="image-top-scrolling">
-              <img src={logoScrolling} alt="Real Experts GmbH"/>
+              <img src={logoScrolling} alt="Real Experts GmbH" />
             </figure>
           </Link>
-         {/*  <img role="button"
+          {/*  <img role="button"
                src={menu}
                alt=""
                className="navigation-bar-burger"
@@ -82,7 +90,7 @@ class NavbarComponent extends React.Component {
                onClick={this.toggleClass}
                onKeyDown={this.toggleClass}>
           </img> */}
-          <svg 
+          <svg
             viewBox="0 0 96 96"
             className="navigation-bar-burger"
             height="1em"
@@ -92,29 +100,29 @@ class NavbarComponent extends React.Component {
             style={style}
             role="button"
           >
-            <Motion 
+            <Motion
               style={{
-                x: spring(this.state.toggle ? 1 : 0, presets.gentle ),
-                y: spring(this.state.toggle ? 0: 1, presets.gentle ),
+                x: spring(this.state.toggle ? 1 : 0, presets.gentle),
+                y: spring(this.state.toggle ? 0 : 1, presets.gentle),
               }}
             >
               {({ x, y }) =>
-                <g 
-                  id="navicon" 
-                  fill="none" 
-                  stroke="currentColor" 
-                  strokeWidth="10" 
-                  /* strokeLinecap="round" 
-                  strokeLinejoin="round" */
+                <g
+                  id="navicon"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="10"
+                /* strokeLinecap="round" 
+                strokeLinejoin="round" */
                 >
-                  <line 
-                    transform={`translate(${x * 12}, ${x * -7}) rotate(${x * 45}, 7, 26)`} 
-                    x1="7" y1="26" x2="89" y2="26" 
+                  <line
+                    transform={`translate(${x * 12}, ${x * -7}) rotate(${x * 45}, 7, 26)`}
+                    x1="7" y1="26" x2="89" y2="26"
                   />
-                  <line 
-                    transform={`translate(0, ${x * 50})`} 
-                    opacity={y} 
-                    x1="7" y1="70" x2="89" y2="70" 
+                  <line
+                    transform={`translate(0, ${x * 50})`}
+                    opacity={y}
+                    x1="7" y1="70" x2="89" y2="70"
                   />
                   <line
                     transform={`translate(${x * 27}, ${x * 22}) rotate(${x * -45}, 7, 70)`}
@@ -124,9 +132,40 @@ class NavbarComponent extends React.Component {
               }
             </Motion>
           </svg>
-          <div className={`navigation-bar-menu ${this.state.mobileMenuActive ? 'is-active': 'not-active'}`}>
+          <div className={`navigation-bar-menu ${this.state.mobileMenuActive ? 'is-active' : 'not-active'}`}>
+            {this.state.mobileMenuActive ? 
+              <Menu className={'navigation-sub-menu'} offsetY={0} arrow={false} align={'center'} viewScroll={'close'} menuButton={<MenuButton className={'menu-button navigation-bar-item'} >Portfolio</MenuButton>}>
+                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/digitalisierung-und-arbeitsplatz"}
+                  activeClassName="is-active">{"> Digitalisierung & Arbeitsplatz"}
+                </Link>
+                </MenuItem>
+                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/mitarbeiter-und-fuehrung"}
+                  activeClassName="is-active">{"> Mitarbeiter & Führung"}
+                </Link>
+                </MenuItem>
+              </Menu>
+            :
+              <Menu className={'navigation-sub-menu'} offsetY={-24} arrow={false} align={'center'} viewScroll={'close'} menuButton={<MenuButton className={'menu-button navigation-bar-item'} >Portfolio</MenuButton>}>
+                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/digitalisierung-und-arbeitsplatz"}
+                  activeClassName="is-active">{"> Digitalisierung & Arbeitsplatz"}
+                </Link>
+                </MenuItem>
+                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/mitarbeiter-und-fuehrung"}
+                  activeClassName="is-active">{"> Mitarbeiter & Führung"}
+                </Link>
+                </MenuItem>
+              </Menu>
+            }
             {this.state.menuItems}
           </div>
+          {/*  {
+      "title": "Digitalisierung & Arbeitsplatz",
+      "url": "/portfolio/digitalisierung-und-arbeitsplatz"
+    },
+    {
+      "title": "Mitarbeiter & Führung",
+      "url": "/portfolio/mitarbeiter-und-fuehrung"
+    }, */}
         </nav>
       </div>
     )
@@ -142,15 +181,15 @@ const Navbar = () => {
   const menuItems = settings.mainMenu.map((item, key) => {
     return (
       <Link to={item.url}
-            key={key}
-            className="navigation-bar-item"
-            activeClassName="is-active">{item.title}
+        key={key}
+        className="navigation-bar-item"
+        activeClassName="is-active">{item.title}
       </Link>
     );
   });
 
-  return(
-    <NavbarComponent children={menuItems}/>
+  return (
+    <NavbarComponent children={menuItems} />
   )
 
 };

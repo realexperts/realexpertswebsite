@@ -8,6 +8,7 @@ module.exports = {
     'MarkdownRemark.fields.featuredPost': 'MarkdownRemark',
     'MarkdownRemark.fields.relatedPosts': 'MarkdownRemark',
     'MarkdownRemark.fields.whitepaper': 'MarkdownRemark',
+    'MarkdownRemark.fields.reference': 'MarkdownRemark',
     'MarkdownRemark.fields.category': 'MarkdownRemark',
     'MarkdownRemark.fields.categories': 'MarkdownRemark',
     'MarkdownRemark.fields.successStories': 'MarkdownRemark',

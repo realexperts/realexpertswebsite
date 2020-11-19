@@ -140,7 +140,15 @@ export const portfolioPageQuery = graphql`
                           frontmatter {
                               title
                           }
-                      }
+                        }
+                        reference {
+                          fields {
+                              slug
+                          }
+                          frontmatter {
+                              client
+                          }
+                        }
                         image {
                             childImageSharp {
                                 fluid(maxWidth: 850) {

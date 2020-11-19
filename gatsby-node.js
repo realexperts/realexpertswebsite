@@ -99,6 +99,21 @@ exports.sourceNodes = ({actions, getNodes, getNode}) => {
         }
       }
 
+      
+      if (node.frontmatter.reference) {
+        const postNode = allNodes.find(someNode =>
+          someNode.internal.type === 'MarkdownRemark' &&
+          someNode.frontmatter.client === node.frontmatter.reference,
+        );
+        if (postNode) {
+          createNodeField({
+            node,
+            name: 'reference',
+            value: postNode.id,
+          });
+        }
+      }
+
       if (node.frontmatter.categories) {
         const resolvedCategories = [];
         node.frontmatter.categories.map(category => {
@@ -259,6 +274,29 @@ exports.createPages = ({actions, graphql}) => {
         });
       });
 
+      // Create references list pages
+      const referencesPerPage = 12;
+      const extraReferencesOnStartPage = 4;
+      const referencePages = pages.filter(page => page.node.frontmatter.templateKey === 'reference-page');
+      const numPages3 = Math.ceil(referencePages.length / referencesPerPage);
+
+      Array.from({length: numPages3}).forEach((_, i) => {
+
+        let numShown = i === 0 ? referencesPerPage - extraReferencesOnStartPage : referencesPerPage;
+        let numSkip = i === 0 ? 0 : extraReferencesOnStartPage + i * referencesPerPage;
+
+        createPage({
+          path: i === 0 ? `/reference/` : `/reference/${i + 1}`,
+          component: path.resolve('./src/templates/reference.js'),
+          context: {
+            limit: referencesPerPage,
+            skip: i * referencesPerPage,
+            numPages3,
+            currentPage: i + 1,
+            slug: i === 0 ? `/reference/` : `/reference/${i + 1}`
+          },
+        });
+      });
 
       // Tag pages:
       let tags = [];

@@ -194,6 +194,12 @@
 
           transition: all 0.4s ease;
 
+          .navigation-sub-menu{
+            width: 2000px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+          }
+
           &.is-active {
             transition: all 0.4s ease;
             opacity: 1;
@@ -962,6 +968,13 @@
           padding: 20px 0;
 
           transition: all 0.4s ease;
+
+          .navigation-sub-menu{
+            width: 2000px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+          }
+
 
           &.is-active {
             transition: all 0.4s ease;
