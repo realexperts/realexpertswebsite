@@ -47,6 +47,7 @@
     "react-google-maps": "^9.4.5",
     "react-helmet": "^6.1.0",
     "react-load-script": "^0.0.6",
+    "react-motion": "^0.5.2",
     "react-player": "^1.11.0",
     "react-share": "^3.0.0",
     "react-transition-group": "^4.4.1",

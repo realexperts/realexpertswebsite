@@ -365,6 +365,14 @@ header:has(.navbar-scrolled) {
   filter: brightness(0) invert(1);
 }
 
+#render {
+  position: absolute;
+  height: 1em;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 main {
 
   max-width: 1920px;
