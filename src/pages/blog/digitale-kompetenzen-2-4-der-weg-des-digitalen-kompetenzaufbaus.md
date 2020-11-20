@@ -16,6 +16,10 @@ tags:
   - digitale kompetenzen strategie kompetenzaufbau
 relatedPosts:
   - post: "Digitale Kompetenzen [1/4] : Erkennen, fördern und nachhaltig etablieren"
+  - post: "Digitale Kompetenzen [3/4] : Das Social Intranet als zentrale Drehscheibe
+      der digitalen Kompetenzaneignung"
+  - post: "Digitale Kompetenzen [4/4] : Rahmenbedingungen, Grenzen und
+      Herausforderungen für die digitale Kompetenzaneignung"
 ---
 # Der Weg des digitalen Kompetenzaufbaus
 
