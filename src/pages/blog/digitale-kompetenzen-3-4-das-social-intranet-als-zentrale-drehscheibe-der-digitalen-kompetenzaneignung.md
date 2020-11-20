@@ -18,6 +18,8 @@ tags:
 relatedPosts:
   - post: "Digitale Kompetenzen [1/4] : Erkennen, fördern und nachhaltig etablieren"
   - post: "Digitale Kompetenzen [2/4] : Der Weg des digitalen Kompetenzaufbaus"
+  - post: "Digitale Kompetenzen [4/4] : Rahmenbedingungen, Grenzen und
+      Herausforderungen für die digitale Kompetenzaneignung"
 ---
 # Das Social Intranet als zentrale Drehscheibe der digitalen Kompetenzaneignung
 
