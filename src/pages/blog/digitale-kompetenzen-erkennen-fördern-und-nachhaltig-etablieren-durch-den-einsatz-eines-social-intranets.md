@@ -15,9 +15,11 @@ category: ""
 tags:
   - Digitale Kompetenzen
 relatedPosts:
-  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
-  - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
-  - post: "IPROconsult: Der Weg zum Social Intranet"
+  - post: "Digitale Kompetenzen [2/4] : Der Weg des digitalen Kompetenzaufbaus"
+  - post: "Digitale Kompetenzen [3/4] : Das Social Intranet als zentrale Drehscheibe
+      der digitalen Kompetenzaneignung"
+  - post: "Digitale Kompetenzen [4/4] : Rahmenbedingungen, Grenzen und
+      Herausforderungen für die digitale Kompetenzaneignung"
 ---
 Digitale Kompetenzen sind in einer sich ständig ändernden, globalen und digitalen Welt unerlässlich.  Oft fragen sich Unternehmen, wie sie es schaffen ihren Mitarbeitern alle notwendigen  digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag
  umgesetzt werden können.
