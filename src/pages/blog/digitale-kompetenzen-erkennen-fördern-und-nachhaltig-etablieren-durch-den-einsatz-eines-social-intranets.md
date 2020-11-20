@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren"
+title: "Digitale Kompetenzen [1/4] : Erkennen, fördern und nachhaltig etablieren"
 date: 2020-09-18T06:22:39.870Z
 author: Sandra Brückner
 image: /img/digitale-kompetenz-whitepaper.png
