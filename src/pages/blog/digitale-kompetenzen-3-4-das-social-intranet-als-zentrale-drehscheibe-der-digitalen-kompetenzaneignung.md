@@ -12,7 +12,7 @@ description: >-
    digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag
    umgesetzt werden können.
 whitepaper: Digitale Kompetenzen
-category: Digitaler Arbeitsplatz
+category: ""
 tags:
   - digtiale kompetenzen social intranet aufbau
 relatedPosts:
