@@ -11,7 +11,7 @@ description: >-
    digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag
    umgesetzt werden können.
 whitepaper: Digitale Kompetenzen
-category: ""
+category: Digitaler Arbeitsplatz
 tags:
   - Digitale Kompetenzen
 relatedPosts:
