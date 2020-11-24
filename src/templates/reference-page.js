@@ -101,7 +101,7 @@ export class ReferencePageTemplate extends React.Component {
                             <h3 style={{color: "white"}}>Referenz:</h3>
                             </Link>
                         <Img title={"Referenz: " + data.frontmatter.client} className={"client-image"} fluid={data.fields.clientLogo.childImageSharp.fluid} />
-
+                    <p><i>"{data.frontmatter.quote.quoteText}"</i> - {data.frontmatter.quote.name}, {data.frontmatter.quote.role} bei {data.frontmatter.client}</p>
                         </div>
                     </BackgroundImage>
                 </div>
