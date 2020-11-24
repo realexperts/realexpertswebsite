@@ -81,94 +81,135 @@ export class ReferencePageTemplate extends React.Component {
                 excerpt: data.frontmatter.service,
                 frontmatter: data.frontmatter,
                 slug: data.fields.slug,
-            }} postImage={settings.global.url + data.frontmatter.thumbnail.childImageSharp.fluid.src} />;
+            }} postImage={settings.global.url + data.frontmatter.headerImage.childImageSharp.fluid.src} />;
 
         return (
             <Layout>
-                <section className='category' lang="de">
-                    {seoTags}
-                    <Helmet title={`Referenz: ${data.frontmatter.client} | ${settings.global.title}`} link={[
-                        { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
-                    ]} />
-                     <div className="hero">
-                    <BackgroundImage Tag="div"
-                        style={{
-                            backgroundPosition: 'center left',
-                        }}
-                        fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
-                        <div className="claim">
-                        <Link to="/reference">
-                            <h3 style={{color: "white"}}>Referenz:</h3>
-                            </Link>
-                        <Img title={"Referenz: " + data.frontmatter.client} className={"client-image"} fluid={data.fields.clientLogo.childImageSharp.fluid} />
-                    <p><i>"{data.frontmatter.quote.quoteText}"</i> - {data.frontmatter.quote.name}, {data.frontmatter.quote.role} bei {data.frontmatter.client}</p>
+                {data.frontmatter.additionalInformation ?
+                    <section className='category' lang="de">
+                        {seoTags}
+                        <Helmet title={`Referenz: ${data.frontmatter.client} | ${settings.global.title}`} link={[
+                            { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
+                        ]} />
+                        <div className="hero">
+                            <BackgroundImage Tag="div"
+                                style={{
+                                    backgroundPosition: 'center left',
+                                }}
+                                fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
+                                <div className="claim">
+                                    <Link to="/reference">
+                                        <h3 style={{ color: "white" }}>Referenz:</h3>
+                                    </Link>
+                                    <Img title={"Referenz: " + data.frontmatter.client} className={"client-image"} fluid={data.fields.clientLogo.childImageSharp.fluid} />
+                                    <p><i>"{data.frontmatter.quote.quoteText}"</i> - {data.frontmatter.quote.name}, {data.frontmatter.quote.role} bei {data.frontmatter.client}</p>
+                                </div>
+                            </BackgroundImage>
                         </div>
-                    </BackgroundImage>
-                </div>
-                    <div className="page-content">
-                        <div className="content-block-wrapper">
-                            <div className="overview-reference">
-                                <h5>> Branche</h5>
-                                <h3>{data.frontmatter.industry}</h3>
+                        <div className="page-content">
+                            <div className="content-block-wrapper">
+                                <div className="overview-reference">
+                                    <h5>> Branche</h5>
+                                    <h3>{data.frontmatter.industry}</h3>
+                                </div>
+                                <div className="overview-reference">
+                                    <h5>> Leistung</h5>
+                                    <h3>{data.frontmatter.service}</h3>
+                                </div>
+                                <div className="overview-reference">
+                                    <h5>> Wesentliche Verbesserung</h5>
+                                    <h3>{data.frontmatter.significantImprovement}</h3>
+                                </div>
                             </div>
-                            <div className="overview-reference">
-                                <h5>> Leistung</h5>
-                                <h3>{data.frontmatter.service}</h3>
+                            <div className="featured-video-wrapper category-video-wrapper">
+                                {(data.frontmatter.featuredVideo != null && data.frontmatter.featuredVideo.length > 3) &&
+                                    <div className='featured-video'>
+                                        <div style={{
+                                            position: 'relative',
+                                            paddingTop: '56.25%',
+                                        }}>
+                                            <ReactPlayer url={data.frontmatter.featuredVideo}
+                                                width='100%'
+                                                height='100%'
+                                                style={{
+                                                    position: 'absolute',
+                                                    top: '0',
+                                                    left: '0',
+                                                }}
+                                                config={{
+                                                    youtube: {
+                                                        embedOptions: {
+                                                            host: 'https://www.youtube-nocookie.com',
+                                                        },
+                                                        preload: true
+                                                    }
+                                                }}
+                                            />
+                                        </div>
+                                    </div>
+                                }
                             </div>
-                            <div className="overview-reference">
-                                <h5>> Wesentliche Verbesserung</h5>
-                                <h3>{data.frontmatter.significantImprovement}</h3>
+                            <div className="content-block-wrapper-essential-points">
+                                {essentialPoints}
                             </div>
-                        </div>
-                        <div className="featured-video-wrapper category-video-wrapper">
-                            {(data.frontmatter.featuredVideo != null && data.frontmatter.featuredVideo.length > 3) &&
-                                <div className='featured-video'>
-                                    <div style={{
-                                        position: 'relative',
-                                        paddingTop: '56.25%',
-                                    }}>
-                                        <ReactPlayer url={data.frontmatter.featuredVideo}
-                                            width='100%'
-                                            height='100%'
-                                            style={{
-                                                position: 'absolute',
-                                                top: '0',
-                                                left: '0',
-                                            }}
-                                            config={{
-                                                youtube: {
-                                                    embedOptions: {
-                                                        host: 'https://www.youtube-nocookie.com',
-                                                    },
-                                                    preload: true
-                                                }
-                                            }}
-                                        />
+                            {topPosts.length > 0 &&
+
+                                <div className="posts">
+                                    <h2>Top Beiträge</h2>
+                                    <div className="top-posts">
+                                        {topPosts}
                                     </div>
                                 </div>
+
                             }
                         </div>
-                        <div className="content-block-wrapper-essential-points">
-                            {essentialPoints}
-                        </div>
-                        {topPosts.length > 0 &&
-
-                            <div className="posts">
-                                <h2>Top Beiträge</h2>
-                                <div className="top-posts">
-                                    {topPosts}
+                    </section>
+                    :
+                    <section className='category' lang="de">
+                        {seoTags}
+                        <Helmet title={`Referenz: ${data.frontmatter.client} | ${settings.global.title}`} link={[
+                            { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
+                        ]} />
+                        <div className="hero">
+                            <BackgroundImage Tag="div"
+                                style={{
+                                    backgroundPosition: 'center left',
+                                }}
+                                fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
+                                <div className="claim">
+                                    <Link to="/reference">
+                                        <h3 style={{ color: "white" }}>Referenz:</h3>
+                                    </Link>
+                                    <Img title={"Referenz: " + data.frontmatter.client} className={"client-image"} fluid={data.fields.clientLogo.childImageSharp.fluid} />
+                                    <Link to="/reference">
+                                        <p><u>Weitere Referenzen</u></p>
+                                    </Link>
                                 </div>
-                            </div>
+                                <div className="page-content">
 
-                        }
-                    </div>
-                </section>
+                                    {topPosts.length > 0 &&
+
+                                        <div className="posts">
+                                            <h2>Top Beiträge</h2>
+                                            <div className="top-posts">
+                                                {topPosts}
+                                            </div>
+                                        </div>
+
+                                    }
+                                </div>
+                            </BackgroundImage>
+                        </div>
+                    </section>
+                }
+
             </Layout>
         );
     }
 };
 
 ReferencePageTemplate.propTypes = {
+    additionalInformation: PropTypes.bool,
     client: PropTypes.string,
     industry: PropTypes.string,
     service: PropTypes.string,
@@ -263,13 +304,7 @@ export const referencePageQuery = graphql`
                 }
             }
             frontmatter {
-                thumbnail {
-                    childImageSharp {
-                        fluid(maxWidth: 630) {
-                            ...GatsbyImageSharpFluid
-                        }
-                    }
-                }
+                additionalInformation
                 headerImage {
                     childImageSharp {
                         fluid(maxWidth: 630) {

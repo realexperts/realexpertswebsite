@@ -84,6 +84,17 @@ body {
       }
     }
 
+    .reference-list-image-container-no-link{
+      width: 400px;
+      height:200px;
+      background-color: $primary;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 5px;
+      transition: all 0.3s ease;
+    }
+
     .reference-list-image-container .reference-list-text{
       position: absolute;
       display: none; /* Hidden by default */
@@ -105,6 +116,13 @@ body {
     }
 
     .reference-list-client-image{
+      -webkit-filter: brightness(0) invert(1);
+      /* FF 35+ */
+      filter: brightness(0) invert(1);
+      width: 70%;
+    }
+
+    .reference-list-client-image-no-link{
       -webkit-filter: brightness(0) invert(1);
       /* FF 35+ */
       filter: brightness(0) invert(1);
@@ -654,15 +672,16 @@ main {
           transition: all 0.5s ease;
 
           .essential-points-content{
-            background-color: $primary;
+            background-color: white;
+            color: $primary;
             padding: 10px;
             border-radius: 0 0 10px 10px;
-            transition: all 0.5s ease;
+            transition: all 0.2s ease;
           }
 
           h3{
-            color: white;
-            background-color: $primary;
+            background-color: white;
+            color: $primary;
             border-radius: 3px;  
             padding-left: 10px;
             cursor: pointer;
@@ -673,6 +692,12 @@ main {
             /* Rules below not implemented in browsers yet */
             -o-user-select: none;
             user-select: none;
+            transition: all 0.5s ease;
+
+            &:hover{
+              box-shadow: 0 3px 10px black;
+              transform: translateY(-5px);
+            }
           }
 
           ul{

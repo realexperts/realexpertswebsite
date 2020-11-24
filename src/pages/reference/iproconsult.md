@@ -1,6 +1,6 @@
 ---
 templateKey: reference-page
-thumbnail: /img/whitepaper-digitale-kompetenzen_thumbnail.png
+additionalInformation: true
 headerImage: /img/digitaler-arbeitspaltz.png
 client: IPROconsult GmbH
 clientLogo: /img/logo.png

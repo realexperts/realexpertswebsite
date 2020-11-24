@@ -10,15 +10,26 @@ export default class ReferencePageTeaser extends React.Component {
         const post = this.props.post;
 
         return (
-            <div className={`reference-post normal`}>
-                <Link to={post.fields.slug}>
-                <div className={`reference-list-image-container`}>
-                    <Img  className={"reference-list-client-image"} fluid={post.fields.clientLogo.childImageSharp.fluid} />
-                    <div className="reference-list-text" >Mehr Informationen</div>
-                </div>
-        </Link>
-      </div>
-    )
+            <div>
+                {
+                    post.frontmatter.additionalInformation ?
+                        <div className={`reference-post normal`}>
+                            <Link to={post.fields.slug}>
+                                <div className={`reference-list-image-container`}>
+                                    <Img className={"reference-list-client-image"} fluid={post.fields.clientLogo.childImageSharp.fluid} />
+                                    <div className="reference-list-text" >Mehr Informationen</div>
+                                </div>
+                            </Link>
+                        </div>
+                        :
+                        <div className={`reference-post normal`}>
+                                <div className={`reference-list-image-container-no-link`}>
+                                    <Img className={"reference-list-client-image-no-link"} fluid={post.fields.clientLogo.childImageSharp.fluid} />
+                                </div>
+                        </div>
+                }
+            </div>
+        )
     }
 }
 
@@ -30,9 +41,7 @@ ReferencePageTeaser.propTypes = {
             slug: PropTypes.string,
         }),
         frontmatter: PropTypes.shape({
-            title: PropTypes.string,
-            tags: PropTypes.arrayOf(PropTypes.string),
-            date: PropTypes.string,
+            additionalInformation: PropTypes.bool,
         }),
     }),
     type: PropTypes.oneOf(['normal', 'featured', 'top', 'related']),

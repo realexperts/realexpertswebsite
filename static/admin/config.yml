@@ -96,17 +96,17 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Template Key",   name: "templateKey",    widget: "hidden", default: "reference-page"}
-      - {label: "Header Image",   name: "headerImage",    widget: "image"}
-      - {label: "Thumbnail Image",name: "thumbnail",      widget: "image"}
+      - {label: "Additional Information", name: "additionalInformation", widget: "boolean", default: true}
+      - {label: "Header Image",   name: "headerImage",    widget: "image",  required: false, default: "/img/digitaler-arbeitspaltz.png"}
       - {label: "Client",         name: "client",         widget: "string"}
       - {label: "Client Logo",    name: "clientLogo",     widget: "image"}
-      - {label: "Industry",       name: "industry",       widget: "string"}
-      - {label: "Service",        name: "service",        widget: "string"}
-      - {label: "Significant Improvement", name: "significantImprovement", widget: "string"}
-      - {label: "Quote",          name: "quote",          widget: "object", fields: [{label: "Quote Text",  name: "quoteText", widget: "string"}, {label: "Name",  name: "name", widget: "string"}, {label: "Role",  name: "role", widget: "string"}]}
-      - {label: "Featured video", name: "featuredVideo",  widget: "string"}
-      - {label: "Essential Points", name: "essentialPoints", widget: "list",   fields: [{label: "Question",  name: "question", widget: "string"}, {label: "Answer", name: "answer", widget: "markdown"}]}
-      - {label: "Top Posts",      name: "relatedPosts",   widget: "list",   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: title}]}
+      - {label: "Industry",       name: "industry",       widget: "string",  required: false}
+      - {label: "Service",        name: "service",        widget: "string",  required: false}
+      - {label: "Significant Improvement", name: "significantImprovement", widget: "string",  required: false}
+      - {label: "Quote",          name: "quote",          widget: "object",  required: false, fields: [{label: "Quote Text",  name: "quoteText", widget: "string"}, {label: "Name",  name: "name", widget: "string"}, {label: "Role",  name: "role", widget: "string"}]}
+      - {label: "Featured video", name: "featuredVideo",  widget: "string",  required: false}
+      - {label: "Essential Points", name: "essentialPoints", widget: "list",  required: false,   fields: [{label: "Question",  name: "question", widget: "string"}, {label: "Answer", name: "answer", widget: "markdown"}]}
+      - {label: "Top Posts",      name: "relatedPosts",   widget: "list",  required: false,   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: title}]}
   - name: "pages"
     label: "Pages"
     files:

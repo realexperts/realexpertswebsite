@@ -106,6 +106,7 @@ export const pageQuery = graphql`
           }
           }
           frontmatter {
+            additionalInformation
             client
             templateKey
             tags
