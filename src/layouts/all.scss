@@ -624,17 +624,17 @@ main {
             transition: all 0.5s ease;
           }
 
-          h3{
+          h4{
             transition: all 0.5s ease;
           }
         }
 
         .overview-reference:hover h5{
-          margin-left: 10px;
+          //margin-left: 10px;
         }
 
-        .overview-reference:hover h3{
-          margin-left: -10px;
+        .overview-reference:hover h4{
+          margin-left: 10px;
         }
 
         .overview-reference:hover{
@@ -675,7 +675,8 @@ main {
             background-color: white;
             color: $primary;
             padding: 10px;
-            border-radius: 0 0 10px 10px;
+            border-radius: 3px;
+            //border-radius: 0 0 0 10px;
             transition: all 0.2s ease;
           }
 

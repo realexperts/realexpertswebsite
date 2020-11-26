@@ -1,0 +1,13 @@
+{
+    "id": "portfolio-menu-settings",
+    "portfolioMenu": [
+        {
+            "title": "Digitalisierung & Arbeitsplatz",
+            "url": "/portfolio/digitalisierung-und-arbeitsplatz"
+        },
+        {
+            "title": "Mitarbeiter & Führung",
+            "url": "/portfolio/mitarbeiter-und-fuehrung"
+        }
+    ]
+}

@@ -110,15 +110,15 @@ export class ReferencePageTemplate extends React.Component {
                             <div className="content-block-wrapper">
                                 <div className="overview-reference">
                                     <h5>> Branche</h5>
-                                    <h3>{data.frontmatter.industry}</h3>
+                                    <h4>{data.frontmatter.industry}</h4>
                                 </div>
                                 <div className="overview-reference">
                                     <h5>> Leistung</h5>
-                                    <h3>{data.frontmatter.service}</h3>
+                                    <h4>{data.frontmatter.service}</h4>
                                 </div>
                                 <div className="overview-reference">
                                     <h5>> Wesentliche Verbesserung</h5>
-                                    <h3>{data.frontmatter.significantImprovement}</h3>
+                                    <h4>{data.frontmatter.significantImprovement}</h4>
                                 </div>
                             </div>
                             <div className="featured-video-wrapper category-video-wrapper">

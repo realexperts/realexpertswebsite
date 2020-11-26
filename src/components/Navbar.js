@@ -10,6 +10,7 @@ import logo from '../img/realexperts-bildmarke.svg';
 import logoScrolling from '../img/realexperts-logo-scrolling.svg';
 import menu from '../img/icons/menu.svg';
 import { useMainMenu } from '../hooks/use-main-menu';
+import { usePortfolioMenu } from '../hooks/use-portfolio-menu';
 
 import {
   Menu,
@@ -28,7 +29,8 @@ class NavbarComponent extends React.Component {
 
     this.state = {
       mobileMenuActive: false,
-      menuItems: props.children,
+      menuItems: props.childrenMenu,
+      portfolioItems: props.childrenPortfolio,
       scrolling: false,
       toggle: false,
     };
@@ -133,27 +135,13 @@ class NavbarComponent extends React.Component {
             </Motion>
           </svg>
           <div className={`navigation-bar-menu ${this.state.mobileMenuActive ? 'is-active' : 'not-active'}`}>
-            {this.state.mobileMenuActive ? 
+            {this.state.mobileMenuActive ?
               <Menu className={'navigation-sub-menu'} offsetY={0} arrow={false} align={'center'} viewScroll={'close'} menuButton={<MenuButton className={'menu-button navigation-bar-item'} >Portfolio</MenuButton>}>
-                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/digitalisierung-und-arbeitsplatz"}
-                  activeClassName="is-active">{"> Digitalisierung & Arbeitsplatz"}
-                </Link>
-                </MenuItem>
-                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/mitarbeiter-und-fuehrung"}
-                  activeClassName="is-active">{"> Mitarbeiter & Führung"}
-                </Link>
-                </MenuItem>
+                {this.state.portfolioItems}
               </Menu>
-            :
+              :
               <Menu className={'navigation-sub-menu'} offsetY={-24} arrow={false} align={'center'} viewScroll={'close'} menuButton={<MenuButton className={'menu-button navigation-bar-item'} >Portfolio</MenuButton>}>
-                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/digitalisierung-und-arbeitsplatz"}
-                  activeClassName="is-active">{"> Digitalisierung & Arbeitsplatz"}
-                </Link>
-                </MenuItem>
-                <MenuItem className={"menu-item"}><Link className={"menu-item"} to={"/portfolio/mitarbeiter-und-fuehrung"}
-                  activeClassName="is-active">{"> Mitarbeiter & Führung"}
-                </Link>
-                </MenuItem>
+                {this.state.portfolioItems}
               </Menu>
             }
             {this.state.menuItems}
@@ -188,8 +176,21 @@ const Navbar = () => {
     );
   });
 
+  const {
+    settings2,
+  } = usePortfolioMenu();
+
+  const portfolioItems = settings2.portfolioMenu.map((item, key) => {
+    return (
+      <MenuItem key={key} className={"menu-item"}><Link className={"menu-item"} to={item.url}
+        activeClassName="is-active">> {item.title}
+      </Link>
+      </MenuItem>
+    );
+  });
+
   return (
-    <NavbarComponent children={menuItems} />
+    <NavbarComponent childrenMenu={menuItems} childrenPortfolio={portfolioItems} />
   )
 
 };
