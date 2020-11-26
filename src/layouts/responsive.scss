@@ -881,6 +881,29 @@
 
 @media screen and (max-width: 480px) {
 
+  .client-image{
+    min-width: 250px;
+  }
+
+  .horizontal-posts-list {
+    .client-image{
+      min-width: 250px;
+    }
+  
+    .reference-post.normal {
+      .reference-list-image-container{
+        width: 300px;
+        height: 150px;
+      }
+  
+      .reference-list-image-container-no-link{
+        width: 300px;
+        height: 150px;
+      }
+    }
+  }
+  
+
   .content {
     height: 100%;
     overflow: hidden;
