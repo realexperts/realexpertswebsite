@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren"
+title: "Digitale Kompetenzen [1/4] : Erkennen, fördern und nachhaltig etablieren"
 date: 2020-09-18T06:22:39.870Z
 author: Sandra Brückner
 image: /img/digitale-kompetenz-whitepaper.png
@@ -11,16 +11,17 @@ description: >-
    digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag
    umgesetzt werden können.
 whitepaper: Digitale Kompetenzen
-category: ""
+category: Digitaler Arbeitsplatz
 tags:
   - Digitale Kompetenzen
 relatedPosts:
-  - post: 1x1 - Die Grundlagen des digitalen Arbeitens
-  - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
-  - post: "IPROconsult: Der Weg zum Social Intranet"
+  - post: "Digitale Kompetenzen [2/4] : Der Weg des digitalen Kompetenzaufbaus"
+  - post: "Digitale Kompetenzen [3/4] : Das Social Intranet als zentrale Drehscheibe
+      der digitalen Kompetenzaneignung"
+  - post: "Digitale Kompetenzen [4/4] : Rahmenbedingungen, Grenzen und
+      Herausforderungen für die digitale Kompetenzaneignung"
 ---
-Digitale Kompetenzen sind in einer sich ständig ändernden, globalen und digitalen Welt unerlässlich.  Oft fragen sich Unternehmen, wie sie es schaffen ihren Mitarbeitern alle notwendigen  digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag
- umgesetzt werden können.
+Digitale Kompetenzen sind in einer sich ständig ändernden, globalen und digitalen Welt unerlässlich.  Oft fragen sich Unternehmen, wie sie es schaffen ihren Mitarbeitern alle notwendigen  digitalen Kompetenzen so zu vermitteln, dass diese schnell und performant im Arbeitsalltag  umgesetzt werden können.
 
 Dieser Beitrag ist ein Teaser zum dazugehörigen Whitepaper und soll den Leser ins Thema “Digitale Kompetenzen” einführen. Eine Vertiefung dieses Themas und das Aufzeigen konkreter Schritte in der Umsetzung digitaler Kompetenzen findet im zugehörigen Whitepaper Anwendung.
 
@@ -51,6 +52,8 @@ Eine Pauschalantwort, welche digitalen Kompetenzen dies für deutsche Unternehme
 Um wettbewerbsfähig zu bleiben müssen Unternehmen eine Antwort auf diese Fragen haben bzw. finden und deren Antworten fest in der (digitalen) Unternehmensstrategie verankern. 
 
 Welche Schritte dafür notwendig sind und wie digitale Kompetenzen im Unternehmen verankert werden , wird im weiterführenden Whitepaper “Digitale Kompetenzen: Erkennen, fördern und nachhaltig etablieren durch den Einsatz eines Social Intranets “ beschrieben. 
+
+Das Whitepaper kann unter folgendem [Link ](https://www.realexperts.de/whitepaper/digitale-kompetenzen/)abgerufen werden. 
 
 \[1] https://digital-magazin.de/digitalisierung-definition/#Digitale_Kompetenz_spielt_eine_entscheidende_Rolle
 
