@@ -25,6 +25,7 @@ collections:
       - {label: "Description",    name: "description",  widget: "text"}
       - {label: "Body",           name: "body",         widget: "markdown"}
       - {label: "Whitepaper",     name: "whitepaper",   widget: "relation", collection: "whitepaper", searchFields: ["titel"], valueField: "title", required: false}
+      - {label: "Reference",      name: "reference",    widget: "relation", collection: "reference", searchFields: ["client"], valueField: "client", required: false}
       - {label: "Category",       name: "category",     widget: "relation", collection: "category", searchFields: ["titel"], valueField: "title", required: false}
       - {label: "Tags",           name: "tags",         widget: "list"}
       - {label: "Related Posts",  name: "relatedPosts", widget: "list", fields: [{name: "post", label: "Post", widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: "title"}]}
@@ -86,6 +87,26 @@ collections:
       - {label: "Whitepaper File",name: "whitepaperFile", widget: "file", default: "", required: false, allow_multiple: false}
       - {label: "Authors",     name: "authors",     widget: "list",   fields: [{label: "Name",      name: "name",     widget: "string"}, {label: "Image",  name: "image", widget: "image"}, {label: "Body", name: "body", widget: "markdown"}]}
       - {label: "Top Posts",      name: "relatedPosts",   widget: "list",   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: title}]}
+  - name: "reference"
+    label: "Reference"
+    folder: "src/pages/reference"
+    create: true
+    editor:
+      preview: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key",   name: "templateKey",    widget: "hidden", default: "reference-page"}
+      - {label: "Additional Information", name: "additionalInformation", widget: "boolean", default: true}
+      - {label: "Header Image",   name: "headerImage",    widget: "image",  required: false, default: "/img/digitaler-arbeitspaltz.png"}
+      - {label: "Client",         name: "client",         widget: "string"}
+      - {label: "Client Logo",    name: "clientLogo",     widget: "image"}
+      - {label: "Industry",       name: "industry",       widget: "string",  required: false}
+      - {label: "Service",        name: "service",        widget: "string",  required: false}
+      - {label: "Significant Improvement", name: "significantImprovement", widget: "string",  required: false}
+      - {label: "Quote",          name: "quote",          widget: "object",  required: false, fields: [{label: "Quote Text",  name: "quoteText", widget: "string"}, {label: "Name",  name: "name", widget: "string"}, {label: "Role",  name: "role", widget: "string"}]}
+      - {label: "Featured video", name: "featuredVideo",  widget: "string",  required: false}
+      - {label: "Essential Points", name: "essentialPoints", widget: "list",  required: false,   fields: [{label: "Question",  name: "question", widget: "string"}, {label: "Answer", name: "answer", widget: "markdown"}]}
+      - {label: "Top Posts",      name: "relatedPosts",   widget: "list",  required: false,   fields: [{label: "Post",      name: "post",     widget: "relation", collection: "blog", searchFields: ["name", "title"], valueField: title}]}
   - name: "pages"
     label: "Pages"
     files:
@@ -243,6 +264,18 @@ collections:
           - {label: "ID (to query for)", name: "id", widget: "hidden", default: "main-menu-settings"}
           - label: "Main menu"
             name: "mainMenu"
+            widget: "list"
+            fields:
+              - {name: "title", label: "Title", widget: "string"}
+              - {name: "url", label: "Url", widget: "string"}
+      - name: "portfolioMenuSettings"
+        label: "Portfolio menu"
+        file: "src/settings/portfolio-menu.json"
+        description: "Portfolio menu settings"
+        fields:
+          - {label: "ID (to query for)", name: "id", widget: "hidden", default: "portfolio-menu-settings"}
+          - label: "Portfolio menu"
+            name: "portfolioMenu"
             widget: "list"
             fields:
               - {name: "title", label: "Title", widget: "string"}

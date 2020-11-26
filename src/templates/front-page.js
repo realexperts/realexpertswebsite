@@ -173,7 +173,15 @@ export const frontPageQuery = graphql`
                           frontmatter {
                               title
                           }
-                      }
+                        }
+                        reference {
+                          fields {
+                              slug
+                          }
+                          frontmatter {
+                              client
+                          }
+                        }
                     }
                     frontmatter {
                         title

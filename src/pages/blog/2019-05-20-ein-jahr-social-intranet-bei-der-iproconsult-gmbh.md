@@ -9,7 +9,7 @@ description: >-
   Christin Löffler von unserem Kunden IPROconsult GmbH berichtete bei unserem
   Meetup am 07.02.2019 von ihrer persönlichen Erfahrung der Einführung eines
   Social Intranet.
-category: Intranet
+reference: IPROconsult GmbH
 tags:
   - Kunden
 relatedPosts:

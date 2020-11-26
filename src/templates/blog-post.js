@@ -23,6 +23,7 @@ export const BlogPostTemplate = ({
   relatedPosts,
   socialConfig,
   whitepaper,
+  reference,
   category,
   settings
 }) => {
@@ -39,17 +40,22 @@ export const BlogPostTemplate = ({
         <div className="page-content">
           <div className="content-block-wrapper">
             <div className="content-block">
-              {(category && !whitepaper) && (
+              {(category && !whitepaper && !reference) && (
                 <Link to={category.fields.slug} >
                   <h5>{category.frontmatter.title}</h5>
                 </Link>
               )}
-              {(!category && whitepaper) && (
+              {(!category && whitepaper && !reference) && (
                 <Link to={whitepaper.fields.slug} >
                   <h5>Whitepaper: {whitepaper.frontmatter.title}</h5>
                 </Link>
               )}
-              {(!category && !whitepaper) && (
+              {(!category && !whitepaper && reference) && (
+                <Link to={reference.fields.slug} >
+                  <h5>Referenz: {reference.frontmatter.client}</h5>
+                </Link>
+              )}
+              {(!category && !whitepaper && !reference) && (
                 <Link to="/" >
                   <h5>Fehlt!</h5>
                 </Link>
@@ -118,6 +124,20 @@ export const BlogPostTemplate = ({
                   }
                 </div>
               }
+              {reference &&
+                <div className="blog-post-category">
+                    {reference && reference.fields && reference.fields.slug &&
+                    <Link to={reference.fields.slug}>
+                      <h5>Referenz: {reference.frontmatter.client}</h5>
+                    </Link>}
+                  {reference && reference.frontmatter.significantImprovement &&
+                    <h3>{reference.frontmatter.significantImprovement}</h3>
+                    }
+                  {reference && reference.fields && reference.fields.slug &&
+                  <Link to={reference.fields.slug} className="button-round-blue">Mehr Informationen</Link>
+                  }
+                </div>
+              }
             </div>
           </div>
           {relatedPosts &&
@@ -180,6 +200,15 @@ BlogPostTemplate.propTypes = {
       description: PropTypes.string,
     }),
   }),
+  reference: PropTypes.shape({
+    fields: PropTypes.shape({
+      slug: PropTypes.string,
+    }),
+    frontmatter: PropTypes.shape({
+      client: PropTypes.string,
+      significantImprovement: PropTypes.string,
+    }),
+  }),
   relatedPosts: PropTypes.arrayOf(PropTypes.object),
   socialConfig: PropTypes.shape({
     twitterHandle: PropTypes.string,
@@ -220,6 +249,7 @@ class BlogPost extends React.Component {
           author,
           category,
           whitepaper,
+          reference,
         },
       },
     } = this.props.data;
@@ -260,6 +290,7 @@ class BlogPost extends React.Component {
                         }}
                         category={category}
                         whitepaper={whitepaper}
+                        reference={reference}
                         settings={this.props.data.settings}
                         />
     );
@@ -413,7 +444,16 @@ export const pageQuery = graphql`
               contentTitle
               description
           }
-      }
+        }
+        reference {
+          fields {
+              slug
+          }
+          frontmatter {
+              client
+              significantImprovement
+          }
+        }
       }
       frontmatter {
         title
@@ -421,6 +461,7 @@ export const pageQuery = graphql`
         tags
         category
         whitepaper
+        reference
         date(formatString: "DD.MM.YYYY")
       }
     }

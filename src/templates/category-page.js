@@ -309,6 +309,14 @@ export const categoryPageQuery = graphql`
                                 title
                             }
                         }
+                        reference {
+                            fields {
+                                slug
+                            }
+                            frontmatter {
+                                client
+                            }
+                          }
                         image {
                             childImageSharp {
                                 fluid(maxWidth: 630) {
