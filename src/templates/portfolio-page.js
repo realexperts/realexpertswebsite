@@ -133,6 +133,22 @@ export const portfolioPageQuery = graphql`
                                 title
                             }
                         }
+                        whitepaper {
+                          fields {
+                              slug
+                          }
+                          frontmatter {
+                              title
+                          }
+                        }
+                        reference {
+                          fields {
+                              slug
+                          }
+                          frontmatter {
+                              client
+                          }
+                        }
                         image {
                             childImageSharp {
                                 fluid(maxWidth: 1000) {

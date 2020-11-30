@@ -22,6 +22,8 @@ export const BlogPostTemplate = ({
   author,
   relatedPosts,
   socialConfig,
+  whitepaper,
+  reference,
   category,
   settings
 }) => {
@@ -38,12 +40,22 @@ export const BlogPostTemplate = ({
         <div className="page-content">
           <div className="content-block-wrapper">
             <div className="content-block">
-              {category && (
+              {(category && !whitepaper && !reference) && (
                 <Link to={category.fields.slug} >
                   <h5>{category.frontmatter.title}</h5>
                 </Link>
               )}
-              {!category && (
+              {(!category && whitepaper && !reference) && (
+                <Link to={whitepaper.fields.slug} >
+                  <h5>Whitepaper: {whitepaper.frontmatter.title}</h5>
+                </Link>
+              )}
+              {(!category && !whitepaper && reference) && (
+                <Link to={reference.fields.slug} >
+                  <h5>Referenz: {reference.frontmatter.client}</h5>
+                </Link>
+              )}
+              {(!category && !whitepaper && !reference) && (
                 <Link to="/" >
                   <h5>Fehlt!</h5>
                 </Link>
@@ -78,21 +90,54 @@ export const BlogPostTemplate = ({
                 </div>
                 <div></div>
               </div>
-              <div className="blog-post-category">
-                  {category && category.fields && category.fields.slug &&
-                  <Link to={category.fields.slug}>
-                    <h5>{category.frontmatter.title}</h5>
-                  </Link>}
-                {category && category.frontmatter.contentTitle &&
-                  <h3>{category.frontmatter.contentTitle}</h3>
+              {category &&
+                <div className="blog-post-category">
+                    {category && category.fields && category.fields.slug &&
+                    <Link to={category.fields.slug}>
+                      <h5>{category.frontmatter.title}</h5>
+                    </Link>}
+                  {category && category.frontmatter.contentTitle &&
+                    <h3>{category.frontmatter.contentTitle}</h3>
+                    }
+                  {category && category.frontmatter.description &&
+                  <p>{category.frontmatter.description}</p>
                   }
-                {category && category.frontmatter.description &&
-                <p>{category.frontmatter.description}</p>
-                }
-                {category && category.fields && category.fields.slug &&
-                <Link to={category.fields.slug} className="button-round-blue">Mehr erfahren</Link>
-                }
-              </div>
+                  {category && category.fields && category.fields.slug &&
+                  <Link to={category.fields.slug} className="button-round-blue">Mehr erfahren</Link>
+                  }
+                </div>
+              }
+              {whitepaper &&
+                <div className="blog-post-category">
+                    {whitepaper && whitepaper.fields && whitepaper.fields.slug &&
+                    <Link to={whitepaper.fields.slug}>
+                      <h5>Whitepaper: {whitepaper.frontmatter.title}</h5>
+                    </Link>}
+                  {whitepaper && whitepaper.frontmatter.contentTitle &&
+                    <h3>{whitepaper.frontmatter.contentTitle}</h3>
+                    }
+                  {whitepaper && whitepaper.frontmatter.description &&
+                  <p>{whitepaper.frontmatter.description}</p>
+                  }
+                  {whitepaper && whitepaper.fields && whitepaper.fields.slug &&
+                  <Link to={whitepaper.fields.slug} className="button-round-blue">Zum Download</Link>
+                  }
+                </div>
+              }
+              {reference &&
+                <div className="blog-post-category">
+                    {reference && reference.fields && reference.fields.slug &&
+                    <Link to={reference.fields.slug}>
+                      <h5>Referenz: {reference.frontmatter.client}</h5>
+                    </Link>}
+                  {reference && reference.frontmatter.significantImprovement &&
+                    <h3>{reference.frontmatter.significantImprovement}</h3>
+                    }
+                  {reference && reference.fields && reference.fields.slug &&
+                  <Link to={reference.fields.slug} className="button-round-blue">Mehr Informationen</Link>
+                  }
+                </div>
+              }
             </div>
           </div>
           {relatedPosts &&
@@ -145,6 +190,25 @@ BlogPostTemplate.propTypes = {
       description: PropTypes.string,
     }),
   }),
+  whitepaper: PropTypes.shape({
+    fields: PropTypes.shape({
+      slug: PropTypes.string,
+    }),
+    frontmatter: PropTypes.shape({
+      title: PropTypes.string,
+      contentTitle: PropTypes.string,
+      description: PropTypes.string,
+    }),
+  }),
+  reference: PropTypes.shape({
+    fields: PropTypes.shape({
+      slug: PropTypes.string,
+    }),
+    frontmatter: PropTypes.shape({
+      client: PropTypes.string,
+      significantImprovement: PropTypes.string,
+    }),
+  }),
   relatedPosts: PropTypes.arrayOf(PropTypes.object),
   socialConfig: PropTypes.shape({
     twitterHandle: PropTypes.string,
@@ -184,6 +248,8 @@ class BlogPost extends React.Component {
           slug,
           author,
           category,
+          whitepaper,
+          reference,
         },
       },
     } = this.props.data;
@@ -223,6 +289,8 @@ class BlogPost extends React.Component {
                           },
                         }}
                         category={category}
+                        whitepaper={whitepaper}
+                        reference={reference}
                         settings={this.props.data.settings}
                         />
     );
@@ -367,12 +435,33 @@ export const pageQuery = graphql`
                 description
             }
         }
+        whitepaper {
+          fields {
+              slug
+          }
+          frontmatter {
+              title
+              contentTitle
+              description
+          }
+        }
+        reference {
+          fields {
+              slug
+          }
+          frontmatter {
+              client
+              significantImprovement
+          }
+        }
       }
       frontmatter {
         title
         description
         tags
         category
+        whitepaper
+        reference
         date(formatString: "DD.MM.YYYY")
       }
     }

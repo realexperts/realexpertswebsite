@@ -54,11 +54,16 @@
 
         .featured-video-wrapper,
         .category-info-box-wrapper,
+        .content-block-wrapper-essential-points,
         .portfolio-categories-wrapper{
           margin-left: -20px;
           margin-right: -20px;
           padding-left: 20px;
           padding-right: 20px;
+        }
+
+        .essential-points-content:hover{
+          pointer-events: none;
         }
 
         .success-stories-wrapper {
@@ -116,6 +121,10 @@
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
 
+  .overview-reference{
+    pointer-events: none;
+  }
+
   .content {
     height: 100%;
     overflow: hidden;
@@ -166,8 +175,8 @@
         }
 
         .navigation-bar-burger {
-          width: 80px;
-          height: 80px;
+          width: 70px;
+          height: 70px;
           display: block;
           position: absolute;
           right: 20px;
@@ -187,24 +196,36 @@
           flex-direction: column;
           padding: 20px 0;
 
-          transition: all 0.4s;
+          transition: all 0.4s ease;
+
+          .navigation-sub-menu{
+            width: 2000px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+          }
 
           &.is-active {
-            transition: all 0.4s;
+            transition: all 0.4s ease;
             opacity: 1;
             top: 100px;
           }
 
           .navigation-bar-item {
-            margin: 0 auto;
+            margin: 0;
+            font-size: larger;
             justify-content: center;
             padding: 10px;
             color: $primary;
             top: 0;
+            transition: all 0.4s ease;
 
             &.is-active {
               color: $secondary;
             }
+          }
+
+          .navigation-bar-item:hover{
+            margin-left: 10px;
           }
         }
       }
@@ -397,6 +418,18 @@
           }
         }
 
+        .content-block-wrapper-essential-points{
+          width: auto;
+          margin-left: 0;
+          margin-right: 0;
+          padding-left: 30px;
+          padding-right: 30px;
+        }
+
+        .essential-points-content:hover{
+          pointer-events: none;
+        }
+
         .statements-wrapper {
 
           padding: 65px 30px 0;
@@ -420,6 +453,7 @@
 
             .statement {
               flex-direction: column;
+              max-width: 400px;
 
               .statement-image {
                 .gatsby-image-wrapper {
@@ -851,6 +885,33 @@
 
 @media screen and (max-width: 480px) {
 
+  .overview-reference{
+    pointer-events: none;
+  }
+
+  .client-image{
+    min-width: 250px;
+  }
+
+  .horizontal-posts-list {
+    .client-image{
+      min-width: 250px;
+    }
+  
+    .reference-post.normal {
+      .reference-list-image-container{
+        width: 300px;
+        height: 150px;
+      }
+  
+      .reference-list-image-container-no-link{
+        width: 300px;
+        height: 150px;
+      }
+    }
+  }
+  
+
   .content {
     height: 100%;
     overflow: hidden;
@@ -916,8 +977,8 @@
 
         .navigation-bar-burger {
           max-width: 20%;
-          width: 80px;
-          height: 80px;
+          width: 70px;
+          height: 70px;
           display: block;
           position: absolute;
           right: 10px;
@@ -930,17 +991,24 @@
           overflow: hidden;
           background-color: #dfe5f0;
           left: 0;
-          top: -100%;
+          top: -200%;
           opacity: 1;
           margin: 0 0;
           display: flex;
           flex-direction: column;
           padding: 20px 0;
 
-          transition: all 0.4s;
+          transition: all 0.4s ease;
+
+          .navigation-sub-menu{
+            width: 2000px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+          }
+
 
           &.is-active {
-            transition: all 0.4s;
+            transition: all 0.4s ease;
             opacity: 1;
             top: 100px;
           }
@@ -948,15 +1016,21 @@
           .navigation-bar-item {
             margin: 0;
             justify-content: center;
-            padding: 10px;
+            padding: 20px;
             color: $primary;
+            //border: 1px solid #cacaca;
             top: 0;
-            font-size: 15px;
+            //font-size: 15px;
+            font-size: larger;
             line-height: 12px;
+            transition: all 0.4s ease;
 
             &.is-active {
               color: $secondary;
             }
+          }
+          .navigation-bar-item:hover{
+            margin-left: 10px;
           }
         }
       }
@@ -1175,6 +1249,16 @@
           }
         }
 
+        .content-block-wrapper-essential-points{
+          width: 100%;
+          margin: 0;
+          padding: 20px;
+        }
+
+        .essential-points-content:hover{
+          pointer-events: none;
+        }
+
         .statements-wrapper {
 
           padding: 65px 0 40px 0;
@@ -1198,6 +1282,7 @@
 
             .statement {
               flex-direction: column;
+              max-width: 320px;
 
               .statement-image {
                 .gatsby-image-wrapper {

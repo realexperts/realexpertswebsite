@@ -18,7 +18,7 @@ import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
 
-export const CategoryPageTemplate = ({ data, settings }) => {
+export const WhitepaperPageTemplate = ({ data, settings }) => {
 
     const thesisElements = data.frontmatter.thesis.map((thesisElement, key) => (
         <div key={key} className={`thesis ${thesisElement.highlighted ? 'highlighted' : 'normal'}`}>
@@ -55,13 +55,13 @@ export const CategoryPageTemplate = ({ data, settings }) => {
         ));
     }
 
-    let statements = [];
-    if (data.frontmatter.statements) {
-        statements = data.frontmatter.statements.map((statement, key) => (
+    let authors = [];
+    if (data.frontmatter.authors) {
+        authors = data.frontmatter.authors.map((author, key) => (
             <Slide index={key} key={key}>
                 <div className="statement">
                     <div className="statement-image">
-                        <Img fluid={data.fields.statementsImages[key].childImageSharp.fluid}
+                        <Img fluid={data.fields.authorsImages[key].childImageSharp.fluid}
                             imgStyle={{ objectFit: 'contain' }} />
                     </div>
                     <div className="statement-message">
@@ -70,11 +70,11 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                                 __html: remark()
                                     .use(recommended)
                                     .use(remarkHtml)
-                                    .processSync(("\"" + statement.body + "\"")).toString()
+                                    .processSync(("\"" + author.body + "\"")).toString()
                             }}>
                             </span>
                         </span>
-                        <span className="statement-author" dangerouslySetInnerHTML={{ __html: statement.author }}></span>
+                        <span className="statement-author" dangerouslySetInnerHTML={{ __html: author.name }}></span>
                     </div>
                 </div>
             </Slide>
@@ -108,13 +108,13 @@ export const CategoryPageTemplate = ({ data, settings }) => {
         }
     }
 
-    console.log(statements);
+    console.log(authors);
 
     return (
         <Layout>
             <section className='category' lang="de">
                 {seoTags}
-                <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
+                <Helmet title={`Whitepaper: ${data.frontmatter.title} | ${settings.global.title}`} link={[
                     { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
                 ]} />
                 <div className="hero">
@@ -124,7 +124,12 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                         }}
                         fluid={data.frontmatter.headerImage.childImageSharp.fluid}>
                         <div className="claim">
-                            <h3>{data.frontmatter.title}</h3>
+                            <h3>     
+                                <Link to={'/whitepaper'}>
+                                   <h3 style={{display: 'inline'}}>Whitepaper</h3> 
+                                </Link>
+                                {": "+data.frontmatter.title}
+                            </h3>
                             <h1>{data.frontmatter.contentTitle}</h1>
                             <p>{data.frontmatter.description}</p>
                         </div>
@@ -145,6 +150,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                                         <ReactPlayer url={data.frontmatter.video}
                                             width='100%'
                                             height='100%'
+                                            controls='true'
                                             style={{
                                                 position: 'absolute',
                                                 top: '0',
@@ -205,20 +211,27 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                         </div>
                     }
 
-                    {statements.length > 0 &&
+                    {data.frontmatter.whitepaperFile.length > 0 ?
+                        <a href={data.frontmatter.whitepaperFile} download className="download-button">Download &dArr;</a>
+                        :
+                        <a className="download-button disabled">Bald verfügbar</a>
+                    }
+
+                    {authors.length > 0 &&
                         <div className="statements-wrapper">
+                            <h2>Autoren</h2>
                             <div className="statements-content">
 
                                 <CarouselProvider
                                     naturalSlideWidth={100}
-                                    naturalSlideHeight={20}
-                                    totalSlides={statements.length}
+                                    naturalSlideHeight={42}
+                                    totalSlides={authors.length}
                                 >
                                     <div className="back-button-wrapper">
                                         <ButtonBack><img src={sliderLeft} alt="Zurück" /></ButtonBack>
                                     </div>
                                     <Slider>
-                                        {statements}
+                                        {authors}
                                     </Slider>
                                     <div className="next-button-wrapper">
                                         <ButtonNext><img src={sliderRight} alt="Weiter" /></ButtonNext>
@@ -244,7 +257,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
     );
 };
 
-CategoryPageTemplate.propTypes = {
+WhitepaperPageTemplate.propTypes = {
     title: PropTypes.string,
     contentTitle: PropTypes.string,
     description: PropTypes.string,
@@ -257,29 +270,29 @@ CategoryPageTemplate.propTypes = {
     successStoriesTitle: PropTypes.string,
     successStories: PropTypes.arrayOf(PropTypes.object),
     infoBox: PropTypes.arrayOf(PropTypes.object),
-    statements: PropTypes.arrayOf(PropTypes.object),
+    authors: PropTypes.arrayOf(PropTypes.object),
     relatedPosts: PropTypes.arrayOf(PropTypes.object),
 };
 
-const CategoryPage = ({ data }) => {
+const WhitepaperPage = ({ data }) => {
     const {
         settings,
         markdownRemark: post
     } = data;
 
     return (
-        <CategoryPageTemplate contentComponent={HTMLContent} data={post} settings={settings} />
+        <WhitepaperPageTemplate contentComponent={HTMLContent} data={post} settings={settings} />
     );
 };
 
-CategoryPage.propTypes = {
+WhitepaperPage.propTypes = {
     data: PropTypes.object.isRequired,
 };
 
-export default CategoryPage;
+export default WhitepaperPage;
 
-export const categoryPageQuery = graphql`
-    query CategoryPage($id: String!) {
+export const whitepaperPageQuery = graphql`
+    query WhitepaperPage($id: String!) {
         settings: settingsJson(id: {eq: "general-settings"}) {
             global {
                 title
@@ -351,7 +364,7 @@ export const categoryPageQuery = graphql`
                         }
                     }
                 }
-                statementsImages {
+                authorsImages {
                     childImageSharp {
                         fluid(maxWidth: 200) {
                             ...GatsbyImageSharpFluid
@@ -388,8 +401,9 @@ export const categoryPageQuery = graphql`
                     body
                     image
                 }
-                statements {
-                    author
+                whitepaperFile
+                authors {
+                    name
                     body
                 }
                 relatedPosts {

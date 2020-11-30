@@ -15,6 +15,7 @@ import FooterNewsletterForm from './FooterNewsletterForm';
 
 const TemplateWrapper = ({children, noHeader}) => {
   const path = globalHistory.location.pathname;
+  console.log(path);
 
   return (
     <div className={noHeader ? "content no-header" : "content"}>
@@ -28,7 +29,7 @@ const TemplateWrapper = ({children, noHeader}) => {
       <main>
         {children}
       </main>
-      {path.indexOf("kontakt") === -1 &&
+      {//((path.indexOf("kontakt") === -1) && (path.indexOf("whitepaper") === -1)) &&
         <FooterNewsletterForm/>
       }
       <FooterLinks/>

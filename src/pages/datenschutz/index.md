@@ -2,11 +2,9 @@
 templateKey: simple-page
 title: Datenschutzerklärung
 ---
-Datenschutzerklärung
-====================
+# Datenschutzerklärung
 
-1\. Datenschutz auf einen Blick
--------------------------------
+## 1. Datenschutz auf einen Blick
 
 ### Allgemeine Hinweise
 
@@ -34,8 +32,7 @@ Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft, Empfänger 
 
 Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Details hierzu entnehmen Sie der Datenschutzerklärung unter „Recht auf Einschränkung der Verarbeitung“.
 
-2\. Allgemeine Hinweise und Pflichtinformationen
-------------------------------------------------
+## 2. Allgemeine Hinweise und Pflichtinformationen
 
 ### Datenschutz
 
@@ -49,11 +46,11 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Real Experts Network GmbH  
-Kraftwerk Mitte 7  
+Real Experts Network GmbH\
+Kraftwerk Mitte 7\
 01067 Dresden
 
-Telefon: +49 (0) 351-41 88 24 11  
+Telefon: +49 (0) 351-41 88 24 11\
 E-Mail: office@realexperts.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
@@ -90,15 +87,14 @@ Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht 
 
 Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
 
-*   Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-*   Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah / geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
-*   Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-*   Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+* Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+* Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah / geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
+* Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+* Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 
 Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
 
-3\. Datenerfassung auf unserer Website
---------------------------------------
+## 3. Datenerfassung auf unserer Website
 
 ### Cookies
 
@@ -114,19 +110,18 @@ Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zu
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
 
-*   Browsertyp und Browserversion
-*   verwendetes Betriebssystem
-*   Referrer URL
-*   Hostname des zugreifenden Rechners
-*   Uhrzeit der Serveranfrage
-*   IP-Adresse
+* Browsertyp und Browserversion
+* verwendetes Betriebssystem
+* Referrer URL
+* Hostname des zugreifenden Rechners
+* Uhrzeit der Serveranfrage
+* IP-Adresse
 
 Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
 
 Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website – hierzu müssen die Server-Log-Files erfasst werden.
 
-4\. Plugins und Tools
----------------------
+## 4. Plugins und Tools
 
 ### YouTube mit erweitertem Datenschutz
 
@@ -142,19 +137,7 @@ Gegebenenfalls können nach dem Start eines YouTube-Videos weitere Datenverarbei
 
 Die Nutzung von YouTube erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
-Weitere Informationen über Datenschutz bei YouTube finden Sie in deren Datenschutzerklärung unter: [https://www.youtube.com/t/privacy\_at\_youtube](https://www.youtube.com/t/privacy_at_youtube).
-
-### Vimeo
-
-Unsere Website nutzt Plugins des Videoportals Vimeo. Anbieter ist die Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
-
-Wenn Sie eine unserer mit einem Vimeo-Plugin ausgestatteten Seiten besuchen, wird eine Verbindung zu den Servern von Vimeo hergestellt. Dabei wird dem Vimeo-Server mitgeteilt, welche unserer Seiten Sie besucht haben. Zudem erlangt Vimeo Ihre IP-Adresse. Dies gilt auch dann, wenn Sie nicht bei Vimeo eingeloggt sind oder keinen Account bei Vimeo besitzen. Die von Vimeo erfassten Informationen werden an den Vimeo-Server in den USA übermittelt.
-
-Wenn Sie in Ihrem Vimeo-Account eingeloggt sind, ermöglichen Sie Vimeo, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen. Dies können Sie verhindern, indem Sie sich aus Ihrem Vimeo-Account ausloggen.
-
-Die Nutzung von Vimeo erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
-
-Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Vimeo unter: [https://vimeo.com/privacy](https://vimeo.com/privacy).
+Weitere Informationen über Datenschutz bei YouTube finden Sie in deren Datenschutzerklärung unter: <https://www.youtube.com/t/privacy_at_youtube>.
 
 ### Google Web Fonts
 
@@ -164,7 +147,7 @@ Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern 
 
 Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.
 
-Weitere Informationen zu Google Web Fonts finden Sie unter [https://developers.google.com/fonts/faq](https://developers.google.com/fonts/faq) und in der Datenschutzerklärung von Google: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
+Weitere Informationen zu Google Web Fonts finden Sie unter <https://developers.google.com/fonts/faq> und in der Datenschutzerklärung von Google: <https://www.google.com/policies/privacy/>.
 
 ### Google Maps
 
@@ -174,7 +157,32 @@ Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu 
 
 Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
-Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
+Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: <https://www.google.de/intl/de/policies/privacy/>.
 
-### Empfehlungsbund-Stellenanzeigen-Widget
-Wir verwenden das Empfehlungsbund-Stellenanzeigen-Widget der pludoni GmbH (Pillnitzer Landstraße 73 b, 01326 Dresden, Deutschland) ein, um Stellenanzeigen unserer Firma anzuzeigen. Sofern Sie der Darstellung nicht zustimmen, wird weder eine Verbindung zu einem externen Server aufgebaut noch personenebezogene Daten erhoben oder übermittelt. Sollten Sie der Anzeige zustimmen, erfolgt ein einmaliger sicherer Verbindungsaufbau via HTTPS zu https://bms.empfehlungsbund.de. Dabei werden Logfiles angelegt, die Zugriffsdaten (Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.) beinhalten. Die Erhebung dieser Logfiles wird auf Grundlage unserer berechtigten Interessen (Fehlerbehebung) im Sinne des Art. 6 Abs. 1 lit. f. DSGVO durchgeführt. Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen. Detallierte Informationen entnehmen Sie bitte der gesonderten Datenschutzerklärung (https://bms.empfehlungsbund.de/datenschutz#stellenanzeigen-widget) der pludoni GmbH.
+### Mailchimp
+
+Für den Newsletter wird “Mailchimp”, eine Newsletterversandplattform des US-Anbieters Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA, verwendet. Die datenschutzrechtlich zulässige Verarbeitung von personenbezogenen Daten durch Mailchimp wird durch die Privacy Shield Zertifizierung sichergestellt (https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG).
+
+Die erfassten Daten werden auf Mailchimp Servern in den USA gespeichert. Primär handelt es sich dabei um die E-Mail Adresse, welche wir ausschließlich zum Versand unseres Newsletters verwenden. Im Falle von Landingpages oder besonderen Aktionen können weitere Eingabedaten erfasst werden. Die konkrete Nutzung dieser Daten ist im einzelnen auf den entsprechenden Seiten beschrieben. Eine Abmeldung ist über den entsprechenden Link in den Newsletter-E-Mails möglich. Des Weiteren können Sie uns auch unter der im Impressum angegebenen Adresse schreiben. Mit der Abmeldung widersprechen Sie der Nutzung Ihrer Daten.
+
+Neben den eingegebenen Daten wird außerdem aufgenommen, auf welcher Seite die Anmeldung erfolgt ist. Um die Anmeldung zum Newsletter nachweisen zu können, wird von Mailchimp außerdem die IP-Adresse und das Datum der Anmeldung gespeichert. Darauf haben wir keinen Einfluss. Die IP-Adresse wird darüber hinaus jedoch nicht von uns genutzt.
+
+Wenn Sie bei Newsletter E-Mails die Darstellung der E-Mail im Browser auswählen, kommt von Mailchimp das Web-Analyse-Tool Google Analytics zum Einsatz. Über die Verwendung von diesem haben wir keinen Einfluss. Auch auf die Analytics Auswertungen haben wir keinen Zugriff.
+
+**Statistische Erhebung und Analysen**
+
+In jeder Newsletter E-Mail ist ein sogenanter “web-beacon” enthalten. Dabei handelt es sich um eine pixelgroße Datei, die beim Öffnen der E-Mail von Mailchimp Servern abgerufen wird. Dadurch werden technische Informationen, wie Informationen zum Browser und Ihrem System, als auch der Zeitpunkt des Abrufs und Ihre IP-Adresse erhoben. Diese Daten werde von Mailchimp zur technischen Verbesserung der Services benutzt.
+
+Des Weiteren wird festgestellt, ob und wann die Newsletter E-Mails geöffnet werden und welche Links geklickt werden. Aus technischen Gründen ist zwar die Zuordnung von einzelnen Newsletterempfängern möglich. Es ist jedoch weder von uns oder von Mailchimp das Bestreben, einzelne Nutzer zu beobachten. Die Statistik dient für uns dazu, Lesegewohnheiten zu erkennen und unsere Inhalte anzupassen.
+
+Die Datenschutzbestimmungen von MailChimp finden Sie hier:<https://mailchimp.com/legal/privacy>
+
+### Podigee Podcast-Hosting
+
+Wir nutzen den Podcast-Hosting-Dienst Podigee des Anbieters Podigee GmbH, Ritterstraße 2A, 10969 Berlin, Deutschland. Die Podcasts werden dabei von Podigee geladen oder über Podigee übertragen.
+
+Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Optimierung unseres Podcastangebotes gem. Art. 6 Abs. 1 lit. f. DSGVO. 
+
+Podigee verarbeitet IP-Adressen und Geräteinformationen, um Podcast-Downloads/Wiedergaben zu ermöglichen und statistische Daten, wie z.B. Abrufzahlen zu ermitteln. Diese Daten werden vor der Speicherung in der Datenbank von Podigee anonymisiert oder pseudonymisiert, sofern Sie für die Bereitstellung der Podcasts nicht erforderlich sind.
+
+Weitere Informationen und Widerspruchsmöglichkeiten finden sich in der Datenschutzerklärung von Podigee:  <https://www.podigee.com/de/about/privacy/>. 

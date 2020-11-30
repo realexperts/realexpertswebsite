@@ -85,6 +85,35 @@ exports.sourceNodes = ({actions, getNodes, getNode}) => {
         }
       }
 
+      if (node.frontmatter.whitepaper) {
+        const postNode = allNodes.find(someNode =>
+          someNode.internal.type === 'MarkdownRemark' &&
+          someNode.frontmatter.title === node.frontmatter.whitepaper,
+        );
+        if (postNode) {
+          createNodeField({
+            node,
+            name: 'whitepaper',
+            value: postNode.id,
+          });
+        }
+      }
+
+      
+      if (node.frontmatter.reference) {
+        const postNode = allNodes.find(someNode =>
+          someNode.internal.type === 'MarkdownRemark' &&
+          someNode.frontmatter.client === node.frontmatter.reference,
+        );
+        if (postNode) {
+          createNodeField({
+            node,
+            name: 'reference',
+            value: postNode.id,
+          });
+        }
+      }
+
       if (node.frontmatter.categories) {
         const resolvedCategories = [];
         node.frontmatter.categories.map(category => {
@@ -221,6 +250,54 @@ exports.createPages = ({actions, graphql}) => {
         });
       });
 
+      // Create whitepaper list pages
+      const whitepapersPerPage = 6;
+      const extraWhitepapersOnStartPage = 4;
+      const whitepaperPages = pages.filter(page => page.node.frontmatter.templateKey === 'whitepaper-page');
+      const numPages2 = Math.ceil(whitepaperPages.length / whitepapersPerPage);
+
+      Array.from({length: numPages2}).forEach((_, i) => {
+
+        let numShown = i === 0 ? whitepapersPerPage - extraWhitepapersOnStartPage : whitepapersPerPage;
+        let numSkip = i === 0 ? 0 : extraWhitepapersOnStartPage + i * whitepapersPerPage;
+
+        createPage({
+          path: i === 0 ? `/whitepaper/` : `/whitepaper/${i + 1}`,
+          component: path.resolve('./src/templates/whitepaper.js'),
+          context: {
+            limit: whitepapersPerPage,
+            skip: i * whitepapersPerPage,
+            numPages2,
+            currentPage: i + 1,
+            slug: i === 0 ? `/whitepaper/` : `/whitepaper/${i + 1}`
+          },
+        });
+      });
+
+      // Create references list pages
+      const referencesPerPage = 12;
+      const extraReferencesOnStartPage = 4;
+      const referencePages = pages.filter(page => page.node.frontmatter.templateKey === 'reference-page');
+      const numPages3 = Math.ceil(referencePages.length / referencesPerPage);
+
+      Array.from({length: numPages3}).forEach((_, i) => {
+
+        let numShown = i === 0 ? referencesPerPage - extraReferencesOnStartPage : referencesPerPage;
+        let numSkip = i === 0 ? 0 : extraReferencesOnStartPage + i * referencesPerPage;
+
+        createPage({
+          path: i === 0 ? `/reference/` : `/reference/${i + 1}`,
+          component: path.resolve('./src/templates/reference.js'),
+          context: {
+            limit: referencesPerPage,
+            skip: i * referencesPerPage,
+            numPages3,
+            currentPage: i + 1,
+            slug: i === 0 ? `/reference/` : `/reference/${i + 1}`
+          },
+        });
+      });
+
       // Tag pages:
       let tags = [];
       // Iterate through each post, putting all found tags into `tags`
@@ -302,6 +379,30 @@ exports.onCreateNode = ({node, actions, getNode}) => {
       }
     }
 
+    if (node.frontmatter.clientLogo) {
+      let imagePath = node.frontmatter.clientLogo;
+      if (node.frontmatter.clientLogo.startsWith('/img/')) {
+        imagePath = `../../../static${node.frontmatter.clientLogo}`;
+        createNodeField({
+          name: `clientLogo`,
+          node,
+          value: imagePath,
+        });
+      }
+    }
+
+    if (node.frontmatter.thumbnail) {
+      let imagePath = node.frontmatter.thumbnail;
+      if (node.frontmatter.thumbnail.startsWith('/img/')) {
+        imagePath = `../../../static${node.frontmatter.thumbnail}`;
+        createNodeField({
+          name: `thumbnail`,
+          node,
+          value: imagePath,
+        });
+      }
+    }
+
     if (node.frontmatter.infoBox && node.frontmatter.infoBox.image) {
       let imagePath = node.frontmatter.infoBox.image;
       if (node.frontmatter.infoBox.image.startsWith('/img/')) {
@@ -342,11 +443,25 @@ exports.onCreateNode = ({node, actions, getNode}) => {
 
     }
 
+    if (node.frontmatter.authors && node.frontmatter.authors.length > 0) {
+
+      const authorsImages = node.frontmatter.authors.map(author => {
+        return `../../../static${author.image}`
+      });
+
+      createNodeField({
+        node,
+        name: 'authorsImages',
+        value: authorsImages,
+      });
+
+    }
+
   }
 
   const {frontmatter} = node;
   if (frontmatter) {
-    const {headerImage, statements} = frontmatter;
+    const {headerImage, statements, authors, clientLogo, thumbnail} = frontmatter;
     if (headerImage) {
       if (headerImage.indexOf('/img') === 0) {
         frontmatter.headerImage = path.relative(
@@ -364,6 +479,32 @@ exports.onCreateNode = ({node, actions, getNode}) => {
           );
         }
       });
+    }
+    if(authors){
+      authors.forEach((author) => {
+        if(author.image && author.image.indexOf('/img') === 0){
+          author.image = path.relative(
+            path.dirname(node.fileAbsolutePath),
+            path.join(__dirname, '/static/', author.image),
+          );
+        }
+      });
+    }
+    if (clientLogo) {
+      if (clientLogo.indexOf('/img') === 0) {
+        frontmatter.clientLogo = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', clientLogo),
+        );
+      }
+    }
+    if (thumbnail) {
+      if (thumbnail.indexOf('/img') === 0) {
+        frontmatter.thumbnail = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', thumbnail),
+        );
+      }
     }
   }
 

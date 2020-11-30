@@ -105,6 +105,8 @@ BlogIndexPage.propTypes = {
             slug: PropTypes.string,
             image: PropTypes.object,
             category: PropTypes.object,
+            whitepaper: PropTypes.object,
+            reference: PropTypes.object,
           }),
         })),
       }),
@@ -146,6 +148,22 @@ export const pageQuery = graphql`
                   title
               }
             }
+            whitepaper {
+              fields {
+                  slug
+              }
+              frontmatter {
+                  title
+              }
+            }
+            reference {
+              fields {
+                  slug
+              }
+              frontmatter {
+                  client
+              }
+            }
             image {
               id
               childImageSharp {
@@ -177,6 +195,22 @@ export const pageQuery = graphql`
                 frontmatter {
                     title
                 }
+            }
+            whitepaper {
+              fields {
+                  slug
+              }
+              frontmatter {
+                  title
+              }
+            }
+            reference {
+              fields {
+                  slug
+              }
+              frontmatter {
+                  client
+              }
             }
             image {
               childImageSharp {
