@@ -694,11 +694,6 @@ main {
             -o-user-select: none;
             user-select: none;
             transition: all 0.5s ease;
-
-            &:hover{
-              box-shadow: 0 3px 10px black;
-              transform: translateY(-5px);
-            }
           }
 
           ul{

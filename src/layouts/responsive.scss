@@ -121,6 +121,10 @@
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
 
+  .overview-reference{
+    pointer-events: none;
+  }
+
   .content {
     height: 100%;
     overflow: hidden;
@@ -880,6 +884,10 @@
 // Smartphone
 
 @media screen and (max-width: 480px) {
+
+  .overview-reference{
+    pointer-events: none;
+  }
 
   .client-image{
     min-width: 250px;
