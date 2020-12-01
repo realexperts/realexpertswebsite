@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import { graphql, Link } from 'gatsby';
+import { withPrefix, graphql, Link } from 'gatsby';
 import ReactPlayer from 'react-player';
 import BlogPostTeaser from '../components/BlogPostTeaser';
 import Layout from '../components/layout';
@@ -9,6 +9,8 @@ import Layout from '../components/layout';
 import favicon from '../img/favicon.ico';
 import BackgroundImage from 'gatsby-background-image';
 import SEO from '../components/SEO';
+
+import * as klaro from 'klaro/dist/klaro-no-css'
 
 export const FrontPageTemplate = ({
   title,
@@ -53,7 +55,15 @@ export const FrontPageTemplate = ({
         ]} bodyAttributes={{
           class: 'front-page',
         }}>
-         <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="178192ac-766f-4cab-a110-039ac99eaf64" type="text/javascript" async></script>
+         {/* <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="178192ac-766f-4cab-a110-039ac99eaf64" type="text/javascript" async></script> */}
+         {/* <script defer type="application/javascript"
+          src={withPrefix('klaro-config.js')}></script>
+          <script 
+              defer
+              data-config="klaroConfig"
+              type="application/javascript"
+              src="https://cdn.kiprotect.com/klaro/v0.7/klaro.js">
+          </script> */}
           </Helmet>
         <div className="hero">
           <BackgroundImage Tag="div" style={{
@@ -99,7 +109,6 @@ export const FrontPageTemplate = ({
               {topPosts}
             </div>
           </div>
-
         </div>
 
       </section>

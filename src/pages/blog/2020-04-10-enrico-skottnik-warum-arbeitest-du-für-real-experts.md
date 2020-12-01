@@ -17,4 +17,4 @@ tags:
 ---
 In unserem Podcast spricht Enrico Skottnik darüber warum er bei Real Experts arbeitet. 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/767921434&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" data-name="Soundcloud" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/767921434&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>

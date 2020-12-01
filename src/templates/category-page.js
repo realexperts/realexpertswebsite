@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../components/layout';
-import { graphql, Link } from 'gatsby';
+import {  withPrefix, graphql, Link } from 'gatsby';
 import { HTMLContent } from '../components/Content';
 import Helmet from 'react-helmet';
 import favicon from '../img/favicon.ico';
@@ -116,7 +116,16 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                 {seoTags}
                 <Helmet title={`${data.frontmatter.title} | ${settings.global.title}`} link={[
                     { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
-                ]} />
+                ]} >
+                    {/* <script defer type="application/javascript"
+                        src={withPrefix('klaro-config.js')}></script>
+                    <script
+                        defer
+                        data-config="klaroConfig"
+                        type="application/javascript"
+                        src="https://cdn.kiprotect.com/klaro/v0.7/klaro.js">
+                    </script> */}
+                </Helmet>
                 <div className="hero">
                     <BackgroundImage Tag="div"
                         style={{

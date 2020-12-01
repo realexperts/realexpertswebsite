@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import { Link } from 'gatsby';
+import { withPrefix, Link } from 'gatsby';
 
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
@@ -23,8 +23,18 @@ const TemplateWrapper = ({children, noHeader}) => {
         /* script={[
           {'id': 'Cookiebot', 'src': 'https://consent.cookiebot.com/uc.js', 'data-cbid': '178192ac-766f-4cab-a110-039ac99eaf64', 'data-blockingmode': 'auto', 'type': 'text/javascript', 'async':'false'}
         ]} */
+        
         title="Home | Gatsby + Netlify CMS"
-      />
+      >
+        <script defer type="application/javascript"
+          src={withPrefix('klaro-config.js')}></script>
+          <script 
+              defer
+              data-config="klaroConfig"
+              type="application/javascript"
+              src="https://cdn.kiprotect.com/klaro/v0.7/klaro.js">
+          </script>        
+      </Helmet>
       <header id="header-main"><Navbar/></header>
       <main>
         {children}

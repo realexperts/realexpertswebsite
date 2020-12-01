@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Content, { HTMLContent } from '../components/Content';
 import favicon from '../img/favicon.ico';
 import Helmet from 'react-helmet';
-import { graphql } from 'gatsby';
+import { withPrefix, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import { globalHistory } from "@reach/router"
 import CookieSettings from '../components/CookieSettings';
@@ -18,7 +18,15 @@ export const SimplePageTemplate = ({ title, content, contentComponent, settings 
         <Helmet title={`${title}  | ${settings.global.title}`} link={[
           { rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` },
         ]}>
-          {/* <script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js" integrity="sha256-xOIPU/XvDtRLeDQ3qj9GOKmlbMSqKa6D7ZIS6ygHBSo=" crossOrigin="anonymous"></script> */}
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js" integrity="sha256-xOIPU/XvDtRLeDQ3qj9GOKmlbMSqKa6D7ZIS6ygHBSo=" crossOrigin="anonymous"></script>
+          {/* <script defer type="application/javascript"
+          src={withPrefix('klaro-config.js')}></script>
+          <script 
+              defer
+              data-config="klaroConfig"
+              type="application/javascript"
+              src="https://cdn.kiprotect.com/klaro/v0.7/klaro.js">
+          </script> */}
         </Helmet>
         <div className="page-content">
         {(path.indexOf("datenschutz") === -1) &&
@@ -29,7 +37,7 @@ export const SimplePageTemplate = ({ title, content, contentComponent, settings 
           </div>
           {!(path.indexOf("podcast") === -1) &&
               <div className="content-block-wrapper">
-              <div className="content" dangerouslySetInnerHTML={{ __html: `<iframe src="https://retalk.podigee.io/embed?context=external&theme=default" style="border: 0" border="0" height="100" width="100%"></iframe>` }} />
+              <div className="content" dangerouslySetInnerHTML={{ __html: `<iframe data-name="Podigee" data-src="https://retalk.podigee.io/embed?context=external&theme=default" style="border: 0" border="0" height="100" width="100%"></iframe>` }} />
             </div>
             }
           <div className="content-block-wrapper">
