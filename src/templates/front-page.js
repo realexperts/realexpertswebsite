@@ -52,7 +52,9 @@ export const FrontPageTemplate = ({
           {rel: 'shortcut icon', type: 'image/ico', href: `${favicon}`},
         ]} bodyAttributes={{
           class: 'front-page',
-        }}/>
+        }}>
+         <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="178192ac-766f-4cab-a110-039ac99eaf64" type="text/javascript" async></script>
+          </Helmet>
         <div className="hero">
           <BackgroundImage Tag="div" style={{
             backgroundPosition: 'top left',

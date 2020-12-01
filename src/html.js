@@ -5,7 +5,6 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
-      <script src="https://cmp.osano.com/gHALSHp77aMAJgr/fed9208a-5cdf-47fb-bb25-185abc4fcc98/osano.js"></script>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta

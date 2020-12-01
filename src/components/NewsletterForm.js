@@ -118,7 +118,7 @@ export default class NewsletterForm extends React.Component {
                             />
                             <div style={{color: '#ed6a14'}} dangerouslySetInnerHTML={{__html: this.state.emailMailchimpErrorMsg}} />
                             <div style={{width: '100%'}} style={{display: 'flex', paddingTop: '10px',  alignItems: 'flex-start'}}>
-                                <input onChange={this._handleCheckboxChange.bind(this)} style={{width: '80px'}} id={this.id} type="checkbox" autocomplete="off" />
+                                <input onChange={this._handleCheckboxChange.bind(this)} style={{width: '80px'}} id={this.id} type="checkbox" autoComplete="off" />
                                 <label htmlFor={this.id}>Mit Ihrer Kontaktaufnahme stimmen Sie den Datenschutzbestimmungen dieser Website nach EU-DSGVO zu und, dass Sie von Real Experts Network GmbH Marketingmaterialien per E-Mail erhalten, die nach Ansicht von Real Experts Network GmbH zu Ihrer Anfrage passen.</label>
                             </div>
                             <div style={{ color: '#ed6a14' }}>

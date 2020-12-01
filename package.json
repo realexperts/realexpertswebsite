@@ -5,6 +5,7 @@
   "author": "Austin Green",
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
+    "@dirkpersky/dp_cookieconsent": "^1.5.1",
     "@loadable/component": "^5.12.0",
     "@szhsin/react-menu": "^1.0.2",
     "babel-plugin-styled-components": "^1.11.1",
@@ -33,6 +34,7 @@
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.12",
     "intersection-observer": "^0.7.0",
+    "klaro": "^0.7.9",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms": "^2.9.1",

@@ -150,6 +150,7 @@ export const CategoryPageTemplate = ({ data, settings }) => {
                                                 top: '0',
                                                 left: '0',
                                             }}
+                                            light="http://placekitten.com/200/300"
                                             config={{
                                                 youtube: {
                                                     embedOptions: {
