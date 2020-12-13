@@ -396,6 +396,22 @@ export const pageQuery = graphql`
                     title
                 }
             }
+            whitepaper {
+              fields {
+                  slug
+              }
+              frontmatter {
+                  title
+              }
+            }
+            reference {
+              fields {
+                  slug
+              }
+              frontmatter {
+                  client
+              }
+            }
             author {
               fields {
                 image {
