@@ -26,7 +26,7 @@ thesis:
       * Lernen, welche Maßnahmen Sie treffen sollten, um diese zu schließen.
 
       * Wissen, welche Rahmenbedingungen und Handlungen ebenfalls erforderlich sind.
-video: https://www.youtube.com/watch?v=YysKSI8-kvA
+video: https://www.youtube.com/watch?v=amvOqSKWSmM
 successStoriesTitle: Erfolgsgeschichten
 infoBox:
   headline: Über das Whitepaper...
