@@ -28,8 +28,7 @@ Die zügig umgesetzten digitalen Maßnahmen (Kommunikationssysteme, Messenger, I
 
 # Die digitale Bedürfnispyramide und warum Corona nur aufdeckt und nicht löst
 
-So wie nicht jeder Mensch gleich ist und daher andere Bedürfnisse hat, so ist Digitalisierung in Unternehmen A eben nicht gleich Digitalisierung in Unternehmen B. Jedes Unternehmen hat seine eigenen, vielfältigen, digitalen Bedürfnisse. Vielleicht ist der Begriff „Digitalisierung“ deshalb so schwer zu greifen. Die meisten Menschen kennen ihre eigenen Bedürfnisse kaum. Wie sollen dann
-global agierende, weltweit vernetzte Unternehmen diese erkennen und umsetzen? Doch es gibt sie
+So wie nicht jeder Mensch gleich ist und daher andere Bedürfnisse hat, so ist Digitalisierung in Unternehmen A eben nicht gleich Digitalisierung in Unternehmen B. Jedes Unternehmen hat seine eigenen, vielfältigen, digitalen Bedürfnisse. Vielleicht ist der Begriff „Digitalisierung“ deshalb so schwer zu greifen. Die meisten Menschen kennen ihre eigenen Bedürfnisse kaum. Wie sollen dann global agierende, weltweit vernetzte Unternehmen diese erkennen und umsetzen? Doch es gibt sie
 durchaus. Die Unternehmen, die ihre digitalen Bedürfnisse erkannt und umgesetzt haben.
 
 ## Corona ist kein Treiber der Digitalisierung
@@ -38,8 +37,7 @@ Traditionsgemäß nehmen deutsche Unternehmen und insb. klein- und mittelständi
 
 Das Virus wird mit seinen Folgen gerade einmal der Anstoß für die meisten Unternehmen sein können etwas zu tun. Corona allein wird die Digitalisierung in Deutschland nicht signifikant anfeuern. Dazu kam es erstens viel zu schnell und zweitens führte es zu nicht überlegten Entscheidungen. Viele Unternehmen schafften von heute auf morgen mehr oder weniger gut überlegte IT-Strukturen, um arbeits- und wettbewerbsfähig zu bleiben. Diese werden in den wenigsten Fällen den wahren Bedürfnissen dieser Unternehmen, geschweige denn Mitarbeiter:Innen entsprechen. Unternehmen müssen sich dessen bewusst sein. Das eigentliche Handeln beginnt jetzt.
 
-Ein besonderes Augenmerk liegt auf den Mitarbeiter:Innen des Unternehmens. Die Krise kam so plötzlich, dass Unternehmen, die keine etablierten digitalen Strukturen besaßen, ihre Mitarbeiter:Innen unter dem Motto „macht mal“ ins Home Office geschickt haben. Diese Unternehmen müssen den digitalen Kulturwandel schnellstmöglich begleiten, um Ängste und
-Barrieren entgegenzuwirken.
+Ein besonderes Augenmerk liegt auf den Mitarbeiter:Innen des Unternehmens. Die Krise kam so plötzlich, dass Unternehmen, die keine etablierten digitalen Strukturen besaßen, ihre Mitarbeiter:Innen unter dem Motto „macht mal“ ins Home Office geschickt haben. Diese Unternehmen müssen den digitalen Kulturwandel schnellstmöglich begleiten, um Ängste und Barrieren entgegenzuwirken.
 
 ## Die digitale Bedürfnispyramide
 
@@ -48,10 +46,9 @@ Digitale Bedürfnisse lassen sich dabei in zwei Kategorien unterscheiden:
 * Digitale Kompetenzen: Eine Kompetenz ist etwas, was ein Mensch oder eine Organisation beherrscht. Entsprechend kompetent ist man/sie in dieser und kann sie anwenden. 
 * Digitale Technologien: Welche digitalen Technologien brauchen wir im Unternehmen, damit unsere Mitarbeiter:Innen arbeitsfähig sind und digitale Bedürfnisse bestmöglich erfüllt werden können.
 
-In den meisten Fällen werden digitale Technologien digitale Kompetenzen nach sich ziehen. Es wird nicht ausreichen eine Technologie einfach hinzustellen, ohne Menschen darin kompetent zu machen
-diese auch nach den Vorstellungen und auf die Ziele des eigenen Unternehmens zu schulen.
+In den meisten Fällen werden digitale Technologien digitale Kompetenzen nach sich ziehen. Es wird nicht ausreichen eine Technologie einfach hinzustellen, ohne Menschen darin kompetent zu machen diese auch nach den Vorstellungen und auf die Ziele des eigenen Unternehmens zu schulen.
 
-Wie eingangs erwähnt werden sich digitale Bedürfnisse zweier Unternehmen nicht gleichen. Natürlich gibt es digitale Grundbedürfnisse, die jedes Unternehmen hat: Strom, Internet, eine PC-Infrastruktur etc. Aber je höher es in dieser Pyramide steigt, desto unterschiedlicher und individueller werden diese Bedürfnisse werden. Gerade die digitale Ausgestaltung interner Geschäftsprozesse ist von Unternehmen zu Unternehmen unterschiedlich, aber auch von Branche zu Branche.
+Wie eingangs erwähnt werden sich digitale Bedürfnisse zweier Unternehmen nicht gleichen. Natürlich gibt es digitale Grundbedürfnisse, die jedes Unternehmen hat: Strom, Internet, eine PC-Infrastruktur etc. Aber je höher es in dieser Pyramide steigt, desto unterschiedlicher und individueller werden diese Bedürfnisse werden. Gerade die digitale Ausgestaltung interner Geschäftsprozesse ist von Unternehmen zu Unternehmen unterschiedlich, aber auch von Branche zu Branche. 
 
 ![](/img/bedürfnispyramide.jpg)
 
