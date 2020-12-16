@@ -30,7 +30,7 @@ Gerade bei Prozess- und Zusammenarbeitsveränderungen im Unternehmen ist zu übe
 * **Suche**: Ich finde die benötigten Informationen einfach nicht.
 * **Transfer**: Ich kann es nicht erklären. Kein mein Wissen nicht transferieren.
 
-![](/img/barrieren-1.jpg "Barrieren gegenüber digitalen Elementen 1")
+![](/img/barrieren_1.jpg "Barrieren gegenüber digitalen Elementen 1")
 
 Dieses Modell wurde 2018 von Dr. Jenny Meyer um eine wichtige Dimension, die „Technologienutzungsbarrieren“ ergänzt:
 
@@ -44,7 +44,7 @@ Die acht Barrieren berühren jeweils eine von zwei unterschiedlichen Dimensionen
 * **Wollen**: Hierbei handelt es sich um Barrieren, die starke Verhaltensanpassungen mit sich ziehen. Unternehmen benötigen viel Geduld diese Barrieren zu beseitigen, da Maßnahmen sich über Monate oder Jahre hinziehen können.
 * **Können**: Diese Barrieren können in der Regel schneller durch den Einsatz geeigneter Tools behoben werden.
 
-![](/img/barrieren-2.jpg "Barrieren gegenüber digitalen Elementen 2")
+![](/img/barrieren_2.jpg "Barrieren gegenüber digitalen Elementen 2")
 
 Auf Basis dieses Wissens sollten Unternehmen geeignete Maßnahmen im Rahmen des Kulturwandels (Change-Management) durchführen. Welche das konkret sind, ist von Unternehmen zu Unternehmen verschieden und hängt stark von verschiedenen Faktoren ab (Aktuelle Unternehmenskultur/Mitarbeiter:Innen-Kompetenzen/ Demografie/ etc.).
 
@@ -56,7 +56,7 @@ Dem Unternehmen muss bewusst sein, dass die Technologie allein keine digitale St
 
 Mitarbeiter:Inn verinnerlicht hat, was er warum tun soll, fällt es ihm wesentlich leichter die Technologie auch anzuwenden. Selbstverständlich gibt es Systeme, die besser oder schlechter für gewisse Unternehmen und Branchen geeignet sind, doch im Grunde sollte die Technik eine untergeordnete Rolle spielen. Natürlich spielen an dieser Stelle Barrieren eine Rolle. Warum Systeme nicht, teilweise genutzt oder gar boykottiert werden kann vielfältige Ursachen haben.
 
-![](/img/digitalstrategie_kreißlauf_review.jpg "Digitalstartegie-Kreißlauf: Review")
+![](/img/reislauf_review.jpg "Digitalstartegie-Kreißlauf: Review")
 
 Unternehmen müssen sich der Schnelllebigkeit digitaler Medien bewusst sein. Heutzutage reicht es nicht aus aller fünf Jahre die Strategie auf Erfolg zu prüfen. Dafür passiert am Markt und in den Prozessen zu viel. Deshalb sollte eine Digitalisierungsstrategie eher als lebendiges Dokument verstanden werden. Zu gegebener Zeit muss diese überprüft und bei Bedarf aktualisiert werden. Bestenfalls setzen Unternehmen dies als Review-Schleife um: Sie überprüfen die aktuelle Digitalstrategie auf deren Erfolg und justieren an gewissen Stellen nach. Je nachdem welches Fazit das Unternehmen aus dem Review zieht, gibt es mehrere Wege, die im Anschluss gegangen werden können. In den meisten Fällen werden einzelne Maßnahmen nachjustiert oder neue Maßnahmen getroffen werden. Wird festgestellt, dass der Markt sich sehr schnell verändert hat, Akteure hinzugekommen sind oder andere Rahmenbedingungen herrschen, dann sollte sich eine erneute Ist und Soll – Analysephase anschließen.
 
