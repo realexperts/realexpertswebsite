@@ -15,6 +15,12 @@ description: >-
 whitepaper: Digitalstrategie
 tags:
   - digitalisierung startegie weg analyse maßnahmen
+relatedPosts:
+  - post: "Digitalstrategie [2/5]: Aller Anfang gilt der Analyse"
+  - post: "Digitalstrategie [3/5]: Schließen digitaler Lücken mit konkreten
+      Maßnahmen"
+  - post: "Digitalstrategie [4/5]: Expertenbeitrag Dr. Jenny Meyer „Die
+      Digitalstrategie wird leider zu oft in der IT-Abteilung verankert“"
 ---
 Wenn deutsche Unternehmen eins durch Corona gelernt haben, dann ist es, dass gehandelt werden muss. Wer bisher kein „digitales Geschäftsmodell hatte, wird von der Krise härter getroffen als digitale Unternehmen, die – das ist jetzt schon absehbar – als Gewinner aus
 dieser Krise hervorgehen“ ([Quelle](https://www.netzoekonom.de/2020/04/11/die-oekonomie-nach-corona-digitalisierung-und-automatisierung-in-hoechstgeschwindigkeit/)).
