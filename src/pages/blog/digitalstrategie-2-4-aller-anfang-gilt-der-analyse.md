@@ -24,8 +24,7 @@ relatedPosts:
 ---
 # Was ist eine Digitalisierungsstrategie?
 
-Eine Digitalisierungsstrategie ist die Antwort auf die digitalen Kompetenzbedürfnisse verschiedener Anspruchsgruppen an das Unternehmen. Dabei zielt der Begriff sowohl nach innen als auch nach außen. Große Treiber sind Kunden bzw. der Markt, der Wettbewerb, interne und externe Prozesse aber auch die eigenen Mitarbeiter:Innen, Geschäftspartner, Zulieferer etc. Das Unternehmen muss eine Antwort auf die digitalen Kompetenzbedürfnisse der Anspruchsgruppe haben und diese in der
-Digitalisierungsstrategie festhalten. Bevor jedoch festgelegt wird, wie auf diese reagiert wird, ist es wichtig zu wissen, welche Ziele mit dieser Art der Strategie verfolgt werden und wie sich die Digitalisierungsstrategie in die übergeordnete Strategie des Unternehmens eingliedern lässt.
+Eine Digitalisierungsstrategie ist die Antwort auf die digitalen Kompetenzbedürfnisse verschiedener Anspruchsgruppen an das Unternehmen. Dabei zielt der Begriff sowohl nach innen als auch nach außen. Große Treiber sind Kunden bzw. der Markt, der Wettbewerb, interne und externe Prozesse aber auch die eigenen Mitarbeiter:Innen, Geschäftspartner, Zulieferer etc. Das Unternehmen muss eine Antwort auf die digitalen Kompetenzbedürfnisse der Anspruchsgruppe haben und diese in der Digitalisierungsstrategie festhalten. Bevor jedoch festgelegt wird, wie auf diese reagiert wird, ist es wichtig zu wissen, welche Ziele mit dieser Art der Strategie verfolgt werden und wie sich die Digitalisierungsstrategie in die übergeordnete Strategie des Unternehmens eingliedern lässt.
 
 Innerhalb dieses Blogbeitrags endet der Weg nicht bei der Erstellung einer Digitalisierungsstrategie, sondern beleuchtet ebenfalls die Erstellung konkreter Maßnahmen und deren Umsetzung.
 
@@ -40,7 +39,7 @@ Für die Entwicklung einer digitalen Strategie sollten Unternehmen sich an folge
 3. Umsetzung der Maßnahmen
 4. Überprüfung und Anpassung (Review)
 
-![](/img/digitalstrategie_kreißlauf_basic.jpg "Digitalstrategie-Kreißlauf")
+![](/img/reislauf_roh.jpg "Digitalstrategie-Kreißlauf")
 
 Während der Analysephase gilt es herauszufinden, welche digitalen Kompetenzbedürfnisse das Unternehmen adressieren muss, wo sich Lücken erkennen lassen und wo das Unternehmen mit seiner digitalen Strategie hinmöchte (Soll- bzw. Zielbild). Vorhandene Kompetenzen, als auch Lücken lassen sich innerhalb der digitalen Bedürfnispyramide gut darstellen. Im zweiten Schritt werden Maßnahmen identifiziert, die im dritten Schritt umgesetzt werden. Durch die naturgegebene Schnelllebigkeit digitaler Bedürfnisse ist es sinnvoll die durchgeführten Maßnahmen stets zu hinterfragen (Review) und auf dieser Basis die Umsetzung spezifischer Maßnahmen anzupassen. Das folgende Schaubild verdeutlicht diesen Prozess. Dieser dient dem Leser als Anhaltspunkt und wir im Laufe dieses und folgender Blogbeiträge näher erläutert.
 
@@ -48,7 +47,7 @@ Während der Analysephase gilt es herauszufinden, welche digitalen Kompetenzbed�
 
 Der erste Schritt ist zu verstehen, dass und warum das eigene Unternehmen eine Digitalisierungsstrategie benötigt. Ist dies geschafft, ist der wohl wichtigste Schritt einer jeden Strategie die Analyse. Zunächst einmal gilt es herauszufinden, an welchen Stellen digitale Kompetenzbedürfnisse bestehen und wer diese hat. Die Analyse deckt digitale Lücken auf.
 
-![](/img/digitalstrategie_kreißlauf.jpg "Digitalstrategie-Kreißlauf: Analyse")
+![](/img/reislauf_analyse.jpg "Digitalstrategie-Kreißlauf: Analyse")
 
 Während der Analysephase gilt es sich ein Ist- und ein Zielbild zu verschaffen. Neben einer umfassenden Stakeholderanalyse sind weitere notwendig:
 
@@ -60,15 +59,15 @@ Während der Analysephase gilt es sich ein Ist- und ein Zielbild zu verschaffen.
 
 Ist sich ein Unternehmen bewusst, wer digitale Anforderungen und in welcher Form an das Unternehmen stellt, muss herausgefunden werden, wo das Unternehmen bei der Erfüllung dieser steht (Gap-Analyse). Um eine Lücke ausfindig zu machen ist es wichtig bereits bestehende Strukturen in einer Ist-Analyse sowie die Ziele hinter den Kompetenzen zu kennen.
 
-![](/img/beispiel_lücke_1.jpg "Die digitale Lücke")
+![](/img/lücke_1.jpg "Die digitale Lücke")
 
 **Beispiel**: Ein internationales Unternehmen möchte die Zusammenarbeit seiner deutschen und internationalen Standorte stärken. Ziel soll es sein Projektteams enger und effizienter zusammenarbeiten zu lassen und Kosten durch Dienstreisen und Telefonanrufe einzusparen. Es besteht bereits ein geteiltes Laufwerk auf dem Inhalte digital abgelegt werden. Der restliche Austausch geschieht vor Ort bzw. per Telefon.
 
-![](/img/beispiel_lücke_2.jpg "Beispiel digitaler Lücken")
+![](/img/lücke_2.jpg "Beispiel digitaler Lücken")
 
 Die digitale Lücke zwischen dem Ziel und der aktuellen Ist-Situation besteht darin, dass die Mitarbeiter:Innen kaum Möglichkeiten haben sich anderweitig, online auszutauschen bzw. ihr Wissen nachhaltig Kolleg:Innen zur Verfügung zu stellen. Beispielhaft wurde aufgezeigt, wie das Unternehmen im Punkt “Internationale Zusammenarbeit stärken” aufgestellt ist und wo eine Lücke, zwischen der Ist- und der Zielsituation entstanden ist. Auf Basis dieser und weiterer Analysen lassen sich bereits erfüllte digitale Bedürfnisse als auch Lücken in die digitale Bedürfnispyramide einsortieren und entsprechend darstellen:
 
-![](/img/beispiel_bedürfnispyramide.jpg "Beispiel digitale Bedürfnispyramide")
+![](/img/bedürfnispyramide_filled.jpg "Beispiel digitale Bedürfnispyramide")
 
 # Die Relevanz einer gründlichen Analyse
 
