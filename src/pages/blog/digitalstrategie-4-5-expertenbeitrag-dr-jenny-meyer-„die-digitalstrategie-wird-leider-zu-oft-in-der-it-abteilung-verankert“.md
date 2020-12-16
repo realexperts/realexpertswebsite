@@ -21,7 +21,7 @@ relatedPosts:
       Maßnahmen"
   - post: "Digitalstrategie [5/5]: Barrieren und Rahmenbedingungen"
 ---
-![](/img/teaser_jenny.jpg "Profil. Dr. Jenny Meyer")
+![](/img/jenny-meyer.jpg "Profil. Dr. Jenny Meyer")
 
 # Was sind essenzielle Bausteine für die Definition und Umsetzung einer Digitalstrategie?
 
