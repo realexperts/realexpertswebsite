@@ -24,8 +24,7 @@ relatedPosts:
 ---
 # Was ist eine Digitalisierungsstrategie?
 
-Eine Digitalisierungsstrategie ist die Antwort auf die digitalen Kompetenzbedürfnisse verschiedener Anspruchsgruppen an das Unternehmen. Dabei zielt der Begriff sowohl nach innen als auch nach außen. Große Treiber sind Kunden bzw. der Markt, der Wettbewerb, interne und externe Prozesse aber auch die eigenen Mitarbeiter:Innen, Geschäftspartner, Zulieferer etc. Das Unternehmen muss
-eine Antwort auf die digitalen Kompetenzbedürfnisse der Anspruchsgruppe haben und diese in der
+Eine Digitalisierungsstrategie ist die Antwort auf die digitalen Kompetenzbedürfnisse verschiedener Anspruchsgruppen an das Unternehmen. Dabei zielt der Begriff sowohl nach innen als auch nach außen. Große Treiber sind Kunden bzw. der Markt, der Wettbewerb, interne und externe Prozesse aber auch die eigenen Mitarbeiter:Innen, Geschäftspartner, Zulieferer etc. Das Unternehmen muss eine Antwort auf die digitalen Kompetenzbedürfnisse der Anspruchsgruppe haben und diese in der
 Digitalisierungsstrategie festhalten. Bevor jedoch festgelegt wird, wie auf diese reagiert wird, ist es wichtig zu wissen, welche Ziele mit dieser Art der Strategie verfolgt werden und wie sich die Digitalisierungsstrategie in die übergeordnete Strategie des Unternehmens eingliedern lässt.
 
 Innerhalb dieses Blogbeitrags endet der Weg nicht bei der Erstellung einer Digitalisierungsstrategie, sondern beleuchtet ebenfalls die Erstellung konkreter Maßnahmen und deren Umsetzung.
@@ -34,9 +33,7 @@ Innerhalb dieses Blogbeitrags endet der Weg nicht bei der Erstellung einer Digit
 
 Corona ist nicht der einzige Treiber für Unternehmen über das Thema „Digitalisierungsstrategie“ nachzudenken. Ebenso kann der Wettbewerb Unternehmen dazu bringen digitaler zu werden. Schafft es die Konkurrenz bspw. Produkte in kürzerer Zeit durch die Unterstützung digitaler Werkzeuge auszuliefern, sollten sich Unternehmen fragen, ob eine Adaption solcher Prozesse nicht auch für das eigene Unternehmen sinnvoll ist. Weiterhin stellen Innovationen einen großen Treiber dar. Dafür lohnt sich ein Blick nach rechts und links. Was machen zum Beispiel andere Branchen? Eventuell können hier Elemente für das eigene Unternehmen verwendet werden. Auch ein Blick auf die eigenen Mitarbeiter:Innen lohnt sich. Welche Werkzeuge werden hier benutzt, um die eigene Arbeit schneller und effektiver voran zu bringen. Was wünschen sich die Mitarbeiter:Innen? Welche innovativen Ideen haben sie? Unternehmen, die diese Blicke nicht wagen, begeben sich in die Gefahr abgehängt zu werden. Der Wettbewerb kann es schaffen schneller an Kunden heran zu kommen, Mitarbeiter:Innen eher für sich zu begeistern, Produkte und Dienstleistungen günstiger und schneller anzubieten. Auch hier zeigt Corona vielen Unternehmen, die digitale Kompetenzen ihrer Mitarbeiter:Innen bereits ganz oder zu teilen erfüllt hatten, dass sie damit einen entscheidenden, wettbewerbsrelevanten Vorteil hatten.
 
-
-Für die Entwicklung einer digitalen Strategie sollten Unternehmen sich an folgenden Schritten,
-im Folgenden „Digitalstrategie-Kreislauf“ genannt, orientieren:
+Für die Entwicklung einer digitalen Strategie sollten Unternehmen sich an folgenden Schritten, im Folgenden „Digitalstrategie-Kreislauf“ genannt, orientieren:
 
 1. Analyse und Visualisierung
 2. Identifikation der Maßnahmen
@@ -45,7 +42,7 @@ im Folgenden „Digitalstrategie-Kreislauf“ genannt, orientieren:
 
 ![](/img/digitalstrategie_kreißlauf_basic.jpg "Digitalstrategie-Kreißlauf")
 
-Während der Analysephase gilt es herauszufinden, welche digitalen Kompetenzbedürfnisse das Unternehmen adressieren muss, wo sich Lücken erkennen lassen und wo das Unternehmen mit seiner digitalen Strategie hinmöchte (Soll- bzw. Zielbild). Vorhandene Kompetenzen, als auch Lücken lassen sich innerhalb der digitalen Bedürfnispyramide gut darstellen. Im zweiten Schritt werden Maßnahmen identifiziert, die im dritten Schritt umgesetzt werden. Durch die naturgegebene Schnelllebigkeit digitaler Bedürfnisse ist es sinnvoll die durchgeführten Maß- nahmen stets zu hinterfragen (Review) und auf dieser Basis die Umsetzung spezifischer Maßnahmen anzupassen. Das folgende Schaubild verdeutlicht diesen Prozess. Dieser dient dem Leser als Anhaltspunkt und wir im Laufe dieses und folgender Blogbeiträge näher erläutert.
+Während der Analysephase gilt es herauszufinden, welche digitalen Kompetenzbedürfnisse das Unternehmen adressieren muss, wo sich Lücken erkennen lassen und wo das Unternehmen mit seiner digitalen Strategie hinmöchte (Soll- bzw. Zielbild). Vorhandene Kompetenzen, als auch Lücken lassen sich innerhalb der digitalen Bedürfnispyramide gut darstellen. Im zweiten Schritt werden Maßnahmen identifiziert, die im dritten Schritt umgesetzt werden. Durch die naturgegebene Schnelllebigkeit digitaler Bedürfnisse ist es sinnvoll die durchgeführten Maßnahmen stets zu hinterfragen (Review) und auf dieser Basis die Umsetzung spezifischer Maßnahmen anzupassen. Das folgende Schaubild verdeutlicht diesen Prozess. Dieser dient dem Leser als Anhaltspunkt und wir im Laufe dieses und folgender Blogbeiträge näher erläutert.
 
 # Aller Anfang gilt der Analyse
 
