@@ -24,8 +24,7 @@ relatedPosts:
 ---
 # Was ist eine Digitalisierungsstrategie?
 
-Eine Digitalisierungsstrategie ist die Antwort auf die digitalen Kompetenzbedürfnisse verschiedener Anspruchsgruppen an das Unternehmen. Dabei zielt der Begriff sowohl nach innen als auch nach außen. Große Treiber sind Kunden bzw. der Markt, der Wettbewerb, interne und externe Prozesse
-aber auch die eigenen Mitarbeiter:Innen, Geschäftspartner, Zulieferer etc. Das Unternehmen muss
+Eine Digitalisierungsstrategie ist die Antwort auf die digitalen Kompetenzbedürfnisse verschiedener Anspruchsgruppen an das Unternehmen. Dabei zielt der Begriff sowohl nach innen als auch nach außen. Große Treiber sind Kunden bzw. der Markt, der Wettbewerb, interne und externe Prozesse aber auch die eigenen Mitarbeiter:Innen, Geschäftspartner, Zulieferer etc. Das Unternehmen muss
 eine Antwort auf die digitalen Kompetenzbedürfnisse der Anspruchsgruppe haben und diese in der
 Digitalisierungsstrategie festhalten. Bevor jedoch festgelegt wird, wie auf diese reagiert wird, ist es wichtig zu wissen, welche Ziele mit dieser Art der Strategie verfolgt werden und wie sich die Digitalisierungsstrategie in die übergeordnete Strategie des Unternehmens eingliedern lässt.
 
@@ -33,14 +32,9 @@ Innerhalb dieses Blogbeitrags endet der Weg nicht bei der Erstellung einer Digit
 
 # Warum braucht ein Unternehmen eine Digitalisierungsstrategie?
 
-Corona ist nicht der einzige Treiber für Unternehmen über das Thema „Digitalisierungsstrategie“ nachzudenken. Ebenso kann der Wettbewerb Unternehmen dazu bringen digitaler zu
+Corona ist nicht der einzige Treiber für Unternehmen über das Thema „Digitalisierungsstrategie“ nachzudenken. Ebenso kann der Wettbewerb Unternehmen dazu bringen digitaler zu werden. Schafft es die Konkurrenz bspw. Produkte in kürzerer Zeit durch die Unterstützung digitaler Werkzeuge auszuliefern, sollten sich Unternehmen fragen, ob eine Adaption solcher Prozesse nicht auch für das eigene Unternehmen sinnvoll ist. Weiterhin stellen Innovationen einen großen Treiber dar. Dafür lohnt sich ein Blick nach rechts und links. Was machen zum Beispiel andere Branchen? Eventuell können hier Elemente für das eigene Unternehmen verwendet werden. Auch ein Blick auf die eigenen Mitarbeiter:Innen lohnt sich. Welche Werkzeuge werden hier benutzt, um die eigene Arbeit schneller und effektiver voran zu bringen. Was wünschen sich die Mitarbeiter:Innen? Welche innovativen Ideen haben sie? Unternehmen, die diese Blicke nicht wagen, begeben sich in die Gefahr abgehängt zu werden. Der Wettbewerb kann es schaffen schneller an Kunden heran zu kommen, Mitarbeiter:Innen eher für sich zu begeistern, Produkte und Dienstleistungen günstiger und schneller anzubieten. Auch hier zeigt Corona vielen Unternehmen, die digitale Kompetenzen ihrer Mitarbeiter:Innen bereits ganz oder zu teilen erfüllt hatten, dass sie damit einen entscheidenden, wettbewerbsrelevanten Vorteil hatten.
 
-werden. Schafft es die Konkurrenz bspw. Produkte in kürzerer Zeit durch die Unterstützung digitaler Werkzeuge auszuliefern, sollten sich Unternehmen fragen, ob eine Adaption solcher Prozesse nicht auch für das eigene Unternehmen sinnvoll ist. Weiterhin stellen Innovationen einen großen Treiber dar. Dafür lohnt sich ein Blick nach rechts und links. Was machen zum
 
-Beispiel andere Branchen? Eventuell können hier Elemente für das eigene Unternehmen verwendet werden. Auch ein Blick auf die eigenen Mitarbeiter:Innen lohnt sich. Welche Werkzeuge
-
-werden hier benutzt, um die eigene Arbeit schneller und effektiver voran zu bringen. Was wünschen sich die Mitarbeiter:Innen? Welche innovativen Ideen haben sie? Unternehmen, die diese Blicke nicht wagen, begeben sich in die Gefahr abgehängt zu werden. Der Wettbewerb kann es schaffen schneller an Kunden heran zu kommen, Mitarbeiter:Innen eher für
-sich zu begeistern, Produkte und Dienstleistungen günstiger und schneller anzubieten. Auch hier zeigt Corona vielen Unternehmen, die digitale Kompetenzen ihrer Mitarbeiter:Innen bereits ganz oder zu teilen erfüllt hatten, dass sie damit einen entscheidenden, wettbewerbsrelevanten Vorteil hatten.
 Für die Entwicklung einer digitalen Strategie sollten Unternehmen sich an folgenden Schritten,
 im Folgenden „Digitalstrategie-Kreislauf“ genannt, orientieren:
 
@@ -79,6 +73,6 @@ Die digitale Lücke zwischen dem Ziel und der aktuellen Ist-Situation besteht da
 
 ![](/img/beispiel_bedürfnispyramide.jpg "Beispiel digitale Bedürfnispyramide")
 
-# Die Relevanz einer gründlichen Analyse 
+# Die Relevanz einer gründlichen Analyse
 
 Es liegt auf der Hand, dass ohne eine gründliche Analyse die gesamte Strategie “verwässert” sein wird. Werden z.B. ganze Anspruchsgruppen vergessen oder Lücken nicht aufgedeckt wird die Strategie am Ende keine Antwort auf diese Fragestellungen haben, was wiederum enorme Wettbewerbsnachteile mit sich bringen kann. Es ist wichtig diesem Punkt ausreichend Zeit einzuräumen, die richtigen Personen zu identifizieren und allumfassend zu beleuchten.
