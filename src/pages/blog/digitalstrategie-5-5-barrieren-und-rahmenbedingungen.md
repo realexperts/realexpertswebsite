@@ -15,11 +15,11 @@ whitepaper: Digitalstrategie
 tags:
   - digitalisierung startegie weg analyse maßnahmen
 relatedPosts:
-  - post: "Digitalstrategie [1/4]: Die digitale Bedürfnispyramide und warum Corona
-      nur aufdeckt und nicht löst"
   - post: "Digitalstrategie [2/4]: Aller Anfang gilt der Analyse"
   - post: "Digitalstrategie [3/5]: Schließen digitaler Lücken mit konkreten
       Maßnahmen"
+  - post: "Digitalstrategie [4/5]: Expertenbeitrag Dr. Jenny Meyer „Die
+      Digitalstrategie wird leider zu oft in der IT-Abteilung verankert“"
 ---
 # Barrieren bei der Umsetzung von Maßnahmen
 
