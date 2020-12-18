@@ -26,8 +26,8 @@ thesis:
     highlighted: true
 video: https://youtu.be/YysKSI8-kvA
 relatedPosts:
-  - post: "Digitale Kompetenzen [1/4] : Erkennen, fördern und nachhaltig etablieren"
-  - post: So gelingt die erfolgreiche Microsoft Teams Einführung
+  - post: "Digitalstrategie [2/5]: Aller Anfang gilt der Analyse"
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
+  - post: "Digitale Kompetenzen [1/4] : Erkennen, fördern und nachhaltig etablieren"
 ---
