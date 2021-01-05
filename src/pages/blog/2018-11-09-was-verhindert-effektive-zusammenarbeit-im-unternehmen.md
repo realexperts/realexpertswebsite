@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
 title: Was verhindert effektive Zusammenarbeit im Unternehmen?
-date: 2018-05-07T11:36:11+02:00
+date: 2018-05-07T09:36:11.000Z
 author: Peggy Kopkow
-description: Teamziele werden nicht erreicht. Es gibt deutliche
+description: "Teamziele werden nicht erreicht. Es gibt deutliche
   Kommunikationsmängel. Aufgaben werden doppelt erledigt und dafür bleiben
   andere liegen. Jeder arbeitet für sich und es entsteht zunehmend immer mehr
   Silodenken. Der Widerstand gegen Veränderungen ist erheblich. Kennen Sie das?
   Gerade Führungskräfte sind oft betroffen. Denn es gibt einige Gründe, welche
-  effektive Zusammenarbeit verhindern.
+  effektive Zusammenarbeit verhindern. "
 relatedPosts:
   - post: 6 Möglichkeiten, wie Sie Ihre Mitarbeiter richtig einarbeiten
   - post: Wie Sie Wissensverlust durch Mitarbeiterverlust vermeiden
