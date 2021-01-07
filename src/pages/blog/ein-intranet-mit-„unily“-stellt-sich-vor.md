@@ -47,11 +47,15 @@ relatedPosts:
 
 **Kevin:** Das ist wie erwähnt eine unserer Kernkompetenzen und der Grund, warum viele unserer Kunden Unily lieben. Da unsere Plattform auf Azure basiert nutzen wir einige Microservices von Microsoft und bieten out-of-the-box Integrationen mit SharePoint, Teams, Yammer oder Exchange an. Darüber hinaus haben wir in den vergangenen Jahren auf Basis unseres Frameworks „Unily Connect” viele weitere Standardschnittstellen gebaut, die mittlerweile zum Kernprodukt gehören. Das umfasst Integrationen mit GSuite, Slack, ServiceNow, Salesforce oder SAP Successfactors. Prinzipiell ist unsere Plattform so offen gestaltet, dass über die API Inhalte in Unily herein oder aus Unily heraus gepusht werden können. Zudem können alle Cloud-Tools, deren Authentifizierung auf Azure AD oder OAuth2 basiert, integriert werden.
 
+![](/img/unily_04.png)
+
 **Lass uns noch etwas tiefer über Integrationen sprechen. Unterscheidet Ihr bei Unily über die Tiefe der Integration? Ab wann stellt eine Integration für Mitarbeiter*innen eurer Meinung nach einen Mehrwert dar und wann nicht ?**
 
 **Kevin:** Sehr gute Frage. Oftmals ist ja bereits von Integrationen die Rede, wenn es sich eigentlich nur um einen Link-Absprung handelt, der einen anderen Tab oder eine andere Applikation öffnet. Wir bieten darüber hinaus an, dass Inhalte aus Drittsystemen in die Unily-Suche integriert oder in eigens erstellten Widgets und Document Types angezeigt werden können. Die Champions League der Integrationen erreichen wir damit, dass Prozessschritte innerhalb von Unily abgebildet werden können, sodass ich zum Beispiel einen neuen JIRA-Task, einen SAP-Urlaubsantrag oder eine Teams-Nachricht erstellen kann, ohne die Applikation verlassen zu müssen. Aus meiner Sicht sind es vor allem diese tiefen Integrationen, die einen echten Mehrwert schaffen können. Für viele User ist aber auch ein gut sortiertes und personalisierbares Launchpad schon ein guter Anfang.
 
 **Wie lautet eure Produktstrategie für eine Integrations-Vielfalt mit Unily? Wo steht ihr aktuell und wo möchtet ihr vielleicht noch hin?**
+
+![](/img/unily_06.png)
 
 **Kevin:** Mit unserem letzten Major Upgrade auf Version 6 haben wir die Produktstrategie mit der Einführung unseres Feature Stores maßgeblich erweitert. Alle Unily-Kunden können sich über ihr CMS jederzeit und kostenfrei neue Features installieren und ihre Plattform somit eigenständig erweitern. Im Store finden sich Integrations-Features wie ein „Share to Teams Button“ oder eine ServiceNow Knowledge Search, aber auch ein kommunikativ wertvolle Erweiterungen wie ein FAQ-Portal oder ein alternatives Homepage-Design. Neben der stetigen Weiterentwicklung des Kernproduktes und den zunehmend zur Verfügung stehenden out-of-the-box Integrationen von Drittanwendungen, werden Unily-Kunden zukünftig noch viel mehr Möglichkeiten haben, mit Hilfe des Feature Stores ihre Plattform zu verbessern und immer wieder neue Anreize zu schaffen.
 
