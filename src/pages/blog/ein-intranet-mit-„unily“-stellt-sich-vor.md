@@ -17,7 +17,7 @@ relatedPosts:
 ---
 **Hallo Kevin Hähnlein! In unserer Blogreihe zeigen wir unseren Lesern und Kunden verschiedene Intranet-Technologien und geben exklusive Einblicke. Daher freue ich mich, dass wir heute mit dir über eure Intranet-Lösung „Unily” sprechen können. Bevor wir das machen, stelle dich unseren Lesern doch aber bitte kurz vor:**
 
-![](/img/unily-kevin.jpeg){width=30%}
+![](/img/unily-kevin.png)
 
 **Kevin:** Hi Olli, danke für die Einladung. Ich bin seit knapp fünf Jahren in der Welt des Digitalen Arbeitsplatzes tätig, die ich neben meinem Politik- und Wirtschaftsstudium als Werkstudent bei der T-Systems kennenlernen durfte. Ich hatte das Glück, viele große Unternehmen in spannenden Digitalisierungsprojekten begleiten und dabei viele Technologien, Methoden und Netzwerke kennenlernen zu dürfen. Vorher habe ich mich viel politisch engagiert und das Marketing bei einem Startup im Sportmedienbereich aufgebaut. Heute bin ich bei Unily als Sales Engineer für die DACH-Region verantwortlich.
 
@@ -64,7 +64,5 @@ relatedPosts:
 **Kevin:** Ein zusätzlicher Kostenfaktor ist es definitiv, zumindest kurzfristig. Ich sehe aber zunehmend, dass Unternehmen den langfristigen Mehrwert solcher Plattformen erkennen. Sicherlich gibt es auch Studien, die Produktivitätsgewinne aufzeigen - einige unserer Kunden haben hier teils signifikanten ROI ermitteln können und E-Mail-Verkehr um 88 % reduziert oder einzelne digitale Arbeitsschritte um 200 % beschleunigt (Deloitte). Eine aktuelle Untersuchung von Deloitte hat festgestellt, dass mit einem modernen Intranet die Produktivität um 7 %, die Zufriedenheit um 20 % und die Bindung von Mitarbeiterinnen und Mitarbeitern um 87 % gesteigert werden kann. Letztendlich ist ein Intranet, bestenfalls als Employee Experience Plattform, also eine Investition in die Transparenz, die Kultur und die Attraktivität eines Unternehmens.
 
 **Vielen Dank für das Gespräch, Kevin.**
-
-
 
 Quelle: [https://www2.deloitte.com/content/dam/Deloitte/mx/Documents/human-capital/The_digital_workplace.pdf](https://www2.deloitte.com/content/dam/Deloitte/mx/Documents/human-capital/The_digital_workplace.pdf "https\://www2.deloitte.com/content/dam/Deloitte/mx/Documents/human-capital/The_digital_workplace.pdf")
