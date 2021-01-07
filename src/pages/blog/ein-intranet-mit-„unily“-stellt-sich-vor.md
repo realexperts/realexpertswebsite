@@ -17,7 +17,7 @@ relatedPosts:
 ---
 **Hallo Kevin Hähnlein! In unserer Blogreihe zeigen wir unseren Lesern und Kunden verschiedene Intranet-Technologien und geben exklusive Einblicke. Daher freue ich mich, dass wir heute mit dir über eure Intranet-Lösung „Unily” sprechen können. Bevor wir das machen, stelle dich unseren Lesern doch aber bitte kurz vor:**
 
-![](/img/unily-kevin.jpeg)
+![](/img/unily-kevin.jpeg){width=30%}
 
 **Kevin:** Hi Olli, danke für die Einladung. Ich bin seit knapp fünf Jahren in der Welt des Digitalen Arbeitsplatzes tätig, die ich neben meinem Politik- und Wirtschaftsstudium als Werkstudent bei der T-Systems kennenlernen durfte. Ich hatte das Glück, viele große Unternehmen in spannenden Digitalisierungsprojekten begleiten und dabei viele Technologien, Methoden und Netzwerke kennenlernen zu dürfen. Vorher habe ich mich viel politisch engagiert und das Marketing bei einem Startup im Sportmedienbereich aufgebaut. Heute bin ich bei Unily als Sales Engineer für die DACH-Region verantwortlich.
 
