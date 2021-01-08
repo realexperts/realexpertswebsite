@@ -30,4 +30,5 @@ relatedPosts:
   - post: 1x1 - Die Grundlagen des digitalen Arbeitens
   - post: Digitales Arbeiten – Was Unternehmen aus der Corona Krise lernen müssen
   - post: "Digitale Kompetenzen [1/4] : Erkennen, fördern und nachhaltig etablieren"
+  - post: Ein Intranet mit ... - „Unily“ stellt sich vor
 ---
