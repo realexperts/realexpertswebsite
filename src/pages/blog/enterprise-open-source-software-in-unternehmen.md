@@ -24,7 +24,7 @@ Das wirft aber auch die Frage voraus, warum es einen Unterschied zwischen dem Ei
 
 Im Unternehmenskontext ist die Handhabe von Software auch aus einer anderen Perspektive aufzugreifen. Software ist das Herzstück für ein digitales Arbeiten in Unternehmen. Heutzutage nutzen Unternehmen unterschiedlicher Größenordnung eine Vielzahl an Software-Programmen für die Ausführung ihrer Geschäftsprozesse in verschiedenen Anwendungsszenarien. Darunter fallen u. a. auch geschäftskritische Prozesse, die für das Überleben der Firma unabdingbar sind. Die Auswahl der Software muss daher wohlüberlegt sein. Dabei spielen auch auch Themen wie Sicherheit, Lifecycle, Wartung/Support eine übergeordnete Rolle, die in der Form im privaten Bereich vielleicht nicht oberste Priorität haben.
 
-**Enterprise Open-Source ist für den Einsatz in Unternehmen ausgelegt**
+### **Enterprise Open-Source ist für den Einsatz in Unternehmen ausgelegt**
 
 Damit Open-Source Software im Unternehmen ausgerollt werden kann, müssen Anforderungen an Sicherheit, Lifecycle, Qualität und Support entsprechend geprüft werden. Im Falle eines kommerziellen Anbieters, wäre der Anbieter selbst für diese Fragen Ansprechpartner. Im Enterprise Open-Source Kontext sollten für diese Themen ebenfalls Ansprechpartner bestehen. Sind Unternehmen in Fragen von Qualitäts- und Sicherheitsansprüchen auf sich alleine gestellt sind, kann man nicht von Enterprise Open-Source Software sprechen. Für die Klassifizierung einer Enterprise Open-Source Software sollten daher einige Anforderungen erfüllt werden. 
 
@@ -32,7 +32,7 @@ Hier einige Richtlinien:
 
 ![](/img/open-source_blog2-tabelle-anforderungen.png "Tabelle: Wichtige Anforderungen an Enterprise Open Source")
 
-
+### **Fazit: Open-Source Software auch im Unternehmenskontext einsetzbar**
 
 Open-Source Software findet längst nicht nur im privaten Anwenderbereich Anklang. Auch Unternehmen wollen zukünftig von dem einfachen Zugang zu diesen Lösungen profitieren. Wichtig ist jedoch, sich nicht auf der eigentlich kostenlosen Verfügbarkeit auszuruhen, sondern den Einsatz im Unternehmen auch professionell zu managen. 
 
