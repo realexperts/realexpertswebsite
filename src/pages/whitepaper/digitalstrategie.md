@@ -40,7 +40,7 @@ infoBox:
     Herausforderungen und Fehler bei der Definition und Einführung einer
     Digitalstrategie äußern.
   image: /img/digitalstrategien.png
-whitepaperFile: /img/realexperts-whitepaper-digitalstrategien.pdf
+whitepaperFile: /img/201208_realexperts_whitepaper_final.pdf
 authors:
   - name: Christoph Rauhut
     image: /img/christoph-rauhut-rund.png
