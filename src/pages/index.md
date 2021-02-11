@@ -26,8 +26,8 @@ thesis:
     highlighted: true
 video: https://youtu.be/YysKSI8-kvA
 relatedPosts:
+  - post: Warum sich der Einsatz von Open-Source für Unternehmen lohnen kann
   - post: Enterprise Open-Source Software in Unternehmen
   - post: Was ist eigentlich Open-Source?
   - post: Ein Intranet mit ... - „Unily“ stellt sich vor
-  - post: "Digitalstrategie [2/5]: Aller Anfang gilt der Analyse"
 ---
