@@ -18,7 +18,7 @@ In unserem Blogbeitrag [Was ist eigentlich Open-Source?](https://www.realexperts
 
 Hier unsere Top 3 Argumente, die für den Einsatz von Open-Source sprechen.
 
-### **Strategische Gründe für den Einsatz von Open-Source**
+### Strategische Gründe für den Einsatz von Open-Source
 
 **1. Anpassbarkeit**
 
