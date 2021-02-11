@@ -20,7 +20,7 @@ Hier unsere Top 3 Argumente, die für den Einsatz von Open-Source sprechen.
 
 ### Strategische Gründe für den Einsatz von Open-Source
 
-**1. Anpassbarkeit**
+##### 1. Anpassbarkeit
 
 Einer der zentralen Faktoren, warum sich Unternehmen nicht selten für den Einsatz von Open-Source Technologien entscheiden, ist die **Anpassbarkeit**. Im Gegensatz zu kommerzieller Software ist der Quellcode bei Open-Source Software öffentlich in entsprechenden Communitys und Foren zugänglich. Die Einsicht in den Quellcode ermöglicht Unternehmen ein Maß an Flexibilität, mit Kostenaufwand und entsprechenden Kenntnissen, individuelle Anpassungen vorzunehmen. Viele Unternehmen kennen das Problem, dass die Software zwar in großen Teilen die geforderten Anforderungen erfüllt, jedoch auch einige individuelle, speziell auf das Unternehmen zugeschnittene Anforderungen, offen bleiben. Mithilfe von IT-Dienstleistern aus dem Entwicklungsbereich lassen sich die benötigten Anforderungen meist schnell umsetzen. Hier muss natürlich betont werden, dass dafür Entsprechenden Entwicklerkenntnisse unabdingbar sind.
 
