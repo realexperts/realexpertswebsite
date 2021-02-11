@@ -36,4 +36,4 @@ Hier einige Richtlinien:
 
 Open-Source Software findet längst nicht nur im privaten Anwenderbereich Anklang. Auch Unternehmen wollen zukünftig von dem einfachen Zugang zu diesen Lösungen profitieren. Wichtig ist jedoch, sich nicht auf der eigentlich kostenlosen Verfügbarkeit auszuruhen, sondern den Einsatz im Unternehmen auch professionell zu managen. 
 
-Welche Vorteile mit dem Einsatz von Open-Source Lösungen verbunden werden, erfahrt Ihr in unserem nächsten Blogbeitrag, der Mitte Februar erscheint.
+Welche Vorteile mit dem Einsatz von Open-Source Lösungen verbunden werden, erfahrt Ihr im Beitrag [Warum sich der Einsatz von Open-Source für Unternehmen lohnen kann](https://www.realexperts.de/blog/warum-sich-der-einsatz-von-open-source-f%C3%BCr-unternehmen-lohnen-kann/).
