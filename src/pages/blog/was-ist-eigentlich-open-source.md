@@ -18,11 +18,11 @@ relatedPosts:
 ---
 Noch nie von Open-Source Software gehört? Nicht schlimm, aber das sollten wir ändern!
 
-### **Worum geht es?**
+### Worum geht es?
 
 Grundsätzlich geht es um Software. Genauer gesagt um die Nutzungsrechte, die mit dem Lizenzvertrag der Software einhergehen. Das ist ein Thema, mit dem sich jedes Unternehmen bei der Einführung neuer Software-Technologien beschäftigen sollte.
 
-### **Warum spielt die Auswahl des Lizenzvertrages eine Rolle?**
+### Warum spielt die Auswahl des Lizenzvertrages eine Rolle?
 
 Bekannt ist durchaus, dass die Einführung neuer Technologien einen langfristigen Charakter hat. Schließlich geht es ja darum, dass Unternehmen und Mitarbeiter langfristig vom Einsatz digitaler Technologien profitieren sollen. Die Auswahl sollte daher wohlüberlegt sein. Bevor es zu einer Entscheidung für eine Software kommt, stellt sich für Unternehmen daher auch die Frage nach dem zukünftigen Lizenzvertrag: Möchte man als Unternehmen zukünftig eine kommerzielle Software nutzen oder vielleicht auch eine Open-Source Software?
 
@@ -30,7 +30,7 @@ In den vergangen Jahren haben insbesondere Letztere in Unternehmen an Popularit�
 
 Für uns als Experten für Softwarelösungen für diverse Anwendungsfälle ist das natürlich ein Grund, Euch das Trendthema Open-Source näher zu bringen. Bevor wir uns dem Für und Wider dieses Modells widmen, geht es in diesem Artikel aber zunächst um die Frage: Was ist überhaupt eine Open-Source Software und wie unterscheidet sich diese eigentlich von der eingangs erwähnten kommerziellen Software?
 
-### **Was ist der unterschied zwischen kommerzieller und Open-Source Software?**
+### Was ist der unterschied zwischen kommerzieller und Open-Source Software?
 
 Es macht durchaus Sinn mit kommerzieller Software anzufangen. Das Prinzip dahinter ist vielen durchaus bekannt – unabhängig davon, ob man das Thema kommerzielle Software im unternehmerischen oder privaten Umfeld einordnet. Bei einer kommerziellen Software spricht man von einer Art „unfreien“ Software, die in erster Linie für die Lizenzierung und den Verkauf an Endnutzer entwickelt wurde. Aber „unfrei“ inwiefern? Ganz einfach: Ein Individuum oder ein Unternehmen hat die exklusiven Rechte an der Software. Der Endnutzer hat damit nur ein eingeschränktes Nutzungsrecht. Der Quellcode ist deshalb nicht frei zugänglich und eine Veränderung oder eine Verbreitung der Software ist untersagt.
 
@@ -38,6 +38,6 @@ Kommen wir zu Open-Source Software. Der Gedanke hinter diesem Ansatz ist ein and
 
 Der Quellcode ist damit für alle einsehbar bzw. frei zugänglich. Grundsätzlich geben die Software-Entwickler auch keine Art der Gewährleistung für die Software ab und haften dementsprechend nicht für diese. Noch ein weit verbreitetes Missverständnis: Nicht selten wird angenommen, dass es sich bei Open-Source um ein kostenloses Software Produkt handelt. Das ist nicht ganz richtig. Viele Basis-Funktionalitäten werden zwar frei zugänglich zur Verfügung gestellt, für den Support, Weiterentwicklung oder zusätzliche Business-Funktionen können hingegen Kosten anfallen. In der Regel spricht man hier von Enterprise Open Source, welche auf den Einsatz in Unternehmenskontext ausgelegt ist.
 
-### **Fazit und Ausblick: Mehr Nutzungsrechte durch „freie Software“**
+### Fazit und Ausblick: Mehr Nutzungsrechte durch „freie Software“
 
 In diesem Blogbeitrag habt ihr bisher zunächst erfahren, wobei es sich eigentlich um Open-Source Software im Vergleich zu kommerzieller Software handelt. Entscheidend für die Klassifizierung von Open-Source Software ist der damit verbundene Lizenzvertrag zur Nutzung der Software (Stichwort „frei“ vs. „unfrei“). Deutlich wurde auch, dass das Thema Open-Source Technologie besonders im Bereich von Unternehmen Popularität gewonnen hat. Eine entscheidende Frage hingegen blieb bisher offen: Warum hat das Thema Open-Source eigentlich so sehr an Bedeutung gewonnen und was versprechen sich Unternehmen zukünftig davon? Das erfahrt ihr in unserem Blogbeitrag: [Enterprise Open-Source Software in Unternehmen](https://www.realexperts.de/blog/enterprise-open-source-software-in-unternehmen/).
