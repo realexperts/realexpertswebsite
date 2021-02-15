@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Ein Unternehmen hat keine Mitarbeiter
-date: 2018-09-05T14:31:41+02:00
+date: 2018-09-05T12:31:41.000Z
 author: Peggy Kopkow
 description: >
   ...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von
@@ -20,7 +20,9 @@ category: Mitarbeiter und Führung
 tags:
   - Mitarbeiter und Führung
 ---
-...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von einem seelenlosen, ausschließlich profitorientierten Unternehmen, das nur von der Führungsetage rumdelegiert wird. Immerzu wird von der Verantwortung der Mitarbeiter gegenüber dem Unternehmen gesprochen. Dabei soll heute die zentrale Frage sein: Was hat ein Unternehmen gegenüber seinen Mitarbeitern für Aufgaben und worin liegt seine Verantwortung?
+...sondern die Mitarbeiter sind das Unternehmen! Sonst sprechen wir doch von einem seelenlosen, ausschließlich profitorientierten Unternehmen, das nur von der Führungsetage rumdelegiert wird. 
+
+#### Immerzu wird von der Verantwortung der Mitarbeiter gegenüber dem Unternehmen gesprochen. Dabei soll heute die zentrale Frage sein: Was hat ein Unternehmen gegenüber seinen Mitarbeitern für Aufgaben und worin liegt seine Verantwortung?
 
 Mitarbeiterbindung ist ein recht inflationäres Wort. Viele Unternehmen stellen sich aus ganz unterschiedlicher Motivation die Frage, wie sie ihre Mitarbeiter an sich binden. Manche regeln das vertraglich, andere besuchen spektakuläre Teambuildingmaßnahmen und wiederum andere machen nichts. Wussten Sie, dass Zugehörigkeit und Verbundenheit Grundbedürfnisse eines jeden Menschen sind? Ja und es ist DAS Erfolgsgeheimnis einer gelungenen Unternehmenskultur. Wir Menschen haben einfach von Natur aus große Freude am eigenen Denken und gemeinsamen Gestalten. Erst wenn das auch im eigenen Unternehmen möglich ist, fühlen wir uns wohl und können unser ganzes Potential entfalten. Aber welche Rahmenbedingungen müssen im Unternehmen dafür geschaffen werden - auch wenn das Budget nicht so groß ist? Und wie muss die Haltung der Führungskräfte gegenüber der eigenen Mitarbeiter sein? 
 
@@ -28,12 +30,12 @@ Menschen möchten sich einbringen. Es ist ein neurobiologisches Grundbedürfnis 
 
 Und es geht noch weiter. Diese Führungskraft der eben beschriebenen Frau hat ihr nicht nur den Sinn für ihre Arbeitstätigkeit genommen. Er hat ihr auch gleichzeitig gezeigt, dass er nicht an sie glaubt.
 
-## Glaubst Du an mich?
+### Glaubst Du an mich?
 
 Die Potentialentfaltung der eigenen Mitarbeiter muss mit an erster Stelle bei den Unternehmensaufgaben stehen. Denn dann können diese Mitarbeiter zu einem sehr wertvollen Teil des Unternehmens heranwachsen. Entscheidend dafür ist die innere Haltung der Führungskräfte gegenüber den Mitarbeitern. Vertrautheit und ein ehrliches Interesse an der Entwicklung des Mitarbeiters sind dabei wichtige Eckpfeiler. Besonders wichtig beim Lösen von Aufgaben sind die sogenannten inneren Bilder der Mitarbeiter. Innere Bilder sind eigene Vorstellungen, wie die Welt funktioniert und wie man sich in ihr zurecht findet. Sie entstehen durch Erfahrungen. Je positiver die Erfahrungen in der Vergangenheit waren, desto positiver das innere Bild. Übertragen kann man sagen, dass ein Mitarbeiter, welcher seine Kompetenz im Lösen der vergangenen Arbeitsaufgaben positiv erfahren hat, auch positive innere Bilder generell gegenüber den Arbeitsaufgaben hat. Das hat wiederum zur Folge, dass diese Mitarbeiter ihre Aufgaben sehr gut lösen wollen und werden. Führungskräfte sollten demnach stets  die positiven inneren Bilder ihrer Mitarbeiter stärken. Denn das hat Auswirkung auf deren Arbeit und somit auf das Unternehmen. 
 
 Und wenn man als Führungskraft an seine Mitarbeiter glaubt, dann kann man sie auch fordern. Denn der Mensch ist dazu geboren, um über sich hinauszuwachsen. Ein gutes Beispiel dafür ist das Auszubildendenprogramm der Drogeriemarktkette dm. Im letzten Ausbildungsjahr übernehmen ausschließlich Auszubildende dm-Filialen. Die eigentlichen Mitarbeiter werden in dieser Zeit auf andere Filialen aufgeteilt. Die Auszubildenden sind dabei sehr gefordert. Aber es ist eine unglaublich bereichernde Aufgabe für alle Beteiligten. Und die Botschaft des Unternehmens an seine Auszubildenden ist klar: Wir vertrauen Dir! Solche Erfahrungen führen im menschlichen Gehirn zur Neustrukturierung. Durch solch regelmäßiges Aufgabenlösen wird der Glaube an die eigene Lösungskompetenz gestärkt und die Resilienz erhöht. Ihr Mitarbeiter wird dadurch stärker und besser in seinem Tun!
 
-## Welches Unternehmen macht das denn bitte?
+### Welches Unternehmen macht das denn bitte?
 
 Genau das Unternehmen, das Werte wie Loyalität, Vertrauen, Wertschätzung und Achtsamkeit nach innen zu den Mitarbeitern sowie nach außen zu den Kunden lebt. So wird ein Unternehmen immer nur die Mitarbeiter anziehen und halten können, die es sich verdient. Und genauso steht es mit den Kunden. Denn dieser kauft nicht nur die Beratungsleistung, sondern auch den Geist des Unternehmens. Und dieser wird zum größten Teil von den Mitarbeitern gebildet. Förderung, Verantwortung gegenüber den Mitarbeitern, Mitarbeiterbindung, aber auch Erfolg und Gewinn hängen stark miteinander zusammen. Denn Ihnen als Führungskraft kann nichts Besseres passieren, als wenn Ihre Mitarbeiter Ihr Unternehmen mitgestalten wollen.
