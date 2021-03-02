@@ -49,4 +49,4 @@ Wussten Sie, dass die meisten über Outlook gesetzten Besprechungen eine ganze S
 
 Organisationen werden bisher nach engen und starren Vorgaben geführt, um den Menschen, der als ein scheinbar schlechtes Wesen angesehen wird, zu kontrollieren. Das führt jedoch letztendlich dazu, dass das Unternehmen als Solches vergisst, dass es nicht die neuesten Tools und Methoden sind, die es erfolgreich machen, sondern vielmehr die Menschen darin. Der Mensch ist kein Problem, was es zu bezwingen gilt. Er wartet vielmehr auf die Entfaltung seiner Potentiale. Und wenn das passiert, dann ist effektive Zusammenarbeit kein Thema mehr, denn das passiert dann aus sich selbst heraus.
 
-Foto: Sarah Jürgel
+Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/meeting-office?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
