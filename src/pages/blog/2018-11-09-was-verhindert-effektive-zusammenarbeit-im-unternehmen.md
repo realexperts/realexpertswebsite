@@ -21,7 +21,7 @@ tags:
 ---
 Teamziele werden nicht erreicht. Es gibt deutliche Kommunikationsmängel. Aufgaben werden doppelt erledigt und dafür bleiben andere liegen. Jeder arbeitet für sich und es entsteht zunehmend immer mehr Silodenken. Der Widerstand gegen Veränderungen ist erheblich. Kennen Sie das? Gerade Führungskräfte sind oft betroffen. Denn es gibt einige Gründe, welche effektive Zusammenarbeit verhindern.
 
-Was es bedeuten könnte, gut zusammenzuarbeiten, haben wir in einem unserer letzten Artikel bereits vorgestellt. Dabei ging es um eine gemeinsame Vision, die richtige Rollenverteilung, den respektvollen Umgang miteinander und ein richtig gutes und verdammt wichtiges Konfliktmanagement. Menschen arbeiten nun mal mit Menschen zusammen. Und da es in interner wie externer Zusammenarbeit viele verschiedene Menschen  mit ganz unterschiedlichen Ansichten gibt, ist Beziehungspflege enorm wichtig. 
+Was es bedeuten könnte, gut zusammenzuarbeiten, haben wir in dem Artikel: [Was bedeutet es gut zusammenzuarbeiten?](https://www.realexperts.de/blog/2020-02-25-was-bedeutet-es-gut-zusammenzuarbeiten) bereits vorgestellt. Dabei ging es um eine gemeinsame Vision, die richtige Rollenverteilung, den respektvollen Umgang miteinander und ein richtig gutes und verdammt wichtiges Konfliktmanagement. Menschen arbeiten nun mal mit Menschen zusammen. Und da es in interner wie externer Zusammenarbeit viele verschiedene Menschen  mit ganz unterschiedlichen Ansichten gibt, ist Beziehungspflege enorm wichtig. 
 
 ### Was Ihre Mitarbeiter motiviert
 
