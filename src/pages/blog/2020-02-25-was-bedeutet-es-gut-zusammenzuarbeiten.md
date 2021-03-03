@@ -3,12 +3,12 @@ templateKey: blog-post
 title: "Was bedeutet es gut zusammenzuarbeiten? "
 date: 2020-02-25T09:26:49.673Z
 author: Peggy Kopkow
-description: Partnerarbeit, Gruppenarbeit und Teamarbeit. Wie im Profisport kann
-  ein Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur geschlossen
-  kann im Team ein Pokal geholt werden. Durch die immer tiefere Spezialisierung
-  und Globalisierung sind immer mehr diverse Projektteams erforderlich. Aber was
-  bedeutet eigentlich gute Teamarbeit und somit auch gute Zusammenarbeit im
-  Unternehmen?
+description: Partnerarbeit, Gruppenarbeit und Teamarbeit – wie im Profisport
+  kann ein Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur
+  geschlossen kann im Team ein Pokal geholt werden. Durch die immer tiefere
+  Spezialisierung und Globalisierung sind immer mehr diverse Projektteams
+  erforderlich. Aber was bedeutet eigentlich gute Teamarbeit und somit auch gute
+  Zusammenarbeit im Unternehmen?
 relatedPosts:
   - post: Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten
   - post: Ein Unternehmen hat keine Mitarbeiter
@@ -20,7 +20,7 @@ category: Organisationsentwicklung
 tags:
   - Organisationsentwicklung
 ---
-Partnerarbeit, Gruppenarbeit und Teamarbeit. Wie im Profisport kann ein Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur geschlossen kann im Team ein Pokal geholt werden. Durch die immer tiefere Spezialisierung und Globalisierung sind immer mehr diverse Projektteams erforderlich. Aber was bedeutet eigentlich gute Teamarbeit und somit auch gute Zusammenarbeit im Unternehmen?
+Partnerarbeit, Gruppenarbeit und Teamarbeit – wie im Profisport kann ein Spieler mit Talent zwar einzelne Spiele entscheiden, aber nur geschlossen kann im Team ein Pokal geholt werden. Durch die immer tiefere Spezialisierung und Globalisierung sind immer mehr diverse Projektteams erforderlich. Aber was bedeutet eigentlich gute Teamarbeit und somit auch gute Zusammenarbeit im Unternehmen?
 
 Ein erfolgreiches Team ist dann ein erfolgreiches Team, wenn es effektiv und effizient Teamziele erreicht. Und dabei geht es eigentlich fast immer um gute Kommunikation und Interaktion. Denn es sind Menschen die im Team zusammenarbeiten. Jeder einzelne von ihnen hat ein ganz individuelles Leben, Werte, Ansichten, Erfahrungen, Wünsche, Bedürfnisse. Ihr Team besteht aus Menschen. Und die meisten Probleme im Team entstehen durch unzureichende Interaktion, schlechte bis keine Kommunikation und irgendwelche unbearbeiteten Zwischenmenschlichkeiten. Darum hier ein paar Fragen die Sie sich stellen sollten, um herauszufinden, ob Ihr Team gut miteinander funktioniert.
 
