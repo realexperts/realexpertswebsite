@@ -57,6 +57,7 @@ Teamarbeit bedeutet auch Beziehungspflege. \
 *Geht es uns gut?* \
 *Arbeiten wir noch gemeinsam für die Daseinsberechtigung des Unternehmens?* \
 *Gibt es Spannungen oder Konflikte, die unterschwellig arbeiten, aber noch nicht angesprochen wurden?* \
+\
 Für derartige Beziehungsfragen braucht es einen Raum. Das können kurze wöchentliche Treffen sein oder ein monatliches Zusammenkommen. Wichtig ist, dass es sich nicht auf die jährliche Weihnachtsfeier beschränkt und das Beziehungsarbeit nicht unter den Teppich gekehrt wird. Praktiken für die Beziehungspflege im Team sehen je Unternehmen, welche die Beziehungsarbeit ebenfalls als unabdingbar empfinden, ganz unterschiedlich aus. Sei es ein „Tag der Dankbarkeit“, an welchem die Teammitglieder Ihren Dank ehrlich einem ganz bestimmten Mitarbeiter aussprechen oder das wöchentlich gemeinsame Meditieren. Und auch wenn viele Führungskräfte das nun als totalen Nonsens ansehen. Der Erfolg dieser Unternehmen spricht für sich. Am Rande möchte ich nur Buurtzorg, ein niederländisches Unternehmen für häusliche Krankenpflege erwähnen. Buurtzorg wurde Ende 2006 von Jos de Blok gegründet und wuchs binnen 10 Jahre von 10 auf 7.000 Pflegekräfte. Ein enorm erfolgreiches Unternehmen, welches trotz der Gewinnorientierung auf genau solche Praktiken der Beziehungsarbeit setzt. Und wenn wir alle mal ehrlich sind, sind es doch genau jene Beziehungen, welche uns entweder aufhalten oder unglaublich bereichern und voranbringen.
 
-Also was meinen Sie: Tun Sie etwas für eine gute Zusammenarbeit in Ihrem Team?
+*Also was meinen Sie: Tun Sie etwas für eine gute Zusammenarbeit in Ihrem Team?*
