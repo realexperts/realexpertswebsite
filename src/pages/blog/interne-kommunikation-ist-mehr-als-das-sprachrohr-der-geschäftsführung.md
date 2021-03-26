@@ -38,10 +38,9 @@ Doch ist diese Bedeutung in jeder Organisation angekommen? Klar große Konzerne 
 
 
 
-##### *„Kommunikation führt zu Gemeinschaft,*\
-*das heißt zu Verständnis,*\
+##### *„Kommunikation führt zu Gemeinschaft, das heißt zu Verständnis,*\
 *Vertrautheit und gegenseitiger Wertschätzung.“*\
-*Rollo Reece May (1909-1994, amerikanischer Existenzialpsychologe)*
+*Rollo Reece May (1909–1994, amerikanischer Existenzialpsychologe)*
 
 ### Schlechte Kommunikation führt zu Demotivation
 
