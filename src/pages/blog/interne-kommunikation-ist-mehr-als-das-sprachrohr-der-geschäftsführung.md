@@ -36,10 +36,7 @@ In vielen Organisationen wächst inzwischen die Erkenntnis, wenn sie ihre Mitarb
 Dass sich die Rolle der interne Kommunikation verändert hat, wurde auch im „Trendmonitor digitale Interne Kommunikation 2021“ deutlich. War es bisher vordergründig die Aufgabe, dem Geschäftsführer zuzuarbeiten, damit Botschaften gut ins Unternehmen hinein getragen werden, ist es heute essenziell die Mitarbeiter\*innen zu befähigen aktiv zu kommunizieren. 93,8 Prozent der Befragten gaben an, dass die interne Kommunikationsabteilung in fünf Jahren wichtiger sein wird, als dies aktuell der Fall ist. Besonders in der Corona-Krise hat die interne Kommunikation und ihre Akteur\*innen entscheidende Funktionen sie sorgt für Zusammenhalt (auch wenn man sich nicht mehr jeden Tag im Büro sieht), informiert transparent, klar, glaubwürdig und motiviert im Idealfall.\
 Doch ist diese Bedeutung in jeder Organisation angekommen? Klar große Konzerne haben meist eine externe und eine interne Kommunikation – aber wie sieht es im Mittelstand aus?
 
-
-
-##### *„Kommunikation führt zu Gemeinschaft, das heißt zu Verständnis,*\
-*Vertrautheit und gegenseitiger Wertschätzung.“*\
+##### *„Kommunikation führt zu Gemeinschaft, das heißt zu Verständnis, Vertrautheit und gegenseitiger Wertschätzung.“* \
 *Rollo Reece May (1909–1994, amerikanischer Existenzialpsychologe)*
 
 ### Schlechte Kommunikation führt zu Demotivation
@@ -52,8 +49,6 @@ Dabei gibt es viele Möglichkeiten die interne Kommunikation zu verbessern – I
 
 Wie beispielsweise eine erfolgreiche Intranet-Einführung gelingen kann, lesen Sie hier: \
 [Tipps für eine erfolgreiche Intranet-Einführung](https://www.realexperts.de/blog/2019-03-28-tipps-fuer-eine-erfolgreiche-intranet-einfuehrung "https\://www.realexperts.de/blog/2019-03-28-tipps-fuer-eine-erfolgreiche-intranet-einfuehrung")
-
-
 
 Quellen: [https://interne-kommunikation.net/trendmonitor-digitale-interne-kommunikation-2021/](https://interne-kommunikation.net/trendmonitor-digitale-interne-kommunikation-2021/ "https\://interne-kommunikation.net/trendmonitor-digitale-interne-kommunikation-2021/"); [https://www.springerprofessional.de/interne-kommunikation/fuehrungsqualitaet/kommunikation-auf-augenhoehe-statt-top-down/16392134](https://www.springerprofessional.de/interne-kommunikation/fuehrungsqualitaet/kommunikation-auf-augenhoehe-statt-top-down/16392134 "https\://www.springerprofessional.de/interne-kommunikation/fuehrungsqualitaet/kommunikation-auf-augenhoehe-statt-top-down/16392134"); Hillmann, M.: Das 1x1 der Unternehmenskommunikation, Ein Wegweiser für die Praxis. 2. Auflage. Wiesbaden. 2017; Chaudhuri, O.: Selber schwimmen statt treiben lassen. In: BEYOND. Nr. 07. 2016
 
