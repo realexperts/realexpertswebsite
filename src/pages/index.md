@@ -26,8 +26,8 @@ thesis:
     highlighted: true
 video: https://youtu.be/YysKSI8-kvA
 relatedPosts:
+  - post: Interne Kommunikation ist mehr als das Sprachrohr der Geschäftsführung
   - post: Warum sich der Einsatz von Open-Source für Unternehmen lohnen kann
   - post: Enterprise Open-Source Software in Unternehmen
   - post: Was ist eigentlich Open-Source?
-  - post: Ein Intranet mit ... - „Unily“ stellt sich vor
 ---
