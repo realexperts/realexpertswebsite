@@ -36,7 +36,12 @@ In vielen Organisationen wächst inzwischen die Erkenntnis, wenn sie ihre Mitarb
 Dass sich die Rolle der interne Kommunikation verändert hat, wurde auch im „Trendmonitor digitale Interne Kommunikation 2021“ deutlich. War es bisher vordergründig die Aufgabe, dem Geschäftsführer zuzuarbeiten, damit Botschaften gut ins Unternehmen hinein getragen werden, ist es heute essenziell die Mitarbeiter\*innen zu befähigen aktiv zu kommunizieren. 93,8 Prozent der Befragten gaben an, dass die interne Kommunikationsabteilung in fünf Jahren wichtiger sein wird, als dies aktuell der Fall ist. Besonders in der Corona-Krise hat die interne Kommunikation und ihre Akteur\*innen entscheidende Funktionen sie sorgt für Zusammenhalt (auch wenn man sich nicht mehr jeden Tag im Büro sieht), informiert transparent, klar, glaubwürdig und motiviert im Idealfall.\
 Doch ist diese Bedeutung in jeder Organisation angekommen? Klar große Konzerne haben meist eine externe und eine interne Kommunikation – aber wie sieht es im Mittelstand aus?
 
-##### *„Kommunikation führt zu Gemeinschaft, das heißt zu Verständnis, Vertrautheit und gegenseitiger Wertschätzung.“ Rollo Reece May (1909–1994, amerikanischer Existenzialpsychologe)*
+*„Kommunikation führt zu Gemeinschaft,* \
+*das heißt zu Verständnis,* \
+*Vertrautheit und gegenseitiger Wertschätzung.“* \
+*Rollo Reece May (1909–1994, amerikanischer Existenzialpsychologe)*
+
+
 
 ### Schlechte Kommunikation führt zu Demotivation
 
