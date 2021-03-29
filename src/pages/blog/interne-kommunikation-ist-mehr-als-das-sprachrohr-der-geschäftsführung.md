@@ -7,8 +7,8 @@ image: /img/interne-kommunikatin_patrick-fore-unsplash.jpg
 description: Die Anforderungen an die Kommunikationsabteilungen ändern sich
   durch die digitale Transformation. Im Fokus stand allerdings bisher die
   externe Kommunikation. Die Webseite wurde optimiert, Videos integriert und die
-  eigene Firmendarstellung auf verschiedenen Social-Media-Kanälen wurde gepflegt
-  um nur ein paar der Aufgaben zu nennen. Doch Unternehmen haben erkannt, wie
+  eigene Firmendarstellung auf verschiedenen Social-Media-Kanälen gepflegt – um
+  nur ein paar der Aufgaben zu nennen. Doch Unternehmen haben erkannt, wie
   entscheidend die interne Kommunikation ist.
 category: Mitarbeiter und Führung
 tags:
@@ -19,7 +19,7 @@ relatedPosts:
   - post: Was verhindert effektive Zusammenarbeit im Unternehmen?
   - post: "Das Intranet als zentrales Portal für einen wirksamen Digital Workplace "
 ---
-*Die Anforderungen an die Kommunikationsabteilungen ändern sich durch die digitale Transformation. Im Fokus stand allerdings bisher die externe Kommunikation. Die Webseite wurde optimiert, Videos integriert und die eigene Firmendarstellung auf verschiedenen Social-Media-Kanälen wurde gepflegt um nur ein paar der Aufgaben zu nennen. Doch Unternehmen haben erkannt, wie entscheidend die interne Kommunikation ist.*
+*Die Anforderungen an die Kommunikationsabteilungen ändern sich durch die digitale Transformation. Im Fokus stand allerdings bisher die externe Kommunikation. Die Webseite wurde optimiert, Videos integriert und die eigene Firmendarstellung auf verschiedenen Social-Media-Kanälen gepflegt – um nur ein paar der Aufgaben zu nennen. Doch Unternehmen haben erkannt, wie entscheidend die interne Kommunikation ist.*
 
 ### Mitarbeiter sind Botschafter des Unternehmens – im innen und außen
 
@@ -33,7 +33,7 @@ Eine besondere Rolle nimmt die interne Kommunikation bei Veränderungsprozessen 
 
 In vielen Organisationen wächst inzwischen die Erkenntnis, wenn sie ihre Mitarbeiter frühzeitig informieren und an der Kommunikation teilhaben lassen, erreichen sie damit einen Wettbewerbsvorteil. Denn wenn jede/r Mitarbeiter*in ein einheitliches Verständnis von der zu erbringenden Dienstleistung oder dem Produkt hat, kann man das gut nach außen „tragen“ und sich damit auch von Wettbewerbern abheben. Deshalb wird die Bedeutung der internen Kommunikation weiter wachsen.
 
-Dass sich die Rolle der interne Kommunikation verändert hat, wurde auch im „Trendmonitor digitale Interne Kommunikation 2021“ deutlich. War es bisher vordergründig die Aufgabe, dem Geschäftsführer zuzuarbeiten, damit Botschaften gut ins Unternehmen hinein getragen werden, ist es heute essenziell die Mitarbeiter\*innen zu befähigen aktiv zu kommunizieren. 93,8 Prozent der Befragten gaben an, dass die interne Kommunikationsabteilung in fünf Jahren wichtiger sein wird, als dies aktuell der Fall ist. Besonders in der Corona-Krise hat die interne Kommunikation und ihre Akteur\*innen entscheidende Funktionen sie sorgt für Zusammenhalt (auch wenn man sich nicht mehr jeden Tag im Büro sieht), informiert transparent, klar, glaubwürdig und motiviert im Idealfall.\
+Dass sich die Rolle der interne Kommunikation verändert hat, wurde auch im „Trendmonitor digitale Interne Kommunikation 2021“ deutlich. War es bisher vordergründig die Aufgabe, dem Geschäftsführer zu zuarbeiten, damit Botschaften gut ins Unternehmen hinein getragen werden, ist es heute essenziell die Mitarbeiter\*innen zu befähigen aktiv zu kommunizieren. 93,8 Prozent der Befragten gaben an, dass die interne Kommunikationsabteilung in fünf Jahren wichtiger sein wird, als dies aktuell der Fall ist. Besonders in der Corona-Krise hat die interne Kommunikation und ihre Akteur\*innen entscheidende Funktionen sie sorgt für Zusammenhalt (auch wenn man sich nicht mehr jeden Tag im Büro sieht), informiert transparent, klar, glaubwürdig und motiviert im Idealfall.\
 Doch ist diese Bedeutung in jeder Organisation angekommen? Klar große Konzerne haben meist eine externe und eine interne Kommunikation – aber wie sieht es im Mittelstand aus?
 
 *„Kommunikation führt zu Gemeinschaft,* \
@@ -41,11 +41,9 @@ Doch ist diese Bedeutung in jeder Organisation angekommen? Klar große Konzerne 
 *Vertrautheit und gegenseitiger Wertschätzung.“* \
 *Rollo Reece May (1909–1994, amerikanischer Existenzialpsychologe)*
 
-
-
 ### Schlechte Kommunikation führt zu Demotivation
 
-Theoretisch weiß es jeder, schlechte interne Kommunikation sorgt für miese Stimmung, Demotivation und im schlimmsten Fall verlassen Mitarbeiter\*innen das Unternehmen. Gerade bei kleinen und mittelständischen Unternehmen wird sich drauf verlassen, dass die Führungskräfte ihr Team umfassend und transparent informieren. Doch die Realität sieht oft anders aus – Informationen werden von Vorgesetzten „als nicht so relevant für Jede\*n“ angesehen, es wird nur „Fach-Chinesisch“ gesprochen und die Mitarbeiter verstehen nicht was gemeint ist und noch schlimmer die Presse berichtet eher von Veränderungen als es die Belegschaft weiß.
+Theoretisch weiß es jeder, schlechte interne Kommunikation sorgt für miese Stimmung, Demotivation und im schlimmsten Fall verlassen Mitarbeiter\*innen das Unternehmen. Gerade bei kleinen und mittelständischen Unternehmen wird sich darauf verlassen, dass die Führungskräfte ihr Team umfassend und transparent informieren. Doch die Realität sieht oft anders aus – Informationen werden von Vorgesetzten „als nicht so relevant für Jede\*n“ angesehen, es wird nur „Fach-Chinesisch“ gesprochen und die Mitarbeiter verstehen nicht was gemeint ist und noch schlimmer die Presse berichtet eher von Veränderungen als es die Belegschaft weiß.
 
 Inzwischen erkennen auch kleine und mittelständische Unternehmen, wie wichtig eine gut durchdachte strategische interne Kommunikation ist. Denn mit der digitalen Transformation und dem Generationswechsel wird auch die aktuelle Unternehmens- und damit auch Kommunikationskultur hinterfragt.
 
