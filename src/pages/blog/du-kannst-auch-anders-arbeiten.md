@@ -12,6 +12,10 @@ tags:
   - NeuesArbeiten
   - NewWork
   - Geschäftsführung
+relatedPosts:
+  - post: "Was bedeutet es gut zusammenzuarbeiten? "
+  - post: Ein Geheimnis, welches Sie über erfolgreiche Unternehmen wissen sollten
+  - post: Neues Arbeiten - Geht nicht, gibt es nicht.
 ---
 **Wenn Menschen innerhalb eines Unternehmens das tun, was ihnen einen Sinn gibt und Freude bereitet, dann kommt die Produktivität und Wirtschaftlichkeit von allein.** 
 
